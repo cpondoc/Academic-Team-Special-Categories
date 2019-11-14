@@ -1,0 +1,5334 @@
+Term: PrincessLeia
+Definition: o">
+
+Term: LukeSkywalker
+Definition: o">
+
+Term: DarthVader
+Definition: o">
+
+Term: HanSolo
+Definition: o">
+
+Term: Chewbacca
+Definition: o">
+
+Term: R2-D2
+Definition: o">
+
+Term: C-3PO
+Definition: o">
+
+Term: Jawa
+Definition: o">
+
+Term: MaceWindu
+Definition: o">
+
+Term: AhsokaTano
+Definition: o">
+
+Term: JabbaThe Hutt
+Definition: o">
+
+Term: DeathStar
+Definition: o">
+
+Term: MilenniumFalcon
+Definition: o">
+
+Term: Lightsabers
+Definition: o">
+
+Term: BenKenobi
+Definition: o">
+
+Term: Yoda
+Definition: o">
+
+Term: Anakin Skywalker/Darth Vader
+Definition: o">
+
+Term: PadawanAnakinSkywalker
+Definition: o">
+
+Term: PadmeAmadala
+Definition: o">
+
+Term: BobaFett
+Definition: o">
+
+Term: JangoFett
+Definition: o">
+
+Term: Stormtrooper
+Definition: o">
+
+Term: Clonetroopers
+Definition: o">
+
+Term: SpeederBike
+Definition: o">
+
+Term: X-WingFighter
+Definition: o">
+
+Term: AT-AT
+Definition: o">
+
+Term: DarthMaul
+Definition: o">
+
+Term: YoungAnakinSkywalker
+Definition: o">
+
+Term: Tatooine
+Definition: o">
+
+Term: Endor
+Definition: o">
+
+Term: Ewoks
+Definition: o">
+
+Term: Rancor
+Definition: o">
+
+Term: LandoCalrissian
+Definition: o">
+
+Term: KitFisto
+Definition: o">
+
+Term: Greedo
+Definition: o">
+
+Term: GeneralGrevous
+Definition: o">
+
+Term: TieFighters
+Definition: o">
+
+Term: CountDooku
+Definition: o">
+
+Term: SalaciousCrumb
+Definition: o">
+
+Term: GamorreanGuard
+Definition: o">
+
+Term: MaxRebo
+Definition: o">
+
+Term: KyloRen
+Definition: o">
+
+Term: DarthSidious
+Definition: o">
+
+Term: JediLukeSkywalker
+Definition: o">
+
+Term: Jedi MasterLuke Skywalker
+Definition: o">
+
+Term: CarboniteHan Solo
+Definition: o">
+
+Term: Dagobah
+Definition: o">
+
+Term: Mustafar
+Definition: o">
+
+Term: Ghost Obi WanKenobi
+Definition: o">
+
+Term: AdmiralAckbar
+Definition: o">
+
+Term: Taunton
+Definition: o">
+
+Term: 2-1B
+Definition: o">
+
+Term: Grand MoffTarkin
+Definition: o">
+
+Term: Wampa
+Definition: o">
+
+Term: Exogarth
+Definition: o">
+
+Term: LightSpeed
+Definition: o">
+
+Term: SarlaccPit
+Definition: o">
+
+Term: TuskenRaider
+Definition: o">
+
+Term: Geonossians
+Definition: o">
+
+Term: ThermalDetonator
+Definition: o">
+
+Term: RebelHelmet
+Definition: o">
+
+Term: GeorgeLucas
+Definition: o">
+
+Term: Wicket
+Definition: o">
+
+Term: Obi WanKenobi
+Definition: o">
+
+Term: Qui-GonJinn
+Definition: o">
+
+Term: Ki'AdiMundi
+Definition: o">
+
+Term: PloKoon
+Definition: o">
+
+Term: Rey
+Definition: o">
+
+Term: Finn
+Definition: o">
+
+Term: PoeDameron
+Definition: o">
+
+Term: BB-8
+Definition: o">
+
+Term: Wookies
+Definition: o">
+
+Term: EwokVillage
+Definition: o">
+
+Term: JediTemple
+Definition: o">
+
+Term: CloudCity
+Definition: o">
+
+Term: Hoth
+Definition: o">
+
+Term: ImperialProbeDroid
+Definition: o">
+
+Term: StarDestroyer
+Definition: o">
+
+Term: Jabba'sPalace
+Definition: o">
+
+Term: BattleDroid
+Definition: o">
+
+Term: Droideka
+Definition: o">
+
+Term: SavageOpress
+Definition: o">
+
+Term: PodRacer
+Definition: o">
+
+Term: Naboo
+Definition: o">
+
+Term: Gunguns
+Definition: o">
+
+Term: Younglings
+Definition: o">
+
+Term: Vader'sTie Fighter
+Definition: o">
+
+Term: LandSpeeder
+Definition: o">
+
+Term: SuperBattleDroid
+Definition: o">
+
+Term: CadBane
+Definition: o">
+
+Term: HondoOhnaka
+Definition: o">
+
+Term: NuteGunray
+Definition: o">
+
+Term: Luke'sHand
+Definition: o">
+
+Term: "I am your father."
+Definition: o">
+
+Term: ImperialShuttle
+Definition: o">
+
+Term: Imperial Base on Endor
+Definition: o">
+
+Term: MazKatana
+Definition: o">
+
+Term: CaptainPhasma
+Definition: o">
+
+Term: Shaak Ti
+Definition: o">
+
+Term: Rey'sSpeeder
+Definition: o">
+
+Term: Supreme LeaderSnoke
+Definition: o">
+
+Term: JJAbrams
+Definition: o">
+
+Term: Jar JarBinks
+Definition: o">
+
+Term: CaptainRex
+Definition: o">
+
+Term: BailOrgana
+Definition: o">
+
+Term: AsajjVentress
+Definition: o">
+
+Term: WedgeAntilles
+Definition: o">
+
+Term: Watto
+Definition: o">
+
+Term: CommanderCody
+Definition: o">
+
+Term: GeneralHux
+Definition: o">
+
+Term: CaptainPanaka
+Definition: o">
+
+Term: BeruLars
+Definition: o">
+
+Term: OwenLars
+Definition: o">
+
+Term: Capt. GregarTypho
+Definition: o">
+
+Term: Coruscant
+Definition: o">
+
+Term: QueenAmadala
+Definition: o">
+
+Term: Anakin'sInterceptor
+Definition: o">
+
+Term: HologramPrincessLeia
+Definition: o">
+
+Term: CorneliusEvazan
+Definition: o">
+
+Term: PondaBaba
+Definition: o">
+
+Term: SnapWexley
+Definition: o">
+
+Term: Blaster
+Definition: o">
+
+Term: Han shot first
+Definition: o">
+
+Term: Acklay
+Definition: o">
+
+Term: Reek
+Definition: o">
+
+Term: Nexu
+Definition: o">
+
+Term: Grandpa Vader's Helmet
+Definition: o">
+
+Term: Bossk
+Definition: Bossk (meaning "Devours His Prey" in Dosh) was a male Trandoshan bounty hunter who was the pilot of the Hound's Tooth and held the title of monarch of the Qotile system.[6] He was not particularly fond of Chewbacca and his Human partner Han Solo. He would face them several times, and would be one of the six bounty hunters Darth Vader hired to track down and capture the Millennium Falcon. Despite the fact that Bossk loved to hunt and skin Wookiees, he would unknowingly aid in the freeing of hundreds of Wookiee slaves on the island world of Lomabu III. He was also a frequent partner and foe of both Boba Fett and Zuckuss, both fellow bounty hunters. After being repeatedly beaten by Boba Fett, Bossk would eventually boost his reputation as a bounty hunter by defeating Fett on Tatooine.
+
+Term: Boba Fett
+Definition: bounty hunter, worked for Darth Vader, has a father named Jango, fell into the Sarlacc pit, and has escaped it more than 2 times in the expanded universe. Partially Inspired By Clint Eastwood. In Empire the sound of spurs was added to his walking.
+
+Term: Dengar
+Definition: A Corellian bounty hunter who holds a grudge against Han Solo. He was one of the bounty hunters called to the Executor by Darth Vader to track the Millenium Falcon. He was sabotaged by Boba Fett.
+
+Term: IG-88
+Definition: Assassin Droid that gained sentience and went rogue, becoming a bounty hunter and later working for the Empire to track the Millenium Falcon. He was destroyed by Boba Fett on Bespin.
+
+Term: Zuckuss
+Definition: Gand bounty hunter, breathes ammonia, paired with 4-LOM, one of the bounty hunters called to the Executor by Vader to track the Millenium Falcon.
+
+Term: 4-LOM
+Definition: Protocol droid turned to a thief, then reprogrammed by Jabba to be a bounty hunter, and partnered with Zuckuss. Was called to the Executor by Vader to track the Millenium Falcon.
+
+Term: Boushh
+Definition: Dead bounty hunter that Princess Leia pretended to be to rescue Han Solo from Jabba the Hutt in Return of the Jedi.
+
+Term: GONK DROID
+Definition: OUR LORD AND SAVIOR!
+
+Term: General Grevious
+Definition: Cyborg supreme commander of the Separatist droid armies killed by Obi-Wan Kenobi in Revenge of the Sith. Also a really nice guy covering his cough even though the ship he is on is full of only robots.
+
+Term: Hello There!
+Definition: GENERAL KENOBI!
+
+Term: Ki-Adi-Mundi
+Definition: Ki-Adi-Mundi was a male Cerean Jedi Master of the Jedi Order who served on the High Council in the twilight years of the Galactic Republic and played a major role in several battles during the Clone Wars. Born in 92 BBY, Mundi was discovered at age four by the Jedi An'ya Kuro and became one of the few permitted by the Jedi Order to be trained starting beyond infancy. After more than two decades as a Padawan to Master Yoda, Mundi was named a Jedi Knight and returned to Cerea to liberate his home village from a gang of raiders. Assigned the Jedi Watchman of the Cerean sector, Mundi was granted a rare exception to the Jedi Order's ban on marriage due to his species' low birth rate and had a polygamous family of five wives and seven children, although he tried to avoid developing emotional attachments to them. Like many Cereans of his generation, Mundi favored his home world's isolation from the galaxy, speaking out against offworlder technology and encouraging Cerea to maintain their independence from the Republic. Mundi was held in high regard by members of the Jedi High Council, on which he occasionally sat in during the absence of Master Micah Giiett. He was eventually offered a permanent seat on the Council despite not yet having obtained the rank of Jedi Master. Before accepting, Mundi rescued his daughter Sylvn from the captivity of an agent of the crime lord Jabba Desilijic Tiure, and in doing so uncovered a secret Cerean smuggling ring and illegal Trade Federation activities. Shortly after formally joining the Council in 33 BBY, Mundi was sent to seek the lost Jedi Sharad Hett on Tatooine. Following Hett's death, Mundi agreed to continue the Jedi training of his son, A'Sharad Hett. While Mundi and Hett grew close, the Cerean eventually agreed to turn his training over to Kuro after Hett felt tempted by the dark side of the Force during a lightsaber duel with bounty hunter Aurra Sing. As the Confederacy of Independent Systems uprising threatened the stability of the Republic, Mundi was among the Jedi dispatched to Geonosis in 22 BBY to confront the Separatist Droid Army, marking the beginning of the Clone Wars. Now a Jedi General commanding the Galactic Marines branch of the Grand Army of the Republic, Mundi participated in several major battles, including the battle of Hypori, where he barely survived a lightsaber duel against General Grievous. Mundi's entire family was killed during the Battle of Cerea, but the Jedi overcame his grief by further committing to his Jedi duties. He briefly assumed the Jedi training of Anakin Skywalker following Obi-Wan Kenobi's presumed death. Mundi also dueled the Dark Jedi Asajj Ventress on Coruscant after exposing a spy from within the Galactic Senate working with her. Along with Kenobi and Luminara Unduli, Mundi led an assault against several Separatist battle droid foundries on Geonosis. As the Clone Wars approached conclusion, Mundi suggested to the Jedi High Council that Supreme Chancellor Palpatine may have become too powerful and that the Jedi Order might need to assume control of the Republic for an interim period until a transition of power could commence. Mundi was leading the Galactic Marines to battle on Mygeeto in 19 BBY when Palpatine began the Great Jedi Purge with Order 66, resulting in Mundi being shot to death by his own clone troopers.
+
+Term: Obi-Wan Kenobi
+Definition: Obi-Wan Kenobi, later known as Ben Kenobi during his exile, was a legendary Jedi Master who played a significant role in the fate of the galaxy during the waning days of the Galactic Republic. He was the mentor of both Anakin and Luke Skywalker, training both in the ways of the Force. He had a long and tumultuous career that helped shape the fate of the entire galaxy. Born in 57 BBY on Stewjon, Kenobi was taken as the Jedi apprentice of Qui-Gon Jinn and traveled on many missions with him. During the Invasion of Naboo in 32 BBY, Kenobi became the first Jedi in approximately 1,000 years to defeat a Sith Lord in combat when he defeated Darth Maul during the Second Battle of Theed, yet lost his master in the same duel. In 22 BBY, Kenobi found the Clone army on Kamino, and he was captured and almost executed in the Petranaki arena on Geonosis, along with Skywalker and Senator Padmé Amidala. The newly arrived clone troopers rescued them, but the following battle began the galaxy-wide Clone Wars. Kenobi fought during many battles of the Clone Wars, and was one of the last members of the Jedi High Council. Even after his apprentice became a Jedi Knight, Kenobi and Skywalker fought together many times, becoming a widely renowned pair. Kenobi earned the sobriquet "The Negotiator" through his charm and calm demeanor as well as the quiet threat of his abilities with a lightsaber. During the war, an old enemy returned to haunt Kenobi: Darth Maul, the murderer of Qui-Gon Jinn. With aid of his brother, Savage Opress, the revived Sith Lord went to create a criminal empire, all the while plotting revenge on his most despised adversary. Kenobi clashed blades with Maul on occasion across the galaxy. He was devastated as Maul slew the Jedi's past love interest, Duchess Satine Kryze of Mandalore, in cold blood, yet remained strong throughout the conflict. Later in the war, Skywalker saved his life in a battle fought over Coruscant, after which Kenobi killed General Grievous on Utapau. However, he was soon betrayed, as Commander Cody, following Order 66, opened fire on him. Kenobi met up with his old mentor Grand Master Yoda, and the two realized that not many Jedi had survived the attacks. The two returned to the Jedi Temple, where they learned the agonizing truth: Skywalker, now lost to the dark side of the Force, had led an attack to kill all Jedi remaining in the Jedi Temple, following orders from Chancellor Palpatine, the ruler of the successor of the Republic, the Galactic Empire. Kenobi traveled to Mustafar in order to duel his former apprentice and friend, now the Sith Lord Darth Vader. Finally, Vader was taken in by a storm of lava, and Kenobi remorsefully left him to die. While Yoda, one of the few other Jedi to survive the Great Jedi Purge, went into exile, Kenobi took the son of Skywalker and Amidala, Luke Skywalker, to live with the Lars family on Tatooine. He became a friend of the young Skywalker as he grew up, but he did not tell Skywalker his actual identity. Kenobi re-emerged in 0 BBY, shortly before the Battle of Yavin. After Leia Organa, Vader's daughter and Luke Skywalker's twin sister, was captured by the Empire, she contacted him desperately. Kenobi gave Luke his father's lightsaber and traveled with him to Alderaan in Han Solo's Millennium Falcon, only to realize that the Death Star had destroyed the planet. Kenobi entered the Death Star with Luke, Han, Chewbacca, C-3PO, and R2-D2, in order to rescue Organa, but Darth Vader sensed his presence. In a duel with his former apprentice, Kenobi gave up his life to allow Luke to escape, vanishing into the Force the moment Vader struck him down with his weapon. Three years later, his spirit returned to Luke to lead him to Dagobah in order to learn from Master Yoda. He even carried out his role as a mentor to the younger Jedi beyond his natural life through use of the Force, remaining a significant influence on Luke Skywalker's foundation of the New Jedi Order.
+
+Term: Kit Fisto
+Definition: Has bulgy black eyes; dreadlock things coming from his head; has a green lightsaber and a great smile.
+
+Term: Sha´a gi
+Definition: ZOINKS!
+
+Term: The droid attack on the Wookies?
+Definition: What about
+
+Term: The rank of master
+Definition: something Anakin does not possess.
+
+Term: Mace Windu
+Definition: Samuel L. Jackson Mother F*cker!
+
+Term: Master Yoda
+Definition: Grand Master of the Jedi Order forced into exile by Order 66. Arguably the second most powerful and most wise being to have ever lived in Star Wars, even though only being 2'2. Died of old age.
+
+Term: Luke Skywalker
+Definition: Mark Hamill, a badass in the original trilogy and battlefront, a grumpy old man in the last jedi.
+
+Term: The Last Jedi
+Definition: Kathleen Kennedy and Rian Johnson´s failed attempt to end the Star Wars community, calling adult fans man-babies and giving a big fat middle finger to every other Star Wars movie saying that hyper space can now destroy ships!
+
+Term: George Lucas
+Definition: The Creator
+
+Term: Jar Jar
+Definition: A Gungan who is not smarter than he looks. Uses clumsiness as his weapon (unintentionally), and very good at using it. He´s gungan garbage.
+
+Term: Kathleen Kennedy
+Definition: THE DEVIL! Who put her in charge of Lucasfilm?
+
+Term: Greedo
+Definition: Greedo, son of Greedo the Elder, was a male Rodian bounty hunter. He lived in Mos Espa alongside the young Anakin Skywalker and W. Wald circa 32 BBY. Although his father had been an esteemed hunter, and the chief rival of Navik the Red, the younger Greedo had little of his father's prowess and was easily killed by Han Solo in Chalmun's Spaceport Cantina on Tatooine.
+
+Term: Darth Vader
+Definition: A Dark Jedi who soon later went to the Light Side of the Force minutes before he died. Managed to talk with his son like a true father.
+
+Term: The Emperor
+Definition: The supreme ruler of the Galactic Empire.
+
+Term: Death Star I
+Definition: the first planet destroying weapon, destroyed 0 ABY.
+
+Term: Death Star II
+Definition: the second planet destroying weapon, destroyed 4 ABY.
+
+Term: Death Star III
+Definition: Star Tours exclusive, you gotta be a Disney person to know about it.
+
+Term: Death Star III- I mean Starkiller Base
+Definition: Another Death Star, this one is bigger and can destroy lots of planets, destroyed 34 ABY.
+
+Term: Executor
+Definition: Darth Vader`s Super Star Destroyer. (REALLY BIG)
+
+Term: Stormtroopers
+Definition: Imperial troops, can`t shoot important people but can shoot random soldiers. look pretty cool.
+
+Term: Snowtroopers
+Definition: the same as stormtroopers but in the snow.
+
+Term: Shadowtroopers
+Definition: Stormtroopers with black armor that can turn invisible.
+
+Term: Deathtroopers
+Definition: elite stormtroopers with cool armor and guns, and a voice scrambler.
+
+Term: Scout troopers
+Definition: Stormtroopers but faster, different helmet and less armor.
+
+Term: Grand Moff Tarkin
+Definition: Grand Moff of the first death star.
+
+Term: Old Ben Kenobi
+Definition: The "strange old hermit" that lives in a house in the Jundland Wastes. it`s just Obi-Wan.
+
+Term: Ewoks
+Definition: Native species to Endor.
+
+Term: Wicket
+Definition: The best Ewok.
+
+Term: Lando Calrissian
+Definition: Owner of Cloud City, double-crosses Han Solo, an old friend, on an agreement with Darth Vader, then joins the rebellion when Darth Vader turns back on his word.
+
+Term: Nein Numb
+Definition: Sullustian rebel hero.
+
+Term: Chewbacca
+Definition: A Wookie who has a life debt to a smuggler. He's also very protective of Leia.
+
+Term: AT-AT
+Definition: All Terrain Armored Transport. PRONOUNCED AY TEE AY TEE NOT AT AT.
+
+Term: AT-ST
+Definition: All Terrain Scout Transport.
+
+Term: Jabba the Hutt
+Definition: A crime boss employing bounty hunters in The Phantom Menace, The Clone Wars, A New Hope and Return of the Jedi, killed by Leia Organa aboard his sail barge in Return of the Jedi
+
+Term: Bib Fortuna
+Definition: Jabba the Hutt's advisor.
+
+Term: Count Dooku
+Definition: Sith Lord but also Dracula and a evil wizard. Killed Nazis in WWII.
+
+Term: Royal Guards
+Definition: The Emperor`s personal guards. wore red robes and helmets.
+
+Term: C-3PO
+Definition: Droid who helps Luke, rebuilt by his dad before he was Vader; gold
+
+Term: R2-D2
+Definition: Droid who helps Luke; blue and white; originally belonged to Obi-Wan during the clone wars, then was given to Princess Leia
+
+Term: Fingrin D`an and the Modal Nodes
+Definition: The Band in Mos Eisley Cantina. All of the band members are Bith.
+
+Term: Shock troopers
+Definition: Stormtroopers with heavy armor and blasters.
+
+Term: Shore Troopers
+Definition: Stormtroopers on the beaches of Skarif.
+
+Term: Mimban/Swamp troopers
+Definition: Stormtroopers with armor made for muddy environments.
+
+Term: Range troopers
+Definition: elite stormtroopers sent on dangerous missions.
+
+Term: Imperial Patrol troopers
+Definition: stormtroopers but with cooler armor.
+
+Term: Clonetroopers
+Definition: precursor to stormtroopers, are the reason the clone war were called the clone wars. All clones of Jango Fett.
+
+Term: Jango Fett
+Definition: Boba Fett's ¨Dad¨
+
+Term: Zam Wesell
+Definition: Clawdite bounty hunter who was born on Zolan and worked for Jango Fett
+
+Term: Cad Bane
+Definition: Cad Bane was a Duros male bounty hunter from the planet Duro who earned a reputation as the galaxy's best, deadliest, and most fearsome mercenary during the Clone Wars. Though he worked for a number of clients, his loyalty was ultimately to credits—and by extension, the highest bidder. Bane employed a variety of weapons and allies to ensure that he always got his pay, and he became the leader in his line of work after fellow bounty hunter Jango Fett perished in the opening battle of the war. His renown attracted the attention of Count Dooku and even the Dark Lord of the Sith Darth Sidious, the latter of whom employed him numerous times for his own means. Working for Sidious, Bane stole a Jedi holocron from the Jedi Temple to unlock the Kyber memory crystal, a repository of all recorded Force-sensitive infants in the galaxy. After pilfering the crystal from Jedi Master Bolla Ropal on Devaron and forcing Jedi Knight Anakin Skywalker to unlock it, Bane was sent to kidnap four of the infants listed in the crystal. Despite being captured halfway through his job by Skywalker and his Padawan, Ahsoka Tano, Bane escaped from Jedi Masters Obi-Wan Kenobi and Mace Windu by luring them into a trap on his hideout, Black Stall Station. Bane was later hired by the Hutt crime lord Jabba Desilijic Tiure and the Hutt Grand Council to break Jabba's criminal uncle, Ziro Desilijic Tiure, out of Republic custody on Coruscant. Forming a team of hunters to execute his job, Bane launched a brazen raid on the Republic Executive Building and captured ten prominent members of the Galactic Senate, using them as hostages to force Supreme Chancellor Palpatine to free Ziro. Once he had secured Ziro's release from the high-security Central Detention Center, Bane disbanded his posse and delivered Ziro to the Hutt Council. When Ziro escaped from their custody on Nal Hutta, Bane was re-hired to track down the crime lord. Though he arrived on Teth too late to secure his bounty, he managed to evade Jedi Masters Obi-Wan Kenobi and Quinlan Vos, who failed to apprehend him for his crimes. At the close of the bounty hunting season, Bane's total bounties surpassed those of all others in field. After breaking criminal mastermind Moralo Eval out of the Republic's Central Detention Center, Bane became a candidate in Eval's plot to kidnap Chancellor Palpatine for Count Dooku and the Confederacy of Independent Systems. Bane thus entered Eval's Box competition to become one of the five mercenaries who would be hired for the job. After passing the tournament alongside fellow hunters Embo, Derrown, Twazzi, and Rako Hardeen, Bane was personally selected by Dooku to lead the operation, and they traveled to Naboo to capture Chancellor Palpatine during the Festival of Light. Despite Bane's success with abducting Palpatine, Dooku betrayed him, having intended for the bounty hunters' operation to simply be a diversion for his own attempt to kidnap the Supreme Chancellor. Abandoned by Dooku, Bane was defeated by Hardeen, who turned out to be none other than Obi-Wan Kenobi, who had gone undercover to infiltrate and foil Eval's plans. Bane nevertheless retained his formidable reputation throughout the Clone Wars, after which he became one of the preferred freelancers for the Galactic Empire.
+
+Term: Han Solo
+Definition: Smuggler, becomes a rebel hero, marries Leia. Owns the Millennium Falcon, also best friend is Chewbacca. Gets frozen in carbonite during The Empire Strikes Back.
+
+Term: Admiral Ackbar
+Definition: It's a trap! should have sacrificed himself in The Last Jedi instead of Holdo, instead Rian Johnson killed him off.
+
+Term: Qui-Gon Jinn
+Definition: Obi-Wan's master, killed by Darth Maul.
+
+Term: Darth Maul
+Definition: Apprentice of Darth Sidious, wields a double-bladed lightsaber, has a frightening appearance. Killed Quin-Gon Gin and got cut in half by Obi-Wan Kenobi.
+
+Term: Order 66
+Definition: elaborate plot to overthrow the republic and wipe out the jedi
+
+Term: Alderaan
+Definition: Princess Leia's home planet; it was destroyed by the first Death star not long before the battle of Yavin
+
+Term: Tatooine
+Definition: The home planet of Luke and Obi-Wan, where Luke is a moisture farmer with his aunt and uncle Beru and Owen Lars, and Obi-Wan lives as a hermit.
+
+Term: Beru Lars
+Definition: Luke's aunt, she is a moisture farmer. burnt by imperial troops?
+
+Term: Owen Lars
+Definition: Luke's uncle who tries to have him stay one more season in the harvest. He is a moisture farmer. burnt by imperial troops?
+
+Term: Ponda Baba
+Definition: Aqualish partner of the maniacal Dr. Evazan. does not like Luke. Gets his arm cut off by Obi-Wan
+
+Term: Dr. Evazan
+Definition: Criminal. Has the death sentence in twelve systems. doesn´t like Luke either.
+
+Term: Bantha
+Definition: Tatooinian livestock that is known for its thick fur, curved horns, and blue milk.
+
+Term: Tusken Raiders
+Definition: Also known as Sandpeople, they are the nomads of Tatooine. They are very violent.
+
+Term: Jawas
+Definition: The aliens on Tatooine that sell Luke and Uncle Owen C-3PO and R2-D2. They are very small and make money by stealing and then selling droids and droid parts.
+
+Term: Mon Mothma
+Definition: Leader of the Alliance to Restore the Republic aka the Rebellion.
+
+Term: Yavin 4
+Definition: The location of the Rebel Base, which has been sought by the Empire for years, it is one of three moons that orbit the giant gas planet Yavin. Grand Moff Tarkin's goal is to position the Death Star so that it may destroy the moon with a laser blast.
+
+Term: The Forest Moon of Endor
+Definition: location of the Death Star II shield generators.
+
+Term: Imperial Lambda-Class T4a Shuttle
+Definition: The Empire´s main type of shuttle. Used to Transport troops, speeders, ammunitions, and blasters to the battle field. this type of ship was also used to transport high ranking empire officials.
+
+Term: X-wing starfighter
+Definition: The X-wing was a prominent series of multiple starfighters produced by Incom with a characteristic "X"-shape of four wings, known as S-foils, extending out from the fuselage. These starfighters were found in the service of the Rebel Alliance, New Republic, and also the Galactic Alliance. They were originally meant for the Galactic Empire but when the entire Incom design team defected with the prototypes to the Rebel Alliance this deal was over. Despite this, however, at least one X-wing was stolen by a Stormtrooper.
+
+Term: Y-Wing starfighter
+Definition: This bomber was used by both the Galactic Republic and the Rebel Alliance.
+
+Term: TIE Fighter
+Definition: The most common Imperial fighter, it is a small one man ship designed for fighter vs fighter combat.
+
+Term: TIE Interceptor
+Definition: Less common than the standard imperial fighter, featured better maneuverability and more fire power, all while being slightly smaller than the standard TIE fighter.
+
+Term: TIE Bomber
+Definition: The Empires Fighters that were used for bombing, it was wider than the standard Imperial fighters because of the built in container for the bombs.
+
+Term: TIE Advanced X1
+Definition: Darth Vader´s modified TIE Advanced.
+
+Term: A-Wing Starfighter
+Definition: Smaller, faster rebel starfighter, vaguely in the shape of the letter A.
+
+Term: B-Wing Starfighter
+Definition: The B-wing heavy assault starfighter, known simply as the B-wing starfighter, was one of the largest and most heavily armed starfighters/bombers in the Rebel Alliance's fleet. The name B-wing came from the craft's remote similarity in appearance to the lowercase letter "b", although its swordlike shape in attack mode has earned it the nickname "blade-wing", which may be another reason for the "b" prefix. Known as "crosses" due to their distinct shape, the B-wing was designed by the Verpine company Slayn &amp; Korpil in cooperation with then-Commander Gial Ackbar as part of the Shantipole Project. The B-wing, though difficult to fly, participated in numerous engagements across the galaxy during the latter parts of the Galactic Civil War, including the Battle of Endor and the liberation of Coruscant. The B-wing was used in its primary role of assault starfighter by both the New Republic and the Galactic Alliance throughout the Yuuzhan Vong War and beyond. Later models included a two-man version that could be used as a small transport.
+
+Term: Max Rebo
+Definition: ortolan musician and heart of the Max Rebo Band, they frequently played for Jabba the Hutt.
+
+Term: Fingrin D´an
+Definition: Leader of Fingrin D´an and the Modal Nodes.
+
+Term: Millennium Falcon
+Definition: A space ship piloted by Han Solo and Chewbacca. It is known for having made the Kessel Run in less than 12 parsecs.
+
+Term: Oola
+Definition: Twi´lek slave of Jabba the Hutt.
+
+Term: Darth Nihilus
+Definition: Famous Sith, very cool look.
+
+Term: Sandtroopers
+Definition: Stormtroopers equipped with special armor for hot desert conditions.
+
+Term: Tantive IV
+Definition: Name the Rebel Alderaanian cruiser of Princess Leia Organa that got the Death Star plans safely off Scarif. Piloted by Captain Antilles.
+
+Term: Star Destroyer
+Definition: The Second biggest fleet ship in the imperial navy
+
+Term: Super Star Destroyer
+Definition: The largest and most devastating ship in the Imperial navy, it is the "signature vessel of the Imperial fleet". First referred to as "Imperial cruisers" by Han Solo, they are massive ships measured at 1,600 meters, armed with ion cannons, 72 TIE fighters, numerous Stormtroopers, 20 AT-AT's and 30 AT-ST's.
+
+Term: Speeder bike
+Definition: Coming in many shapes and sizes, this fast-moving transport speeds over the toughest terrain with ease. One thing though- try to avoid trees.
+
+Term: Land Speeder
+Definition: A hovering car like vehicle that we see Luke Skywalker use in Episode IV A New Hope.
+
+Term: Mouse Droid
+Definition: Imperial messenger, looks like a very small black gunless tank.
+
+Term: LEGENDS
+Definition: Non Cannon Star Wars history, formerly know as the Expanded Universe/EU.
+
+Term: Naboo
+Definition: Naboo (pronounced /nə'bu/) was a planet that was the sector capital of the Chommell sector near the Outer Rim territories. It was a largely unspoiled world with large plains, swamps and seas. It was mostly known as the homeworld of notable historical figures who played major roles in the downfall of the Galactic Republic and the rise of the Galactic Empire, namely Padmé Amidala, Emperor Palpatine and Jar Jar Binks.
+
+Term: Geonosis
+Definition: Geonosis, called Geonosia by some natives, was the home planet of the Geonosians. The desert world was the Confederacy's first capital, hosting its major droid foundries. It was the site of the Battle of Geonosis, the opening conflict of the Clone Wars, in 22 BBY.
+
+Term: Pod Racing!
+Definition: Now this is
+
+Term: Kessel Run
+Definition: Something that was at one point shrouded in mystery, then SOLO ruined it.
+
+Term: The Force
+Definition: The energy all around us and everything in the universe.
+
+Term: Canto Bight
+Definition: A pointless scene in The Last Jedi.
+
+Term: Captain Phasma
+Definition: "Leader" of Storm Troopers in The Force Awakens and The Last Jedi. Does basically nothing gets beaten by a dude with minimal training then dies.
+
+Term: First Order Stormtrooper
+Definition: look like trash compared to the OT stormtroopers.
+
+Term: Snoke
+Definition: The Supreme Leader of the First Order, the mysterious Snoke has no permanent base of operations, preferring to contact his underlings from a mobile command post. People wanted to find out who he was in The Last Jedi, instead he is killed and we still have no clue who he is.
+
+Term: Luke(Last Jedi)
+Definition: A grumpy old man who live alone on a planet, refuses to use the force, and refuses to teach rey the ways of the jedi.
+
+Term: The stormtrooper who bumps his head
+Definition: He bumps his head because earlier that day he had been stationed on tatooine, where obi-wan had used a jedi mind trick on him. This gave the trooper a massive headache, on top of the fact that stormtroopers can´t see out of their helmets too well.
+
+Term: Princess Leia Organa
+Definition: A member of the Rebel Alliance, she is captured by Darth Vader when her ship is overtaken by a Star Destroyer. She is held captive on the Death Star. Rescued by Luke and Han. Later becomes the general of the resistance. almost killed by her son.
+
+Term: Medical Droid
+Definition: Droids that can perform medical procedures.
+
+Term: Hoth
+Definition: Hoth was the sixth planet of the remote Hoth system. A desolate world covered with ice and snow, located in the Anoat sector, a rarely-traveled portion of the Outer Rim Territories, it became famous as the one-time location of the Alliance to Restore the Republic's Echo Base during the Galactic Civil War. The base was discovered by the Empire in 3 ABY, precipitating the Battle of Hoth, a major engagement during which the Rebels suffered heavy casualties and lost Echo Base.
+
+Term: Slave I
+Definition: Name the ship of Jango and Boba Fett.
+
+Term: Battle Droid
+Definition: Battle Droids are robotic, combat units used in the Star Wars Universe. Though developed earlier, battle droids served as frontline units in the Trade Federation Army and for the Confederacy of Independent Systems during the Clone Wars era. They were mass-produced on Confederate planets such as Geonosis, and some units survived into the Galactic Civil War and Legacy era. Battle droids were originally made by Trade Federation Viceroy, Nute Gunray, to prevent pirate attacks. When he was contacted by Darth Sidious, he attacked the peaceful planet of Naboo. The droids easily overwhelmed Naboo's military and put the people in camps where many died.A battle droid (also referred to as war droid, combat droid, or killer droid) was any droid designed for combat. There were numerous types of battle droids. They predated the Galactic Republic by thousands of years, with the earliest known being Rakatan ancient droids and the war-robots used by Xim the Despot. Many of the best known battle droids were those used by the Confederacy of Independent Systems during the Clone Wars. At the end of the Clone Wars, Sith Lord Darth Vader turned off the Master control signal, deactivating most of the Separatist Droid Army. After this, battle droids were extremely rare.
+
+Term: Super Battle Droid
+Definition: One of the main design flaws of the standard B1 battle droid was its reliance on a Droid Control Ship to provide a signal; if the ships were disabled, the battle droids would become useless. To remedy this, the super battle droid did not rely on such a signal and had a greater capacity for independence. However, the droid still operated best with a command signal, otherwise they tended to forget about enemies as soon as they moved out of visual range. Additionally, the sturdy duranium frame of the super battle droid was larger and more heavily armored than those of a B1.[2] Unlike its predecessor, the B2's delicate processing unit and signal receptor were buried deep inside the torso, offering much more protection from enemy fire. Small dual laser cannons were mounted on their right forearms, along with a triShot weapon system. The B2's forearms could also be replaced by rocket launchers. They could use external weaponry (except in rocket launcher configuration), though their large hands had difficulty with smaller blasters. Instead, they were equipped with special blaster rifles that only responded to signal emitters built into the hands. For the sake of efficiency, they used many B1 parts. Their feet were also outfitted with specialized equipment for difficult terrain, such as climbing claws.[2] Their arms also were modular, capable of exchanging their laser cannon for grenade launchers and other specialized weaponry.
+
+Term: Droideka
+Definition: These Droids are a clone trooper's worst nightmare. Rolling into battle and then unfolding into three legged, shield protected, dual blaster killing machines.
+
+Term: Magna Guards
+Definition: Droids armed with electrical staffs. don´t need their heads to operate.
+
+Term: Plo Koon
+Definition: Plo Koon was a Kel Dor male from the planet Dorin who became a Jedi Master and a lifetime member of the Jedi High Council, holding the position from after the Stark Hyperspace War to the end of the Galactic Republic in 19 BBY. During the Clone Wars, Koon served as a Jedi General in the Grand Army of the Republic, leading soldiers in campaigns, fighting on Geonosis and at Kaliida Shoals amongst others. Koon was also an accomplished starfighter pilot. Koon had an uncle and a niece, Sha Koon, who was also a member of the Jedi Order, and served as a personal communicator between the Jedi strike force and the rest of the Republic during the Stark Hyperspace War. He was a close friend of fellow Masters Qui-Gon Jinn (whom he fought alongside during the Stark Hyperspace War), Micah Giiett, Ki-Adi-Mundi and noted fighter pilot Saesee Tiin. Plo Koon was shot down over Cato Neimoidia by his clone troopers, killing him in compliance with Order 66.
+
+Term: Sullust
+Definition: The Rebel Fleet massed here before their assault of the second Death Star at Endor. Home of Nien Nunb.
+
+Term: Mustafar
+Definition: This is where Anakin's legs and hand got chopped of by Obi-Wan.
+
+Term: Kamino
+Definition: Flooded hundreds of years ago, rain continues to pour down on the surface of Kamino in torrents. Kamino was used by the Republic, during the Clone Wars, as their cloning facility. Kaminoans ran the facility. The Empire took over Kamino's facility and forced the Kaminoans into extinction.
+
+Term: Kashyyyk
+Definition: The home planet of the Wookies. Has very large trees.
+
+Term: Star Tours
+Definition: The original Star Wars ride at Disney World´s Hollywood Studios and Tomorrowland in Disneyland.
+
+Term: Star Tours- The Adventures Continue
+Definition: The updated Star Wars ride at Disney World´s Hollywood Studios and Tomorrowland in Disneyland.
+
+Term: Galaxy´s edge
+Definition: Disney´s new Star Wars themed areas at both Disneyland and Disney World
+
+Term: Cloud City
+Definition: A mining colony where we meet Lando, Han gets frozen in carbonite, and Luke loses his hand and his father's lightsaber, never to be seen again for decades.
+
+Term: Coruscant
+Definition: The planet that is just one big city. the lower levels are full of crime and poverty.
+
+Term: The Tragedy of Darth Plagueis the wise.
+Definition: Not a story the jedi would tell you.
+
+Term: Wedge Antilles
+Definition: Renowned Rebel X-wing pilot, friend of Han Solo and Luke Skywalker, and native of Corellia who helped destroy both Death Stars and discovered the Empire's secret meeting on Akiva prior to the Emperor's death.
+
+Term: Jek Porkins
+Definition: Fat rebel Pilot. killed in the Death Star trench run 0ABY.
+
+Term: TIE Pilot
+Definition: Imperial pilots that fly TIE fighters.
+
+Term: Rebel Pilots
+Definition: Rebels that fly rebel starfighters.
+
+Term: Biggs Darklighter
+Definition: Luke's friend in the first movie at the Rebel Base.
+
+Term: Echo Base
+Definition: The Rebel Base on Hoth.
+
+Term: Imperial Viper Probe Droid
+Definition: Droid the Empire sends down to Hoth to find out if the rebels were actually there.
+
+Term: Rebel Snow Speeder
+Definition: Airspeeders the rebels use on Hoth, had tether cables that helped bring down AT-ATs.
+
+Term: Commander Cody
+Definition: commander of the 7th sky corps and 212th attack battalion of the clone army
+
+Term: Captain Rex
+Definition: Leader of the 501st Torrent Company
+
+Term: Commander Gree
+Definition: the green clone trooper
+
+Term: Commander Bacara
+Definition: Galactic marine a little less suicidal than neyo.
+
+Term: the outer rim
+Definition: The area of the galaxy that holds planets like Tatooine, Scarif, Nal Hutta, Hoth, etc.
+
+Term: Commander neyo
+Definition: Commander of the 91st reconnaissance corps suicidal clone trooper. whatever it takes to win.
+
+Term: commander Bly
+Definition: Aayla secura's clone commander, not as suicidal as bacara.
+
+Term: Commander Doom
+Definition: Clone Commander, looks awesome.
+
+Term: Commander Fox
+Definition: the red clone trooper executed Fives commander of the Coruscants guardanswers only to Sheev.
+
+Term: Senate Guards
+Definition: Guards of the senate
+
+Term: Commander Wolffe
+Definition: Clone Commander. looks pretty cool.
+
+Term: Commander Thorn
+Definition: Clone Commander. sacrificed himself for the republic.
+
+Term: Aayla Secura
+Definition: A Twi'lek Jedi master that uses Ataru in combat. She has mastered emotional attachment, and also meditates a lot. When she was young, she survived a near fatal brush with the Dark Side, serving under Dark Anzat Volffe Kaarko.
+
+Term: Pong Krell
+Definition: This stern and strict Jedi was known for his victories in the Clone Wars and his brash tactics. Later betrays the Republic on Umbara. Killed by his own Clonetroopers after going on a killing spree against them. A Besalisk.
+
+Term: Blackwing virus
+Definition: A virus that killed its host and resurrected them as zombie organism.
+
+Term: Salacious Crumb
+Definition: Kowakian Monkey-Lizard, very rude and creepy, Jabba the Hutt's pet?
+
+Term: Weequay
+Definition: Gross looking aliens with long hair usually growing from the back of their heads. they have thick skin and come from the desert planet Sriluur.
+
+Term: Rodians
+Definition: THEY ALL LOOK LIKE GREEDO, they come from Rodia.
+
+Term: Jabba's Palace
+Definition: Jabba the Hutt`s base of operations.
+
+Term: Jabba`s sail barge
+Definition: the ship Jabba took out to the Sarlacc Pit.
+
+Term: The Sarlacc Pit
+Definition: The gross desert hole Boba Fett falls into after having his jetpack hit by a blind Han.
+
+Term: Huttenese
+Definition: the language Jabba the Hutt, and many other characters speak.
+
+Term: Luke`s plan to rescue Han Solo
+Definition: First send in the droids. Then send in Leia in disguise to unfreeze Han while dressed as Boushh, while also bringing in Chewbacca. Then come in and just shoot Jabba with a blaster. or have slave leia choke him out while an epic battle takes place out at the sarlacc pit. it`s a stupid plan.
+
+Term: Shuttle Tydirium
+Definition: The Lambda Class T4a Shuttle the rebels stole to get on to the forest moon of endor.
+
+Term: Gamorrean Guard
+Definition: The Pig like guards in Jabba's Palace.
+
+Term: Rocket firing Boba Fett figure
+Definition: The canceled Boba Fett action figure that was altered to not launch a rocket.
+
+Term: Star Wars Early Bird Special
+Definition: a thing you would have mailed into kenner to be sent a full set of action figures when they released. as a placeholder you got some cardboard.
+
+Term: lego Star Wars
+Definition: The best version of Star Wars
+
+Term: Dagobah
+Definition: The swamp world of Dagobah is shrouded in fog and mystery. Few people even know it exists. Yoda used this planet as his refuge after the Jedi purge.
+
+Term: John Williams
+Definition: THE GOD OF MUSIC
+
+Term: Han Solo frozen in Carbonite
+Definition: Han when he is frozen in carbonite
+
+Term: Anakin Skywalker
+Definition: the chosen one, A Jedi, he possessed extraordinary powers of the Force. He fell to the Dark Side, trying to save his wife. Then returned to the light after sacrificing himself to save his son.
+
+Term: Scarif
+Definition: the planet that stores the Death Star plans along with other important imperial information
+
+Term: U-Wing starfighter
+Definition: rebel starfighter, first appeared in rogue one.
+
+Term: Mandolore
+Definition: The planet of the Mandolorians.
+
+Term: Mandolorian
+Definition: The people of Mandalore. had cool armor.
+
+Term: Aurebrish
+Definition: One of the languages, most commonly seen in the star wars universe.
+
+Term: Jedi
+Definition: Guardians of peace and justice in the galaxy and members of the light side of the Force.
+
+Term: Sith
+Definition: people who use the dark side of the force and let their emotions show. Use hate and anger to generate power.
+
+Term: Imperial Sentinel Class Shuttle
+Definition: Bigger than the Lambda Class shuttle, made to transport more troops, weapons, speeders, and cargo.
+
+Term: Jaxxon
+Definition: Character from the original star wars comics. was basically a big green rabbit man.
+
+Term: Fear &gt; Anger &gt; Hate &gt; Suffering
+Definition: Pathway to the sith
+
+Term: Wookies
+Definition: Natives of Kashyyyk. big, strong, furry, and live a long time.
+
+Term: The Clone Wars
+Definition: major galactic conflict fought between the Galactic Republic and the Confederacy of Independent Systems. The war was named after the clone troopers utilized by the Republic against the battle droid forces of the CIS.
+
+Term: STAR THE CLONE WARS WARS
+Definition: the wrong way to read STAR WARS THE CLONE WARS
+
+Term: Battle of Endor
+Definition: the battle that was fought to destroy the Death Star II. Saw the Empire get beat by living teddy bears.
+
+Term: BERU a star wars story
+Definition: what the fans want.
+
+Term: Ewan McGregor
+Definition: Obi-Wan Kenobi
+
+Term: Alec Guinness
+Definition: Ben Kenobi
+
+Term: Jedi Rocks
+Definition: Weird CG segment added to Jabba's palace.
+
+Term: Death Sticks
+Definition: Highly illegal addictive substance sold by many in Coruscant's Underworld and was even offered to Obi-Wan Kenobi while he was in the Outlander.
+
+Term: Revenge of the sith
+Definition: Episode 3, best prequel over all. gave us Grievous and the birth of Vader.
+
+Term: Attack of the Clones
+Definition: Episode 2, most Mediocre prequel. gave us child Boba, Jango Fett, The first look at the Death Star Plans, Count Dooku, the clone army, C-3po fully fixed, older Anakin, and less BAD CGI
+
+Term: The Phantom Menace
+Definition: Episode 1, worst prequel. JAR JAR. Child Anakin. Politics. BAD CGI. But it gave us a cool looking bad guy, a cool looking pod-race scene and a look at Pre-Empire Star Wars.
+
+Term: General Veers
+Definition: An Imperial General. Died in an AT-AT on Hoth.
+
+Term: Rebels
+Definition: Another Star Wars show. more recent than the Clone Wars but not as good.
+
+Term: Clone Wars 2003
+Definition: Star Wars TV show, 2D animation. was about the clone wars that took place between episodes 2 and 3.
+
+Term: Clone Wars 2008
+Definition: The BEST Star Wars TV show ever. was about the clone wars.
+
+Term: #clonewarssaved
+Definition: SEASON 7 OF THE CLONE WARS IN 2019! OH MY GOD YESSSSSSSSSSSSSSSS!
+
+Term: Disney
+Definition: Current owner of Star Wars. have done some pretty stupid things.
+
+Term: Sheev Palpatine
+Definition: known as Darth Sidious or the Emperor; a character of the Star Wars franchise, mainly portrayed by Ian McDiarmid. He also manipulates Anakin Skywalker into turning to the dark side and serving at his side as Darth Vader.
+
+Term: the Light Saber
+Definition: A weapon for a Civilized time.
+
+Term: Many Bothans
+Definition: Tragic loss that fortunately resulted in the rebels gaining the plans for Death Star II
+
+Term: Mon Calamari
+Definition: The homeworld of the aquatic species Mon Calamari and Quarren. Home of Admirals Ackbar and Raddus.
+
+Term: A Fistfull Of Credits
+Definition: Western Parody Staring Boba Fett. For poster view my google background.
+
+Term: Lil´Jabba
+Definition: Jabba the Hutt but a rapper. He`s got some good tracks.
+
+Term: Pre Vizsla
+Definition: Pre Vizsla (pronounced /'pri vizlɑ/) was a male Human from Mandalore and was the leader of the Mandalorian Death Watch faction during the Clone Wars. Seeking to overthrow Duchess Satine Kryze and her pacifistic New Mandalorian government, in order to restore Mandalore to its widespread warrior ways, Vizsla secretly allied himself with Count Dooku and his Confederacy of Independent Systems. While governing Mandalore's moon, Concordia, and maintaining loyalty to Kryze in public, Vizsla led the Death Watch in secret from several Concordian mining camp bases. The Death Watch's terrorist attacks on Mandalore came to a head when Jedi Master Obi-Wan Kenobi arrived on Concordia with Kryze to follow leads on the Death Watch. When Kenobi discovered the Death Watch's secret base, Vizsla confronted them with several warriors and revealed himself as the renegades' leader. After engaging Kenobi in a short duel, Vizsla forced him and Kryze to flee Concordia. Vizsla conspired with Mandalorian Senator Tal Merrik to capture Kryze during her journey to Coruscant, where she intended to plead her case directly to the Galactic Senate, but Merrik was defeated before he could complete his assignment. Amassing an army of Death Watch troops on Concordia in preparation to take over Mandalore, Vizsla was forced to wait until his and Dooku's plot to turn Mandalore against the Republic was completed. Vizsla dispatched a Death Watch assassin to Coruscant to kill Kryze, as her death would remove the opposition to the Senate's upcoming vote to have Republic troops occupy Mandalore—an occupation which would allow the Death Watch to gain the support of Mandalore populace and "liberate" them from the Republic. However, the assassin failed to murder Kryze, and the plot itself fell through, with the Senate voting against occupying Mandalore. With this turn of events, Vizsla was forced to postpone his attack on Mandalore, as his forces would be unable to hold the planet without its people's support. At some point, Vizsla and his soldiers came accross an escape pod lost in deep space which held the stranded Sith Lords Darth Maul and his brother Savage Opress. Harboring a common hatred of Obi-Wan Kenobi for his actions against them, they planned on having their revenge after their planned conquest of Mandalore. Gathering an army of criminals including the Hutts, the Pykes, and the Black Sun, Vizsla and Maul attacked Sundari, allowing Death Watch to act as heroes to a desperate population after the Duchess's forces failed to stop the criminals. With the support of the Mandalorian people, Vizsla ousted Satine and appointed himself Prime Minister and claimed the ancient title of Mand'alor. He also betrayed his Sith allies who were imprisoned but who managed to escape. Maul challenged Vizsla to a duel to determine the true ruler of the Mandalorians. After a long and difficult duel, Maul defeated Vizsla and executed him for his failures, before claiming his position as leader of the Death Watch.
+
+Term: Savage Opress
+Definition: Savage Opress was a Dathomirian Zabrak Nightbrother who became a Sith Lord alongside his younger brother, Darth Maul, during the Clone Wars. Originally a tribal leader on Dathomir, Opress was handpicked by the Nightsister Asajj Ventress to become her 'mate' and servant following her grueling tests of Selection, as part of her bid for revenge on her former Master, the Sith Lord Count Dooku. In accordance with their plot against Dooku, Mother Talzin and her Nightsister witches employed their dark magic to grant Opress fearsome abilities, placing him under their control. After murdering his beloved brother Feral in a display of loyalty to Ventress, Opress entered the Clone Wars as a Dark Acolyte, serving as an enforcer in Dooku's Confederacy of Independent Systems. He executed missions against the Galactic Republic at Devaron's Temple of Eedit and on Affa, slaying his first Jedi, Halsey and Knox, in the former campaign. Opress soon became a Sith apprentice to Dooku, who intended to use his new acolyte to overthrow his own Master, Darth Sidious, and claim control of the galaxy. While Opress was subjected to brutal Sith training under Dooku's charge, Ventress prepared to pit the monstrous Nightbrother against Dooku. Yet when Ventress's plans for revenge culminated at Toydaria, she and her ex-Master found that neither of them could contain Opress's impulsive nature and rage. In what became a three-way lightsaber duel, Opress overcame Ventress's spell of control and also terminated his service to Dooku, further battling his way through Jedi Knight Anakin Skywalker and Jedi Master Obi-Wan Kenobi before escaping to Dathomir. After learning from Talzin of his kinship to Darth Maul, Opress rescued his weakened brother from the depths of Lotho Minor and brought him home to Dathomir, where Talzin restored his mind and body. Opress then became involved with Maul's pursuit of vengeance on Kenobi, who had cut him in half over a decade ago on Naboo. Although Kenobi escaped from them with the aid of Asajj Ventress during a confrontation at Raydonia, Opress and Maul continued their plans for revenge and galactic domination, turning to the criminal underworld to achieve their needs. By 20 BBY, Opress and Maul cut a swath through the Outer Rim Territories, battling through all civilians, bounty hunters, and Jedi Knights who stood in their way. The Jedi High Council sent task forces to hunt them down on Pleem's Nexus and Moorjhone, with Kenobi always among the contenders. As part of Maul's plans, Opress became a Sith Lord, but he was forced to become the apprentice—submitting to his brother, the Master—in accordance with the Rule of Two. While attempting to recruit Weequay pirates into their service on Florrum, Opress killed Jedi Master Adi Gallia, though he soon thereafter lost his left arm to Kenobi's blade. Kenobi then chased Opress and Maul off Florrum, destroying their ship and leaving them stranded until they were discovered by members of the Death Watch, a group of Mandalorian warriors led by Pre Vizsla. Opress, Maul, the Mandalorians, and various criminal groups in the galaxy formed an alliance to overthrow the pacifist rulers of the planet Mandalore, though after the operation ended succesfully, Viszla and his men arrested Opress and Maul. After breaking free from prison with Mandalore's incarcerated Prime Minister, Almec, Opress and his brother seized control of Mandalore from Viszla and his allies. Their rule of Mandalore, however, attracted unwanted attention from Maul's former Master, Darth Sidious, who saw the power of the two Sith brothers as a threat to the dominance of his Sith Order. Sidious traveled to Mandalore and confronted the two brothers, fatally impaling Opress, who in his dying breath expressed regret for never having been Maul's equal.
+
+Term: Asajj Ventress
+Definition: Count Dooku's apprentice and assassin during the Clone Wars who hails from the Nightsisters on Dathomir.
+
+Term: You´ll be dead!
+Definition: alright I´ll be careful.
+
+Term: Indiana Jones
+Definition: HE'S TECHNICALLY PART OF STAR WARS BECAUSE OF THE COMIC INTO THE GREAT UNKNOWN AND THE LEGO GAMES
+
+Term: Coca-Cola
+Definition: Apparently part of the Star Wars universe... thanks Disney.
+
+Term: Luke Skywalkers' sister
+Definition: Leia
+
+Term: Clone created
+Definition: Kamino
+
+Term: Droids created
+Definition: Geonosis
+
+Term: Anakin's wife'
+Definition: Padme
+
+Term: Jedi council
+Definition: Coruscant
+
+Term: Anakin's transformation
+Definition: Darth Vader
+
+Term: leia
+Definition: Who is this?
+
+Term: han
+Definition: Who is this?
+
+Term: luke
+Definition: Who is this?
+
+Term: r2d2
+Definition: Who is this droid?
+
+Term: c3po
+Definition: Who is this droid?
+
+Term: rey
+Definition: Who is this?
+
+Term: finn
+Definition: Who is this?
+
+Term: obi-wan
+Definition: Who is this?
+
+Term: yoda
+Definition: Who is this?
+
+Term: poe
+Definition: Who is this?
+
+Term: rose
+Definition: Who is this?
+
+Term: greedo
+Definition: Who is this?
+
+Term: jabba
+Definition: Who is this?
+
+Term: dooku
+Definition: Who is this?
+
+Term: anakin
+Definition: Who is this?
+
+Term: palpatine
+Definition: Who is this?
+
+Term: jar jar
+Definition: Who is this?
+
+Term: vader
+Definition: Who is this?
+
+Term: maul
+Definition: Who is this?
+
+Term: ahsoka
+Definition: Who is this?
+
+Term: kylo ren
+Definition: Who is this?
+
+Term: snoke
+Definition: Who is this?
+
+Term: chewbacca
+Definition: Who is this?
+
+Term: lightsaber
+Definition: What is this?
+
+Term: padme
+Definition: Who is this?
+
+Term: boba
+Definition: Who is this?
+
+Term: jango
+Definition: Who is this?
+
+Term: mon mothma
+Definition: Who is this?
+
+Term: nien nunb
+Definition: Who is this?
+
+Term: lobot
+Definition: Who is this?
+
+Term: wicket
+Definition: Who is this?
+
+Term: grievous
+Definition: Who is this?
+
+Term: qui-gon
+Definition: Who is this?
+
+Term: ackbar
+Definition: Who is this?
+
+Term: chirrut
+Definition: Who is this?
+
+Term: mace
+Definition: Who is this?
+
+Term: tarkin
+Definition: Who is this?
+
+Term: k2so
+Definition: What droid is this?
+
+Term: lando
+Definition: Who is this?
+
+Term: bb8
+Definition: What droid is this?
+
+Term: jyn
+Definition: Who is this?
+
+Term: cassian
+Definition: Who is this?
+
+Term: baze
+Definition: Who is this?
+
+Term: saw
+Definition: Who is this?
+
+Term: wedge
+Definition: Who is this?
+
+Term: holdo
+Definition: Who is this?
+
+Term: sebulba
+Definition: Who is this?
+
+Term: krennic
+Definition: Who is this?
+
+Term: unkar
+Definition: Who is this?
+
+Term: beru
+Definition: Who is this?
+
+Term: owen
+Definition: Who is this?
+
+Term: wampa
+Definition: What is this?
+
+Term: stormtrooper
+Definition: What is this?
+
+Term: nihilus
+Definition: Who is this?
+
+Term: bane
+Definition: Who is this?
+
+Term: bossk
+Definition: Who is this?
+
+Term: hux
+Definition: Who is this?
+
+Term: maz
+Definition: Who is this?
+
+Term: rancor
+Definition: What is this?
+
+Term: phasma
+Definition: Who is this?
+
+Term: oola
+Definition: Who is this?
+
+Term: sio
+Definition: Who is this?
+
+Term: panaka
+Definition: Who is this?
+
+Term: veers
+Definition: Who is this?
+
+Term: biggs
+Definition: Who is this?
+
+Term: kitster
+Definition: Who is this?
+
+Term: kit
+Definition: Who is this?
+
+Term: aayla
+Definition: Who is this?
+
+Term: luminara
+Definition: Who is this?
+
+Term: plo
+Definition: Who is this?
+
+Term: adi
+Definition: Who is this?
+
+Term: depa
+Definition: Who is this?
+
+Term: barriss
+Definition: Who is this?
+
+Term: shaak
+Definition: Who is this?
+
+Term: jocasta
+Definition: Who is this?
+
+Term: sifo-dyas
+Definition: Who is this?
+
+Term: bultar
+Definition: Who is this?
+
+Term: agen
+Definition: Who is this?
+
+Term: stass
+Definition: Who is this?
+
+Term: asajj
+Definition: Who is this?
+
+Term: zannah
+Definition: Who is this?
+
+Term: savage
+Definition: Who is this?
+
+Term: malak
+Definition: Who is this?
+
+Term: malgus
+Definition: Who is this?
+
+Term: sion
+Definition: Who is this?
+
+Term: revan
+Definition: Who is this?
+
+Term: plagueis
+Definition: Who is this?
+
+Term: clone
+Definition: What is this?
+
+Term: opening crawl
+Definition: What is this?
+
+Term: tatooine
+Definition: What is this planet?
+
+Term: hoth
+Definition: What is this planet?
+
+Term: death star
+Definition: What is this?
+
+Term: coruscant
+Definition: What is this planet?
+
+Term: naboo
+Definition: What is this planet?
+
+Term: yavin
+Definition: What is this planet?
+
+Term: alderaan
+Definition: What is this planet?
+
+Term: bespin
+Definition: What is this planet?
+
+Term: dagobah
+Definition: What is this planet?
+
+Term: mustafar
+Definition: What is this planet?
+
+Term: kashyyyk
+Definition: What is this planet?
+
+Term: geonosis
+Definition: What is this planet?
+
+Term: kamino
+Definition: What is this planet?
+
+Term: takodana
+Definition: What is this planet?
+
+Term: starkiller base
+Definition: What is this planet?
+
+Term: starkiller
+Definition: Who is this?
+
+Term: endor
+Definition: What is this planet?
+
+Term: ewoks
+Definition: What are these?
+
+Term: jawas
+Definition: What are these?
+
+Term: x-wing
+Definition: What is this?
+
+Term: y-wing
+Definition: What is this?
+
+Term: tie fighter
+Definition: What is this?
+
+Term: quarren
+Definition: What is this species?
+
+Term: mandalorian
+Definition: Who's symbol is this?
+
+Term: 5
+Definition: This is a scene from which movie?
+
+Term: 1
+Definition: This is a scene from which movie?
+
+Term: 2
+Definition: This is a scene from which movie?
+
+Term: 6
+Definition: This is a scene from which movie?
+
+Term: 7
+Definition: This is a scene from which movie?
+
+Term: 3
+Definition: This is a scene from which movie?
+
+Term: 4
+Definition: This is a scene from which movie?
+
+Term: clone wars
+Definition: What was the name of the wars that were fought in the galaxy before the fall of the Old Republic?
+
+Term: dodonna
+Definition: Who is this?
+
+Term: motti
+Definition: Who is this?
+
+Term: b1
+Definition: What is this?
+
+Term: b2
+Definition: What is this?
+
+Term: garven
+Definition: Who is this?
+
+Term: salacious
+Definition: Who is this?
+
+Term: logray
+Definition: Who is this?
+
+Term: ponda
+Definition: What is this?
+
+Term: Princess Leia
+Definition: o">
+
+Term: Jawa
+Definition: o">
+
+Term: Ahsoka Tano
+Definition: o">
+
+Term: Jabba The Hutt
+Definition: o">
+
+Term: Millennium Falcon
+Definition: o">
+
+Term: Lightsabers
+Definition: o">
+
+Term: Padawan Anakin Skywalker
+Definition: o">
+
+Term: Speeder Bike
+Definition: o">
+
+Term: X-Wing
+Definition: o">
+
+Term: Young Anakin Skywalker
+Definition: o">
+
+Term: Endor
+Definition: o">
+
+Term: Ewoks
+Definition: o">
+
+Term: Rancor
+Definition: o">
+
+Term: Lando Calrissian
+Definition: o">
+
+Term: Tie Fighters
+Definition: o">
+
+Term: Salacious Crumb
+Definition: o">
+
+Term: Gamorrean Guard
+Definition: o">
+
+Term: Max Rebo
+Definition: o">
+
+Term: Luke Skywalker
+Definition: o">
+
+Term: Jedi Master Luke Skywalker
+Definition: o">
+
+Term: Carbonite Han Solo
+Definition: o">
+
+Term: Dagobah
+Definition: o">
+
+Term: Mustafar
+Definition: o">
+
+Term: Ghost Obi Wan Kenobi
+Definition: o">
+
+Term: Tauntaun
+Definition: o">
+
+Term: 2-1B
+Definition: o">
+
+Term: Exogarth
+Definition: o">
+
+Term: Sarlacc
+Definition: o">
+
+Term: Tusken Raider
+Definition: o">
+
+Term: Geonosians
+Definition: o">
+
+Term: Thermal Detonator
+Definition: o">
+
+Term: Rebel Helmet
+Definition: o">
+
+Term: George Lucas
+Definition: o">
+
+Term: Wicket
+Definition: o">
+
+Term: Ki' Adi Mundi
+Definition: o">
+
+Term: Ewok Village
+Definition: o">
+
+Term: Jedi Temple
+Definition: o">
+
+Term: Cloudcity
+Definition: o">
+
+Term: Hoth
+Definition: o">
+
+Term: Probe Droid
+Definition: o">
+
+Term: Jabba's Palace
+Definition: o">
+
+Term: Battle Droid
+Definition: o">
+
+Term: Pod Racer
+Definition: o">
+
+Term: Gungans
+Definition: o">
+
+Term: Vader's TIE Fighter
+Definition: o">
+
+Term: Land Speeder
+Definition: o">
+
+Term: Super Battle Droid
+Definition: o">
+
+Term: Nute Gunray
+Definition: o">
+
+Term: Luke's Hand
+Definition: o">
+
+Term: "I am your father."
+Definition: o">
+
+Term: Imperial Shuttle
+Definition: o">
+
+Term: Endor Base
+Definition: o">
+
+Term: Maz Kanata
+Definition: o">
+
+Term: Captain Phasma
+Definition: o">
+
+Term: Rey's Speeder
+Definition: o">
+
+Term: Bail Organa
+Definition: o">
+
+Term: Beru Lars
+Definition: o">
+
+Term: Owen Lars
+Definition: o">
+
+Term: Coruscant
+Definition: o">
+
+Term: Queen Amidala
+Definition: o">
+
+Term: Cornelius Evazan
+Definition: o">
+
+Term: Snap Wexley
+Definition: o">
+
+Term: Plo Koon
+Definition: o">Who is this Jedi?
+
+Term: Anakin Skywalker
+Definition: o">Who is this Jedi?
+
+Term: Grand Master Yoda
+Definition: o">Who is this Jedi?
+
+Term: Darth Nihilus
+Definition: o">Who is this person?
+
+Term: Obi-Wan Kenobi
+Definition: o">Who is this Jedi?
+
+Term: Ashoka Tano
+Definition: o">Who is this person?
+
+Term: Star Destroyer
+Definition: o">What is this ship called?
+
+Term: Mark Hamill
+Definition: o">Who is this actor?
+
+Term: Supreme Leader Snoke
+Definition: o">Who is this?
+
+Term: Death Star
+Definition: o">What is this battlestation called?
+
+Term: Rogue One: A Star Wars story
+Definition: o">Which Star Wars film was released on december 2k16?
+
+Term: Dathomir
+Definition: o">What is the Darth Mauls home planet?
+
+Term: Magnagaurds
+Definition: o">What are those?
+
+Term: Sheev Palpatine
+Definition: o">Who is the senate?
+
+Term: Tatooine
+Definition: o">Were Luke Skywalker lives before Ben Kenobi took him with him
+
+Term: Naboo
+Definition: o">What was Padmé Amidala's home planet?
+
+Term: Leia Organa
+Definition: o">Who is this rebel?
+
+Term: Adam Driver
+Definition: o">Who is this character's actor called?
+
+Term: Lightsaber
+Definition: o">What is this weapon called?
+
+Term: Jango Fett
+Definition: o">Who is this bounty hunter?
+
+Term: Kit Fisto
+Definition: o">Who is this Jedi?
+
+Term: Luminara Unduli
+Definition: o">Who is this Jedi?
+
+Term: General Hux
+Definition: o">Who is this First Order general?
+
+Term: Commander Cody
+Definition: o">Who is this clone?
+
+Term: Captain Rex
+Definition: o">Who is this clone?
+
+Term: Ki Adi Mundi
+Definition: o">Who is this Jedi?
+
+Term: Anakin Skywalkers
+Definition: o">Who's lightsaber is this?
+
+Term: Jabba the Hutt
+Definition: o">Who is this gangleader?
+
+Term: Grand Moff Tarkin
+Definition: o">Who is this Imperial man called?
+
+Term: Stormtroopers
+Definition: o">Who are those Imperial soldiers called?
+
+Term: The Forest Moon of Endor
+Definition: o">Where does this Ewok live?
+
+Term: Episode IV - A New Hope
+Definition: o">What was the first Star Wars movie ever?
+
+Term: Qui-Gon Jinn
+Definition: o">What is this Jedi's name?
+
+Term: Aayla Secura
+Definition: o">Who is this Jedi?
+
+Term: The Rebellion's
+Definition: o">Who's flag is this?
+
+Term: Savage Opress
+Definition: o">Who is this man?
+
+Term: Clonetroopers
+Definition: o">What kind of troopers are this?
+
+Term: Cad Bane
+Definition: o">Who is this bounty hunter?
+
+Term: Darth Malgus
+Definition: o">Who is this Sith Lord?
+
+Term: Hondo Ohnaka
+Definition: o">Who this pirate?
+
+Term: Clankers
+Definition: o">How did the clone's call this battle droids?
+
+Term: Twi'leks
+Definition: o">What is this species?
+
+Term: Finn
+Definition: o">Who is this man?
+
+Term: A Rebel Pilot
+Definition: o">What is this man?
+
+Term: First Order trooper
+Definition: o">Who are this troopers?
+
+Term: Captian Phasma
+Definition: o">Who is this captian of the First Order?
+
+Term: FN-2187
+Definition: o">What was Finn's Stormtrooper name?
+
+Term: BB-8
+Definition: o">Who is this droid?
+
+Term: Shadowtrooper
+Definition: o">What kind of trooper is this?
+
+Term: Sandtroopers
+Definition: o">What kind of troopers are these?
+
+Term: B2 Super Battle Droids
+Definition: o">What kind of droids are these?
+
+Term: Geonosian Soldier
+Definition: o">Who are these creatures?
+
+Term: Asajj Ventress
+Definition: o">Who is this woman?
+
+Term: Ben Kenobi
+Definition: o">What was this man called in Episode IV - A NEW HOPE ?
+
+Term: Tusken Raiders
+Definition: o">What kind of creature is this?
+
+Term: Jawas
+Definition: o">Who are these creatures?
+
+Term: Royal Guards
+Definition: o">Who are these men?
+
+Term: IG-88
+Definition: o">Who is this bounty hunter?
+
+Term: Starkiller Base
+Definition: o">What is this base called?
+
+Term: Aurra Sing
+Definition: o">Who is this bounty hunter?
+
+Term: Darth Sidious
+Definition: o">Who killed Savage Opress?
+
+Term: Mandalorian armor
+Definition: o">What kind of armor did Boba Fett have?
+
+Term: Bossk
+Definition: o">Who is this bounty hunter?
+
+Term: Dengar
+Definition: o">Who is this bounty hunter?
+
+Term: Imperial Probe-droid
+Definition: o">What is this droid called?
+
+Term: Nien Numb
+Definition: o">Who is this rebel Sullustan?
+
+Term: Clone Trooper
+Definition: o">1st type of stormtrooper
+
+Term: First order
+Definition: o">From episode VII
+
+Term: Shocktrooper
+Definition: o">Marked with red and has a heavy blaster
+
+Term: Scout trooper
+Definition: o">They are in the forest and ride speederbikes
+
+Term: Deathtrooper
+Definition: o">Krennic's bodyguards
+
+Term: Shoretrooper
+Definition: o">They are on beaches
+
+Term: Shadow trooper
+Definition: o">They can become invisible
+
+Term: Snowtrooper
+Definition: o">They go on snowy planets
+
+Term: Jump trooper
+Definition: o">They have a jump pack
+
+Term: TIE pilot
+Definition: o">They fly TIE fighters
+
+Term: stormtrooper
+Definition: o">the kind that worked on the death star
+
+Term: Boba Fett
+Definition: o">Bounty hunter with a wrist rocket
+
+Term: Jar Jar Binks
+Definition: o">A stupid Gungan
+
+Term: Darth Vader
+Definition: o">Quote: "I am your father"
+
+Term: Darth Maul
+Definition: o">Sith with a double sided lightsaber
+
+Term: TaunTaun
+Definition: o">A two-legged creature on Hoth
+
+Term: Kylo Ren
+Definition: o">the most op sith in battlefront II
+
+Term: MTT
+Definition: o">basically a droid AT-AT
+
+Term: AT-AT
+Definition: o">defeat them by tripping them
+
+Term: Yoda
+Definition: o">Smallest Jedi
+
+Term: Death Trooper
+Definition: o">Krennic's Bodyguards
+
+Term: Stormtrooper
+Definition: o">They can't hit anything
+
+Term: destroyer droid
+Definition: o">sometimes called droideka
+
+Term: Padme Amidala
+Definition: o">Anakin's Wife
+
+Term: Count Dooku
+Definition: o">Sith with a curved lightsaber handle
+
+Term: TIE Fighter
+Definition: o">The most common Imperial fighter, it is a small one man ship designed for fighter vs fighter combat.
+
+Term: Obi Wan Kenobi
+Definition: o">Jedi who taught Anakin Skywalker
+
+Term: Kamino
+Definition: o">The planet that the clones were made on
+
+Term: Master Sifo-dyas
+Definition: o">The Jedi who asked the kaminoans to create the clone army
+
+Term: Jabba the hutt
+Definition: o">Large slug like alien
+
+Term: C-3PO
+Definition: o">R2-D2's golden friend
+
+Term: R2-D2
+Definition: o">An R2 unit that helped anakin and later, Luke
+
+Term: Rey
+Definition: o">A scavenger that later becomes a jedi
+
+Term: General Grievous
+Definition: o">Commander of the droid army and uses four lightsabers even though he is not a sith. He is a cyborg.
+
+Term: Mace Windu
+Definition: o">Has a Purple Lightsaber
+
+Term: Greedo
+Definition: o">Rodian Bounty hunter that was shot by Han on tattoine.
+
+Term: Admiral Ackbar
+Definition: o">Quote: "It's a trap!"
+
+Term: Poe Dameron
+Definition: o">The Resistance's best pilot
+
+Term: Chewbacca
+Definition: o">Han's Wookie friend
+
+Term: Han Solo
+Definition: o">Smuggler and owner of the millennium falcon
+
+Term: Watto
+Definition: o">A Toydarian junk dealer who bought Shri Skywalker and her son anakin from Gardulla the hutt
+
+Term: Wampa
+Definition: o">Basically an abominable snowman in Star Wars.
+
+Term: Palpatine
+Definition: o">The leader of the Empire and is known for force lightning
+
+Term: Plo Koon
+Definition: Who is this Jedi?
+
+Term: Anakin Skywalker
+Definition: Who is this Jedi?
+
+Term: Grand Master Yoda
+Definition: Who is this Jedi?
+
+Term: Darth Nihilus
+Definition: Who is this person?
+
+Term: Obi-Wan Kenobi
+Definition: Who is this Jedi?
+
+Term: Darth Vader
+Definition: Who is this Sith Lord?
+
+Term: TIE Fighter
+Definition: What is this ship called?
+
+Term: Ashoka Tano
+Definition: Who is this person?
+
+Term: Star Destroyer
+Definition: How is this ship called?
+
+Term: Mark Hamill
+Definition: Who is this actor?
+
+Term: Kylo Ren
+Definition: Who is this Force user?
+
+Term: Supreme Leader Snoke
+Definition: Who is this?
+
+Term: Poe Dameron
+Definition: Who is this resistance pilot?
+
+Term: Death Star
+Definition: How is this battlestation called?
+
+Term: Rogue One: A Star Wars story
+Definition: Wich Star Wars film was released on december 2k16?
+
+Term: Dathomir
+Definition: What is the Darth Mauls home planet?
+
+Term: Magnagaurds
+Definition: What are those?
+
+Term: Sheev Palpatine
+Definition: Who is the senate?
+
+Term: Tatooine
+Definition: Were lives Luke Skywalker before Ben Kenobi took him with him?
+
+Term: Naboo
+Definition: What was Padmé Amidala's home planet?
+
+Term: Han Solo
+Definition: What is this man called?
+
+Term: Leia Organa
+Definition: Who is this rebel?
+
+Term: Adam Driver
+Definition: Who is this character's actor called?
+
+Term: Lightsaber
+Definition: How is this weapon called?
+
+Term: Mace Windu
+Definition: Who is this Jedi?
+
+Term: Jango Fett
+Definition: Who is this bounty hunter?
+
+Term: Boba Fett
+Definition: Who is this bounty hunter?
+
+Term: Kit Fisto
+Definition: Who is this Jedi?
+
+Term: Luminara Unduli
+Definition: Who is this Jedi?
+
+Term: General Hux
+Definition: Who is this First Order general?
+
+Term: Commander Cody
+Definition: Who is this clone?
+
+Term: Darth Sidious
+Definition: Who is this Sith Lord?
+
+Term: Captain Rex
+Definition: Who is this clone?
+
+Term: Ki Adi Mundi
+Definition: Who is this Jedi?
+
+Term: Anakin Skywalkers
+Definition: Who's lightsaber is this?
+
+Term: Jabba the Hutt
+Definition: Who is this gangleader?
+
+Term: R2-D2
+Definition: Who is this droid?
+
+Term: C-3PO
+Definition: Who is this droid?
+
+Term: Grand Moff Tarkin
+Definition: Who is this Imperial man called?
+
+Term: Stormtroopers
+Definition: Who are those Imperial soldiers called?
+
+Term: The Forest Moon of Endor
+Definition: Where does this Ewok live?
+
+Term: Chewbacca
+Definition: How is this Wookie called?
+
+Term: Mustafar
+Definition: How is this planet called?
+
+Term: Rey
+Definition: Who is this girl?
+
+Term: Episode IV - A New Hope
+Definition: What was the first Star Wars movie ever?
+
+Term: Qui-Gon Jinn
+Definition: What is this Jedi called?
+
+Term: Aayla Secura
+Definition: Who is this Jedi?
+
+Term: The Rebellion's
+Definition: Who's flag was this?
+
+Term: Savage Opress
+Definition: Who is this man?
+
+Term: Clonetroopers
+Definition: What kinda troopers are this?
+
+Term: Cad Bane
+Definition: Who is this bounty hunter?
+
+Term: Darth Malgus
+Definition: Who is this Sith Lord?
+
+Term: Hondo Ohnaka
+Definition: Who this pirate?
+
+Term: General Grievous
+Definition: Who is this cyborg and Jedi-killer?
+
+Term: Count Dooku
+Definition: Who is this Sith Lord and Separatist leader?
+
+Term: Clankers
+Definition: How did the clone's call this battle droids?
+
+Term: Twi'leks
+Definition: What is this kind?
+
+Term: Finn
+Definition: Who is this man?
+
+Term: A Rebel Pilot
+Definition: What is this man?
+
+Term: Darth Maul
+Definition: Who is this Sith and Darth Sidious's first apprentice?
+
+Term: First Order Stormtrooper
+Definition: Who are this troopers?
+
+Term: Captian Phasma
+Definition: Who is this captian of the First Order?
+
+Term: FN-2187
+Definition: What was Finn's Stormtrooper name?
+
+Term: BB-8
+Definition: Who is this droid?
+
+Term: Snowtrooper
+Definition: What kinda trooper is this?
+
+Term: Shocktrooper
+Definition: What is this kinda trooper?
+
+Term: Shadowtrooper
+Definition: What kinda trooper is this?
+
+Term: Sandtroopers
+Definition: What kinda troopers are these?
+
+Term: Admiral Ackbar
+Definition: Who is this resistance admiral?
+
+Term: B2 Super Battle Droids
+Definition: What kinda droids are these?
+
+Term: Geonosian Soldier
+Definition: Who are this creatures?
+
+Term: Asajj Ventress
+Definition: Who is this woman?
+
+Term: Ben Kenobi
+Definition: How was this man called in Episode IV - A NEW HOPE ?
+
+Term: Tusken Raiders
+Definition: What kinda creature is this?
+
+Term: Jawa's
+Definition: What are these creatures?
+
+Term: Greedo
+Definition: Who is this man?
+
+Term: Royal Guards
+Definition: Who are these men?
+
+Term: IG-88
+Definition: Who is this scoundrel?
+
+Term: Starkiller Base
+Definition: How is this base called?
+
+Term: Aurra Sing
+Definition: Who is this woman?
+
+Term: Darth Sidious
+Definition: Who kiled Savage Opress?
+
+Term: Mandalorian armor
+Definition: What kind of armor did Boba Fett have?
+
+Term: Bossk
+Definition: Who is this bounty hunter?
+
+Term: Dengar
+Definition: Who is this bounty hunter?
+
+Term: Imperial Probe-droid
+Definition: What is this droid called?
+
+Term: Nien Numb
+Definition: Who is this rebel Sullustan?
+
+Term: Darth Vader
+Definition: who said noooo
+
+Term: stormtroopers
+Definition: what troopers replaced the clone troopers
+
+Term: Nute gunray
+Definition: who is the viceroy of the trade fedreation
+
+Term: Han Solo
+Definition: who is kylo ren's father
+
+Term: Confederacy Of Independent Systems
+Definition: what was the official name of the separatists
+
+Term: Leia Organa Solo
+Definition: who was Kylo ren's mother
+
+Term: DL-44 Blaster Pistol
+Definition: what was Han solo's blaster pistol called
+
+Term: LightSaber
+Definition: what was the light sword used by Sith and Jedi alike called
+
+Term: Ashoka Tano
+Definition: who was Anakin Skywalker's Padawan
+
+Term: Yoda
+Definition: who was the grandmaster of the Jedi order
+
+Term: Captain Rex
+Definition: who was the captain of the 501st legion during the clone wars
+
+Term: Darth Sidious
+Definition: who is Darth Vader's master
+
+Term: Finis Valorum
+Definition: who was chancellor before Sheev Palpatine
+
+Term: Mace Windu
+Definition: who has a purple lightsaber among the Jedi order
+
+Term: General Grievous
+Definition: who was in charge of the droid army
+
+Term: B1 battle droids
+Definition: what are the main battle droids for the separatists
+
+Term: B2 Super battle droids
+Definition: what are the super battle droids for the separatists
+
+Term: Caleb Dume
+Definition: what was Kanan Jarrus's real name
+
+Term: Wookie
+Definition: what is chewbacca species
+
+Term: Ewoks
+Definition: What are the little fury creatures on the forest moon of Endor is called
+
+Term: Boba Fett
+Definition: who is the toughest bounty Hunter in the galaxy
+
+Term: Jango Fett
+Definition: who is Boba fetts father
+
+Term: Poe Dameron
+Definition: who is the hot shot pilot for the resistance
+
+Term: Wedge Antilles
+Definition: Who is the hot shot pilot for the Rebels
+
+Term: Grand Admiral Thrawn
+Definition: Who is the only alien in the imperial army to ever be a Grand Admiral
+
+Term: Chiss
+Definition: what is Grand Admiral Thrawns species is called
+
+Term: Eli Vanto
+Definition: who was the adaide of Thrawn then became a commander and left for the Chiss acdensey
+
+Term: Mara Jade
+Definition: in Legends who was the last empoers hand
+
+Term: Mara Jade Skywalker
+Definition: Who was a imperial agent that married luke skywalker then had a child
+
+Term: qui-gon jinn
+Definition: obi-wan Kenob's master before he died
+
+Term: Jacen Solo
+Definition: in legends he was Han and Leia's son he later became Darth Caedus and died to his sister
+
+Term: Jaina Solo
+Definition: in legends she was Han and Leia's daughter who killed her brother
+
+Term: grand moff Tarkin
+Definition: the one who order the first death star to fire
+
+Term: Jar jar binks
+Definition: 
+
+Term: Darksaber
+Definition: Name the ancient lightsaber once used by the Jedi, that eventually fell into the hands of Mandalorians. It eventually is passed down to Pre Vizsla, then to Darth Maul, and Sabine Wren.
+
+Term: Yoda
+Definition: o">
+
+Term: Kit Fisto
+Definition: o">
+
+Term: Aayla Secura
+Definition: o">
+
+Term: Quinlan Vos
+Definition: o">
+
+Term: Obiwan Kenobi
+Definition: o">
+
+Term: Kanan Jarrus
+Definition: o">
+
+Term: Ezra Bridger
+Definition: o">
+
+Term: Luminara Unduli
+Definition: o">
+
+Term: Anikan Skywalker
+Definition: o">
+
+Term: Shaak Ti
+Definition: o">
+
+Term: Mace Windu
+Definition: o">
+
+Term: Yaddle
+Definition: o">
+
+Term: Count Dooku
+Definition: o">
+
+Term: General Grievous
+Definition: o">
+
+Term: Asajj Ventress
+Definition: o">
+
+Term: Clone Trooper
+Definition: o">
+
+Term: Clone Trooper Commander
+Definition: o">
+
+Term: Ark trooper
+Definition: o">
+
+Term: Battle Droid
+Definition: o">
+
+Term: Super Battle Droid
+Definition: o">
+
+Term: Ahsoka Tano
+Definition: o">
+
+Term: Ki-Adi-Mundi
+Definition: o">
+
+Term: Adi Gallia
+Definition: o">
+
+Term: Saesee Tiin
+Definition: o">
+
+Term: Qui-Gon Jinn
+Definition: o">
+
+Term: Luke Skywalker
+Definition: o">
+
+Term: Depa Billaba
+Definition: o">
+
+Term: Plo Koon
+Definition: o">
+
+Term: Darth Vader
+Definition: o">
+
+Term: Stass Allie
+Definition: o">
+
+Term: Agen Kolar
+Definition: o">
+
+Term: Sifo-Dyas
+Definition: o">
+
+Term: Mara Jade
+Definition: o">
+
+Term: Jar Jar Binks
+Definition: o">
+
+Term: Captain Rex
+Definition: o">
+
+Term: Clone Commander Fox
+Definition: o">
+
+Term: Clone Commander Cody
+Definition: o">
+
+Term: Clone trooper fives
+Definition: o">
+
+Term: Jango Fett
+Definition: o">
+
+Term: Boba Fett
+Definition: o">
+
+Term: Bossk
+Definition: o">
+
+Term: Dengar
+Definition: o">
+
+Term: Darth Maul
+Definition: o">
+
+Term: Darth Plagueis
+Definition: o">
+
+Term: Wedge Antilles
+Definition: o">
+
+Term: Lobot
+Definition: o">
+
+Term: Clone Commander Wolffe
+Definition: o">
+
+Term: Grand Moff Tarkin
+Definition: o">
+
+Term: Snoke
+Definition: o">
+
+Term: Commander Gree
+Definition: o">
+
+Term: Royal guards
+Definition: o">
+
+Term: Rey
+Definition: o">
+
+Term: Finn
+Definition: o">
+
+Term: Captain Phasma
+Definition: o">
+
+Term: General Hux
+Definition: o">
+
+Term: Kylo Ren
+Definition: o">
+
+Term: Clone Commander Thorne
+Definition: o">
+
+Term: Han Solo
+Definition: o">
+
+Term: C-3PO
+Definition: o">
+
+Term: R2-D2
+Definition: o">
+
+Term: Jyn Erso
+Definition: o">
+
+Term: Lando Calrissian
+Definition: o">
+
+Term: Greedo
+Definition: o">
+
+Term: Jabba the Hutt
+Definition: o">
+
+Term: Wampa
+Definition: o">
+
+Term: Jawa
+Definition: o">
+
+Term: Chewbacca
+Definition: o">
+
+Term: Palpatine(Sidious)
+Definition: o">
+
+Term: Leia Organa
+Definition: o">
+
+Term: Senator Organa
+Definition: o">
+
+Term: Savage Opress
+Definition: o">
+
+Term: Darth Revan
+Definition: o">
+
+Term: Maz
+Definition: o">
+
+Term: Darth Nihilus
+Definition: o">
+
+Term: Hondo Ohnaka
+Definition: o">
+
+Term: Finis Valorum
+Definition: o">
+
+Term: Crix Madine
+Definition: o">
+
+Term: Aurra Sing
+Definition: o">
+
+Term: Zam Wesell
+Definition: o">
+
+Term: IG-88
+Definition: o">
+
+Term: BB8
+Definition: o">
+
+Term: Poe Dameron
+Definition: o">
+
+Term: rune haako
+Definition: o">
+
+Term: Admiral Firmus Piett
+Definition: o">
+
+Term: Breha Organa
+Definition: o">
+
+Term: Salicious B. Crumb
+Definition: o">
+
+Term: Captain Panaka
+Definition: o">
+
+Term: PondaBaba
+Definition: o">
+
+Term: Stormtrooper
+Definition: o">
+
+Term: Death Trooper
+Definition: o">
+
+Term: Lott Dod
+Definition: o">
+
+Term: Admiral Ackbar
+Definition: o">
+
+Term: Grand Admiral Thrawn
+Definition: o">
+
+Term: Commander Appo
+Definition: o">
+
+Term: Shmi Skywalker
+Definition: o">
+
+Term: Commander Bly
+Definition: o">
+
+Term: Commander Doom
+Definition: o">
+
+Term: Korr Sella
+Definition: o">
+
+Term: Commander Bacara
+Definition: o">
+
+Term: Commander Fil
+Definition: o">
+
+Term: Commander Havoc
+Definition: o">
+
+Term: Commander Keeli
+Definition: o">
+
+Term: Commander Jet
+Definition: o">
+
+Term: Commander Ponds
+Definition: o">
+
+Term: Commander Thire
+Definition: o">
+
+Term: Captain Fordo
+Definition: o">
+
+Term: Commander Trauma
+Definition: o">
+
+Term: Commander Deviss
+Definition: o">
+
+Term: Commander Blitz
+Definition: o">
+
+Term: Cassian Andor
+Definition: o">
+
+Term: Mon Mothma
+Definition: o">
+
+Term: Rose Tico
+Definition: o">
+
+Term: Admiral Raddus
+Definition: o">
+
+Term: Saw Gerrera
+Definition: o">
+
+Term: Baze Malbus
+Definition: o">
+
+Term: Chirrut Imwe
+Definition: o">
+
+Term: Orson Krennic
+Definition: o">
+
+Term: K-2SO
+Definition: o">
+
+Term: Vice Admiral Holdo
+Definition: o">
+
+Term: Nien Nunb
+Definition: o">
+
+Term: Paige Tico
+Definition: o">
+
+Term: Snowtrooper
+Definition: o">
+
+Term: Mas Amedda
+Definition: o">
+
+Term: Padme Amidala
+Definition: o">
+
+Term: Owen Lars
+Definition: o">
+
+Term: Dexter Jettster
+Definition: o">
+
+Term: Beru Lars
+Definition: o">
+
+Term: Zett Jukassa
+Definition: o">
+
+Term: Watto
+Definition: o">
+
+Term: Boss Nass
+Definition: o">
+
+Term: Sebulba
+Definition: o">
+
+Term: Daultay Dofine
+Definition: o">
+
+Term: Tion Medon
+Definition: o">
+
+Term: Biggs Darklighter
+Definition: o">
+
+Term: Admiral Motti
+Definition: o">
+
+Term: Admiral Piett
+Definition: o">
+
+Term: Bib Fortuna
+Definition: o">
+
+Term: Ewok
+Definition: o">
+
+Term: Oola
+Definition: o">
+
+Term: Lor San Tekka
+Definition: o">
+
+Term: Tasu Leech
+Definition: o">
+
+Term: inquisitor
+Definition: o">
+
+Term: Barriss Offee
+Definition: o">
+
+Term: Sora Bulq
+Definition: o">
+
+Term: Bultar Swan
+Definition: o">
+
+Term: Rancor
+Definition: o">
+
+Term: Tauntaun
+Definition: o">
+
+Term: Sarlacc
+Definition: o">
+
+Term: Darth Bane
+Definition: o">
+
+Term: Darth Malak
+Definition: o">
+
+Term: Poggle the Lesser
+Definition: o">
+
+Term: Geonosians
+Definition: o">
+
+Term: Bantha
+Definition: o">
+
+Term: Droideka
+Definition: o">
+
+Term: Astromech
+Definition: o">
+
+Term: Echo
+Definition: o">
+
+Term: Clone Trooper Tup
+Definition: o">
+
+Term: Porkins
+Definition: o">
+
+Term: Branon
+Definition: o">
+
+Term: Darth Zannah
+Definition: o">
+
+Term: Jacen Solo
+Definition: o">
+
+Term: The Seventh Sister
+Definition: o">
+
+Term: The Eighth Brother
+Definition: o">
+
+Term: The Fifth Brother
+Definition: o">
+
+Term: Zuckuss
+Definition: o">
+
+Term: Tusken Raider
+Definition: o">
+
+Term: Dewback
+Definition: o">
+
+Term: Chancellor Palpatine
+Definition: o">
+
+Term: Jocasta Nu
+Definition: o">
+
+Term: Starkiller
+Definition: o">
+
+Term: R4-P17
+Definition: o">
+
+Term: Probe Droid
+Definition: o">
+
+Term: 4-LOM
+Definition: o">
+
+Term: EV-9D9
+Definition: o">
+
+Term: Evazan
+Definition: o">
+
+Term: Dreis
+Definition: o">
+
+Term: Nett
+Definition: o">
+
+Term: Kaminoan
+Definition: o">
+
+Term: Cantina Band Member
+Definition: o">
+
+Term: Zeb Orrelios
+Definition: o">
+
+Term: Agent Kallus
+Definition: o">
+
+Term: Gall Trayvis
+Definition: o">
+
+Term: Bendu
+Definition: o">
+
+Term: SnapWexley
+Definition: o">
+
+Term: Wicket
+Definition: o">
+
+Term: Exogarth
+Definition: o">
+
+Term: 2-1B
+Definition: o">
+
+Term: MaxRebo
+Definition: o">
+
+Term: GamorreanGuard
+Definition: o">
+
+Term: Magnagaurds
+Definition: o">
+
+Term: CaptainPanaka
+Definition: o">
+
+Term: Shock Trooper
+Definition: o">
+
+Term: Galen Erso
+Definition: o">
+
+Term: Tasu leech
+Definition: o">
+
+Term: Razoo Qin-Fee
+Definition: o">
+
+Term: Snap Wexley
+Definition: o">
+
+Term: Captain Canady
+Definition: o">
+
+Term: General Dodonna
+Definition: o">
+
+Term: Cad Bane
+Definition: o">
+
+Term: Darth Malgus
+Definition: o">
+
+Term: Nightsisters
+Definition: o">
+
+Term: Thrawn
+Definition: o">
+
+Term: leia
+Definition: Who is this?
+
+Term: han
+Definition: Who is this?
+
+Term: luke
+Definition: Who is this?
+
+Term: r2d2
+Definition: Who is this droid?
+
+Term: c3po
+Definition: Who is this droid?
+
+Term: rey
+Definition: Who is this?
+
+Term: finn
+Definition: Who is this?
+
+Term: obi-wan
+Definition: Who is this?
+
+Term: yoda
+Definition: Who is this?
+
+Term: poe
+Definition: Who is this?
+
+Term: rose
+Definition: Who is this?
+
+Term: greedo
+Definition: Who is this?
+
+Term: jabba
+Definition: Who is this?
+
+Term: dooku
+Definition: Who is this?
+
+Term: anakin
+Definition: Who is this?
+
+Term: palpatine
+Definition: Who is this?
+
+Term: jar jar
+Definition: Who is this?
+
+Term: vader
+Definition: Who is this?
+
+Term: maul
+Definition: Who is this?
+
+Term: ahsoka
+Definition: Who is this?
+
+Term: kylo ren
+Definition: Who is this?
+
+Term: snoke
+Definition: Who is this?
+
+Term: chewbacca
+Definition: Who is this?
+
+Term: lightsaber
+Definition: What is this?
+
+Term: padme
+Definition: Who is this?
+
+Term: boba
+Definition: Who is this?
+
+Term: jango
+Definition: Who is this?
+
+Term: mon mothma
+Definition: Who is this?
+
+Term: nien nunb
+Definition: Who is this?
+
+Term: lobot
+Definition: Who is this?
+
+Term: wicket
+Definition: Who is this?
+
+Term: grievous
+Definition: Who is this?
+
+Term: qui-gon
+Definition: Who is this?
+
+Term: ackbar
+Definition: Who is this?
+
+Term: chirrut
+Definition: Who is this?
+
+Term: mace
+Definition: Who is this?
+
+Term: tarkin
+Definition: Who is this?
+
+Term: k2so
+Definition: What droid is this?
+
+Term: lando
+Definition: Who is this?
+
+Term: bb8
+Definition: What droid is this?
+
+Term: jyn
+Definition: Who is this?
+
+Term: cassian
+Definition: Who is this?
+
+Term: baze
+Definition: Who is this?
+
+Term: saw
+Definition: Who is this?
+
+Term: wedge
+Definition: Who is this?
+
+Term: holdo
+Definition: Who is this?
+
+Term: sebulba
+Definition: Who is this?
+
+Term: krennic
+Definition: Who is this?
+
+Term: unkar
+Definition: Who is this?
+
+Term: beru
+Definition: Who is this?
+
+Term: owen
+Definition: Who is this?
+
+Term: wampa
+Definition: What is this?
+
+Term: stormtrooper
+Definition: What is this?
+
+Term: nihilus
+Definition: Who is this?
+
+Term: bane
+Definition: Who is this?
+
+Term: bossk
+Definition: Who is this?
+
+Term: hux
+Definition: Who is this?
+
+Term: maz
+Definition: Who is this?
+
+Term: rancor
+Definition: What is this?
+
+Term: phasma
+Definition: Who is this?
+
+Term: oola
+Definition: Who is this?
+
+Term: sio
+Definition: Who is this?
+
+Term: panaka
+Definition: Who is this?
+
+Term: veers
+Definition: Who is this?
+
+Term: biggs
+Definition: Who is this?
+
+Term: kitster
+Definition: Who is this?
+
+Term: kit
+Definition: Who is this?
+
+Term: aayla
+Definition: Who is this?
+
+Term: luminara
+Definition: Who is this?
+
+Term: plo
+Definition: Who is this?
+
+Term: adi
+Definition: Who is this?
+
+Term: depa
+Definition: Who is this?
+
+Term: barriss
+Definition: Who is this?
+
+Term: shaak
+Definition: Who is this?
+
+Term: jocasta
+Definition: Who is this?
+
+Term: sifo-dyas
+Definition: Who is this?
+
+Term: bultar
+Definition: Who is this?
+
+Term: agen
+Definition: Who is this?
+
+Term: stass
+Definition: Who is this?
+
+Term: asajj
+Definition: Who is this?
+
+Term: zannah
+Definition: Who is this?
+
+Term: savage
+Definition: Who is this?
+
+Term: malak
+Definition: Who is this?
+
+Term: malgus
+Definition: Who is this?
+
+Term: sion
+Definition: Who is this?
+
+Term: revan
+Definition: Who is this?
+
+Term: plagueis
+Definition: Who is this?
+
+Term: clone
+Definition: What is this?
+
+Term: opening crawl
+Definition: What is this?
+
+Term: tatooine
+Definition: What is this planet?
+
+Term: hoth
+Definition: What is this planet?
+
+Term: death star
+Definition: What is this?
+
+Term: coruscant
+Definition: What is this planet?
+
+Term: naboo
+Definition: What is this planet?
+
+Term: yavin
+Definition: What is this planet?
+
+Term: alderaan
+Definition: What is this planet?
+
+Term: bespin
+Definition: What is this planet?
+
+Term: dagobah
+Definition: What is this planet?
+
+Term: mustafar
+Definition: What is this planet?
+
+Term: kashyyyk
+Definition: What is this planet?
+
+Term: geonosis
+Definition: What is this planet?
+
+Term: kamino
+Definition: What is this planet?
+
+Term: takodana
+Definition: What is this planet?
+
+Term: starkiller base
+Definition: What is this planet?
+
+Term: starkiller
+Definition: Who is this?
+
+Term: endor
+Definition: What is this planet?
+
+Term: ewoks
+Definition: What are these?
+
+Term: jawas
+Definition: What are these?
+
+Term: x-wing
+Definition: What is this?
+
+Term: y-wing
+Definition: What is this?
+
+Term: tie fighter
+Definition: What is this?
+
+Term: quarren
+Definition: What is this species?
+
+Term: mandalorian
+Definition: Who's symbol is this?
+
+Term: 5
+Definition: This is a scene from which movie?
+
+Term: 1
+Definition: This is a scene from which movie?
+
+Term: 2
+Definition: This is a scene from which movie?
+
+Term: 6
+Definition: This is a scene from which movie?
+
+Term: 7
+Definition: This is a scene from which movie?
+
+Term: 3
+Definition: This is a scene from which movie?
+
+Term: 4
+Definition: This is a scene from which movie?
+
+Term: clone wars
+Definition: What was the name of the wars that were fought in the galaxy before the fall of the Old Republic?
+
+Term: dodonna
+Definition: Who is this?
+
+Term: motti
+Definition: Who is this?
+
+Term: b1
+Definition: What is this?
+
+Term: b2
+Definition: What is this?
+
+Term: garven
+Definition: Who is this?
+
+Term: salacious
+Definition: Who is this?
+
+Term: logray
+Definition: Who is this?
+
+Term: ponda
+Definition: What is this?
+
+Term: Leash
+Definition: une laisse
+
+Term: foul
+Definition: fétide, infâme
+
+Term: stench
+Definition: puanteur
+
+Term: Guest
+Definition: un invité
+
+Term: Dare
+Definition: oser
+
+Term: tighten your grip
+Definition: resserrer votre emprise
+
+Term: slip through your fingers.
+Definition: vous glisser entre les doigts
+
+Term: trusty
+Definition: confiant
+
+Term: star destroyer
+Definition: 
+
+Term: storm trooper
+Definition: 
+
+Term: darth vader cat
+Definition: 
+
+Term: luke
+Definition: 
+
+Term: order
+Definition: 66
+
+Term: boba
+Definition: 
+
+Term: luke old
+Definition: 
+
+Term: princess leia
+Definition: 
+
+Term: death star
+Definition: 
+
+Term: light saber blue
+Definition: 
+
+Term: star killer base
+Definition: 
+
+Term: kilo ren
+Definition: 
+
+Term: han solo
+Definition: 
+
+Term: han solo old
+Definition: 
+
+Term: rey
+Definition: 
+
+Term: poe
+Definition: 
+
+Term: tie fighter
+Definition: 
+
+Term: darth vader tie
+Definition: 
+
+Term: cody
+Definition: 
+
+Term: count dooku
+Definition: 
+
+Term: yoda
+Definition: 
+
+Term: yoda goust
+Definition: 
+
+Term: first order trooper
+Definition: 
+
+Term: kit fisto
+Definition: 
+
+Term: battle droid
+Definition: 
+
+Term: super battle droid
+Definition: 
+
+Term: snoke
+Definition: 
+
+Term: R2 D2
+Definition: 
+
+Term: c3po
+Definition: 
+
+Term: zeb
+Definition: 
+
+Term: greedo
+Definition: 
+
+Term: ezra bridger
+Definition: 
+
+Term: kanan
+Definition: 
+
+Term: captin rex
+Definition: 
+
+Term: seventh sister
+Definition: 
+
+Term: probe droid
+Definition: 
+
+Term: lando
+Definition: 
+
+Term: jabba
+Definition: 
+
+Term: ahsoka
+Definition: 
+
+Term: chewie
+Definition: 
+
+Term: bb 8
+Definition: 
+
+Term: mace windu
+Definition: 
+
+Term: light saber battle
+Definition: 
+
+Term: grand moff tarkin
+Definition: 
+
+Term: watto
+Definition: 
+
+Term: plo koon
+Definition: 
+
+Term: blaster hans
+Definition: 
+
+Term: shmi
+Definition: 
+
+Term: darth maul
+Definition: 
+
+Term: aurra sing
+Definition: 
+
+Term: jedi tempal
+Definition: 
+
+Term: jedi knights
+Definition: 
+
+Term: captin phsama
+Definition: 
+
+Term: droidekas
+Definition: 
+
+Term: anakin young
+Definition: 
+
+Term: ki adi mundi
+Definition: 
+
+Term: wampa
+Definition: 
+
+Term: tauntaun
+Definition: 
+
+Term: maz
+Definition: 
+
+Term: jar jar binks
+Definition: 
+
+Term: savage
+Definition: 
+
+Term: probe
+Definition: 
+
+Term: asajj
+Definition: 
+
+Term: mandalorien
+Definition: 
+
+Term: agent kallus
+Definition: 
+
+Term: imperial symbol
+Definition: 
+
+Term: wedge antilles
+Definition: 
+
+Term: han carbinite
+Definition: 
+
+Term: obi wan padwan
+Definition: 
+
+Term: obi wan goust
+Definition: 
+
+Term: reble friends
+Definition: 
+
+Term: lando
+Definition: 
+
+Term: hux
+Definition: 
+
+Term: lor san
+Definition: 
+
+Term: kilo rens dad
+Definition: 
+
+Term: lor sen tekka
+Definition: 
+
+Term: flame trooper clone
+Definition: 
+
+Term: E-11
+Definition: Blaster commonly used by stormtroopers
+
+Term: A280C
+Definition: This blaster is commonly used by the rebels. it has a decent fire rate, and is most memorable as the defense weapon during the battle of Hoth.
+
+Term: DH-17
+Definition: A highly automated blaster pistol and is used by the rebel alliance.
+
+Term: TL-50 heavy repeater
+Definition: An imperial instrument used for mass destruction. With triple barrels and an amazing fire rate, few blasters match the power of this blaster.
+
+Term: DT-12
+Definition: A rodian blaster used by a certain rodian bounty hunter, this blaster pistol is a bold design, with no scope and dish-like heat vents, this gun packs a punch, but won't save you from a smuggler who shoots first.
+
+Term: Bowcaster
+Definition: Name the blaster native to the Wookiee planet of Kashyyyk and known for its near-explosive blasts. Signature weapon of Chewbacca.
+
+Term: Wookies
+Definition: Tall, strong species, lives on the planet Kashyyyk
+
+Term: Rodian
+Definition: Greedo's species
+
+Term: Nien Nunb
+Definition: Sullustan friend of Lando Calrissian and Rebel pilot. Served in Battle of Endor. Also serves in the Resistance in the attack of Starkiller Base.
+
+Term: X-Wing fighter
+Definition: Rebel attack fighter
+
+Term: TIE Interceptor
+Definition: Specialized Imperial Starfighter
+
+Term: DT-29
+Definition: Krennics blaster used in the movie Rogue One
+
+Term: K-16 Bryar
+Definition: A unique blaster pistol with a secondary fire
+
+Term: SE-14C
+Definition: This sophisticated blaster pistol is the sidearm of imperial officials and pilots, making it a weapon of the empire. its dual scopes and angled design make it the perfect weapon for imperial officials.
+
+Term: CA-87
+Definition: Shock Blaster, commonly used by the Jawas
+
+Term: Relby V-10
+Definition: Originally designed as a grenade launcher, the odd design of this targeting rifle has a grip at the end.
+
+Term: missile
+Definition: a rocket or weapon sent through the air
+
+Term: satellite
+Definition: Any object that orbits around another object in space
+
+Term: asset
+Definition: something of value
+
+Term: orbit
+Definition: an object that revolves around a planet
+
+Term: data
+Definition: information
+
+Term: Star Wars
+Definition: Wars of world throughout the galaxy
+
+Term: The Clone Wars
+Definition: major galactic conflict fought between the Galactic Republic and the Confederacy of Independent Systems. The war was named after the clone troopers utilized by the Republic against the battle droid forces of the CIS.
+
+Term: Anikan Skywalker
+Definition: chosen one
+
+Term: Obi-Wan Kenobi
+Definition: Jedi, Anikan's Master
+
+Term: Asoka Tano
+Definition: Anakins apprentice
+
+Term: Captain Rex (Star Wars: The Clone Wars)
+Definition: Clone Captain Rex served the Republic during the Clone Wars, often taking orders from Anakin Skywalker and Ahsoka Tano. He viewed military service as an honor, and he always completed his mission. Fond of using two blaster pistols at the same time, Rex customized his armor with distinctive blue markings. His loyalty to the Republic and his Jedi Generals was absolute, but even this dedicated veteran soldier found himself plagued by doubts as the Clone Wars claimed more lives and brought ruin to more worlds.
+
+Term: Commander Cody
+Definition: A natural and practical leader in the clone army, Cody was a good fit for General Kenobi, to whom he was particularly loyal. Cody's keen ability to strategize, combined with his fierce combat style in the heat of battle, earned him the respect of the Jedi, and of his fellow clones as well. He often worked with Captain Rex, with whom he became friends. Cody enjoyed a close relationship with Kenobi, often sharing a tension-busting joke with him during intense moments on the battlefield. When Darth Sidious gave Order 66, however, Cody's loyalty to Kenobi was eclipsed by his clone indoctrination, and he ordered his troops to fire on the Jedi.
+
+Term: Commander Fox
+Definition: Commander Fox led the Coruscant Guard, an elite clone trooper unit assigned to serve as peace-keepers on the Galactic Republic capital. Like every other clone trooper in the Guard, Fox was bound by honor and duty to protect and serve the Supreme Chancellor and the members of the Galactic Senate. Utterly fearless, he was always the first to lead the charge into battle, even in the most perilous combat situations. His exemplary performance has made him one of the most highly decorated soldiers in the Republic army.
+
+Term: Commander Gree
+Definition: Clone Commander Gree, designation 1004, led the Elite Corps of clone troopers during the Clone Wars. He saw deployments on such heated battlefronts as Kashyyyk. Gree himself wore camouflaged armor to better blend into jungle surroundings. Though a faithful commander who carried out the Jedi's orders, Gree was ultimately loyal to the Republic. When Chancellor Palpatine enacted Order 66, Gree understood it was a worst-case scenario contingency -- the Jedi had betrayed the Republic, and were therefore dangerous enemies of the state.
+
+Term: Commander Fil
+Definition: CC-3714, nicknamed "Fil," was a veteran clone trooper commander in the Grand Army of the Republic who was assigned to recently promoted Jedi Knight Nahdar Vebb during the Clone Wars. In 22 BBY, he led a squad of clone troopers on a mission to the third moon of Vassek, in the Outer Rim Territories.
+
+Term: Clone Trooper Waxer
+Definition: Waxer served as part of Ghost Company, under the command of Clone Commander Cody during the campaigns to retake Ryloth and Geonosis. Waxer and Boil were often an inseparable pair, and together formed a recon team scouting the abandoned Twi'lek village of Nabat. There, they found a young girl named Numa, the sole survivor of a Separatist assault. Though the hard-edged Boil at first didn't want anything to do with the little girl, Waxer was compassionate and decided to protect her well-being. Numa proved extremely resourceful, guiding Waxer and Boil through underground passages that allowed them to bypass Separatist forces.
+
+Term: Clone Trooper Boil
+Definition: When trooper Waxer was en route to Ryloth on a mission to liberate its besieged population of Twi'leks, he was at first callously dismissive of their plight. "If we're here to free the tail-heads, the least they can do is get out of our way," he said. But, time spent on the planet with a brave little survivor of a Nabat village opened Boil's eyes. The resourceful girl, Numa, guided Boil and his squadmate Waxer through hidden passageways beneath the village, which proved crucial in freeing hostages held by the Separatists. To honor Numa, Boil had a cartoon illustration of Numa added to his helmet.
+
+Term: Clone Trooper Jessie
+Definition: The clone troopers of the 501st Legion are a tight-knit bunch, loyal to the end to their Jedi General, Anakin Skywalker. Jesse was a hard-fighting patriot who proudly wore the cog-shaped symbol of the Galactic Republic on his helmet, and as a large tattoo that covered his face.
+
+Term: Clone Trooper Kix
+Definition: Kix served as a medic in the 501st Legion of clone troopers. He is equipped with medpacs and other first aid equipment to help tend to his fellow squadmates in the thick of battle. Though Kix is dedicated to preserving the life of his fellow brothers, he has no qualms about fighting the enemy. Stencilled across his head is the phrase, "a good droid is a dead one" as testament to his mettle.
+
+Term: Clone Trooper Hardcase
+Definition: "Let me at 'em!" was Hardcase's typical reaction when presented with enemy forces, no matter how overwhelming the odds. Legend has it that his growth chamber sprung a leak during his formation on Kamino, resulting in his characteristic, somewhat aberrant, but nonetheless useful hyperactivity. When the blaster bolts fly, Hardcase loses all sense of self-preservation and returns fire with zeal, determined to wipe out the enemy with repeated sweeps of his rotary laser cannon.
+
+Term: Clone Trooper Tup
+Definition: A rookie clone trooper in the 501st Legion, Tup acclimated well within the ranks of seasoned veterans. Unlike some of the newer clones, like Dogma, who seemed wound a little too tight, Tup was far more willing to learn from his brothers' experiences. Tup could be distinguished by the teardrop shaped tattoo on his face, and the matching markings on his helmet. He served during the grueling campaign to retake the shadowy planet Umbara, under the command of the fierce General Pong Krell.
+
+Term: Arc Trooper Fives
+Definition: Also known as CT-27-5555, Fives trained with Domino Squad on Kamino before being shipped out to the Rishi Moon listening outpost. He survived the Separatist attack on the station there, and was transferred to the 501st Legion alongside his squadmate and fellow survivor, Echo. Fives and Echo were promoted to ARC trooper status after the defense of Kamino from Separatist invaders. He and Echo were later assigned with the difficult mission of freeing Republic prisoners from the daunting Citadel prison installation on Lola Sayu. He and Echo were later part of a mission to free Republic prisoners from the Separatist prison called the Citadel. Echo fell in battle, leaving Fives as Domino Squad's sole survivor. Fives accompanied the clone trooper Tup to Kamino for medical testing, where he discovered a terrifying secret about the clones' origins and ultimate purpose.
+
+Term: Arc Trooper Echo
+Definition: Echo was a soldier in the Grand Army of the Republic, known for his strict adherence to orders and rules -- hence, his nickname, which was sarcastically gifted by his clone brothers. Still, Echo proved to be among the bravest clones, integral in the defense of Rishi Station and Tipoca City, and eventually achieved the rank of ARC trooper. Through tragic circumstances, however, he would become something more than a normal clone.
+
+Term: Clone Commander Wolffe
+Definition: Clone Commander Wolffe (clone designation CC-3636) served under General Plo Koon in the Clone Wars, as commander of the tight-knit unit known as the Wolfpack. A seasoned and battered combatant, Wolffe has witnessed some of the worst the war has to offer. Early in the Clone Wars, he lost his entire command when Master Plo's flagship, Triumphant, was destroyed by the despicable General Grievous. Despite such tragedy, he fights on bravely, proudly brandishing his battle scars and instilling loyalty among his men.
+
+Term: Clone, droid
+Definition: Troopers
+
+Term: Yoda
+Definition: Jedi founder
+
+Term: Obi wan
+Definition: Jedi master
+
+Term: Anikan
+Definition: Obi wan's padawan
+
+Term: Courasant
+Definition: Home of jedi temple
+
+Term: Jedi
+Definition: Force weilders
+
+Term: Sith
+Definition: evil force weilders
+
+Term: Ahsohka tano
+Definition: Anakins padawan
+
+Term: Venator
+Definition: Star destroyer??? I guess.
+
+Term: Plo Koon
+Definition: Who is this Jedi?
+
+Term: Anakin Skywalker
+Definition: Who is this Jedi?
+
+Term: Grand Master Yoda
+Definition: Who is this Jedi?
+
+Term: Darth Nihilus
+Definition: Who is this person?
+
+Term: Obi-Wan Kenobi
+Definition: Who is this Jedi?
+
+Term: Darth Vader
+Definition: Who is this Sith Lord?
+
+Term: TIE Fighter
+Definition: What is this ship called?
+
+Term: Ashoka Tano
+Definition: Who is this person?
+
+Term: Star Destroyer
+Definition: How is this ship called?
+
+Term: Mark Hamill
+Definition: Who is this actor?
+
+Term: Kylo Ren
+Definition: Who is this Force user?
+
+Term: Supreme Leader Snoke
+Definition: Who is this?
+
+Term: Poe Dameron
+Definition: Who is this resistance pilot?
+
+Term: Death Star
+Definition: How is this battlestation called?
+
+Term: Rogue One: A Star Wars story
+Definition: Wich Star Wars film was released on december 2k16?
+
+Term: Dathomir
+Definition: What is the Darth Mauls home planet?
+
+Term: Magnagaurds
+Definition: What are those?
+
+Term: Sheev Palpatine
+Definition: Who is the senate?
+
+Term: Tatooine
+Definition: Were lives Luke Skywalker before Ben Kenobi took him with him?
+
+Term: Naboo
+Definition: What was Padmé Amidala's home planet?
+
+Term: Han Solo
+Definition: What is this man called?
+
+Term: Leia Organa
+Definition: Who is this rebel?
+
+Term: Adam Driver
+Definition: Who is this character's actor called?
+
+Term: Lightsaber
+Definition: How is this weapon called?
+
+Term: Mace Windu
+Definition: Who is this Jedi?
+
+Term: Jango Fett
+Definition: Who is this bounty hunter?
+
+Term: Boba Fett
+Definition: Who is this bounty hunter?
+
+Term: Kit Fisto
+Definition: Who is this Jedi?
+
+Term: Luminara Unduli
+Definition: Who is this Jedi?
+
+Term: General Hux
+Definition: Who is this First Order general?
+
+Term: Commander Cody
+Definition: Who is this clone?
+
+Term: Darth Sidious
+Definition: Who is this Sith Lord?
+
+Term: Captain Rex
+Definition: Who is this clone?
+
+Term: Ki Adi Mundi
+Definition: Who is this Jedi?
+
+Term: Anakin Skywalkers
+Definition: Who's lightsaber is this?
+
+Term: Jabba the Hutt
+Definition: Who is this gangleader?
+
+Term: R2-D2
+Definition: Who is this droid?
+
+Term: C-3PO
+Definition: Who is this droid?
+
+Term: Grand Moff Tarkin
+Definition: Who is this Imperial man called?
+
+Term: Stormtroopers
+Definition: Who are those Imperial soldiers called?
+
+Term: The Forest Moon of Endor
+Definition: Where does this Ewok live?
+
+Term: Chewbacca
+Definition: How is this Wookie called?
+
+Term: Mustafar
+Definition: How is this planet called?
+
+Term: Rey
+Definition: Who is this girl?
+
+Term: Episode IV - A New Hope
+Definition: What was the first Star Wars movie ever?
+
+Term: Qui-Gon Jinn
+Definition: What is this Jedi called?
+
+Term: Aayla Secura
+Definition: Who is this Jedi?
+
+Term: The Rebellion's
+Definition: Who's flag was this?
+
+Term: Savage Opress
+Definition: Who is this man?
+
+Term: Clonetroopers
+Definition: What kinda troopers are this?
+
+Term: Cad Bane
+Definition: Who is this bounty hunter?
+
+Term: Darth Malgus
+Definition: Who is this Sith Lord?
+
+Term: Hondo Ohnaka
+Definition: Who this pirate?
+
+Term: General Grievous
+Definition: Who is this cyborg and Jedi-killer?
+
+Term: Count Dooku
+Definition: Who is this Sith Lord and Separatist leader?
+
+Term: Clankers
+Definition: How did the clone's call this battle droids?
+
+Term: Twi'leks
+Definition: What is this kind?
+
+Term: Finn
+Definition: Who is this man?
+
+Term: A Rebel Pilot
+Definition: What is this man?
+
+Term: Darth Maul
+Definition: Who is this Sith and Darth Sidious's first apprentice?
+
+Term: First Order Stormtrooper
+Definition: Who are this troopers?
+
+Term: Captian Phasma
+Definition: Who is this captian of the First Order?
+
+Term: FN-2187
+Definition: What was Finn's Stormtrooper name?
+
+Term: BB-8
+Definition: Who is this droid?
+
+Term: Snowtrooper
+Definition: What kinda trooper is this?
+
+Term: Shocktrooper
+Definition: What is this kinda trooper?
+
+Term: Shadowtrooper
+Definition: What kinda trooper is this?
+
+Term: Sandtroopers
+Definition: What kinda troopers are these?
+
+Term: Admiral Ackbar
+Definition: Who is this resistance admiral?
+
+Term: B2 Super Battle Droids
+Definition: What kinda droids are these?
+
+Term: Geonosian Soldier
+Definition: Who are this creatures?
+
+Term: Asajj Ventress
+Definition: Who is this woman?
+
+Term: Ben Kenobi
+Definition: How was this man called in Episode IV - A NEW HOPE ?
+
+Term: Tusken Raider
+Definition: What kinda creature is this?
+
+Term: Jawa
+Definition: What are these creatures?
+
+Term: Greedo
+Definition: Who is this man?
+
+Term: Royal Guards
+Definition: Who are these men?
+
+Term: IG-88
+Definition: Who is this scoundrel?
+
+Term: Starkiller Base
+Definition: How is this base called?
+
+Term: Aurra Sing
+Definition: Who is this woman?
+
+Term: Darth Sidious
+Definition: Who kiled Savage Opress?
+
+Term: Mandalorian armor
+Definition: What kind of armor did Boba Fett have?
+
+Term: Bossk
+Definition: Who is this bounty hunter?
+
+Term: Dengar
+Definition: Who is this bounty hunter?
+
+Term: Imperial Probe-droid
+Definition: What is this droid called?
+
+Term: Luke Skywalker
+Definition: o">
+
+Term: Princess Leia Organa
+Definition: o">
+
+Term: Han Solo
+Definition: o">
+
+Term: Chewbacca
+Definition: o">
+
+Term: Darth Vader
+Definition: o">
+
+Term: Emporer Palpatine
+Definition: o">
+
+Term: General Veers
+Definition: o">
+
+Term: Admiral Ackbar
+Definition: o">
+
+Term: Mon Mothma
+Definition: o">
+
+Term: Wedge Antilles
+Definition: o">
+
+Term: Biggs Darklighter
+Definition: o">
+
+Term: Yoda
+Definition: o">
+
+Term: Wicket W. Warrick
+Definition: o">
+
+Term: Stormtrooper
+Definition: o">
+
+Term: Jabba the Hutt
+Definition: o">
+
+Term: Bib Fortuna
+Definition: o">
+
+Term: Oola
+Definition: o">
+
+Term: Max Rebo
+Definition: o">
+
+Term: R2-D2
+Definition: o">
+
+Term: C-3PO
+Definition: o">
+
+Term: Old Ben Kenobi
+Definition: o">
+
+Term: Admiral Piett
+Definition: o">
+
+Term: Royal Guard
+Definition: o">
+
+Term: Grand Moff Tarkin
+Definition: o">
+
+Term: Lando Calrissian
+Definition: o">
+
+Term: Boba Fett
+Definition: o">
+
+Term: IG-88
+Definition: o">
+
+Term: Greedo
+Definition: o">
+
+Term: Dengar
+Definition: o">
+
+Term: Jawa
+Definition: o">
+
+Term: Uncle Owen
+Definition: o">
+
+Term: Aunt Beru
+Definition: o">
+
+Term: Bail Organa
+Definition: o">
+
+Term: ARCHETYPES
+Definition: recurring patterns of situations, characters, or symbols existing universally and instinctively in the collective unconscious of man
+
+Term: SITUATION ARCHETYPES
+Definition: archetypes that define the overall plot of a story
+
+Term: The Quest
+Definition: a situational archetype; the search for someone or something which, when found and brought back, will restore fertility to a wasted land; ultimate goal of the main character
+
+Term: The Task
+Definition: a situational archetype; a step to complete the quest; one of the challenges the main character must face in order to complete his quest
+
+Term: The Initiation
+Definition: a situational archetype; takes the form of an initiation into adult life; adolescent comes into his or her maturity with a new awareness, and faces problems with a new sense of hope
+
+Term: The Journey
+Definition: a situational archetype; hero is in search of some truth or information necessary to restore fertility to the kingdom; main character descends into a real or psychological hell and is forced to discover the blackest truths, often concerning his own faults; must accept personal responsibility
+
+Term: The Fall
+Definition: a situational archetype; a descent from a higher to a lower state of being; involves a loss of innocence and bliss, often accompanied by the expulsion from a kind of paradise as a penalty for disobedience and moral transgression
+
+Term: Death and Rebirth
+Definition: a situational archetype; parallel between cycle of nature and cycle of life; morning and springtime represent birth, youth, or rebirth; evening and winter suggest old age and death
+
+Term: The Ritual
+Definition: a situational archetype; actual ceremonies that the initiate experiences; rite of passage into adulthood
+
+Term: The Unhealable Wound
+Definition: a situational archetype; the hero or some other character has a wound, either physical or psychological that cannot be fully healed; often indicates a loss of innocence
+
+Term: Good vs. Evil
+Definition: a situational archetype; battle between two primal forces
+
+Term: Nature vs. the Mechanistic World
+Definition: a situational archetype; nature is good, technology and society is evil
+
+Term: SYMBOLIC ARCHETYPES
+Definition: archetypes that symbolize some event in the story; the element in the archetype name must be present in the story to represent the ideas
+
+Term: Light vs. Darkness
+Definition: a symbolic archetype; light suggests hope, renewal, or intellectual illumination; darkness implies the unknown, ignorance, or despair
+
+Term: Water vs. Desert
+Definition: a symbolic archetype; water is necessary to life and growth and appears as a birth or rebirth symbol as in baptisms; desert represents alienation, loneliness, desolation, near starvation
+
+Term: Heaven vs. Hell
+Definition: a symbolic archetype; associated parts of the universe not accessible to man with the dwelling places of primordial forces that govern his world
+
+Term: Haven vs. Wilderness
+Definition: a symbolic archetype; heroes are often sheltered for a time in places of safety to regain their health or spiritual strength before they are thrust out into the dangerous wilderness
+
+Term: Innate Wisdom vs. Educated Stupidity
+Definition: a symbolic archetype; some characters exhibit wisdom and understanding of situations instinctively, as opposed to those who have extensive book learning yet usually make poor decisions
+
+Term: Supernatural Intervention
+Definition: a symbolic archetype; a supernatural force, god, or being intervenes either on the side of the hero or sometimes against him
+
+Term: The Magic Weapon
+Definition: a symbolic archetype; a weapon that can only be wielded or used to its full potential by the hero; symbolizes the extraordinary quality of the hero
+
+Term: CHARACTER ARCHETYPES
+Definition: models for which many characters are based; the character should meet most of the criteria to qualify as that archetype
+
+Term: The Hero
+Definition: a character archetype; protagonist; characteristics might be: mother is a virgin, circumstances of his conception are unusual, attempt is made to kill him, frequently reared by foster parents; usually suffers a mysterious death
+
+Term: The Young Man from the Provinces
+Definition: a character archetype; the hero is spirited away as a young man and raised by strangers; later returns to his home where he is a stranger; new problems and new solutions
+
+Term: The Initiate
+Definition: a character archetype; young hero or heroine; prior to his/her quest, must endure some training and ceremony; usually innocent, often wears white
+
+Term: The Mentor
+Definition: a character archetype; serves as a teacher or counselor; role model or mother or father figure; teaches by example the skills necessary to survive the quest
+
+Term: Hunting Group of Companions
+Definition: a character archetype; loyal companions willing to face any number of perils in order to be together
+
+Term: Friendly Beast
+Definition: a character archetype; an ANIMAL who befriends the hero and serves him/her loyally; beast is to show that nature is on the side of the hero
+
+Term: Devil Figure
+Definition: a character archetype; evil incarnate; offers worldly goods, fame, or knowledge in exchange for possession of protagonist's soul
+
+Term: Evil Figure with the Ultimately Good Heart
+Definition: a character archetype; redeemable devil figure saved by the nobility or love of the hero
+
+Term: The Scapegoat
+Definition: a character archetype; character used to carry the blame of the sins of society; seen as weak until his death; usually becomes a powerful force
+
+Term: The Outcast
+Definition: a character archetype; figure who is banished from a social group for some crime (real or imagined); destined to become a wanderer
+
+Term: The Earthmother
+Definition: a character archetype; fertility symbol; symbolic of fruition and abundance; offers spiritual and emotional nourishment
+
+Term: The Temptress
+Definition: a character archetype; characterized by sensuous beauty; woman is one to whom the protagonist is physically attracted; ultimately may bring about his downfall
+
+Term: The Platonic Ideal
+Definition: a character archetype; WOMAN who is a source of inspiration and a spiritual ideal; protagonist or author has an intellectual rather than physical attraction to this character
+
+Term: Damsel in Distress
+Definition: a character archetype; vulnerable woman who must be rescued by the hero; often used as a trap to ensnare the unsuspecting hero
+
+Term: Creatures of Nightmare
+Definition: a character archetype; MONSTER usually summoned from the deepest, darkest part of the human psyche to threaten the lives of the hero/heroine
+
+Term: White
+Definition: a color archetype; positive associations: light, innocence, purity, virginity, timelessness; negative associations: death, terror, the supernatural, the blinding truth
+
+Term: Black
+Definition: a color archetype; positive: knowledge, intelligence; negative: evil, melancholy, chaos, mystery, the unknown, death
+
+Term: commander rex
+Definition: o">
+
+Term: commander cody
+Definition: o">
+
+Term: liea
+Definition: o">
+
+Term: han solo
+Definition: o">
+
+Term: R2D2
+Definition: o">
+
+Term: shmi skywalker
+Definition: o">
+
+Term: jabba
+Definition: o">
+
+Term: kit fisto
+Definition: o">
+
+Term: palptine
+Definition: o">
+
+Term: C-3P0
+Definition: o">
+
+Term: padme
+Definition: o">
+
+Term: Luke
+Definition: o">
+
+Term: mace windu
+Definition: o">
+
+Term: yoda
+Definition: o">
+
+Term: Obi-wan
+Definition: o">
+
+Term: Anikan
+Definition: o">
+
+Term: mustafar
+Definition: o">
+
+Term: naboo
+Definition: o">
+
+Term: Leia
+Definition: Who is this?
+
+Term: Han
+Definition: Who is this?
+
+Term: Luke
+Definition: Who is this?
+
+Term: R2D2
+Definition: Who is this droid?
+
+Term: C3PO
+Definition: Who is this droid?
+
+Term: Rey
+Definition: Who is this?
+
+Term: Finn
+Definition: Who is this?
+
+Term: Obi-Wan Kenobi
+Definition: Who is this?
+
+Term: Yoda
+Definition: Who is this?
+
+Term: Poe
+Definition: Who is this?
+
+Term: Rose
+Definition: Who is this?
+
+Term: Greedo
+Definition: Who is this?
+
+Term: Jabba the Hutt
+Definition: Who is this?
+
+Term: Count Dooku
+Definition: Who is this?
+
+Term: Anakin Skywalker
+Definition: Who is this?
+
+Term: Emperor Palpatine
+Definition: Who is this?
+
+Term: Jar Jar Binks
+Definition: Who is this?
+
+Term: Darth Vader
+Definition: Who is this?
+
+Term: Darth Maul
+Definition: Who is this?
+
+Term: Ahsoka
+Definition: Who is this?
+
+Term: Kylo Ren
+Definition: Who is this?
+
+Term: Snoke
+Definition: Who is this?
+
+Term: Chewbacca
+Definition: Who is this?
+
+Term: Lightsaber
+Definition: What is this?
+
+Term: Padme Amidala
+Definition: Who is this?
+
+Term: Boba Fett
+Definition: Who is this?
+
+Term: Jango Fett
+Definition: Who is this?
+
+Term: Mon Mothma
+Definition: Who is this?
+
+Term: General Grievous
+Definition: Who is this?
+
+Term: Qui-Gon Jinn
+Definition: Who is this?
+
+Term: Admiral Ackbar
+Definition: Who is this?
+
+Term: Mace Windu
+Definition: Who is this?
+
+Term: Grand Moff Tarkin
+Definition: Who is this?
+
+Term: K2SO
+Definition: What droid is this?
+
+Term: Lando Calrissian
+Definition: Who is this?
+
+Term: BB8
+Definition: What droid is this?
+
+Term: Wedge
+Definition: Who is this?
+
+Term: holdo
+Definition: Who is this?
+
+Term: Aunt Beru
+Definition: Who is this?
+
+Term: Uncle Owen
+Definition: Who is this?
+
+Term: Wampa
+Definition: What is this?
+
+Term: Stormtrooper
+Definition: What is this?
+
+Term: Admiral Hux
+Definition: Who is this?
+
+Term: Captain Phasma
+Definition: Who is this?
+
+Term: Death Star
+Definition: What is this?
+
+Term: Starkiller Base
+Definition: What is this planet?
+
+Term: Ewoks
+Definition: What are these?
+
+Term: Jawas
+Definition: What are these?
+
+Term: X-wing
+Definition: What is this?
+
+Term: Y-Wing
+Definition: What is this?
+
+Term: Tie Fighter
+Definition: What is this?
+
+Term: Star Destroyer
+Definition: What is this?
+
+Term: First Order Trooper
+Definition: What is this?
+
+Term: Millenium Falcon
+Definition: What is this?
+
+Term: Luke skywalker
+Definition: Darth Vader's son; Was raised at the Sith Lord's home planet and became an awesome Jedi.
+
+Term: Han Solo
+Definition: Pilot who helps Luke make the journey
+
+Term: Princess Leia
+Definition: Darth Vader's daughter; Was raised as a princess and received training from Luke.
+
+Term: Obi Wan Kenobi
+Definition: also known as ben and is the Jedi who taught Anakin Skywalker
+
+Term: C3PO
+Definition: Life sized droid, R2D2's friend
+
+Term: R2D2
+Definition: C3PO's friend
+
+Term: chewbacca
+Definition: Hon Solo's wookiee companion
+
+Term: Darth Vader
+Definition: He used to be a famous jedi. Tempted by the sith, he turned evil.
+
+Term: Boba Fett
+Definition: This cunning bounty hunter works for some of the biggest villains in the galaxy.
+
+Term: Yoda
+Definition: Jedi master and general who uses the force for good; little green guy; big ears
+
+Term: Darth Sidious
+Definition: Sith Lord and ruler of the Empire, also known as Emperor Palpatine.
+
+Term: Jabba the Hutt
+Definition: Slimy and wrinkly, he is one of the most feared crime lords in the galaxy.
+
+Term: qui gon jinn
+Definition: The Jedi Master of Obi-Wan Kenobi.
+
+Term: padme amidala
+Definition: friend of Anakin Skywalker
+
+Term: jar-jar-binks
+Definition: 
+
+Term: Darth Mall
+Definition: Hideous sith lord, kill qui-gon-jinn
+
+Term: Kylo Ren
+Definition: Dark warrior, strong with the force
+
+Term: General Grievous
+Definition: This savage cyborg terrorizes his foes with his brilliant combat skills.
+
+Term: Rey
+Definition: Female Scavenger who conducted her trade on the planet of Jakku.
+
+Term: Jango fett
+Definition: Boba F.'s dad who got beheaded by Mace Windu at the Battle of Geonosis.
+
+Term: Mace Windu
+Definition: Jedi Master with a Purple Lightsaber
+
+Term: Captain Phasma
+Definition: The leader of the First Order troopers
+
+Term: Watto
+Definition: A junkyard dealer on tatooine.
+
+Term: Aayla Secura
+Definition: Female jedi
+
+Term: Plo Koon
+Definition: Kel Dor Jedi Master who is a great pilot
+
+Term: Lando Calrissian
+Definition: A smuggler who became a leader against the empire.
+
+Term: Poe Dameron
+Definition: The best pilot in the galaxy
+
+Term: Stormtrooper
+Definition: the first orders soldiers
+
+Term: Admiral Ackbar
+Definition: General of the rebellions
+
+Term: Finn
+Definition: Trained to serve the first order, joined the good
+
+Term: Maz Kanata
+Definition: Female pirate who lived over one thousand years.
+
+Term: General Hux
+Definition: The commander of the First Order
+
+Term: Greedo
+Definition: This bounty hunter tries to hunt down Han Solo.
+
+Term: Wampa
+Definition: Hoth monster
+
+Term: Shmi Skywalker
+Definition: Mother of Anakin Skywalker
+
+Term: Ki-adi-mundi
+Definition: Jedi knight
+
+Term: nute gunray
+Definition: The leader of the trade federation
+
+Term: BB8
+Definition: Reys droid
+
+Term: Bib Fortuna
+Definition: Jabba's Assistant
+
+Term: Captain Typho
+Definition: Fights against the dark side
+
+Term: Count dooku
+Definition: He used to be a jedi, but was killed by another one of Darth Sidious' new apprentice.
+
+Term: general pitt
+Definition: general for the resistance
+
+Term: IG-88
+Definition: Evil droid
+
+Term: Logray
+Definition: Ewok Shaman
+
+Term: Plo Koon
+Definition: Who is this Jedi?
+
+Term: Anakin Skywalker
+Definition: Who is this Jedi?
+
+Term: Grand Master Yoda
+Definition: Who is this Jedi?
+
+Term: Darth Nihilus
+Definition: Who is this person?
+
+Term: Obi-Wan Kenobi
+Definition: Who is this Jedi?
+
+Term: Darth Vader
+Definition: Who is this Sith Lord?
+
+Term: TIE Fighter
+Definition: What is this ship called?
+
+Term: Ashoka Tano
+Definition: Who is this person?
+
+Term: Star Destroyer
+Definition: How is this ship called?
+
+Term: Mark Hamill
+Definition: Who is this actor?
+
+Term: Kylo Ren
+Definition: Who is this Force user?
+
+Term: Supreme Leader Snoke
+Definition: Who is this?
+
+Term: Poe Dameron
+Definition: Who is this resistance pilot?
+
+Term: Death Star
+Definition: How is this battlestation called?
+
+Term: Rogue One: A Star Wars story
+Definition: Wich Star Wars film was released on december 2k16?
+
+Term: Dathomir
+Definition: What is the Darth Mauls home planet?
+
+Term: Magnagaurds
+Definition: What are those?
+
+Term: Sheev Palpatine
+Definition: Who is the senate?
+
+Term: Tatooine
+Definition: Were lives Luke Skywalker before Ben Kenobi took him with him?
+
+Term: Naboo
+Definition: What was Padmé Amidala's home planet?
+
+Term: Han Solo
+Definition: What is this man called?
+
+Term: Leia Organa
+Definition: Who is this rebel?
+
+Term: Adam Driver
+Definition: Who is this character's actor called?
+
+Term: Lightsaber
+Definition: How is this weapon called?
+
+Term: Mace Windu
+Definition: Who is this Jedi?
+
+Term: Jango Fett
+Definition: Who is this bounty hunter?
+
+Term: Boba Fett
+Definition: Who is this bounty hunter?
+
+Term: Kit Fisto
+Definition: Who is this Jedi?
+
+Term: Luminara Unduli
+Definition: Who is this Jedi?
+
+Term: General Hux
+Definition: Who is this First Order general?
+
+Term: Commander Cody
+Definition: Who is this clone?
+
+Term: Darth Sidious
+Definition: Who is this Sith Lord?
+
+Term: Captain Rex
+Definition: Who is this clone?
+
+Term: Ki Adi Mundi
+Definition: Who is this Jedi?
+
+Term: Anakin Skywalkers
+Definition: Who's lightsaber is this?
+
+Term: Jabba the Hutt
+Definition: Who is this gangleader?
+
+Term: R2-D2
+Definition: Who is this droid?
+
+Term: C-3PO
+Definition: Who is this droid?
+
+Term: Grand Moff Tarkin
+Definition: Who is this Imperial man called?
+
+Term: Stormtroopers
+Definition: Who are those Imperial soldiers called?
+
+Term: The Forest Moon of Endor
+Definition: Where does this Ewok live?
+
+Term: Chewbacca
+Definition: How is this Wookie called?
+
+Term: Mustafar
+Definition: How is this planet called?
+
+Term: Rey
+Definition: Who is this girl?
+
+Term: Episode IV - A New Hope
+Definition: What was the first Star Wars movie ever?
+
+Term: Qui-Gon Jinn
+Definition: What is this Jedi called?
+
+Term: Aayla Secura
+Definition: Who is this Jedi?
+
+Term: The Rebellion's
+Definition: Who's flag was this?
+
+Term: Savage Opress
+Definition: Who is this man?
+
+Term: Clonetroopers
+Definition: What kinda troopers are this?
+
+Term: Cad Bane
+Definition: Who is this bounty hunter?
+
+Term: Darth Malgus
+Definition: Who is this Sith Lord?
+
+Term: Hondo Ohnaka
+Definition: Who this pirate?
+
+Term: General Grievous
+Definition: Who is this cyborg and Jedi-killer?
+
+Term: Count Dooku
+Definition: Who is this Sith Lord and Separatist leader?
+
+Term: Clankers
+Definition: How did the clone's call this battle droids?
+
+Term: Twi'leks
+Definition: What is this kind?
+
+Term: Finn
+Definition: Who is this man?
+
+Term: A Rebel Pilot
+Definition: What is this man?
+
+Term: Darth Maul
+Definition: Who is this Sith and Darth Sidious's first apprentice?
+
+Term: First Order Stormtrooper
+Definition: Who are this troopers?
+
+Term: Captian Phasma
+Definition: Who is this captian of the First Order?
+
+Term: FN-2187
+Definition: What was Finn's Stormtrooper name?
+
+Term: BB-8
+Definition: Who is this droid?
+
+Term: Snowtrooper
+Definition: What kinda trooper is this?
+
+Term: Shocktrooper
+Definition: What is this kinda trooper?
+
+Term: Shadowtrooper
+Definition: What kinda trooper is this?
+
+Term: Sandtroopers
+Definition: What kinda troopers are these?
+
+Term: Admiral Ackbar
+Definition: Who is this resistance admiral?
+
+Term: B2 Super Battle Droids
+Definition: What kinda droids are these?
+
+Term: Geonosian Soldier
+Definition: Who are this creatures?
+
+Term: Asajj Ventress
+Definition: Who is this woman?
+
+Term: Ben Kenobi
+Definition: How was this man called in Episode IV - A NEW HOPE ?
+
+Term: Tusken Raiders
+Definition: What kinda creature is this?
+
+Term: Jawa's
+Definition: What are these creatures?
+
+Term: Greedo
+Definition: Who is this man?
+
+Term: Royal Guards
+Definition: Who are these men?
+
+Term: IG-88
+Definition: Who is this scoundrel?
+
+Term: Starkiller Base
+Definition: How is this base called?
+
+Term: Aurra Sing
+Definition: Who is this woman?
+
+Term: Darth Sidious
+Definition: Who kiled Savage Opress?
+
+Term: Mandalorian armor
+Definition: What kind of armor did Boba Fett have?
+
+Term: Bossk
+Definition: Who is this bounty hunter?
+
+Term: Dengar
+Definition: Who is this bounty hunter?
+
+Term: Imperial Probe-droid
+Definition: What is this droid called?
+
+Term: Nien Numb
+Definition: Who is this rebel Sullustan?
+
+Term: leia
+Definition: Who is this?
+
+Term: han
+Definition: Who is this?
+
+Term: luke
+Definition: Who is this?
+
+Term: r2d2
+Definition: Who is this droid?
+
+Term: c3po
+Definition: Who is this droid?
+
+Term: rey
+Definition: Who is this?
+
+Term: finn
+Definition: Who is this?
+
+Term: obi-wan
+Definition: Who is this?
+
+Term: yoda
+Definition: Who is this?
+
+Term: poe
+Definition: Who is this?
+
+Term: rose
+Definition: Who is this?
+
+Term: jabba
+Definition: Who is this?
+
+Term: dooku
+Definition: Who is this?
+
+Term: anakin
+Definition: Who is this?
+
+Term: palpatine
+Definition: Who is this?
+
+Term: jar jar
+Definition: Who is this?
+
+Term: vader
+Definition: Who is this?
+
+Term: maul
+Definition: Who is this?
+
+Term: kylo ren
+Definition: Who is this?
+
+Term: snoke
+Definition: Who is this?
+
+Term: chewbacca
+Definition: Who is this?
+
+Term: lightsaber
+Definition: What is this?
+
+Term: padme
+Definition: Who is this?
+
+Term: boba
+Definition: Who is this?
+
+Term: wicket
+Definition: Who is this?
+
+Term: grievous
+Definition: Who is this?
+
+Term: qui-gon
+Definition: Who is this?
+
+Term: ackbar
+Definition: Who is this?
+
+Term: mace
+Definition: Who is this?
+
+Term: k2so
+Definition: What droid is this?
+
+Term: lando
+Definition: Who is this?
+
+Term: bb8
+Definition: What droid is this?
+
+Term: jyn
+Definition: Who is this?
+
+Term: cassian
+Definition: Who is this?
+
+Term: beru
+Definition: Who is this?
+
+Term: owen
+Definition: Who is this?
+
+Term: wampa
+Definition: What is this?
+
+Term: stormtrooper
+Definition: What is this?
+
+Term: hux
+Definition: Who is this?
+
+Term: maz
+Definition: Who is this?
+
+Term: phasma
+Definition: Who is this?
+
+Term: opening crawl
+Definition: What is this?
+
+Term: tatooine
+Definition: What is this planet?
+
+Term: hoth
+Definition: What is this planet?
+
+Term: death star
+Definition: What is this?
+
+Term: coruscant
+Definition: What is this planet?
+
+Term: naboo
+Definition: What is this planet?
+
+Term: alderaan
+Definition: What is this planet?
+
+Term: starkiller base
+Definition: What is this planet?
+
+Term: endor
+Definition: What is this planet?
+
+Term: ewoks
+Definition: What are these?
+
+Term: jawas
+Definition: What are these?
+
+Term: x-wing
+Definition: What is this?
+
+Term: tie fighter
+Definition: What is this?
+
+Term: 5
+Definition: This is a scene from which movie?
+
+Term: 1
+Definition: This is a scene from which movie?
+
+Term: 2
+Definition: This is a scene from which movie?
+
+Term: 6
+Definition: This is a scene from which movie?
+
+Term: 7
+Definition: This is a scene from which movie?
+
+Term: 3
+Definition: This is a scene from which movie?
+
+Term: 4
+Definition: This is a scene from which movie?
+
+Term: clone wars
+Definition: What was the name of the wars that were fought in the galaxy before the fall of the Old Republic?
+
+Term: Luke skywalker
+Definition: Darth Vader's son; Was raised at the Sith Lord's home planet and became an awesome Jedi.
+
+Term: Han Solo
+Definition: Pilot who helps Luke make the journey
+
+Term: Princess Leia
+Definition: Darth Vader's daughter; Was raised as a princess and received training from Luke.
+
+Term: Obi Wan Kenobi
+Definition: also known as ben and is the Jedi who taught Anakin Skywalker
+
+Term: C3PO
+Definition: Life sized droid, R2D2's friend
+
+Term: R2D2
+Definition: C3PO's friend
+
+Term: chewbacca
+Definition: Hon Solo's wookiee companion
+
+Term: Darth Vader
+Definition: He used to be a famous jedi. Tempted by the sith, he turned evil.
+
+Term: Boba Fett
+Definition: This cunning bounty hunter works for some of the biggest villains in the galaxy.
+
+Term: Yoda
+Definition: Jedi master and general who uses the force for good; little green guy; big ears
+
+Term: Darth Sidious
+Definition: Sith Lord and ruler of the Empire, also known as Emperor Palpatine.
+
+Term: Jabba the Hutt
+Definition: Slimy and wrinkly, he is one of the most feared crime lords in the galaxy.
+
+Term: qui gon jinn
+Definition: The Jedi Master of Obi-Wan Kenobi.
+
+Term: padme amidala
+Definition: friend of Anakin Skywalker
+
+Term: jar-jar-binks
+Definition: 
+
+Term: Darth Mall
+Definition: Hideous sith lord, kill qui-gon-jinn
+
+Term: Kylo Ren
+Definition: Dark warrior, strong with the force
+
+Term: General Grievous
+Definition: This savage cyborg terrorizes his foes with his brilliant combat skills.
+
+Term: Rey
+Definition: Female Scavenger who conducted her trade on the planet of Jakku.
+
+Term: Jango fett
+Definition: Boba F.'s dad who got beheaded by Mace Windu at the Battle of Geonosis.
+
+Term: Mace Windu
+Definition: Jedi Master with a Purple Lightsaber
+
+Term: Captain Phasma
+Definition: The leader of the First Order troopers
+
+Term: Watto
+Definition: A junkyard dealer on tatooine.
+
+Term: Aayla Secura
+Definition: Female jedi
+
+Term: Plo Koon
+Definition: Kel Dor Jedi Master who is a great pilot
+
+Term: Lando Calrissian
+Definition: A smuggler who became a leader against the empire.
+
+Term: Poe Dameron
+Definition: The best pilot in the galaxy
+
+Term: Stormtrooper
+Definition: the first orders soldiers
+
+Term: Admiral Ackbar
+Definition: General of the rebellions
+
+Term: Finn
+Definition: Trained to serve the first order, joined the good
+
+Term: Maz Kanata
+Definition: Female pirate who lived over one thousand years.
+
+Term: General Hux
+Definition: The commander of the First Order
+
+Term: Greedo
+Definition: This bounty hunter tries to hunt down Han Solo.
+
+Term: Wampa
+Definition: Hoth monster
+
+Term: Shmi Skywalker
+Definition: Mother of Anakin Skywalker
+
+Term: Ki-adi-mundi
+Definition: Jedi knight
+
+Term: nute gunray
+Definition: The leader of the trade federation
+
+Term: BB8
+Definition: Reys droid
+
+Term: Bib Fortuna
+Definition: Jabba's Assistant
+
+Term: Captain Typho
+Definition: Fights against the dark side
+
+Term: Count dooku
+Definition: He used to be a jedi, but was killed by another one of Darth Sidious' new apprentice.
+
+Term: general pitt
+Definition: general for the resistance
+
+Term: IG-88
+Definition: Evil droid
+
+Term: Logray
+Definition: Ewok Shaman
+
+Term: Plo Koon
+Definition: Who is this Jedi?
+
+Term: Anakin Skywalker
+Definition: Who is this Jedi?
+
+Term: Grand Master Yoda
+Definition: Who is this Jedi?
+
+Term: Darth Nihilus
+Definition: Who is this person?
+
+Term: Obi-Wan Kenobi
+Definition: Who is this Jedi?
+
+Term: Darth Vader
+Definition: Who is this Sith Lord?
+
+Term: TIE Fighter
+Definition: What is this ship called?
+
+Term: Ashoka Tano
+Definition: Who is this person?
+
+Term: Star Destroyer
+Definition: How is this ship called?
+
+Term: Mark Hamill
+Definition: Who is this actor?
+
+Term: Kylo Ren
+Definition: Who is this Force user?
+
+Term: Supreme Leader Snoke
+Definition: Who is this?
+
+Term: Poe Dameron
+Definition: Who is this resistance pilot?
+
+Term: Death Star
+Definition: How is this battlestation called?
+
+Term: Rogue One: A Star Wars story
+Definition: Wich Star Wars film was released on december 2k16?
+
+Term: Dathomir
+Definition: What is the Darth Mauls home planet?
+
+Term: Magnagaurds
+Definition: What are those?
+
+Term: Sheev Palpatine
+Definition: Who is the senate?
+
+Term: Tatooine
+Definition: Were lives Luke Skywalker before Ben Kenobi took him with him?
+
+Term: Naboo
+Definition: What was Padmé Amidala's home planet?
+
+Term: Han Solo
+Definition: What is this man called?
+
+Term: Leia Organa
+Definition: Who is this rebel?
+
+Term: Adam Driver
+Definition: Who is this character's actor called?
+
+Term: Lightsaber
+Definition: How is this weapon called?
+
+Term: Mace Windu
+Definition: Who is this Jedi?
+
+Term: Jango Fett
+Definition: Who is this bounty hunter?
+
+Term: Boba Fett
+Definition: Who is this bounty hunter?
+
+Term: Kit Fisto
+Definition: Who is this Jedi?
+
+Term: Luminara Unduli
+Definition: Who is this Jedi?
+
+Term: General Hux
+Definition: Who is this First Order general?
+
+Term: Commander Cody
+Definition: Who is this clone?
+
+Term: Darth Sidious
+Definition: Who is this Sith Lord?
+
+Term: Captain Rex
+Definition: Who is this clone?
+
+Term: Ki Adi Mundi
+Definition: Who is this Jedi?
+
+Term: Anakin Skywalkers
+Definition: Who's lightsaber is this?
+
+Term: Jabba the Hutt
+Definition: Who is this gangleader?
+
+Term: R2-D2
+Definition: Who is this droid?
+
+Term: C-3PO
+Definition: Who is this droid?
+
+Term: Grand Moff Tarkin
+Definition: Who is this Imperial man called?
+
+Term: Stormtroopers
+Definition: Who are those Imperial soldiers called?
+
+Term: The Forest Moon of Endor
+Definition: Where does this Ewok live?
+
+Term: Chewbacca
+Definition: How is this Wookie called?
+
+Term: Mustafar
+Definition: How is this planet called?
+
+Term: Rey
+Definition: Who is this girl?
+
+Term: Episode IV - A New Hope
+Definition: What was the first Star Wars movie ever?
+
+Term: Qui-Gon Jinn
+Definition: What is this Jedi called?
+
+Term: Aayla Secura
+Definition: Who is this Jedi?
+
+Term: The Rebellion's
+Definition: Who's flag was this?
+
+Term: Savage Opress
+Definition: Who is this man?
+
+Term: Clonetroopers
+Definition: What kinda troopers are this?
+
+Term: Cad Bane
+Definition: Who is this bounty hunter?
+
+Term: Darth Malgus
+Definition: Who is this Sith Lord?
+
+Term: Hondo Ohnaka
+Definition: Who this pirate?
+
+Term: General Grievous
+Definition: Who is this cyborg and Jedi-killer?
+
+Term: Count Dooku
+Definition: Who is this Sith Lord and Separatist leader?
+
+Term: Clankers
+Definition: How did the clone's call this battle droids?
+
+Term: Twi'leks
+Definition: What is this kind?
+
+Term: Finn
+Definition: Who is this man?
+
+Term: A Rebel Pilot
+Definition: What is this man?
+
+Term: Darth Maul
+Definition: Who is this Sith and Darth Sidious's first apprentice?
+
+Term: First Order Stormtrooper
+Definition: Who are this troopers?
+
+Term: Captian Phasma
+Definition: Who is this captian of the First Order?
+
+Term: FN-2187
+Definition: What was Finn's Stormtrooper name?
+
+Term: BB-8
+Definition: Who is this droid?
+
+Term: Snowtrooper
+Definition: What kinda trooper is this?
+
+Term: Shocktrooper
+Definition: What is this kinda trooper?
+
+Term: Shadowtrooper
+Definition: What kinda trooper is this?
+
+Term: Sandtroopers
+Definition: What kinda troopers are these?
+
+Term: Admiral Ackbar
+Definition: Who is this resistance admiral?
+
+Term: B2 Super Battle Droids
+Definition: What kinda droids are these?
+
+Term: Geonosian Soldier
+Definition: Who are this creatures?
+
+Term: Asajj Ventress
+Definition: Who is this woman?
+
+Term: Ben Kenobi
+Definition: How was this man called in Episode IV - A NEW HOPE ?
+
+Term: Tusken Raider
+Definition: What kinda creature is this?
+
+Term: Jawa
+Definition: What are these creatures?
+
+Term: Greedo
+Definition: Who is this man?
+
+Term: Royal Guards
+Definition: Who are these men?
+
+Term: IG-88
+Definition: Who is this scoundrel?
+
+Term: Starkiller Base
+Definition: How is this base called?
+
+Term: Aurra Sing
+Definition: Who is this woman?
+
+Term: Darth Sidious
+Definition: Who kiled Savage Opress?
+
+Term: Mandalorian armor
+Definition: What kind of armor did Boba Fett have?
+
+Term: Bossk
+Definition: Who is this bounty hunter?
+
+Term: Dengar
+Definition: Who is this bounty hunter?
+
+Term: Imperial Probe-droid
+Definition: What is this droid called?
+

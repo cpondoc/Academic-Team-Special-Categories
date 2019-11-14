@@ -1,0 +1,4077 @@
+Term: weight
+Definition: force a body exerts due to the pull of gravity
+
+Term: mass
+Definition: the measure of the amount of material in a body
+
+Term: momentum=
+Definition: mass x velocity
+
+Term: density is
+Definition: mass per unit volume
+
+Term: density=
+Definition: mass/volume
+
+Term: friction is
+Definition: a force that opposes motion
+
+Term: air resistance or drag
+Definition: occurs when the object moves through air or fluid
+
+Term: reduce friction by
+Definition: lubrication
+
+Term: friction acts in the
+Definition: opposite direction of the motion of object
+
+Term: 1st law
+Definition: a body will remain at rest or move at a constant velocity if the resultant force acting on the body is zero
+
+Term: balanced forces exist when
+Definition: two forces act in opposite directions but are the same size
+
+Term: 2nd law
+Definition: if a resultant force acts on a body the body will not remain at rest or move at constant velocity, it will accelerate
+
+Term: resultant force=
+Definition: mass x acceleration
+
+Term: distance is
+Definition: the total amount of ground covered
+
+Term: displacement is
+Definition: shortest distance from start to finish in a certain direction
+
+Term: speed is
+Definition: rate of change of distance
+
+Term: velocity is
+Definition: rate of change in displacement
+
+Term: acceleration is
+Definition: rate of change in velocity
+
+Term: scalar
+Definition: has magnitude only
+
+Term: vector
+Definition: magnitude and direction
+
+Term: acceleration=
+Definition: velocity/time
+
+Term: unit of acceleration
+Definition: m/s²
+
+Term: Work =
+Definition: force x distance
+
+Term: unit of work
+Definition: newton meter
+
+Term: centrepedal force depends on
+Definition: mass of objectspeed of objectradius of circle
+
+Term: unit of momentum
+Definition: kgm/s²
+
+Term: change in momentum=
+Definition: force x time
+
+Term: momentum depends on
+Definition: mass velocity
+
+Term: conservation of momentum
+Definition: when two bodies collide, the total momentum remains constant, providing that there are no external forces acting
+
+Term: energy types
+Definition: kineticlightsoundEPEGPEchemicalelectricalnuclearmagneticheat
+
+Term: GPE
+Definition: the type of energy anything above the ground has
+
+Term: nuclear
+Definition: energy stored inside nucleus due to its missing mass
+
+Term: unit of energy
+Definition: joules
+
+Term: formula for kinetic energy=
+Definition: ½mv²
+
+Term: principle of energy
+Definition: energy cannot be created or destroyed, only changed into different forms
+
+Term: power
+Definition: rate at which work is done or energy is transferred
+
+Term: power=
+Definition: work done/time
+
+Term: JJ Thompson
+Definition: plum pudding modela sphere of positive charge with tiny negative electrons stuck in it
+
+Term: Rutherford
+Definition: fired positively charged alpha particles at a thin gold foilmost alpha particles went straight through with no or little deflectionsome were deflected through very large angles and a few came straight back introduced nucleus
+
+Term: Bohr
+Definition: introduced the idea of electrons orbiting a nucleus un discrete energy levels, by studying the emission spectra of gases
+
+Term: alpha α ⁴He₂
+Definition: helium nucleuspositively chargeddeflected by magnetic field
+
+Term: nuclear fission
+Definition: This is when heavy nuclei can be forced to split into two lighter nuclei
+
+Term: nuclear fussion
+Definition: this is when two lighter nuclei combine to form a single heavier nucleus
+
+Term: if light enters or leaves a different material, of different optical density
+Definition: the speed of light changes and therefore the direction of travel changes
+
+Term: light travels in
+Definition: straight lines
+
+Term: light speed in vacuum
+Definition: 300000km/s
+
+Term: dispersion
+Definition: spreading out of white light into its separate colours
+
+Term: conditions of total internal refraction
+Definition: light must be travelling from a more optically dense material to a less optically dense materialangle of incidence is greater than the critical angle for the given material
+
+Term: waves are produced
+Definition: by vibrations
+
+Term: waves
+Definition: transfer energy from one point to another in the direction in which the wave is travelling, without the movement of material as a whole
+
+Term: transverse waves
+Definition: direction of travel of the wave is perpendicular to the direction of vibrations e.g. mexican wave
+
+Term: longitudinal wave
+Definition: direction of travel of the wave is parallel to the direction of vibration e.g. audible sound
+
+Term: amplitude A
+Definition: the maximum displacement from the equilibrium position
+
+Term: period T
+Definition: time taken for one complete vibration
+
+Term: wavelength λ
+Definition: distance between two neighbouring crest/troughs or compression/rarefactions
+
+Term: frequency F
+Definition: number of complete vibrations occurring in one second
+
+Term: period=
+Definition: 1/frequency
+
+Term: wave speed=
+Definition: frequency x wavelength
+
+Term: when waves are reflected the
+Definition: speed frequency and wavelength fo not change
+
+Term: when waves are refracted the
+Definition: frequency does not change
+
+Term: electromagnetic spectrum
+Definition: group of waves that all have the same speed
+
+Term: average velocity=
+Definition: total displacement/total time
+
+Term: net force=
+Definition: mass x acceleration
+
+Term: GPE=
+Definition: mgh
+
+Term: Electric Field lines point
+Definition: away from positive charges
+
+Term: Gravitation force is related to distance
+Definition: inverse square
+
+Term: Relationship between current and resistance
+Definition: inverse
+
+Term: Relationship between voltage and current
+Definition: direct
+
+Term: Relationship between mass and centripetal acceleration
+Definition: none
+
+Term: relationship. between speed and kinetic energy
+Definition: exponential
+
+Term: relationship between force and change in spring length
+Definition: direct
+
+Term: relationship between PEs and change in spring length
+Definition: exponential
+
+Term: Electrical Power =
+Definition: current x voltage
+
+Term: Voltage =
+Definition: current x resistance
+
+Term: Charge =
+Definition: current x time
+
+Term: Average Speed =
+Definition: distance / time
+
+Term: Acceleration =
+Definition: Change in Velocity / Time Taken
+
+Term: Force =
+Definition: Mass x Acceleration
+
+Term: Pressure Difference =
+Definition: Height x Density x Gravity
+
+Term: Moment =
+Definition: Force x Perpendicular Distance from Pivot
+
+Term: Pressure =
+Definition: Force / Area
+
+Term: Wave Speed =
+Definition: Frequency x Wavelength
+
+Term: Refractive Index =
+Definition: Sin (I) / Sin (R)
+
+Term: Sin (Critical angle) =
+Definition: 1 / Refractive Index
+
+Term: Energy Transfer =
+Definition: Work Done
+
+Term: Work Done =
+Definition: Force x Distance Moved
+
+Term: Efficiency =
+Definition: Useful Energy Output / Total Energy Input
+
+Term: Weight =
+Definition: Mass x Gravity
+
+Term: GPE Potential Energy =
+Definition: Mass x Gravity x Height
+
+Term: Kinetic Energy =
+Definition: 1/2 x Mass x V^2
+
+Term: Density =
+Definition: Mass / Volume
+
+Term: Distance Time Graphs
+Definition: 
+
+Term: Velocity Time Graphs
+Definition: 
+
+Term: Gravity
+Definition: Force of attraction between all masses
+
+Term: Hookes Law
+Definition: Extension is directly proportional to force until the spring reaches it's elastic limit
+
+Term: Solar Systems
+Definition: Galaxy = large collection of stars Sun = one of many stars
+
+Term: Effects of gravity on planets
+Definition: Closer you get to a star or a planet the stronger the force of attraction is, so they move quicker in orbit
+
+Term: Types of orbit
+Definition: Moons and planets have slightly elliptical orbits Comets orbit the sun, they have very elliptical orbits
+
+Term: Artificial Earth Satellites
+Definition: Have orbital period of 1 day = geostationary satellites, used for communications
+
+Term: Safety features of Plugs
+Definition: 
+
+Term: Filament Lamp
+Definition: 
+
+Term: Wire
+Definition: 
+
+Term: Resistors
+Definition: 
+
+Term: Diodes
+Definition: 
+
+Term: Electric Circuit Symbols
+Definition: 
+
+Term: Light Dependent Resistor (LDR) Diagram
+Definition: 
+
+Term: LDR Explanation
+Definition: Changes it resistance depending on the amount of light In bright light the resistance decreases In dark light the resistance increases Acts as a light sensor
+
+Term: Thermistor Diagram
+Definition: 
+
+Term: Thermistor Explanation
+Definition: Changes in resistance as temperature changes In hot condition the resistance decreases In cool conditions the resistance increases Acts as temperature detectors
+
+Term: Current
+Definition: Rate of flow of Charge
+
+Term: Voltage
+Definition: Driving force which pushes current (Electrical Power)
+
+Term: Resistance
+Definition: Something which slows down the flow
+
+Term: Circuit Rules
+Definition: Increase voltage = more current will flowIncrease resistance = less current will flow
+
+Term: Series Circuit
+Definition: Current the sameVoltage = Voltage of all components
+
+Term: Parallel Circuit
+Definition: Current = Current of all components Voltage the same
+
+Term: Transverse Wave Diagram
+Definition: 
+
+Term: Longitudinal Wave Diagram
+Definition: 
+
+Term: Examples of Transverse Waves
+Definition: Electromagnetic Waves Ripple in Water
+
+Term: Examples of Longitudinal Waves
+Definition: Sound + UltrasoundShock Waves
+
+Term: Transverse Wave
+Definition: Vibrations are at 90° to the direction energy is transferred
+
+Term: Longitudinal Waves
+Definition: Vibrations are parallel to the direction the wave transfers energy
+
+Term: Wave Info
+Definition: All waves transfer energy and information without transferring matter
+
+Term: Electromagnetic Waves
+Definition: Waves have different wavelengths - continuous spectrumAll transverse - Travel at same speed through a vacuum
+
+Term: Diagram of Electromagnetic Waves
+Definition: 
+
+Term: Uses of Waves
+Definition: Radio Waves: Communication Microwaves: Satellite Communication Infra-Red Radiation: Heating and monitor temperature Visible Light: Travel though optical fibres + Photography Ultraviolet Light: Fluorescent Lamps X-Rays: See inside things Gamma Rays: Sterilising medical equipment
+
+Term: Conduction
+Definition: Process where vibrating particles pass on their kinetic energy
+
+Term: Convection
+Definition: Particles from their hotter region to the cooler region and take their heat energy with them
+
+Term: Dangers of Microwaves
+Definition: Yeah human body tissue internally
+
+Term: Dangers of Infra-Red
+Definition: Skin Burns - Heating effect
+
+Term: Dangers of Ultraviolet
+Definition: Damage surface cells and causes blindness
+
+Term: Dangers of Gamma
+Definition: Cell mutation and Tissue damage - can cause cancer
+
+Term: Virtual Image
+Definition: 
+
+Term: Light Refraction
+Definition: 
+
+Term: Angle of Incidence is less than critical angle
+Definition: 
+
+Term: Angle of Incidence is more than critical angle
+Definition: 
+
+Term: Angle of Incidence is equal to critical angle
+Definition: 
+
+Term: Total internal reflection - Optical fibres
+Definition: Angle of Incident is always higher than critical angle, light always totally internally reflected - only stops if fibre is to sharp
+
+Term: Sankey Diagram
+Definition: 
+
+Term: Power
+Definition: One Watt = 1 joule of energy transferred per second
+
+Term: Human Hearing Range
+Definition: 20 - 20,000 Hz
+
+Term: Renewable Energy
+Definition: Wind FarmsGeothermal EnergySolar EnergyHydroelectric Power
+
+Term: Brownian Motion
+Definition: Small particles have a constant, rapid and random movement - small particles can move larger particles - causes pressure This discovery was proved with the use of pollen grains
+
+Term: Absolute 0 - Kelvin Scale
+Definition: Absolute 0 - atoms have as little kinetic energy as possible Absolute 0 = -273°C50 Kelvin = -223°C15°C = 288 Kelvin
+
+Term: Uniform Magnetic Field
+Definition: 
+
+Term: Loudspeaker
+Definition: A.C electrical signals - from amplifier - to coil of wire - wrapped around coneCone surrounded - permanent magnet - cause a force forwards + backwardsMovements = cone vibrate = sound
+
+Term: Resistance of LDRs and Thermistors Experiments
+Definition: Measure current at any know/fixed tempMeasure voltage at any known/fixed tempVary temp and take new readings Calculate and draw voltage - current graph Repete and average
+
+Term: Refraction of light experiment
+Definition: Place block on sheet of paperDraw around the blockTurn ray box on and shine beam of light into blockuse pencil to mark path of light into and out of blockRemove the block, measure the angle of refractionRepeat
+
+Term: Measuring speed of sound
+Definition: Person at one end with a pistol Other person at a distance a way from the pistol (e.g 500 metres)Person fires gunPeople with stopwatches start time when see the smoke from gun and stop when they hear the bangAverage the time
+
+Term: How temperature effects Gas experiment
+Definition: Use water bath to vary the temperature Calculate the volume of air in test tube before heating Measure volume of air after heating Use a narrow glass tube with liquid above the air so you can clearly see how it has expanded
+
+Term: Investigating the magnetic field experiment
+Definition: Place sheet of paper on wooded bench (avoid interaction with other magnets)Place magnet on sheet of paper Place plotting compass against the magnet Mark position of compass needle on the paper with a dotMove plotting compass so that the tail of the arrow sits where the tip of the arrow wasRepeat process Join dots
+
+Term: Marsden experiment Diagram
+Definition: 
+
+Term: Marsden experiment
+Definition: Alpha particles were detected as tiny flashes of light on screenMost alpha particles went straight thought gold foilA small number deviated as they were repelledVery few alpha particles bounced back because of the dense nucleus
+
+Term: Conclusion of Marsdens experiment
+Definition: Most of atom is empty space Nucleus is smallNucleus is denseNucleus is positive
+
+Term: Flemmings Left hand rule
+Definition: 
+
+Term: Acceleration
+Definition: The rate of change in velocity. Can be a change in direction, positive (speeding up) or negative (slowing down).
+
+Term: Balanced Force
+Definition: Two forces in opposite directions. Net force is zero and the motion of the object does not change.
+
+Term: Friction
+Definition: The force between objects that resists motion - always slows down motion
+
+Term: Newton
+Definition: A measurement of force
+
+Term: Magnitude
+Definition: The strength or size of an object or force.
+
+Term: Mass
+Definition: The total amount of matter in something.
+
+Term: Energy
+Definition: The capacity for doing work.
+
+Term: Force
+Definition: A push or pull on an object that can cause a change in movement
+
+Term: Net Force
+Definition: The total of all the forces acting on an object
+
+Term: Gravity
+Definition: A force that pulls objects together
+
+Term: F = m x a
+Definition: Formula for Force
+
+Term: Displacement vs Time Graph
+Definition: Shows the distance an object travels in a certain amount of time.slope is velocity
+
+Term: Inertia
+Definition: the tendency of a body to maintain is state of rest or uniform motion unless acted upon by an external force
+
+Term: Kinetic Energy
+Definition: The energy an object possess due to its motion.
+
+Term: Motion
+Definition: A change in the position of an object over time.
+
+Term: Newton's First Law of Motion (Definition)
+Definition: an object at rest will stay at rest unless acted upon by an outside unbalanced force; an object in motion will stay in motion unless acted upon by an outside unbalanced force.
+
+Term: Newton's First Law of Motion (Example)
+Definition: when a car suddenly stops and your head continues to move foward even though your body is stopped by the seat belt
+
+Term: Newton's Second Law of Motion (Definition)
+Definition: the greater the force applied to an object, the greater the acceleration; the smaller the mass of an object, the greater its acceleration when force is applied; only an unbalanced force can cause objects to accelerate
+
+Term: Newton's Second Law of Motion (Example)
+Definition: the force applied to a roller coaster car in addition to the mass of the car determines the acceleration of the car; more force = more acceleration
+
+Term: Newton's Third Law of Motion (Definition)
+Definition: for every action there is an equal and opposite reaction; there is a reaction force that is equal in size but opposite in direction.
+
+Term: Newton's Third Law of Motion (Example)
+Definition: as the thrust of a rocket pushes down on Earth's surface, the rocket launches upward into the atmosphere
+
+Term: Potential Energy
+Definition: Energy stored in an object by the virtue of its position.
+
+Term: Example of work
+Definition: A monkey carries a 5 kg pineapple 10 meters in 5 minutes.
+
+Term: Example of no work being performed
+Definition: A monkey holds a 5 kg pineapple over his head for 5 minutes.
+
+Term: Example of velocity
+Definition: Nemo swims 37 m/s South to Wallaby Way in Australia.
+
+Term: Speed
+Definition: the distance traveled by an object in a given amount of time.
+
+Term: Example of speed
+Definition: Nemo swims 58 m/s
+
+Term: Unbalanced Force
+Definition: A force that is not equal in size and opposite in direction.
+
+Term: Velocity
+Definition: speed of an object and its direction of motion; changes when speed, direction or both changes
+
+Term: Work
+Definition: force exerted on an object that causes the object to move in same direction that the force was applied
+
+Term: Waves
+Definition: Transfer energy in the direction they are traveling
+
+Term: Amplitude
+Definition: The maximum displacement of a point on the wave from this undisturbed position
+
+Term: Wavelength
+Definition: The distance between the same point on two adjacent waves (between the trough of one wave and the trough of the wave next to it, applies the same way with the crest,)
+
+Term: Frequency
+Definition: Is the number of complete waves passing a certain point per second. Frequency is measured in Hertz (Hz), where 1 wave is 1 Hertz
+
+Term: Period
+Definition: From the frequency, you can find a period of a wave using the formula 1÷frequency
+
+Term: Transverse waves
+Definition: Waves were in which the oscillation (vibrations) are perpendicular (90 degrees) to the direction of energy transfer. Some of these waves include:All electromagnetic wave (light)Ripples and waves in waterA wave on a string
+
+Term: Longitudinal waves
+Definition: Waves were the oscillation (vibrations) are parallel to the direction of energy transfer. Some of these waves include:Sound wave in air, ultrasoundShock waves, some seismic waves
+
+Term: Wave speed formula
+Definition: Wave speed (v)=Frequency(Hz)x Wave length (ƛ)
+
+Term: Electromagnetic waves
+Definition: Are transverse waves that transfer energy from a source to an absorber. They travel through air or vacuum at the same speed. there are a variety that increase in frequency overtime.
+
+Term: Sound waves
+Definition: These are caused by vibrating objects. These are passed through the surrounding area as a series of compressions an rarefactions. These travel faster in more solid states of matter as it is more easier to vibrate the particles to make sound if there close together, rather than far apart. This is why in a vacuum, where there are no particle's there is no sound
+
+Term: Electromagnets
+Definition: Electromagnets are magnets that turn or off when an electric current is passed through it. They are used to lift things up or down and can be used with other circuit as a switch
+
+Term: Electric Current (Amps)
+Definition: The flow of an electric charge. The unit of this is ampere (A)
+
+Term: Potential difference (Voltage
+Definition: Is the driving force that pushes the charge around. Measured in volts (V)
+
+Term: Resistance
+Definition: Anything that slows down the flow of the current. Measured in ohms (Picture)
+
+Term: Potential difference (Voltage)
+Definition: =Current X Resistance
+
+Term: Different types of energy
+Definition: Some different types of energy are:Thermal energyKinetic energyGravitational potential energyElastic potential energyChemical energyMagnetic energyElectrostatic energyNuclear energy
+
+Term: Conservation of energy principle
+Definition: The conservation of energy principle is that 'energy can be transferred usefully, stored or dissipated, nut can never be destroyed or created'
+
+Term: Work
+Definition: =Fxdistance*cosine of the angle.
+
+Term: power
+Definition: Work/timedetermines the amount of effort
+
+Term: kinetic energy
+Definition: 1/2 mvvthe energy of motion
+
+Term: Potential energy
+Definition: mghpotential to exert energy
+
+Term: conservation of energy
+Definition: energy can not be lost or destroyedE=ke+pe
+
+Term: elastic collision
+Definition: type of collision where momentum is 100% conserved
+
+Term: inelastic collision
+Definition: type of collision where momentum is not conserved
+
+Term: Impulse
+Definition: Equals Forcextime also equals change in momentum
+
+Term: Change in momentum
+Definition: Equals massxchange in velocity.also equals impulse
+
+Term: vector
+Definition: An quantity that has a magnitude and direction
+
+Term: parallel circuit
+Definition: has multiple paths for electron to travelSplits currenthas same change in voltage on each spurResistance is the reciprocal of their additions
+
+Term: series circuit
+Definition: Has one path for electron same current throughoutvoltage sums up to total in batteryResistance adds.
+
+Term: acceleration
+Definition: Change in velocity over change in time
+
+Term: velocity
+Definition: change in displacement over change in timevector
+
+Term: displacement
+Definition: the total distance traveled by an object regardless of direction
+
+Term: distance
+Definition: the amount traveled from a certain spot.
+
+Term: newton's first law
+Definition: law of inertia
+
+Term: newton's second law
+Definition: F=ma
+
+Term: Newton's 3rd law
+Definition: Every action has an equal and opposite reaction
+
+Term: Fundamental units for Impulse and momentum
+Definition: Kg m/s
+
+Term: This force goes in the opposite direction of motion
+Definition: Friction
+
+Term: Frictional force
+Definition: =coeffiecent of friction xmxg
+
+Term: Constructive interference
+Definition: Interference that causes a louder noise.
+
+Term: Doppler effect
+Definition: Effect that explains how frequency of produced noises change depending on their speed and the orginal frequency.
+
+Term: conservation of energy
+Definition: Energy is neither created nor destroyed
+
+Term: Acceleration
+Definition: The rate of change in velocity. Can be a change in direction, positive (speeding up) or negative (slowing down).
+
+Term: Balanced Force
+Definition: Two forces in opposite directions. Net force is zero and the motion of the object does not change.
+
+Term: Friction
+Definition: The force between objects that resists motion - always slows down motion
+
+Term: Newton
+Definition: A measurement of force
+
+Term: Magnitude
+Definition: The strength or size of an object or force.
+
+Term: Mass
+Definition: The total amount of matter in something.
+
+Term: Force
+Definition: A push or pull on an object that can cause a change in movement
+
+Term: Net Force
+Definition: The total of all the forces acting on an object
+
+Term: Gravity
+Definition: A force that pulls objects together
+
+Term: F = m x a
+Definition: Formula for Force
+
+Term: Displacement vs Time Graph
+Definition: Shows the distance an object travels in a certain amount of time.slope is velocity
+
+Term: Inertia
+Definition: the tendency of a body to maintain is state of rest or uniform motion unless acted upon by an external force
+
+Term: Motion
+Definition: A change in the position of an object over time.
+
+Term: Newton's First Law of Motion (Definition)
+Definition: an object at rest will stay at rest unless acted upon by an outside unbalanced force; an object in motion will stay in motion unless acted upon by an outside unbalanced force.
+
+Term: Newton's First Law of Motion (Example)
+Definition: when a car suddenly stops and your head continues to move foward even though your body is stopped by the seat belt
+
+Term: Newton's Second Law of Motion (Definition)
+Definition: the greater the force applied to an object, the greater the acceleration; the smaller the mass of an object, the greater its acceleration when force is applied; only an unbalanced force can cause objects to accelerate
+
+Term: Newton's Second Law of Motion (Example)
+Definition: the force applied to a roller coaster car in addition to the mass of the car determines the acceleration of the car; more force = more acceleration
+
+Term: Newton's Third Law of Motion (Definition)
+Definition: for every action there is an equal and opposite reaction; there is a reaction force that is equal in size but opposite in direction.
+
+Term: Newton's Third Law of Motion (Example)
+Definition: as the thrust of a rocket pushes down on Earth's surface, the rocket launches upward into the atmosphere
+
+Term: Example of velocity
+Definition: Nemo swims 37 m/s South to Wallaby Way in Australia.
+
+Term: Speed
+Definition: the distance traveled by an object in a given amount of time.
+
+Term: Example of speed
+Definition: Nemo swims 58 m/s
+
+Term: Unbalanced Force
+Definition: A force that is not equal in size and opposite in direction.
+
+Term: Velocity
+Definition: speed of an object and its direction of motion; changes when speed, direction or both changes
+
+Term: Contact forces
+Definition: Contact forces work when two or more objects are touching. Some examples of this are: friction, air resistance, tension in ropes and normal contact force. When these two or more objects interact there is a force on both of them and is equal or opposite of the other object.
+
+Term: Non-contact forces
+Definition: Non-contact forces happen when two or more objects exert a force on each other but are not touching. Some examples of these are: magnetic force, gravitational force, electrostatic force. When these two or more objects interact with each other there is a force produced on all of them that is equal or opposite.
+
+Term: newton's law of gravitation
+Definition: The force of gravity between two very dense objects can be described inversely by the distance between them.
+
+Term: vector
+Definition: An quantity that has a magnitude and direction
+
+Term: acceleration
+Definition: Change in velocity over change in time
+
+Term: velocity
+Definition: change in displacement over change in timevector
+
+Term: displacement
+Definition: the total distance traveled by an object regardless of direction
+
+Term: distance
+Definition: the amount traveled from a certain spot.
+
+Term: newton's first law
+Definition: law of inertia
+
+Term: newton's second law
+Definition: F=ma
+
+Term: Newton's 3rd law
+Definition: Every action has an equal and opposite reaction
+
+Term: This force goes in the opposite direction of motion
+Definition: Friction
+
+Term: Frictional force
+Definition: =coeffiecent of friction xmxg
+
+Term: A boat moving at 4m/s north, with a wind coming from the east at 3 m/s gives you a net vector of what?
+Definition: 5m/s NE
+
+Term: Gravitational pull between object
+Definition: the relationship where the force between to objects is inversely 1/r related to the distance between them.
+
+Term: Acceleration
+Definition: Change in velocity. Can be a change in direction, positive (speeding up) or negative (slowing down).
+
+Term: Magnitude
+Definition: A scalar quantity
+
+Term: Motion
+Definition: A change in the position of an object over time from a reference point.
+
+Term: Example of velocity
+Definition: Nemo swims 37 m/s South to Wallaby Way in Australia.
+
+Term: Speed
+Definition: the distance traveled by an object in a given amount of time.
+
+Term: Example of speed
+Definition: Nemo swims 58 m/s
+
+Term: Velocity
+Definition: speed of an object and its direction of motion; changes when speed, direction or both changes
+
+Term: vector
+Definition: An quantity that has a magnitude and direction
+
+Term: displacement
+Definition: the total distance traveled by an object regardless of direction from start to finish
+
+Term: distance
+Definition: the amount traveled from a certain spot.
+
+Term: If an object is moving northward and slowing down, then the direction of its acceleration vector is
+Definition: South
+
+Term: If an object is moving eastward and slowing down, then the direction of its velocity vector is
+Definition: East
+
+Term: If an object is moving eastward and slowing down, then the direction of its acceleration vector is
+Definition: West
+
+Term: Newton's First Law
+Definition: An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.
+
+Term: Newton's Second Law Equation
+Definition: Force = mass x acceleration
+
+Term: Newton's Second Law
+Definition: The acceleration of an object is dependent upon two variables - the net force acting upon the object and the mass of the object.
+
+Term: Newton's Third Law
+Definition: For every action there is an equal and opposite reaction
+
+Term: balanced forces
+Definition: Equal forces acting on an object in opposite directions
+
+Term: unbalanced forces
+Definition: Forces that cause a change in the motion of an object
+
+Term: Inertia
+Definition: The tendency of an object to resist a change in motion. Inertia depends on mass.
+
+Term: Mass
+Definition: the amount of matter in an object
+
+Term: Force
+Definition: a push or pull on an object
+
+Term: action-reaction forces
+Definition: pair of forces involved in an interaction that are equal in magnitude and opposite in direction
+
+Term: Acceleration
+Definition: The rate of change in velocity. Can be a change in direction, positive (speeding up) or negative (slowing down).
+
+Term: Balanced Force
+Definition: Two forces in opposite directions. Net force is zero and the motion of the object does not change.
+
+Term: Friction
+Definition: The force between objects that resists motion - always slows down motion
+
+Term: Newton
+Definition: A measurement of force
+
+Term: Magnitude
+Definition: The strength or size of an object or force.
+
+Term: Mass
+Definition: The total amount of matter in something.
+
+Term: Force
+Definition: A push or pull on an object that can cause a change in movement
+
+Term: Net Force
+Definition: The total of all the forces acting on an object
+
+Term: Gravity
+Definition: A force that pulls objects together
+
+Term: F = m x a
+Definition: Formula for Force
+
+Term: Displacement vs Time Graph
+Definition: Shows the distance an object travels in a certain amount of time.slope is velocity
+
+Term: Inertia
+Definition: the tendency of a body to maintain is state of rest or uniform motion unless acted upon by an external force
+
+Term: Motion
+Definition: A change in the position of an object over time.
+
+Term: Newton's First Law of Motion (Definition)
+Definition: an object at rest will stay at rest unless acted upon by an outside unbalanced force; an object in motion will stay in motion unless acted upon by an outside unbalanced force.
+
+Term: Newton's First Law of Motion (Example)
+Definition: when a car suddenly stops and your head continues to move foward even though your body is stopped by the seat belt
+
+Term: Newton's Second Law of Motion (Definition)
+Definition: the greater the force applied to an object, the greater the acceleration; the smaller the mass of an object, the greater its acceleration when force is applied; only an unbalanced force can cause objects to accelerate
+
+Term: Newton's Second Law of Motion (Example)
+Definition: the force applied to a roller coaster car in addition to the mass of the car determines the acceleration of the car; more force = more acceleration
+
+Term: Newton's Third Law of Motion (Definition)
+Definition: for every action there is an equal and opposite reaction; there is a reaction force that is equal in size but opposite in direction.
+
+Term: Newton's Third Law of Motion (Example)
+Definition: as the thrust of a rocket pushes down on Earth's surface, the rocket launches upward into the atmosphere
+
+Term: Example of velocity
+Definition: Nemo swims 37 m/s South to Wallaby Way in Australia.
+
+Term: Speed
+Definition: the distance traveled by an object in a given amount of time.
+
+Term: Example of speed
+Definition: Nemo swims 58 m/s
+
+Term: Unbalanced Force
+Definition: A force that is not equal in size and opposite in direction.
+
+Term: Velocity
+Definition: speed of an object and its direction of motion; changes when speed, direction or both changes
+
+Term: Contact forces
+Definition: Contact forces work when two or more objects are touching. Some examples of this are: friction, air resistance, tension in ropes and normal contact force. When these two or more objects interact there is a force on both of them and is equal or opposite of the other object.
+
+Term: Non-contact forces
+Definition: Non-contact forces happen when two or more objects exert a force on each other but are not touching. Some examples of these are: magnetic force, gravitational force, electrostatic force. When these two or more objects interact with each other there is a force produced on all of them that is equal or opposite.
+
+Term: newton's law of gravitation
+Definition: The force of gravity between two very dense objects can be described inversely by the distance between them.
+
+Term: vector
+Definition: An quantity that has a magnitude and direction
+
+Term: acceleration
+Definition: Change in velocity over change in time
+
+Term: velocity
+Definition: change in displacement over change in timevector
+
+Term: displacement
+Definition: the total distance traveled by an object regardless of direction
+
+Term: distance
+Definition: the amount traveled from a certain spot.
+
+Term: newton's first law
+Definition: law of inertia
+
+Term: newton's second law
+Definition: F=ma
+
+Term: Newton's 3rd law
+Definition: Every action has an equal and opposite reaction
+
+Term: This force goes in the opposite direction of motion
+Definition: Friction
+
+Term: Frictional force
+Definition: =coeffiecent of friction xmxg
+
+Term: A boat moving at 4m/s north, with a wind coming from the east at 3 m/s gives you a net vector of what?
+Definition: 5m/s NE
+
+Term: Gravitational pull between object
+Definition: the relationship where the force between to objects is inversely 1/r related to the distance between them.
+
+Term: Force
+Definition: A push or a pull.
+
+Term: Newtons (N)
+Definition: Units used to measure Force.
+
+Term: Applied Force
+Definition: A push or pull on an object.
+
+Term: Normal Force (perpendicular)
+Definition: A support force exerted on an object resting on a solid surface.
+
+Term: Friction
+Definition: A force between two surfaces that are in contact with each other.
+
+Term: Gravity
+Definition: The force of attraction between any two objects that have mass. The strength of gravitational pull between two objects depends on the mass of the objects and the distance between them.
+
+Term: Net Force
+Definition: The combination of all the forces acting on an object.
+
+Term: Balanced Forces
+Definition: Produce no change in the motion of an object and the net force is equal to 0.
+
+Term: Unbalanced Forces
+Definition: When the net forces on an object are greater than 0, the forces are unbalanced. Unbalanced forces cause an object to start moving, stop moving, speed up, slow down or change direction. Unbalanced forces cause a change in velocity and therefore, cause acceleration.
+
+Term: Instantaneous Speed
+Definition: The speed at any instant of time.
+
+Term: Average Speed
+Definition: A measure of the distance traveled in a given period of time.
+
+Term: Speed
+Definition: How fast something is going. The slope of a distance versus time graph.
+
+Term: Velocity
+Definition: How fast something is going in a certain direction. Example: 30 mph east
+
+Term: Acceleration
+Definition: The rate at which the velocity of an object is changing. Acceleration of an object may be a change in direction or a change in speed (slowing down or speeding up).
+
+Term: Stationary
+Definition: At rest.
+
+Term: Positive constant velocity
+Definition: Direction of movement is away from the origin.
+
+Term: Negative constant velocity
+Definition: Direction of movement is returning to the origin.
+
+Term: Kinetic Energy
+Definition: Energy of Motion.
+
+Term: Gravitational Potential Energy
+Definition: Stored energy of position. A result of mass and height.
+
+Term: Elastic Potential Energy
+Definition: Stored energy as a result of stretching or compressing.
+
+Term: Newton's First Law of Motion
+Definition: An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.
+
+Term: Newton's Second Law of Motion
+Definition: The second law states that the greater the mass of an object, the more force it will take to accelerate the object. Force = mass x acceleration or F=ma.
+
+Term: Newton's Third Law of Motion
+Definition: The third law states that for every action, there is an equal and opposite reaction.
+
+Term: Work
+Definition: Work is the energy required to move an object against a force. Work is equal to the force times the distance the object moves. The SI unit for work is the joule.
+
+Term: Joule
+Definition: The unit used for measuring work.
+
+Term: Mechanical Energy
+Definition: The sum of kinetic and potential energy in an object that is used to do work. Energy in an object due to its motion or position, or both.
+
+Term: Radiant Energy
+Definition: The energy of electromagnetic waves. It is a form of energy that can travel through space.
+
+Term: Chemical Energy
+Definition: Energy stored in the bonds of chemical compounds (atoms and molecules). It is released in a chemical reaction. Batteries, biomass, petroleum, natural gas, and coal are examples of stored chemical energy.
+
+Term: Electrical Energy
+Definition: Energy created by electrons moving through an electrical conductor.
+
+Term: Thermal Energy
+Definition: Energy that comes from the temperature of matter.
+
+Term: Nuclear Energy
+Definition: Energy in the nucleus of an atom.
+
+Term: Sound Energy
+Definition: Sound is produced when a force causes an object or substance to vibrate — the energy is transferred through the substance in a wave.
+
+Term: Speed
+Definition: Distance/TimeThe distance you travel divided by the amount of time it take you to get there.
+
+Term: Velocity
+Definition: Speed in a given direction
+
+Term: Acceleration
+Definition: the rate at which velocity changes
+
+Term: Force
+Definition: A push or a pull
+
+Term: Newton
+Definition: Unit of Measurement for Force
+
+Term: Net Force
+Definition: The combination of all forces acting on an object
+
+Term: Unbalanced Force
+Definition: Causes a change in motion
+
+Term: Balanced Force
+Definition: No change in motion
+
+Term: Potential Energy
+Definition: Stored Energy-Highest Point
+
+Term: Kinetic Energy
+Definition: Energy of motion-Lowest Point
+
+Term: Friction
+Definition: A force that opposes the motion of objects that touch as they move past each other
+
+Term: Newton's Law 1
+Definition: An object at rest will stay at rest and an object in motion will stay in motion unless acted on by an external force
+
+Term: Newton's Law 2
+Definition: Force = mass • acceleration
+
+Term: Newton's Law 3
+Definition: for every action there is an equal and opposite reaction
+
+Term: Inertia
+Definition: The tendency of an object to resist a change in motion
+
+Term: Physics
+Definition: the study of matter and energy
+
+Term: Distance Time Graph-NO Motion
+Definition: 
+
+Term: Distance Time Graph-Deceleration
+Definition: 
+
+Term: Distance Time Graph- constant speed
+Definition: 
+
+Term: Unit of Measurement for Speed
+Definition: mph, km/h,m/s
+
+Term: Unit of Measurement for Acceleration
+Definition: m/s/s, m/s2
+
+Term: Distance Time Graph- Acceleration
+Definition: 
+
+Term: Distance Time Graph- Backwards
+Definition: 
+
+Term: weight
+Definition: force of gravity in Newtons
+
+Term: Applied force
+Definition: push or pull on an object
+
+Term: Normal Force
+Definition: Force applied to an object that resists the force of gravity.
+
+Term: Gravity
+Definition: The force of attraction between two objects that have mass. Depends on the mass and distance between them
+
+Term: net force
+Definition: The combination of all forces acting on an object; the overall force exerted on an object
+
+Term: Applied Force
+Definition: a force which is applied to an object by a person or another object
+
+Term: opposing forces
+Definition: forces that act in opposite directions; they are subtracted
+
+Term: Friction
+Definition: the resistance that one surface or object encounters when moving over another; work to slow down or bring object motion to stop
+
+Term: Gravity
+Definition: A force that pulls objects toward each other
+
+Term: Weight
+Definition: A measure of the gravitational force exerted on an object.
+
+Term: balanced forces
+Definition: Equal forces acting on an object in opposite directions that form a net force of zero Newtons; object motion is not changed
+
+Term: unbalanced forces
+Definition: forces acting on an object that combine and form a net force that is not zero; object motion will change in direction of greater force
+
+Term: Inertia
+Definition: The tendency of an object to resist a change in motion
+
+Term: Newton's First Law (Law of Inertia)
+Definition: An object in motion (or at rest) will tend to stay in motion (or at rest) until it is acted upon by an outside force.
+
+Term: Newton's Second Law of Motion (Law of Acceleration)
+Definition: The acceleration of an object depends on the mass of the object and the amount of force applied; a=F/m
+
+Term: Newton's Third Law of Motion (Law of Force Pairs)
+Definition: If one object exerts a force on another object, then the second object exerts a force of equal strength in the opposite direction on the first object.
+
+Term: Acceleration
+Definition: the rate at which velocity changes over time; an object accelerates if its speed, direction, or both change
+
+Term: Speed
+Definition: The distance an object travels per unit of time
+
+Term: Velocity
+Definition: the speed of an object in a particular direction
+
+Term: Motion
+Definition: An object's change in position relative to a reference point.
+
+Term: potential energy
+Definition: stored energy that results from the position and/or mass of an object
+
+Term: kinetic energy
+Definition: the energy an object has due to its motion
+
+Term: force
+Definition: A push or pull exerted on an object
+
+Term: speed formula
+Definition: speed = distance/time
+
+Term: distance-time graph (speed graph)
+Definition: A visual representation of how an object's position and speed are changing over time; ARCCS (Away/Returning, Constant/Changing speed, Stopped)
+
+Term: Speed-time graph (acceleration graph)
+Definition: A visual representation of how an object's speed is changing over time
+
+Term: F = maForce = mass x acceleration
+Definition: formula Newton derived to express the relationship between an object's mass, the force applied to it and its acceleration
+
+Term: constant velocity
+Definition: Constant speed and constant direction; forces are balanced
+
+Term: changing velocity
+Definition: either speed, direction, or both are changing; acceleration and forces are unbalanced
+
+Term: Minimum energy (in eV) needed to be ionizing
+Definition: 15eV
+
+Term: Why is rhenium mixed with tungsten in a filament?
+Definition: Prevent cracking with repeated heating/cooling
+
+Term: K edge of Iodine
+Definition: 33.2 keV
+
+Term: K shell binding energy of tungsten
+Definition: 69.5 keV
+
+Term: Max energy of the xray that is created at the anode
+Definition: Can't be higher than the energy of the electron that created it (which maxes at the voltage between the cathode and anode in kV)
+
+Term: K-shell binding energy proportional to...
+Definition: Z^2
+
+Term: Auger electron
+Definition: Inner shell electron gets ionized, another drops down, emits energy but this energy ionizes another (outer shell) electron. No x-rays produced
+
+Term: What elements tend to make Auger electrons?
+Definition: Lower Z. This is also why you pick high Z for anodes
+
+Term: Relationship between Z and amount of Bremsstrahlung
+Definition: Directly proportional
+
+Term: Type of shielding to use when blocking beta emitters (like a syringe full of Y90)
+Definition: Low Z shield (like plastic) because high Z shield will create tons of Bremsstrahlung xrays
+
+Term: Double the mA
+Definition: Double the intensity of the energy spectrum
+
+Term: Increase kVP by 15%
+Definition: Double intensity of energy spectrum
+
+Term: Average energy of the xrays is based on the...
+Definition: kVP, unrelated to mA
+
+Term: Average energy relative to kVP
+Definition: Approximately 50% (prob slightly less) of the kVP
+
+Term: Things to do when you xray a baby
+Definition: Lower the kVP (you don't need as much to penetrate), keep mAs similar or slightly lowerDont use a grid
+
+Term: Focal spot
+Definition: Part of the anode where bombardment/xray production takes place
+
+Term: Smaller focal spot
+Definition: Better spatial resolution, worse heat dissipation
+
+Term: Actual focal spot vs apparent focal spot
+Definition: Actual focal spot is on the target. Apparent focal spot is on the patient
+
+Term: Which focal spot determines the blur?
+Definition: The apparent focal spot (on the patient), not the actual focal spot on the anode
+
+Term: Steeper (smaller) anode angle
+Definition: Makes a smaller apparent focal spot, but the actual focal spot is also smaller so heat dissipation can be a problem
+
+Term: "Blooming" of the focal spot
+Definition: Happens when you have high mA, low kVP. Imagine crowded low energy electrons that are bumping each other when theyre going from cathode to anode.
+
+Term: Heel effect
+Definition: Xrays that are closer to the anode side had to travel through more attenuating material and are less intense. Remember "cathode to chest wall"
+
+Term: How to improve heel effect
+Definition: Smaller film size, larger source to image distance, larger (less steep) anode angle
+
+Term: Heel "cutoff"
+Definition: Smaller (steeper) anode angle results in worse heel effect
+
+Term: Soft tissue half value layer
+Definition: ~3cm
+
+Term: Breast tissue half value layer
+Definition: ~1cm
+
+Term: Best energy of the beam to visualized iodinated contrast
+Definition: Just above the K-edge of iodine, so approx 34-35 keV
+
+Term: What is classical/coherent (Rayleigh) scatter?
+Definition: Occurs in low energy situations (think mammo) usually &lt;10keV. No ionization occurs. Can result in some loss of image contrast.
+
+Term: Compton scatter
+Definition: Predominates at higher energies relative to coherent and photoelectric. Ionizes an outer shell electron and redirection of the xray (which still has energy) to somewhere random. This is the worst!
+
+Term: How does Z affect Compton scatter?
+Definition: Doesnt matter. Compton scatter directly proportional to tissue DENSITY
+
+Term: How does Z affect photoelectric effect?
+Definition: Probability is directly associated with Z^3. So much more photoelectric effect at high Z
+
+Term: K edge of barium
+Definition: 37.4 keV
+
+Term: Linear attenuation coefficient
+Definition: The portion of photons that gets attenuated per unit thickness. Ex: LAC of 0.1/cm would mean that 10% of the beam gets attenuated per cm of material. Kind of inverse to half value layer.
+
+Term: Change in unsharpness with increase in focal spot size
+Definition: Bigger focal spot = less sharp. Small focal spot = more sharp
+
+Term: Direct DR system (Selenium)
+Definition: No light involved (hence direct). Photon hits detector and gets turned into charge by amorphous selenium
+
+Term: Types of mammo target/filter combos
+Definition: Moly/moly, moly/rho, rho/rho. No such thing as rho/moly
+
+Term: Which classic mammo target/filter setup is for denser breasts?
+Definition: Rho/rho
+
+Term: Which new target/filter setup is for denser breasts?
+Definition: Rho/Al, or even Tungsten/Rho or Tungsten/Silver
+
+Term: Focal spot in mammo
+Definition: Has to be really small! ~0.3mm. This does not tolerate heat as well. You have to lower the mA or you'll melt the anode. Also means longer exposure time
+
+Term: Material for mammo exit window
+Definition: Beryllium (vs pyrex glass for standard radiography) bc you dont want to attenuate these low energy xrays
+
+Term: Why compress the breast?
+Definition: Decrease scatter (improved contrast), lower kvP, less mA needed, less motion.
+
+Term: Breast mag views
+Definition: No grid, use air gap.Even smaller focal spot (0.1mm)Even lower mA / longer exposureSmaller paddle
+
+Term: Fluoro focal spot vs general radiograph
+Definition: Fluoro focal spot is smaller (want less blurring)
+
+Term: Components of fluoro image intensifier (II)
+Definition: Input phosphor (Cs) turns xrays into lightPhoto-cathode turns light into chargeCharge accelerated, hits output phosphorOutput phosphor is smaller (concentrates) and turns back into light (minification gain)
+
+Term: What does the II do when you mag?
+Definition: Simply not "minifying" as much. But it still needs the same amount of light at the end so it uses more mA. Double mag = double skin dose. (but kerma area dose stays the same bc smaller area)
+
+Term: Dose change when you bring patient closer to the source
+Definition: Inverse Squared!
+
+Term: Which causes more dose increase, geometric mag or electronic mag?
+Definition: Geometric (Physical distance) mag (squared vs doubled)
+
+Term: Flat panel detector components
+Definition: CsI input phosphor (convert photons to light)Photodiode (convert light to charge)Readout elements - read out charge directly (vs II which needs to convert back to light and then use TV display)
+
+Term: When do you never use a grid?
+Definition: Anything less than 10cm basically (either a baby or an extremity)
+
+Term: Where do you want to stand as the operator?
+Definition: On the side of the receptor. This avoids the majority of the scatter
+
+Term: Dose limit for an IR fellow
+Definition: 50mSv per year. In reality you get about 5mSv
+
+Term: Kerma area product / dose area product
+Definition: Entrance air kerma * area of entrance - measured in Gy-cm^2
+
+Term: Is KAP related to source distance?
+Definition: No, independent. Entrance air kerma goes down with distance, but the area hit goes up.
+
+Term: Will mag increase the KAP?
+Definition: No. The entrance air kerma will be bigger but the area will be smaller
+
+Term: CT minimum slice thickness determined by
+Definition: Detector element aperture width (smaller is thinner)
+
+Term: Pitch
+Definition: Pitch = table movement per tube / beam width
+
+Term: Pitch &gt; 1
+Definition: There's a gap between slices. Less dose. More spatial resolution
+
+Term: Pitch &lt; 1
+Definition: There is overlap. More dose. Improved spatial resolution.
+
+Term: CT mA compared to xray
+Definition: CT mA is higher (up to 1000) compared to 100-800mA for radiograph
+
+Term: Bowtie filter
+Definition: Filter attenuates less in the center than in the edges so that you get a more homogeneous beam.
+
+Term: Locations of collimation in CT
+Definition: Pre-patient (reduces dose on the source side)Post-patient (gets rid of scatter from patient on the detector side)
+
+Term: Increased beam width effect on dose
+Definition: Does NOT change. mAs unchanged. Lower scan time but bigger chunk of tissue exposed
+
+Term: What is a projection?
+Definition: All the rays in a given angle of the tube. Ray is a single beam to a single detector.
+
+Term: Iterative reconstruction
+Definition: Basically you can lower the dose and allegedly maintain imaging quality with advanced reconstruction
+
+Term: Matrix size in CT
+Definition: 512 x 512
+
+Term: Pixel/voxel size relative to FOV and matrix
+Definition: Pixel size = Field of view / Matrix
+
+Term: Doubling the xrays does what to the signal? What to the noise?
+Definition: Doubling xrays doubles the signal, increases noise by sqrt(2). So overall SNR improves by 1.4x
+
+Term: How to increase SNR
+Definition: Thicker slices (fatter transmit bandwidth), larger FOV, smaller matrix, stronger magnet, narrower readout badwidth, biger voxel
+
+Term: What is the reconstruction kernel?
+Definition: Post-processing, tradeoff between spatial resolution and noise. Sharp kernel has high spatial resolution and tons of noise (think bone). Soft kernal has low spatial resolution and low noise. Dose is the SAME b/c its post-processing
+
+Term: Relationship between HU and xray attenuation
+Definition: Increase HU by 10 = increase xray attenuation by 1%
+
+Term: When to use a narrow window
+Definition: When the things you're trying to tell apart are close in density (like stroke windows for white/gray matter)
+
+Term: When to use wider window
+Definition: When the things you're trying to tell apart are wide apart in HU (like looking at a cancer in lung window)
+
+Term: Which has better SNR, the smooth kernel or the sharp kernel?
+Definition: The smooth kernel has better SNR, poorer spatial resolution.
+
+Term: What is CTDI?
+Definition: Radiation dose that is normalized to the width of the beam. Based on a phantom
+
+Term: What is weighted CTDI?
+Definition: 1/3 the central CTDI + 2/3 the peripheral CTDI
+
+Term: What is volume CTDI?
+Definition: Weighted CTDI / pitch
+
+Term: What is DLP?
+Definition: Dose length product (DLP) = Volume CTDI * Scan length
+
+Term: What is the effective dose?
+Definition: You need the DLP times a constant which depends on the body part
+
+Term: Absorbed dose units
+Definition: In Gy (1 Joules/kg)
+
+Term: Equivalent dose units
+Definition: In Sieverts
+
+Term: Effective dose units
+Definition: In Sieverts
+
+Term: Absorbed dose vs equivalent dose
+Definition: Equivalent dose takes into account the type of radiation (Ex: alpha particles are a ****ton worse than xrays)
+
+Term: Equivalent dose vs effective dose
+Definition: Effective dose takes into account tissue weighting factor (how sensitive an organ is to radiation)
+
+Term: Cupping artifact
+Definition: Center of the image looking darker, didnt get enough juice relative to the outside
+
+Term: Dark streak artifact
+Definition: Look for arms down, streaks in the mediastinum. This is a kind of beam hardening artifact. Easiest fix is to tilt the gantry or position the patient with arms up.
+
+Term: Incomplete projection artifact
+Definition: Guy is too fat, tissue hanging out outside of field of view causing computer to spaz. Reposition patient if possible
+
+Term: Ring artifact
+Definition: Defective detector element
+
+Term: Stair step artifact
+Definition: Reconstructions with slices that are too thick (non overlapping intervals)
+
+Term: Where is lateral resolution the best?
+Definition: At the focal zone
+
+Term: What increases axial resolution?
+Definition: Higher frequency probe
+
+Term: Frequency vs spatial pulse length
+Definition: The higher the frequency the smaller the spatial pulse length, the better your axial resolution
+
+Term: What is axial resolution in US?
+Definition: Resolution in the direction of the probe (depth)
+
+Term: Best angle for doppler
+Definition: Theoretically, 0 is best and 90 is worst (cosine) but you MUST have &lt;60.
+
+Term: What is power doppler
+Definition: Just detection of presence of doppler shift and how much. Doesnt give directional information.
+
+Term: Color vs power doppler
+Definition: Power is more sensitiveNo aliasing in powerPower not affected by doppler angleBoth can get FLASH artifact
+
+Term: Output power vs gain
+Definition: Output power = how big the wave is that you're sending out. Receiver gain is how much you tune up the strength of the pulse you get back.
+
+Term: Output power vs lateral resolution
+Definition: Lower output power = better lateral resolution
+
+Term: Harmonics
+Definition: Transmit at one frequency and receive in another. Improves LATERAL resolution. Needs to travel a certain distance before you get this.
+
+Term: Compound imaging
+Definition: "Peeking around the corner"Cleaner edgesLose posterior shadowing
+
+Term: What is mechanical index in US?
+Definition: Indication of US beam's ability to cause cavitation/micromechanical damage
+
+Term: Probe frequency vs mechanical index
+Definition: High frequency has low MILow frequency has high MI
+
+Term: FDA limits of mechanical index
+Definition: 1.0 for baby~2.0 for adult
+
+Term: Thermal index in ultrasound
+Definition: Ability to cause heat. Thermal index of 1 raises the temperature of tissue 1 degree celcius. This is tissue specific
+
+Term: Thermal index and OB
+Definition: Avoid using color doppler on a fetus bc this requires higher power and increases thermal index
+
+Term: Minimum distance needed for axial resolution in US
+Definition: Half of an SPL (spatial pulse length)
+
+Term: Ring down artifact
+Definition: Gas bubbles with water inside that resonates and keeps generating more return waves
+
+Term: Mirror image artifact
+Definition: Type of reverberation artifact with an angled reflector
+
+Term: Twinkle artifact
+Definition: Looks like theres movement/flow when there isnt. bc rough surface causes split into complex wave pattern. Also could be related to "phase jitter"
+
+Term: Refraction artifact
+Definition: Happens related to interfaces.
+
+Term: Anisotropy artifact
+Definition: Tendon looks hyperechoic when perpendicular and hypoechoic when at an angle (can simulate tear). Fix = keep probe steady at perpendicular
+
+Term: Color bleed artifact
+Definition: Will look like color extending beyond vessel wall. Improve by turning down color gain
+
+Term: Aliasing ultrasound artifact
+Definition: Point where you screw up and lose data unless you increase sampling speed = Nyquist frequency. Appears as wrap-around Nyquist limit = 1/2 pulse repetition frequency
+
+Term: What does NRC regulation 10 CFR Part 35 deal with?
+Definition: Medical use of by-product radioactive material
+
+Term: Who needs to wear radiation badges
+Definition: People who have the possibility of getting more than 10% annual dose limit (so more than 5mGy or 500mrem)
+
+Term: Threshold for temp hair loss
+Definition: 2-5Gy
+
+Term: Threshold for permanent hair loss
+Definition: 7Gy
+
+Term: What does 10 CFR 20 deal with?
+Definition: Dose exposure limits for workers
+
+Term: What is the max whole body annual dose allowable?
+Definition: 50mSv / 5rem / 5000mrem
+
+Term: Max whole body annual dose for a pregnant worker
+Definition: 5mSv / 500mrem
+
+Term: Threshold for permanent sterility in males from acute exposure
+Definition: 6Gy
+
+Term: What is MQSA?
+Definition: Mammo Quality Standards Act Regulations
+
+Term: Maximum MQSA glandular dose from single view
+Definition: 3mGy per image on the phantom. No specific limits on an actual breast.
+
+Term: Relative biological effectiveness
+Definition: Ratio of doses from diff types of radiation (xrays, alpha, beta) to cause a given effect.
+
+Term: Annual dose limit to the public
+Definition: 1mSv / 100mrem
+
+Term: What are stochastic effects?
+Definition: No threshold. As dose increases, probability of occurrence increases but the severity does not. Think about cancer risk with radiation
+
+Term: What is multiple scan average dose (MSAD)?
+Definition: Avg dose to a slice in the central portion of a scan taking into account scatter from adjacent slices (compton)
+
+Term: Threshold for transient erythema
+Definition: 2Gy / 200 rads
+
+Term: Threshold for cataracts from acute exposure
+Definition: 0.5Gy. Cataracts will develop &gt;20 years after acute exposure
+
+Term: What is most adjusted by automatic exposure control?
+Definition: Exposure time to achieve appropriate exposure of the detector (ends up changing mAs)
+
+Term: CDTIvol phantoms
+Definition: Estimated on 16cm or 32cm phantom. If the patient is smaller than the phantom, dose is underestimated. If patient is larger, dose is overestimated.
+
+Term: Max dose limitation for public from release of patients injected with radioactive materials
+Definition: 5mSv / 500mrem
+
+Term: Cancer incidence increase for radiation according to BEIR VII
+Definition: 8% per 1Gy (0.08% per rad)
+
+Term: Dose limit for a fetus of an occupational worker
+Definition: 500 mrem (5mGy) through the term of the pregnancy
+
+Term: Threshold for main erythema reaction
+Definition: Main erythema rxn occurs ~10 days post exposure (after transient) and threshold is ~5Gy
+
+Term: Threshold for late erythema reaction
+Definition: ~15Gy. This happens 8-10 weeks after exposure and can appear bluish 2/2 ischemia.
+
+Term: Who defined the thresholds for deterministic effects?
+Definition: International Commission on Radiological Protection (ICRP)
+
+Term: Effects of acute radiation syndromes are seen above what cutoff?
+Definition: 1Gy
+
+Term: Units of exposure
+Definition: Roentgen (Coulomb/kg)
+
+Term: Threshold for skin exposure at which additional care and followup is instituted
+Definition: 15Gy to single exposure field
+
+Term: Acute dose threshold for permanent sterility
+Definition: 6Gy in men, 3Gy in women.
+
+Term: Threshold of I-131 that needs written AU directive
+Definition: &gt;30uCi (1.11Mbq). Or any therapeutic dosage of unsealed byproduct
+
+Term: Allowed difference from prescribed nucs dose by licensee
+Definition: Up to 20%
+
+Term: Flow related enhancement is most commonly seen on..
+Definition: T1 weighted sequences at the end (entry) slice
+
+Term: Beta plus decay
+Definition: Occurs in proton rich environments. Proton turns into a neutron, emits a positron. Atomic number decreases
+
+Term: Purpose of normalization scan in PET QA/QC
+Definition: Correct for nonuniformity of detector elements to a uniform source (varying efficiency along different lines of response)
+
+Term: What improves susceptibility artifact?
+Definition: Lower field strength, increasing receive/transmit bandwidth, spin echo (as opposed to GRE or EPI)
+
+Term: Interval for dose calibrator accuracy test
+Definition: Annually
+
+Term: Interval for dose calibrator linearity test
+Definition: Quarterly
+
+Term: Interval for dose calibrator constancy test
+Definition: Daily
+
+Term: Dose calibrator mnemonic
+Definition: CLAG for daily, quarterly, annually, whenever moved
+
+Term: Weekly MR QC
+Definition: Done by tech. Includes high/low contrast resolution, table positioning, center frequency
+
+Term: Annual MR QC
+Definition: Done by medical physicist, includes RF coil check, slice thickness and slice position accuracy
+
+Term: How long must calibration records of dose calibrators be kept?
+Definition: NRC says 3 years.
+
+Term: Max dose to public accessible areas in 1 hour
+Definition: 2mrem/hr (0.02mSv/hr)
+
+Term: Diamagnetic materials
+Definition: Water and calcium, induced field opposes the external field
+
+Term: Paramagnetic materials
+Definition: Gado and deoxyhemoglobin, induced field enhances external field.
+
+Term: Annual extremity (or any other organ but the eye) dose limit
+Definition: 500mSV / 0.5Sv / 50 rem
+
+Term: Resonance frequency per 1T
+Definition: ~42 MHz
+
+Term: SI unit for magnetism
+Definition: Tesla. 1T = 10,000 gauss. Earth field = 0.5 Gauss
+
+Term: Half life equation
+Definition: Half life = ln(2)/decay constant
+
+Term: Housing vs enclosure
+Definition: Housing surrounds everything, made of leadEnclosure is glass and surrounds the x-ray tube, maintaining a vacuum.
+
+Term: Probability of photoelectric effect relative to photon energy
+Definition: INVERSELY proportional to the energy CUBED
+
+Term: What changes to make to kVP / mAs in a kid
+Definition: Lower kVP (need less penetrating photons) and keep the mA same to slightly lower
+
+Term: Pair production
+Definition: At super high keV and super high Z target (Colossus from xmen) the photon hits straight into the nucleus and emits a pair (1 electron and 1 positron). Positron then annihilates and you can image like PET
+
+Term: Tenth value layer (TVL)
+Definition: Thickness needed to attenuate 90% of the beam. Ends up being 3.xx HVLs
+
+Term: Linear vs mass attenuation
+Definition: Linear attenuation differs for water, vapor, and ice bc they take up different amounts of spaceMass attenuation is the same regardless of phase because it's measured per unit mass
+
+Term: Threshold at which PE vs compton dominates
+Definition: PE dominates &lt;30keV, compton dominates &gt;30keV. Note that both types decrease with increasing energy, its just that there's more compton at those energies relatively
+
+Term: Bucky factor
+Definition: mA required with grid / mA required without grid. Most common Bucky factor is 2-3
+
+Term: What is grid cut off?
+Definition: The grid blocks so many photons that you cause quantum mottle
+
+Term: Pixel pitch
+Definition: Spacing between pixels. The lower the pixel pitch the better the spatial resolution.
+
+Term: Window width and contrast
+Definition: Wide window - decreased contrastNarrow window - increased contrast
+
+Term: Dynamic range of digital vs plain film
+Definition: Digital has wider dynamic range
+
+Term: Dynamic range curves for film vs digital
+Definition: Linear and wide for digital, curvilinear and narrow for film
+
+Term: Storage phosphor (CR) radiography
+Definition: Type of indirect, casette based system. Xray -&gt; light -&gt; charge
+
+Term: Material in a CR cassette
+Definition: Barium fluorohalides
+
+Term: Indirect DR system
+Definition: Xrays hit CsI scintillator -&gt; light -&gt; converted to charge by photodiode -&gt; readout by TFT (thin film transistor) array
+
+Term: Is there lateral dispersion in direct DR?
+Definition: No, no scintillator intermediate so no opportunity for light dispersion.
+
+Term: Spatial resolution of DR vs CR
+Definition: DR is better, with direct better than indirect (no lateral dispersion)
+
+Term: CR vs DR decentralized
+Definition: CR is centralized (C for centralized)DR is decentralized (D for decentralized)
+
+Term: Probability of photoelectric effect
+Definition: Directly proportional to Z^3Inversely proportional to photon energy ^3
+
+Term: Ideal energy for mammo
+Definition: Between 16-23keV, so you have to use a voltage of 25-30kVp (vs ~120 for chest radiograph)
+
+Term: Highest energy anode/filter pairs in mammo
+Definition: Tungsten/rho and Tungsten/silver
+
+Term: Filter pair thats never used in mammo
+Definition: Rho anode with a moly filter
+
+Term: Spatial resolution values
+Definition: Screen film mammo: 15lp/mmDigital mammo: 7 lp/mmDigital radiopgraph: 3lp/mmCT: 0.7lp/mmMR: 0.3 lp/mm
+
+Term: Fluoro mA, exposure time, and focal spot relative to regular dx
+Definition: Fluoro has longer exposure times, lower mA (so you dont melt the anode) and a smaller focal spot
+
+Term: How many spot films per equivalent dose of 1minute fluoro?
+Definition: 5-10
+
+Term: In an II, what is flux gain?
+Definition: Acceleration of electrons towards the output phospor, increasing their energy
+
+Term: What is minification gain?
+Definition: Electrons from a large surface, concentrated on a smaller surface
+
+Term: How does the dose of an II change as it gets older?
+Definition: Older II = more dose! Worse efficiency / conversion gain
+
+Term: When does an II need to be replaced?
+Definition: Conversion gain falls below 50%
+
+Term: Comet tail artifact
+Definition: Looks kinda like ring down but quickly tapers off (ring down extends to deep image). It is a type of reverb artifact
+
+Term: Things that cause comet tail artifact
+Definition: Cholesterol and colloid
+
+Term: Things that cause ring down artifact
+Definition: Trapped air bubbles in fluid
+
+Term: Dose threshold for risk of organ malformation to fetus
+Definition: 100 mGy
+
+Term: Type of change to lower dose for a stone study
+Definition: Lower the mA and keep the kVP the same. You get more noise but this is ok bc youre looking for a super high contrast finding
+
+Term: Artifact associated with prospective cardiac gating
+Definition: Flash artifact
+
+Term: What happens to beam width, spatial resolution, and beam intensity at the focal zone
+Definition: At focal zone on US, beam width is narrowest, beam intensity highest, and spatial resolution highest
+
+Term: Type of artifact seen with colloid inspisations
+Definition: Comet tail
+
+Term: Appearance of normal fetal lungs on US
+Definition: As echogenic as liver. If they look like fluid its effusions.
+
+Term: What does isobaric mean?
+Definition: The mass number didnt change. Beta +, beta -, and electron capture are all examples of isobaric transitions
+
+Term: What is an isometric transition?
+Definition: Process of rearranging of electrons coupled to electron capture that causes gamma emission, good for imaging
+
+Term: Mechanism of isotope production that is "carrier free"
+Definition: Cyclotron bombardment with charged particles -&gt; transmutation
+
+Term: How long do you keep radioactive material?
+Definition: 10 half lives
+
+Term: Effective half life
+Definition: 1 / effective = 1/physical + 1/biological
+
+Term: Number of disintegrations per Curie
+Definition: 3.7 x 10^10
+
+Term: Workhorse nucs collimator
+Definition: Parallel hole collimator
+
+Term: Range for "low energy" collimator
+Definition: 1-200keV
+
+Term: Range for medium energy collimator
+Definition: 200-400keV
+
+Term: Range for high energy collimator
+Definition: &gt;400keV
+
+Term: Things that increase sensitivity of gamma camera collimator
+Definition: Thinner, shorter septae. Larger hole diameter
+
+Term: Things that increase spatial resolution of gamma camera collimator
+Definition: Thicker, longer septae. Narrow hole diameter
+
+Term: Relationship between sensitivity and spatial resolution of gamma camera collimator
+Definition: Inversely related
+
+Term: What happens to image from pinhole collimator
+Definition: Inverted and magnified
+
+Term: What happens to image from converging hole collimator
+Definition: Magnifies WITHOUT inverting
+
+Term: What happens to image from diverging collimator
+Definition: Minifies a large object onto a smaller crystal
+
+Term: How is sensitivity affected by distance for parallel hole collimator?
+Definition: NO change! Even though farther distance reduces counts by inverse square, it allows for greater field of view so no net change in counts.
+
+Term: Sensitivity/resolution of thick crystal
+Definition: Better sensitivity (chance of catching the gamma particle), worse spatial resolution (light produced moves before getting to PMT
+
+Term: Function of pulse height analyzer
+Definition: To discard background stuff that has energy too high/low to correspond to desired tracer
+
+Term: Impact of matrix size in gamma camera on acquisition time
+Definition: Larger matrix = longer acquisition time and reduced counts per pixel (worse SNR)
+
+Term: Star artifact
+Definition: Caused by septal penetration of hexagonally oriented collimator holes by very high energy focal source (think post-therapy I131)
+
+Term: Amount of nonuniformity that is allowable
+Definition: 2-5% (1% in SPECT)
+
+Term: What does flood test for?
+Definition: Uniformity
+
+Term: Extrinsic flood
+Definition: WITH a collimator
+
+Term: Intrinsic flood
+Definition: WITHOUT a collimator
+
+Term: Recommended counts for extrinsic and intrinsic flood
+Definition: 5-10 million
+
+Term: How often is extrinsic flood done?
+Definition: Once daily. This tests the collimators and the crystals
+
+Term: How often is intrinsic flood done?
+Definition: Weekly
+
+Term: How often does energy window need to be tested?
+Definition: Daily / before each different test using a different tracer.
+
+Term: How often does gamma camera image linearity and spatial resolution need to be tested?
+Definition: Weekly
+
+Term: How is gamma camera linearity and spatial resolution tested?
+Definition: By placing a lead bar phantom with parallel lines between a cobalt source and the gamma camera. Linearity is bad if the bars look wavy. Resolution is defined by ability to differentiate distinct bars
+
+Term: How often does center of linearity need to be tested?
+Definition: Weekly
+
+Term: Nucs QC stuff that has to be done daily
+Definition: Extrinsic flood and energy window
+
+Term: Nucs QC stuff that has to be done weekly
+Definition: Intrinsic flood, linearity and resolution, and center of rotation
+
+Term: Where should a ring badge be worn?
+Definition: On the dominant hand, index finger, label facing inward toward source, under a glove
+
+Term: Problem with sodium iodine well counter
+Definition: Easily overwhelmed (if exceeds 5k counts/sec). Good for in vitro samples and wipe tests
+
+Term: Geiger counter dead time
+Definition: If you over load it (&gt;100mR/h) it stops working until it dissipates.
+
+Term: Instrument used for measuring high doses
+Definition: Dose calibrator/ion chamber
+
+Term: How often is dose calibrator consistency checked?
+Definition: Daily
+
+Term: How often is dose calibrator linearity checked?
+Definition: Quarterly
+
+Term: How often is dose calibrator accuracy checked?
+Definition: Annually
+
+Term: How often is dose calibrator geometry checked
+Definition: Installation and anytime it's moved
+
+Term: NRC CFR part 19
+Definition: Notices, instructions, reports to workers
+
+Term: NRC CFR part 20
+Definition: Radiation protection
+
+Term: NRC CFR part 35
+Definition: Medical use of by-product material (human use of radioisotopes)
+
+Term: Major spill of I131
+Definition: 1mCi
+
+Term: Major spill of In-111, Ga-67
+Definition: &gt;10mCi
+
+Term: Major spill of Tc, Tl
+Definition: &gt;100mCi
+
+Term: Annual dose limit to the general public
+Definition: 100mrem / 1mSv
+
+Term: Dose limit to the public per hour in unrestricted area
+Definition: No greater than 2mrem/hour in an unrestricted area
+
+Term: Criteria for "high radiation area"
+Definition: More than 1msV in 1 hour at 30cm
+
+Term: Criteria for "very high radiation area"
+Definition: More than 5 gray in 1 hour at 1m
+
+Term: Annual occupational whole body dose limit
+Definition: 50mSv / 5rem
+
+Term: Annual occupational lens dose limit
+Definition: 20mSv / 2rem
+
+Term: Annual occupational total equivalent organ dose
+Definition: 500mSv / 50rem. Same as extremity (hand) dose
+
+Term: Total dose to embryo allowed in 9 month pregnancy
+Definition: 5mSv / 500mrem
+
+Term: Limit of how much the dose can be off from what you order
+Definition: 20% via the NRC, 10% in some agreement states
+
+Term: How soon do you have to report a "medical event"
+Definition: Call the doctor, patient, and NRC within 24 hours. Write them a letter within 15 days
+
+Term: Criteria for a "medical event"
+Definition: Wrong dose, wrong patient, wrong site (has to be off by over 20%) AND has to cause harm to the patient (whoe body dose &gt;5rem /50mSv or single organ dose &gt;50rem)
+
+Term: Half life of Mo-99
+Definition: 67 hours
+
+Term: Radionuclide purity
+Definition: Testing for Mo breakthrough. You want less than 0.15MICROCi Mo per 1milCi of Tc - at the time of ADMINISTRATION
+
+Term: Chemical purity
+Definition: Testing for Al breakthrough. Test is with pH paper. Allowed amount is &lt;10 microgram Al per 1mL
+
+Term: Radiochemical purity
+Definition: Testing for free Tc. Use thin layer chromatography.
+
+Term: When testing radionuclide purity, what do you assay for first?
+Definition: Mo first, to prevent issues with residual charge
+
+Term: Causes of free Tc
+Definition: Not enough tin, air in the syringe
+
+Term: Distribution of free Tc
+Definition: Salivary, thyroid, stomach
+
+Term: Type of crystal used in planar imaging
+Definition: NaI
+
+Term: Type of crystal used in PET
+Definition: BGO, LSO, or LYSO
+
+Term: Distance an F18 positron travels in tissue
+Definition: ~1mm
+
+Term: How to tell uncorrected from attenuation correction
+Definition: 1. Skin is hot on uncorrected2. Lung is hot on uncorrected
+
+Term: SUV estimation in fat people
+Definition: You'll overestimate SUV
+
+Term: Truncation artifact in PET
+Definition: When a fat dude cant fit in a CT and part of him gets left out of the image, but he can fit in the PET, and the attenuation correction is all jacked up as a result
+
+Term: Fasting duration prior to PET
+Definition: At least 4 hours, longer to minimize cardiac activity
+
+Term: How often do you do a "blank scan" for PET?
+Definition: Daily. This is the PET equivalent of uniformity
+
+Term: How often do you do a normalization scan for PET?
+Definition: Monthly. You scan a point source in the FOV
+
+Term: Bucket setup imbalance
+Definition: Dark block rotating on sinogram
+
+Term: What changes when ultrasound goes through different mediums? Wavelength or frequency?
+Definition: Speed of sound diff in diff media. As speed changes, frequency stays the same so wavelength has to change.
+
+Term: Rarefaction
+Definition: The relaxed (low pressure) part of the sound wave (vs compression)
+
+Term: Loss of how many dB corresponds with 50% loss in signal intensity?
+Definition: -3dB = 50% loss in signal intensity
+
+Term: What does a change of +/- 10dB have on the power
+Definition: +10dB = 10x power, -10db = 1/10th power
+
+Term: Definition of "half value thickness" in ultrasound
+Definition: Thickness of tissue that causes a reduction of ultrasound intensity by 3dB
+
+Term: How does frequency relate to scatter?
+Definition: Higher frequency = smaller wavelength = surfaces less smooth = more scatter
+
+Term: Echogenicity vs scatter amplitude
+Definition: Hyperechoic = high scatter amplitudeHypoechoic = lower scatter amplitude
+
+Term: Absorption in ultrasound
+Definition: Sound energy gets turned into heat. This increases with frequency.
+
+Term: Unit of impedance
+Definition: Rayl
+
+Term: What is impedance?
+Definition: Degree of "stiffness" of a tissue. Product of the velocity of sound in the medium and the density of the medium
+
+Term: Speed that US machine assumes sound travels at
+Definition: 1540m/s
+
+Term: Situation in which there is a ton of reflection
+Definition: High impedance difference between adjacent tissues
+
+Term: Thickness of crystal ~ frequency
+Definition: Thick crystal - low frequencyThin crystal - high frequency
+
+Term: Thick dampening block (low q)
+Definition: "Thud" - more dampening, higher bandwidth, low Q, short spatial pulse length for better axial resolution
+
+Term: Thin damping (high Q)
+Definition: "Ding" - less dampening, narrow bandwidth, long spatial pulse length. good for doppler
+
+Term: Relationship between transducer frequency and near field length
+Definition: Higher frequency, longer near field
+
+Term: Minimum distance between objects in order to be resolved on axial resolution
+Definition: 1/2 the spatial pulse length. This is smaller (better axial res) on low q / heavy damping
+
+Term: How does axial resolution change with depth?
+Definition: It doesnt. Only lateral resolution does
+
+Term: Elevation resolution
+Definition: Resolution in the plane orthogonal to lateral resolution. Dependent on transducer element height
+
+Term: Side lobe artifact
+Definition: Artifact that happens when stuff from side lobes gets registered like it came from the main beam. Classic example = "pseudosludge" in the gallbladder or bladder
+
+Term: Type of transducer that gets more side lobe artifact
+Definition: Linear array transducers
+
+Term: Beam width artifact
+Definition: Signal from far zone falsely localizing into area of interest. Classically shown in bladder
+
+Term: Reverberation artifact
+Definition: Due to reflections between two parallel highly reflective surfaces. Looks like multiple equidistantly spaced linear reflections
+
+Term: Steeper (bigger) receive bandwidth results in...
+Definition: Poorer SNR, better spatial resolution, better suppression of type 1 chemical shift
+
+Term: Narrow receive bandwidth results in...
+Definition: Better SNR, worse type 1 chemical shift, worse spatial resolution
+
+Term: Eddy currents
+Definition: looks like distortion, most severe with DWI sequences
+
+Term: Dielectric effect is worse with...
+Definition: A stronger magnet
+
+Term: Crosstalk artifact
+Definition: Excitation into an adjacent slice, fix by reducing overlap (having a gap)
+
+Term: Black blood cardiac MRI
+Definition: Double inversion recovery spin echo sequence
+
+Term: Bright blood cardiac MRI
+Definition: Gradient sequences. SSFP is closer to a T2
+
+Term: Delayed gad image sequence type cardiac MRI
+Definition: Inversion recovery. Null myocardium.
+
+Term: Super long inversion time on cardiac imaging, to the point where blood is darker than myocardium.
+Definition: Hint that you're looking for amyloid
+
+Term: Type of sequence in breast MRI for implant rupture
+Definition: Fat and water saturated (only silicone will be bright)
+
+Term: Maximum MRI noise allowed by FDA
+Definition: 140dB
+
+Term: Situation where neurostimulation occurs in MRI
+Definition: High gradient switching
+
+Term: FDA limit for specific absorption rate (SAR)
+Definition: 4W/kg over 15 minutes
+
+Term: Components of calculating SAR
+Definition: Magnet strength (squared)Flip angle (squared)Duty cycle (inversely related to TR and linear)
+
+Term: Weekly MR scanner QC is done by the..
+Definition: Tech
+
+Term: Annual MR scanner QC is done by the...
+Definition: Physicist
+
+Term: Acceleration
+Definition: The rate of change in velocity. Can be a change in direction, positive (speeding up) or negative (slowing down).
+
+Term: Balanced Force
+Definition: Two forces in opposite directions. Net force is zero and the motion of the object does not change.
+
+Term: Friction
+Definition: The force between objects that resists motion - always slows down motion
+
+Term: Newton
+Definition: A measurement of force
+
+Term: Magnitude
+Definition: The strength or size of an object or force.
+
+Term: Mass
+Definition: The total amount of matter in something.
+
+Term: Energy
+Definition: The capacity for doing work.
+
+Term: Force
+Definition: A push or pull on an object that can cause a change in movement
+
+Term: Net Force
+Definition: The total of all the forces acting on an object
+
+Term: Gravity
+Definition: A force that pulls objects together
+
+Term: F = m x a
+Definition: Formula for Force
+
+Term: Displacement vs Time Graph
+Definition: Shows the distance an object travels in a certain amount of time.slope is velocity
+
+Term: Inertia
+Definition: the tendency of a body to maintain is state of rest or uniform motion unless acted upon by an external force
+
+Term: Kinetic Energy
+Definition: The energy an object possess due to its motion.
+
+Term: Motion
+Definition: A change in the position of an object over time.
+
+Term: Newton's First Law of Motion (Definition)
+Definition: an object at rest will stay at rest unless acted upon by an outside unbalanced force; an object in motion will stay in motion unless acted upon by an outside unbalanced force.
+
+Term: Newton's First Law of Motion (Example)
+Definition: when a car suddenly stops and your head continues to move foward even though your body is stopped by the seat belt
+
+Term: Newton's Second Law of Motion (Definition)
+Definition: the greater the force applied to an object, the greater the acceleration; the smaller the mass of an object, the greater its acceleration when force is applied; only an unbalanced force can cause objects to accelerate
+
+Term: Newton's Second Law of Motion (Example)
+Definition: the force applied to a roller coaster car in addition to the mass of the car determines the acceleration of the car; more force = more acceleration
+
+Term: Newton's Third Law of Motion (Definition)
+Definition: for every action there is an equal and opposite reaction; there is a reaction force that is equal in size but opposite in direction.
+
+Term: Newton's Third Law of Motion (Example)
+Definition: as the thrust of a rocket pushes down on Earth's surface, the rocket launches upward into the atmosphere
+
+Term: Potential Energy
+Definition: Energy stored in an object by the virtue of its position.
+
+Term: Example of work
+Definition: A monkey carries a 5 kg pineapple 10 meters in 5 minutes.
+
+Term: Example of no work being performed
+Definition: A monkey holds a 5 kg pineapple over his head for 5 minutes.
+
+Term: Example of velocity
+Definition: Nemo swims 37 m/s South to Wallaby Way in Australia.
+
+Term: Speed
+Definition: the distance traveled by an object in a given amount of time.
+
+Term: Example of speed
+Definition: Nemo swims 58 m/s
+
+Term: Unbalanced Force
+Definition: A force that is not equal in size and opposite in direction.
+
+Term: Velocity
+Definition: speed of an object and its direction of motion; changes when speed, direction or both changes
+
+Term: Work
+Definition: force exerted on an object that causes the object to move in same direction that the force was applied
+
+Term: Waves
+Definition: Transfer energy in the direction they are traveling
+
+Term: Amplitude
+Definition: The maximum displacement of a point on the wave from this undisturbed position
+
+Term: Wavelength
+Definition: The distance between the same point on two adjacent waves (between the trough of one wave and the trough of the wave next to it, applies the same way with the crest,)
+
+Term: Frequency
+Definition: Is the number of complete waves passing a certain point per second. Frequency is measured in Hertz (Hz), where 1 wave is 1 Hertz
+
+Term: Period
+Definition: From the frequency, you can find a period of a wave using the formula 1÷frequency
+
+Term: Transverse waves
+Definition: Waves were in which the oscillation (vibrations) are perpendicular (90 degrees) to the direction of energy transfer. Some of these waves include:All electromagnetic wave (light)Ripples and waves in waterA wave on a string
+
+Term: Longitudinal waves
+Definition: Waves were the oscillation (vibrations) are parallel to the direction of energy transfer. Some of these waves include:Sound wave in air, ultrasoundShock waves, some seismic waves
+
+Term: Wave speed formula
+Definition: Wave speed (v)=Frequency(Hz)x Wave length (ƛ)
+
+Term: Transmitted waves
+Definition: Where the waves carry on traveling through the material. this often leads to refraction
+
+Term: Ray diagrams for reflection
+Definition: When you make a ray diagram for reflection you need to remember that:Angle of incidence=Angle of reflection
+
+Term: Electromagnetic waves
+Definition: Are transverse waves that transfer energy from a source to an absorber. They travel through air or vacuum at the same speed. there are a variety that increase in frequency overtime.
+
+Term: Refracted waves
+Definition: When a wave changes direction between materials
+
+Term: Sound waves
+Definition: These are caused by vibrating objects. These are passed through the surrounding area as a series of compressions an rarefactions. These travel faster in more solid states of matter as it is more easier to vibrate the particles to make sound if there close together, rather than far apart. This is why in a vacuum, where there are no particle's there is no sound
+
+Term: Magnets
+Definition: Magnets are materials such as iron, nickel, and cobalt that can experience a non-contact force similar to forces on an electric field. They have a North Pole and South Pole.
+
+Term: Magnetic feild
+Definition: The magnetic field goes from north to south you can show this by drawing arrows on your lines going south. The closer together the lines are, the stronger the magnetic field.
+
+Term: Wire and there magnetic field
+Definition: When a wire gains electricity it grow a magnetic field perpendicular to the wire
+
+Term: Electromagnets
+Definition: Electromagnets are magnets that turn or off when an electric current is passed through it. They are used to lift things up or down and can be used with other circuit as a switch
+
+Term: Electric Current (Amps)
+Definition: The flow of an electric charge. The unit of this is ampere (A)
+
+Term: Potential difference (Voltage
+Definition: Is the driving force that pushes the charge around. Measured in volts (V)
+
+Term: Resistance
+Definition: Anything that slows down the flow of the current. Measured in ohms (Picture)
+
+Term: Potential difference (Voltage)
+Definition: =Current X Resistance
+
+Term: Static Electricity
+Definition: When certain insulating materials rub together, negatively charged electrons a rubbed onto each other leaving materials electrically charged
+
+Term: Contact forces
+Definition: Contact forces work when two or more objects are touching. Some examples of this are: friction, air resistance, tension in ropes and normal contact force. When these two or more objects interact there is a force on both of them and is equal or opposite of the other object.
+
+Term: Non-contact forces
+Definition: Non-contact forces happen when two or more objects exert a force on each other but are not touching. Some examples of these are: magnetic force, gravitational force, electrostatic force. When these two or more objects interact with each other there is a force produced on all of them that is equal or opposite.
+
+Term: Different types of energy
+Definition: Some different types of energy are:Thermal energyKinetic energyGravitational potential energyElastic potential energyChemical energyMagnetic energyElectrostatic energyNuclear energy
+
+Term: Conservation of energy principle
+Definition: The conservation of energy principle is that 'energy can be transferred usefully, stored or dissipated, nut can never be destroyed or created'
+
+Term: Work
+Definition: =Fxdistance*cosine of the angle.
+
+Term: power
+Definition: Work/timedetermines the amount of effort
+
+Term: kinetic energy
+Definition: 1/2 mvvthe energy of motion
+
+Term: Potential energy
+Definition: mghpotential to exert energy
+
+Term: conservation of energy
+Definition: energy can not be lost or destroyedE=ke+pe
+
+Term: newton's law of gravitation
+Definition: The force of gravity between two very dense objects can be described inversely by the distance between them.
+
+Term: elastic collision
+Definition: type of collision where momentum is 100% conserved
+
+Term: inelastic collision
+Definition: type of collision where momentum is not conserved
+
+Term: Impulse
+Definition: Equals Forcextime also equals change in momentum
+
+Term: Change in momentum
+Definition: Equals massxchange in velocity.also equals impulse
+
+Term: vector
+Definition: An quantity that has a magnitude and direction
+
+Term: parallel circuit
+Definition: has multiple paths for electron to travelSplits currenthas same change in voltage on each spurResistance is the reciprocal of their additions
+
+Term: series circuit
+Definition: Has one path for electron same current throughoutvoltage sums up to total in batteryResistance adds.
+
+Term: acceleration
+Definition: Change in velocity over change in time
+
+Term: velocity
+Definition: change in displacement over change in timevector
+
+Term: displacement
+Definition: the total distance traveled by an object regardless of direction
+
+Term: distance
+Definition: the amount traveled from a certain spot.
+
+Term: newton's first law
+Definition: law of inertia
+
+Term: newton's second law
+Definition: F=ma
+
+Term: Newton's 3rd law
+Definition: Every action has an equal and opposite reaction
+
+Term: Fundamental units for Impulse and momentum
+Definition: Kg m/s
+
+Term: This force goes in the opposite direction of motion
+Definition: Friction
+
+Term: Frictional force
+Definition: =coeffiecent of friction xmxg
+
+Term: A boat moving at 4m/s north, with a wind coming from the east at 3 m/s gives you a net vector of what?
+Definition: 5m/s NE
+
+Term: snell's law
+Definition: The law describing how light is bent in a mediumnsin(x)=nsin(x)
+
+Term: Constructive interference
+Definition: Interference that causes a louder noise.
+
+Term: Doppler effect
+Definition: Effect that explains how frequency of produced noises change depending on their speed and the orginal frequency.
+
+Term: conservation of energy
+Definition: Energy is neither created nor destroyed
+
+Term: Gravitational pull between object
+Definition: the relationship where the force between to objects is inversely 1/r related to the distance between them.
+
+Term: velocity
+Definition: speed
+
+Term: kinetic energy
+Definition: the energy of motion
+
+Term: potential energy
+Definition: Energy that is stored and held in readiness
+
+Term: For every force there is an equal and opposite force
+Definition: Newton's third law
+
+Term: Physics deals with two things:
+Definition: Energy and matter
+
+Term: Energy may be defined as _______________.
+Definition: The ability to do work
+
+Term: Two types of energy are
+Definition: potential and kinetic
+
+Term: 5 forms of energy
+Definition: mechanical, nuclear, electrical, radiant, chemical
+
+Term: Matter
+Definition: Anything that has mass and takes up space
+
+Term: Radiation physics deals with 2 things
+Definition: Radiation and matter
+
+Term: Element
+Definition: Matter made up of only one kind of atom
+
+Term: Compound
+Definition: A substance made up of atoms of two or more different elements joined by chemical bonds
+
+Term: Molecule
+Definition: A group of atoms bonded together
+
+Term: There are _____ naturally occurring elements.
+Definition: 92
+
+Term: Nucleus is composed of
+Definition: protons and neutrons
+
+Term: Electrons cloud of an atom
+Definition: Shells
+
+Term: An atom mostly consists of
+Definition: Empty space
+
+Term: Electrons have the most energy in their _____ shell
+Definition: Outermost
+
+Term: Alpha particles consist of ___ protons and ____ neutrons
+Definition: 2 and 2
+
+Term: Chemical
+Definition: Gasoline is an example of ___ energy
+
+Term: Mechanical
+Definition: A spring is an example of ___ energy
+
+Term: Electrical
+Definition: Manipulating electrons is an example of __ energy
+
+Term: Radiant
+Definition: Electromagnetic waves (heat and light) are an example of ___ energy
+
+Term: Electron shell K
+Definition: In innermost shell
+
+Term: neutrons and protons
+Definition: nucleons
+
+Term: vary
+Definition: The number of neutrons and protons can ___ among different elements
+
+Term: Of the extremely high speed at which they travel
+Definition: Electrons appear to form a cloud around the nucleus because
+
+Term: Protons, electrons
+Definition: Atoms have the same number of ___ in the nucleus as ____ in the outer shell
+
+Term: neutral
+Definition: An atom must be electrically ____
+
+Term: cancel each other out
+Definition: Positive and negative charges of an atom ___ each other
+
+Term: Ionized
+Definition: If an atom gains or loses an electron, it is said to be ____
+
+Term: Negative ion
+Definition: Atom that gains an electron is a ___
+
+Term: Positive ion
+Definition: Atom that loses an electron is a ____
+
+Term: Molecules
+Definition: Chemical bonds form
+
+Term: Ionic and covalent
+Definition: Two types of chemical bonding
+
+Term: Homeostasis, neutral
+Definition: Ions want to return to ____ and be ____
+
+Term: Electrostatics
+Definition: the force that pulls ions together
+
+Term: Opposite
+Definition: Atoms are attracted to each other when they have ___ charges
+
+Term: NaCl
+Definition: sodium chloride
+
+Term: Ionic bond
+Definition: Formed when one or more electrons are transferred from one atom to another
+
+Term: covalent bond
+Definition: a bond formed when atoms share one or more pairs of electrons
+
+Term: Isotopes
+Definition: Atoms with the same number of protons but different numbers of neutrons
+
+Term: 5 to 8
+Definition: Number of neutrons in Carbon atom can vary from ___
+
+Term: True
+Definition: All atoms have at least one isotope: true or false?
+
+Term: neutrons, protons
+Definition: Isotopes are named by adding ___ and ___
+
+Term: Carbon 13
+Definition: If a carbon atoms has 6 protons and 7 neutrons, what is the Carbon name?
+
+Term: The number of protons
+Definition: What determines the atomic number of an element?
+
+Term: Z
+Definition: Which letter symbolizes the atomic number?
+
+Term: Left
+Definition: The atomic number is written as subscript to the ___ side of the element
+
+Term: A
+Definition: Which letter symbolizes the mass number?
+
+Term: Top (superscript)
+Definition: The mass number is on the ___ left of the element symbol
+
+Term: mass number
+Definition: the total number of protons and neutrons in the nucleus of an atom
+
+Term: elemental mass
+Definition: Atomic weight aka
+
+Term: Atomic weight
+Definition: Average of the mass numbers of all isotopes
+
+Term: beta particle
+Definition: a high-speed electron with a 1- charge that is emitted during radioactive decay
+
+Term: Volume formula
+Definition: L x W x H
+
+Term: Density formula
+Definition: D=m/V Density=mass/volume
+
+Term: Density unit
+Definition: kg/m^3
+
+Term: Pressure formula
+Definition: Pressure = Force/Area (P=F/A)
+
+Term: Pressure unit
+Definition: N/m^2 or Pascal
+
+Term: Law of Intertia
+Definition: objects at rest tend to stay at rest, and objects in motion tend to stay in motion unless acted upon by an outside force
+
+Term: Law of Acceleration
+Definition: an object will move in the direction of the force applied to it (F=ma)
+
+Term: law of motion
+Definition: For every action there is an equal and opposite reaction
+
+Term: Gravity
+Definition: the force that attracts a body toward the center of the earth, or toward any other physical body having mass
+
+Term: Friction
+Definition: A force that opposes motion between two surfaces that are in contact
+
+Term: buoyancy
+Definition: The ability of a fluid to exert an upward force on an object placed in it
+
+Term: Acceleration
+Definition: Change in velocity divided by the time it takes for the change to occur (m/s2)
+
+Term: Speed
+Definition: The distance an object travels per unit of time
+
+Term: speed formula
+Definition: s=d/t
+
+Term: Velocity
+Definition: Speed in a given direction
+
+Term: Vector
+Definition: A quantity that has magnitude and direction
+
+Term: magnitude
+Definition: ...
+
+Term: Displacement
+Definition: Distance and direction of an object's change in position from the starting point.
+
+Term: free body diagram
+Definition: a diagram showing all the forces acting on an object
+
+Term: How do you use a eureka can to calculate the volume of an irregularly shaped object?
+Definition: weigh the object
+
+Term: Scalar
+Definition: A physical quantity that has magnitude only.
+
+Term: Adding vectors
+Definition: "head to tail" + sum represented by arrow drawn from tail first vector to head second vector
+
+Term: adding scalars
+Definition: add up both distances even if you change directione.g. 2 miles north + 3 miles south = 5 miles
+
+Term: Speed unit of measurement
+Definition: m/s
+
+Term: time unit
+Definition: S
+
+Term: Distance Units
+Definition: m
+
+Term: Acceleration
+Definition: The rate at which velocity changes
+
+Term: Acceleration unit
+Definition: m/s/s
+
+Term: calculating acceleration
+Definition: final speed-initial speed/time
+
+Term: Gradient
+Definition: slope
+
+Term: Calculating gradient
+Definition: change in y/change in x
+
+Term: area
+Definition: Length x Width
+
+Term: Speed-time graph
+Definition: A visual representation of the acceleration of an object
+
+Term: center of mass
+Definition: the point in an object that moves as if all the object's mass were concentrated at that point
+
+Term: irregular center of mass
+Definition: where the mass is centered
+
+Term: Mass
+Definition: the amount of matter in an object
+
+Term: Weight
+Definition: A measure of the force of gravity on an object
+
+Term: terminal velocity
+Definition: the constant velocity of a falling object when the force of air resistance is equal in magnitude and opposite in direction to the force of gravity
+
+Term: Force causing terminal velocity
+Definition: Air resistance
+
+Term: Speed-time graph
+Definition: A visual representation of the acceleration of an object
+
+Term: Hooke's Law
+Definition: The law stating that the stress of a solid is directly proportional to the strain applied to it.
+
+Term: Elastic and Plastic Deformation
+Definition: Where the object loses its elasticity
+
+Term: Hooke's Law Equation
+Definition: F=kx
+
+Term: Weight and mass equation
+Definition: W=m×g
+
+Term: Force
+Definition: A push or pull exerted on an object
+
+Term: balanced forces
+Definition: Equal forces acting on an object in opposite directions
+
+Term: unbalanced forces
+Definition: forces acting on an object that combine and form a net force that is not zero
+
+Term: Pressure formula
+Definition: P=F/A (force/area)
+
+Term: vector measurement
+Definition: a measurement that has magnitude and directional
+
+Term: scalar measurement
+Definition: measurement with only magnitude or quantity
+
+Term: Hooke's Law Equation
+Definition: F = -kx : Hooke's Law Equation states that the force exerted by a spring is equal to the spring constant times the distance the spring is compressed or stretched from its equilibrium position(k) - the spring constant which depends on the stiffness and other properties of the spring(x) - the distance that the spring is stretched from its equilibrium position
+
+Term: Newton's Third Law of Motion
+Definition: For every action there is an equal and opposite reaction
+
+Term: Newton's Second Law
+Definition: Force equals mass times acceleration
+
+Term: Newton's First Law
+Definition: An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.
+
+Term: conservation of energy
+Definition: Energy cannot be created or destroyed
+
+Term: energy transfer
+Definition: ...
+
+Term: constructive interference
+Definition: The interference that occurs when two waves combine to make a wave with a larger amplitude
+
+Term: Crest
+Definition: Highest point of a wave
+
+Term: Trough
+Definition: Lowest point of a wave
+
+Term: destructive interference
+Definition: The interference that occurs when two waves combine to make a wave with a smaller amplitude
+
+Term: Photons
+Definition: tiny particles of light
+
+Term: Atom
+Definition: Smallest particle of an element
+
+Term: Cosmogony
+Definition: the branch of science that deals with the origin of the universe, especially the solar system.
+
+Term: Agglomaration
+Definition: A mass or collection of things
+
+Term: astronomy
+Definition: The study of the moon, stars, and other objects in space
+
+Term: inaugurate
+Definition: begin or introduce (a system, policy, or period).
+
+Term: curvature
+Definition: state of being curved
+
+Term: primordial
+Definition: original; existing from the beginning
+
+Term: singularity
+Definition: A point in which matter is infinitely dense, as in the center of a black hole or the universe at the very beginning.
+
+Term: Refraction
+Definition: Bending of light
+
+Term: index of refraction
+Definition: the ratio of the speed of light in a vacuum to the speed of light in a medium
+
+Term: Snell's Law
+Definition: n=c/v, n₁sinθ₁=n₂sinθ₂, where n is index of refraction
+
+Term: ray diagram
+Definition: shows how rays change direction when they strike mirrors and pass through lenses
+
+Term: converging lens
+Definition: a lens that is thickest in the middle causing parallel light rays to come together at a point
+
+Term: diverging lens
+Definition: A lens that is thinner in the middle than at the edges, causing parallel rays passing through it to diverge as if from a point
+
+Term: Far-sighted vision
+Definition: image falls behind the retina (eye has a shorter shape than a normal eye) a convex lens allows image to fall on the retina - shortens rays
+
+Term: Near-sighted vision
+Definition: image falls before retina, a concave lens will allow image to fall on retina
+
+Term: focal point
+Definition: the point at which rays parallel to the optical axis reflect and meet
+
+Term: focal length
+Definition: the distance from the center of a lens to the focal point
+
+Term: Principle axis
+Definition: A line joining that centers of curvature of the surfaces of a lens.
+
+Term: center of curvature
+Definition: point on optical axis at a distance equal to radius of curvature from vertex of mirror
+
+Term: Po
+Definition: The smallest seeds, the Po is made of Amma,s though
+
+Term: Speed
+Definition: Distance divided by Time. ALSO: A scalar quantity with units of m/s.
+
+Term: Acceleration
+Definition: Change in Velocity divided by Time. ALSO: A vector quantity with units of m/s/s. ALSO: The slope of a Velocity vs Time graph.
+
+Term: Net Force
+Definition: Mass x Acceleration. ALSO: The vector sum of all forces acting on an object.
+
+Term: Work
+Definition: Force x Distance. ALSO: The amount of energy given to an object when you push it or lift it through a distance.
+
+Term: Weight
+Definition: Mass x Acceleration due to Gravity.
+
+Term: Potential Energy
+Definition: Mass x Acceleration due to Gravity x Height.
+
+Term: Kinetic Energy
+Definition: 1/2 x Mass x Velocity^2
+
+Term: Thermal Energy
+Definition: The type of energy that is due to the kinetic energy of individual molecules that make up a substance. Related to heat and temperature. Often caused by friction.
+
+Term: Acceleration due to Gravity
+Definition: -10 m/s/s (on Earth).
+
+Term: Controlled variable
+Definition: Something that is NOT changed in an experiment.
+
+Term: Independent variable
+Definition: Something that is determined by the experimenter. Goes on the x-axis of a graph.
+
+Term: Dependent variable
+Definition: Something that is measured to see if it is affected by the experiment. Goes on the y-axis of a graph.
+
+Term: Velocity
+Definition: Slope of a Position vs Time graph. ALSO: Displacement divided by Time. ALSO: A vector quantity with units of m/s north (or south, etc).
+
+Term: Displacement
+Definition: How far away you are from your starting point.
+
+Term: Reference point
+Definition: "Zero" on a number line.
+
+Term: Inertia
+Definition: Resistance to change in motion. Measured by an object's mass.
+
+Term: Free fall
+Definition: A state of motion where an object is under the influence of only one force: Gravity. (No friction or air resistance). Objects in this state experience an acceleration of -10 m/s/s (on Earth).
+
+Term: Power
+Definition: Work divided by Time. ALSO: The amount of energy used each second. Has units of Watts.
+
+Term: Scalar
+Definition: A quantity with only a magnitude. Examples: Speed (55 mph), Distance (12 km), Energy (500 J)
+
+Term: Vector
+Definition: A quantity with magnitude AND direction. Examples: Velocity (30 m/s north), Displacement (-45 meters), Force (35 N left), Momentum (12 kg m/s right)
+
+Term: Newton's First Law
+Definition: A Law that says "Objects at rest will stay at rest, and objects in motion will stay in motion at a constant velocity, UNLESS acted upon by an unbalanced force."
+
+Term: Newton's Second Law
+Definition: A Law that says "The acceleration of an object is directly proportional to the net force, and inversely proportional to the mass." As an equation: a = Fnet / m
+
+Term: Newton's Third Law
+Definition: A Law that says "Every action force has an equal and opposite reaction force."
+
+Term: Law of Conservation of Energy
+Definition: A Law that says "Energy cannot be created or destroyed, it can only change form." ALSO: The total energy of an isolated system remains constant.
+
+Term: Law of Conservation of Momentum
+Definition: A Law that says "The total momentum of a system remains constant in the absence of external forces."
+
+Term: Elastic collision
+Definition: An interaction where two objects bounce off each other. Both total momentum and kinetic energy are conserved. Example: Billiard balls.
+
+Term: Inelastic collision
+Definition: An interaction where two objects stick together. Total momentum is conserved, but kinetic energy is NOT conserved because it is transformed into thermal energy. Example: Cars crashing.
+
+Term: Joule
+Definition: The metric unit for work and energy.
+
+Term: Watt
+Definition: The metric unit for power. Equal to 1 Joule per second.
+
+Term: Newton
+Definition: The metric unit for force.
+
+Term: Kilogram
+Definition: The metric unit for mass.
+
+Term: Force of Friction
+Definition: The force that always acts opposite the direction of motion (or attempted motion).
+
+Term: Normal force
+Definition: The force that always acts perpendicular to a surface, preventing two objects from passing through each other.
+
+Term: Equilibrium
+Definition: An object in _________ is experiencing balanced forces. It will therefore stay at rest or move at a constant velocity.
+
+Term: Free Body Diagram
+Definition: A diagram where an object is represented by a box, and all forces acting on the object are represented by arrows.
+
+Term: Coefficient of friction
+Definition: A number with NO UNITS representing the strength of friction acting between two objects. A small number = slippery surfaces. A large number = sticky/rough surfaces.
+
+Term: Pendulum
+Definition: A mass that is free to swing back and forth. Total energy is conserved, but is transformed between PE at the highest point and KE at the lowest point.
+
+Term: Newtons first law
+Definition: Balanced force can either refer back to inertia or momentum where it states an object will remain at a state of rest or continue in a straight line with constant velocity unless acted upon by an unbalanced force this is newtons first law
+
+Term: Newtons second law of motion
+Definition: Newtons Second law which goes back to the idea of forces F=MA which enables us to calculate the newtons in a given mass and a given acceleration this is the fundamentals of physics the acceleration of an object is dependant on the mass of the object and the amount of force that is applied
+
+Term: Centripetal force
+Definition: These objects continuously change direction as they move in a circle. This needs a resultant force to act on the object. This force is the centripetal force. The centripetal force pulls an object toward the centre of the circle.
+
+Term: newtons third law
+Definition: A force is a push or a pull that acts upon an object as a results of its interaction with another object. ... These two forces are called action and reaction forces and are the subject of Newton's third law of motion. Formally stated, Newton's third law is: For every action, there is an equal and opposite reaction.
+
+Term: Distance Time Graphs
+Definition: A curved slope shown like this indicates acceleration
+
+Term: Distance Time Graphs 2
+Definition: A curved slope downwards indicates deceleration
+
+Term: Electrical Power =
+Definition: current x voltage
+
+Term: Voltage =
+Definition: current x resistance
+
+Term: Charge =
+Definition: current x time
+
+Term: Average Speed =
+Definition: distance / time
+
+Term: Acceleration =
+Definition: Change in Velocity / Time Taken
+
+Term: Force =
+Definition: Mass x Acceleration
+
+Term: Pressure Difference =
+Definition: Height x Density x Gravity
+
+Term: Moment =
+Definition: Force x Perpendicular Distance from Pivot
+
+Term: Pressure =
+Definition: Force / Area
+
+Term: Wave Speed =
+Definition: Frequency x Wavelength
+
+Term: Refractive Index =
+Definition: Sin (I) / Sin (R)
+
+Term: Sin (Critical angle) =
+Definition: 1 / Refractive Index
+
+Term: Energy Transfer =
+Definition: Work Done
+
+Term: Work Done =
+Definition: Force x Distance Moved
+
+Term: Efficiency =
+Definition: Useful Energy Output / Total Energy Input
+
+Term: Weight =
+Definition: Mass x Gravity
+
+Term: GPE Potential Energy =
+Definition: Mass x Gravity x Height
+
+Term: Kinetic Energy =
+Definition: 1/2 x Mass x V^2
+
+Term: Density =
+Definition: Mass / Volume
+
+Term: Distance Time Graphs
+Definition: 
+
+Term: Velocity Time Graphs
+Definition: 
+
+Term: Gravity
+Definition: Force of attraction between all masses
+
+Term: Hookes Law
+Definition: Extension is directly proportional to force until the spring reaches it's elastic limit
+
+Term: Solar Systems
+Definition: Galaxy = large collection of stars Sun = one of many stars
+
+Term: Effects of gravity on planets
+Definition: Closer you get to a star or a planet the stronger the force of attraction is, so they move quicker in orbit
+
+Term: Types of orbit
+Definition: Moons and planets have slightly elliptical orbits Comets orbit the sun, they have very elliptical orbits
+
+Term: Artificial Earth Satellites
+Definition: Have orbital period of 1 day = geostationary satellites, used for communications
+
+Term: Safety features of Plugs
+Definition: 
+
+Term: Filament Lamp
+Definition: 
+
+Term: Wire
+Definition: 
+
+Term: Resistors
+Definition: 
+
+Term: Diodes
+Definition: 
+
+Term: Electric Circuit Symbols
+Definition: 
+
+Term: Light Dependent Resistor (LDR) Diagram
+Definition: 
+
+Term: LDR Explanation
+Definition: Changes it resistance depending on the amount of light In bright light the resistance decreases In dark light the resistance increases Acts as a light sensor
+
+Term: Thermistor Diagram
+Definition: 
+
+Term: Thermistor Explanation
+Definition: Changes in resistance as temperature changes In hot condition the resistance decreases In cool conditions the resistance increases Acts as temperature detectors
+
+Term: Current
+Definition: Rate of flow of Charge
+
+Term: Voltage
+Definition: Driving force which pushes current (Electrical Power)
+
+Term: Resistance
+Definition: Something which slows down the flow
+
+Term: Circuit Rules
+Definition: Increase voltage = more current will flowIncrease resistance = less current will flow
+
+Term: Series Circuit
+Definition: Current the sameVoltage = Voltage of all components
+
+Term: Parallel Circuit
+Definition: Current = Current of all components Voltage the same
+
+Term: Transverse Wave Diagram
+Definition: 
+
+Term: Longitudinal Wave Diagram
+Definition: 
+
+Term: Examples of Transverse Waves
+Definition: Electromagnetic Waves Ripple in Water
+
+Term: Examples of Longitudinal Waves
+Definition: Sound + UltrasoundShock Waves
+
+Term: Transverse Wave
+Definition: Vibrations are at 90° to the direction energy is transferred
+
+Term: Longitudinal Waves
+Definition: Vibrations are parallel to the direction the wave transfers energy
+
+Term: Wave Info
+Definition: All waves transfer energy and information without transferring matter
+
+Term: Electromagnetic Waves
+Definition: Waves have different wavelengths - continuous spectrumAll transverse - Travel at same speed through a vacuum
+
+Term: Diagram of Electromagnetic Waves
+Definition: 
+
+Term: Uses of Waves
+Definition: Radio Waves: Communication Microwaves: Satellite Communication Infra-Red Radiation: Heating and monitor temperature Visible Light: Travel though optical fibres + Photography Ultraviolet Light: Fluorescent Lamps X-Rays: See inside things Gamma Rays: Sterilising medical equipment
+
+Term: Conduction
+Definition: Process where vibrating particles pass on their kinetic energy
+
+Term: Convection
+Definition: Particles from their hotter region to the cooler region and take their heat energy with them
+
+Term: Dangers of Microwaves
+Definition: Yeah human body tissue internally
+
+Term: Dangers of Infra-Red
+Definition: Skin Burns - Heating effect
+
+Term: Dangers of Ultraviolet
+Definition: Damage surface cells and causes blindness
+
+Term: Dangers of Gamma
+Definition: Cell mutation and Tissue damage - can cause cancer
+
+Term: Virtual Image
+Definition: 
+
+Term: Light Refraction
+Definition: 
+
+Term: Angle of Incidence is less than critical angle
+Definition: 
+
+Term: Angle of Incidence is more than critical angle
+Definition: 
+
+Term: Angle of Incidence is equal to critical angle
+Definition: 
+
+Term: Total internal reflection - Optical fibres
+Definition: Angle of Incident is always higher than critical angle, light always totally internally reflected - only stops if fibre is to sharp
+
+Term: Sankey Diagram
+Definition: 
+
+Term: Power
+Definition: One Watt = 1 joule of energy transferred per second
+
+Term: Human Hearing Range
+Definition: 20 - 20,000 Hz
+
+Term: Renewable Energy
+Definition: Wind FarmsGeothermal EnergySolar EnergyHydroelectric Power
+
+Term: Brownian Motion
+Definition: Small particles have a constant, rapid and random movement - small particles can move larger particles - causes pressure This discovery was proved with the use of pollen grains
+
+Term: Absolute 0 - Kelvin Scale
+Definition: Absolute 0 - atoms have as little kinetic energy as possible Absolute 0 = -273°C50 Kelvin = -223°C15°C = 288 Kelvin
+
+Term: Uniform Magnetic Field
+Definition: 
+
+Term: Loudspeaker
+Definition: A.C electrical signals - from amplifier - to coil of wire - wrapped around coneCone surrounded - permanent magnet - cause a force forwards + backwardsMovements = cone vibrate = sound
+
+Term: Resistance of LDRs and Thermistors Experiments
+Definition: Measure current at any know/fixed tempMeasure voltage at any known/fixed tempVary temp and take new readings Calculate and draw voltage - current graph Repete and average
+
+Term: Refraction of light experiment
+Definition: Place block on sheet of paperDraw around the blockTurn ray box on and shine beam of light into blockuse pencil to mark path of light into and out of blockRemove the block, measure the angle of refractionRepeat
+
+Term: Measuring speed of sound
+Definition: Person at one end with a pistol Other person at a distance a way from the pistol (e.g 500 metres)Person fires gunPeople with stopwatches start time when see the smoke from gun and stop when they hear the bangAverage the time
+
+Term: How temperature effects Gas experiment
+Definition: Use water bath to vary the temperature Calculate the volume of air in test tube before heating Measure volume of air after heating Use a narrow glass tube with liquid above the air so you can clearly see how it has expanded
+
+Term: Investigating the magnetic field experiment
+Definition: Place sheet of paper on wooded bench (avoid interaction with other magnets)Place magnet on sheet of paper Place plotting compass against the magnet Mark position of compass needle on the paper with a dotMove plotting compass so that the tail of the arrow sits where the tip of the arrow wasRepeat process Join dots
+
+Term: Marsden experiment Diagram
+Definition: 
+
+Term: Marsden experiment
+Definition: Alpha particles were detected as tiny flashes of light on screenMost alpha particles went straight thought gold foilA small number deviated as they were repelledVery few alpha particles bounced back because of the dense nucleus
+
+Term: Conclusion of Marsdens experiment
+Definition: Most of atom is empty space Nucleus is smallNucleus is denseNucleus is positive
+
+Term: Flemmings Left hand rule
+Definition: 
+
+Term: Electrical Power =
+Definition: current x voltage
+
+Term: Voltage =
+Definition: current x resistance
+
+Term: Charge =
+Definition: current x time
+
+Term: Average Speed =
+Definition: distance / time
+
+Term: Acceleration =
+Definition: Change in Velocity / Time Taken
+
+Term: Force =
+Definition: Mass x Acceleration
+
+Term: Moment =
+Definition: Force x Perpendicular Distance from Pivot
+
+Term: Pressure =
+Definition: Force / Area
+
+Term: Wave Speed =
+Definition: Frequency x Wavelength
+
+Term: Energy Transfer =
+Definition: Work Done
+
+Term: Work Done =
+Definition: Force x Distance Moved
+
+Term: Efficiency =
+Definition: Useful Energy Output / Total Energy Input
+
+Term: Weight =
+Definition: Mass x Gravity
+
+Term: GPE Potential Energy =
+Definition: Mass x Gravity x Height
+
+Term: Kinetic Energy =
+Definition: 1/2 x Mass x V^2
+
+Term: Density =
+Definition: Mass / Volume
+
+Term: Distance Time Graphs
+Definition: 
+
+Term: Velocity Time Graphs
+Definition: 
+
+Term: Gravity
+Definition: Force of attraction between all masses
+
+Term: Hookes Law
+Definition: Extension is directly proportional to force until the spring reaches it's elastic limit
+
+Term: Effects of gravity on planets
+Definition: Closer you get to a star or a planet the stronger the force of attraction is, so they move quicker in orbit
+
+Term: Wire
+Definition: 
+
+Term: Resistors
+Definition: 
+
+Term: Electric Circuit Symbols
+Definition: 
+
+Term: Current
+Definition: Rate of flow of Charge
+
+Term: Voltage
+Definition: Driving force which pushes current (Electrical Power)
+
+Term: Resistance
+Definition: Something which slows down the flow
+
+Term: Circuit Rules
+Definition: Increase voltage = more current will flowIncrease resistance = less current will flow
+
+Term: Series Circuit
+Definition: Current the sameVoltage = Voltage of all components
+
+Term: Parallel Circuit
+Definition: Current = Current of all components Voltage the same
+
+Term: Transverse Wave Diagram
+Definition: 
+
+Term: Longitudinal Wave Diagram
+Definition: 
+
+Term: Examples of Transverse Waves
+Definition: Electromagnetic Waves Ripple in Water
+
+Term: Examples of Longitudinal Waves
+Definition: Sound + UltrasoundShock Waves
+
+Term: Transverse Wave
+Definition: Vibrations are at 90° to the direction energy is transferred
+
+Term: Longitudinal Waves
+Definition: Vibrations are parallel to the direction the wave transfers energy
+
+Term: Wave Info
+Definition: All waves transfer energy and information without transferring matter
+
+Term: Electromagnetic Waves
+Definition: Waves have different wavelengths - continuous spectrumAll transverse - Travel at same speed through a vacuum
+
+Term: Diagram of Electromagnetic Waves
+Definition: 
+
+Term: Uses of Waves
+Definition: Radio Waves: Communication Microwaves: Satellite Communication Infra-Red Radiation: Heating and monitor temperature Visible Light: Travel though optical fibres + Photography Ultraviolet Light: Fluorescent Lamps X-Rays: See inside things Gamma Rays: Sterilising medical equipment
+
+Term: Conduction
+Definition: Process where vibrating particles pass on their kinetic energy
+
+Term: Convection
+Definition: Particles from their hotter region to the cooler region and take their heat energy with them
+
+Term: Virtual Image
+Definition: 
+
+Term: Light Refraction
+Definition: 
+
+Term: Angle of Incidence is less than critical angle
+Definition: 
+
+Term: Angle of Incidence is more than critical angle
+Definition: 
+
+Term: Angle of Incidence is equal to critical angle
+Definition: 
+
+Term: Total internal reflection - Optical fibres
+Definition: Angle of Incident is always higher than critical angle, light always totally internally reflected - only stops if fibre is to sharp
+
+Term: Power
+Definition: One Watt = 1 joule of energy transferred per second
+
+Term: Absolute 0 - Kelvin Scale
+Definition: Absolute 0 - atoms have as little kinetic energy as possible Absolute 0 = -273°C50 Kelvin = -223°C15°C = 288 Kelvin
+
+Term: Uniform Magnetic Field
+Definition: 
+
+Term: Acceleration
+Definition: how speed changes with time; can be positive (speeding up) or negative (slowing down); change in speed/time
+
+Term: Balanced Force
+Definition: do not cause a change in motion; equal in size and opposite in direction; cancel each other out
+
+Term: Chemical Energy
+Definition: energy stored in the bonds of molecules and compounds (all living and once living things)
+
+Term: Conduction
+Definition: the direct transfer of heat from one substance to another substance that it is touching
+
+Term: Convection
+Definition: the transfer of thermal energy by the circulation or movement of a liquid or gas
+
+Term: Electrical Energy
+Definition: energy of moving electrons
+
+Term: Energy
+Definition: the ability to do work or cause a change
+
+Term: Force
+Definition: push or pull; causes objects to move
+
+Term: Hydroelectric Energy
+Definition: Electricity generated from the force of moving water
+
+Term: Inclined plane
+Definition: a ramp used to reduce the effort needed to raise or lower an object over a vertical height.
+
+Term: Inertia
+Definition: the tendency of a body to maintain is state of rest or uniform motion unless acted upon by an external force
+
+Term: Kinetic Energy
+Definition: energy of motion
+
+Term: Law of Conservation of Energy
+Definition: energy can neither be created nor destroyed; energy just changes form
+
+Term: Motion
+Definition: any physical movement; change in position or place
+
+Term: Newton's First Law of Motion
+Definition: an object at rest will stay at rest unless acted upon by an outside force; an object in motion will stay in motion unless acted upon by an outside force
+
+Term: Newton's First Law of Motion
+Definition: ex. when a car suddenly stops and your head continues to move foward even though your body is stopped by the seat belt
+
+Term: Newton's Second Law of Motion
+Definition: the greater the force applied to an object, the greater the acceleration; the smaller the mass of an object, the greater its acceleration when force is applied; only an unbalanced force can cause objects to accelerate
+
+Term: Newton's Second Law of Motion
+Definition: ex. the force applied to a roller coaster car in addition to the mass of the car determines the acceleration of the car; more force = more acceleration
+
+Term: Newton's Third Law of Motion
+Definition: for every action there is an equal and opposite reaction; forces act in pairs
+
+Term: Newton's Third Law of Motion
+Definition: ex. as the thrust of a rocket pushes down on Earth's surface, the rocket launches upward into the atmosphere
+
+Term: Potential Energy
+Definition: energy stored or energy of position
+
+Term: Solar Energy
+Definition: Energy from the sun
+
+Term: Average Speed
+Definition: the total distance traveled by an object in a given amount of time; rate of motion; distance/time
+
+Term: Thermal Energy
+Definition: energy in the form of heat
+
+Term: Unbalanced Force
+Definition: change speed or direction of object's motion; not equal and opposite
+
+Term: Velocity
+Definition: speed of an object and its direction of motion; changes when speed, direction or both changes
+
+Term: Wind Energy
+Definition: converts the movement of wind into electric energy
+
+Term: Work
+Definition: force exerted on an object that causes the object to move in same direction that the force was applied
+
+Term: Gravity
+Definition: A force of attraction between objects that is due to their masses.
+
+Term: Net Force
+Definition: The combination of all forces acting on an object
+
+Term: Joule
+Definition: unit of work
+
+Term: friction
+Definition: the resistance that one surface or object encounters when moving over another.
+
+Term: distance
+Definition: How far an object moves
+
+Term: motionless
+Definition: not moving; stationary
+
+Term: sound energy
+Definition: energy carried by sound waves
+
+Term: light energy
+Definition: Energy in the form of moving waves of light
+
+Term: mechanical energy
+Definition: kinetic energy + potential energy
+
+Term: air resistance
+Definition: force that opposes the motion of objects that move through the air
+
+Term: newton
+Definition: the unit of force, mass times acceleration.
+
+Term: motion
+Definition: an object's change in position relative to a reference point
+
+Term: frame of reference
+Definition: a system of specifying the precise location of objects in space and time
+
+Term: speed
+Definition: the distance traveled divided by the time interval during which the motion occured
+
+Term: velocity
+Definition: the speed of an object in a particular direction
+
+Term: interval
+Definition: a space between objects, units, points, or states
+
+Term: acceleration
+Definition: the rate at which velocity changes over time, an object has this if its speed, direction, or both change
+
+Term: force
+Definition: an action exerted on a body in order to change the body's state of rest or motion; this has magnitude and direction
+
+Term: friction
+Definition: a force that opposes motion between two surfaces that are in contact
+
+Term: static friction
+Definition: the force that resists the initiation of sliding motion between two surfaces that are in contact and at rest
+
+Term: kinetic friction
+Definition: the force that opposes the movement of two surfaces that are in contact and are moving over each other
+
+Term: inertia
+Definition: the tendency of an object to resist a change in motion unless an outside force acts on the object
+
+Term: free fall
+Definition: the motion of a body when only the force of gravity is acting on the body
+
+Term: terminal velocity
+Definition: the constant velocity of a falling object when the force of air resistance is equal in magnitude and opposite in the direction to the force of gravity
+
+Term: projectile motion`
+Definition: the curved path that an objects follow when thrown, launched, or otherwise projected near the surface of Earth
+
+Term: momentum
+Definition: a quantity defined as a product of the mass and velocity of an object
+
+Term: law of conservation of momentum
+Definition: the total momentum of two or more objects after a collision is the same as it was before the collision
+
+Term: work
+Definition: the transfer of energy to an object by the application of a force that causes the object to move in the direction of the force
+
+Term: power
+Definition: a quantity that measures the rate at which work is done or energy is transformed
+
+Term: mechanical advantage
+Definition: a quantity that expresses how much a machine multiplies force or distance
+
+Term: simple machine
+Definition: one of the six basic types of machines, which are the basis for all other forms of machines
+
+Term: compound machine
+Definition: a machine made of more than one simple machine
+
+Term: energy
+Definition: the capacity to do work
+
+Term: potential energy
+Definition: the energy that an object has because of the position, shape, or condition of the object
+
+Term: kinetic energy
+Definition: the energy of an object due to the object's motion
+
+Term: mechanical energy
+Definition: the amount of work an object can do because of the object's kinetic and potential energies
+
+Term: effciency
+Definition: a quantity, usually expressed as a percentage that measures the ratio of useful work output to work imput
+
+Term: temperature
+Definition: a measure of how hot or cold something is; specifically, a measure of the average kinetic energy of the particles
+
+Term: thermometer
+Definition: an instrument that measures and indicates temperature
+
+Term: absolute zero
+Definition: the temperature at which molecular energy is at a minimum
+
+Term: heat
+Definition: the energy transferred between objects that are at different temperatures
+
+Term: thermal conduction
+Definition: the transfer of energy as heat through a material
+
+Term: convection
+Definition: the movement of matter due to differences in density that are caused by temperature variations
+
+Term: convection current
+Definition: any movement of matter that results from differences in density; may be vertical, circular, or cyclical
+
+Term: radiation
+Definition: the energy that is transferred as electromagnetic waves, such as visible light and infrared waves
+
+Term: specific heat
+Definition: the quantity of heat required to raise a unit mass of homogenous material 1 K or 1 degree C in a specified way given constant pressure and volume
+
+Term: entropy
+Definition: a measure of the randomness or disorder of a system
+
+Term: heat engine
+Definition: a machine that transforms heat into mechanical energy, or work
+
+Term: Newton's 1st Law
+Definition: an object at rest remains at rest and an object in motion will stay in motion unless acted on by an unbalanced force
+
+Term: Newton's 2nd Law
+Definition: states that a force of an object is equal to its mass times its acceleration F= ma
+
+Term: Newton's 3rd Law
+Definition: for every action there is an equal and opposite reaction
+
+Term: Law of Conservation of energy
+Definition: energy that cannot be created or destroyed
+
+Term: Earth's Gravitational Pull
+Definition: 9.8 m/s squared
+
+Term: conductor
+Definition: is a material that which energy can be easily transferred as heat
+
+Term: insulator
+Definition: is a material that transfers energy poorly
+
+Term: transfer
+Definition: to carry or cause to pass from one thing to another
+
+Term: nonmechanical energy
+Definition: energy that lies at the level of the atom
+
+Term: incline plane
+Definition: reduces the force needed to lift an object by applying the force over a longer distance
+
+Term: first class lever
+Definition: has a fulcrum located between the points of the application of the imput and output forces
+
+Term: second class lever
+Definition: the fulcrum is at one end of the arm, and the imput force is applied to the other end
+
+Term: third class lever
+Definition: multiply distance rather than force, as a result, they have a mechanical advantage of the less than one and the human body contains a lot of them
+
+Term: SI units
+Definition: 
+
+Term: center of mass (multiple bodies)
+Definition: 
+
+Term: Newton's First Law
+Definition: F = ma = 0 law of inertia. An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.
+
+Term: Newton's Second Law
+Definition: F = ma An object of mass m will accelerate when the vector sum of the forces results in some nonzero resultant force vector
+
+Term: Newton's third Law
+Definition: Fab = Fba Law of action and reaction
+
+Term: speed
+Definition: absolute value of velocity
+
+Term: newton units
+Definition: kg*m/s^2
+
+Term: displacement (physics)
+Definition: an object's change in position, only measuring from its starting position to the final position
+
+Term: specific heat of water
+Definition: 1 cal/(g<b>K) or 4.184 J/(g</b>K)
+
+Term: state functions
+Definition: properties that are determined by the state of the system, regardless of how that condition was achieved; examples are pressure, density, temperature, volume, enthalpy, internal energy, Gibbs free energy, and entropy
+
+Term: process functions
+Definition: describe path taken to get from one state to another; examples are work and heat
+
+Term: density of water
+Definition: 1 g/mL (or 1 g/cm³) (or 1000 kg/m^3)
+
+Term: absolute (hydrostatic pressure)
+Definition: -total pressure that is exerted on an object that is submerged in a fluidP = P0 + ρgzP0: incident or ambient pressure (pressure at the surface)z: depth of the object g: acceleration due to gravity
+
+Term: gauge pressure
+Definition: the amount of pressure in a closed space above and beyond atmospheric pressure
+
+Term: What frequencies can humans hear?
+Definition: 20-20,000 Hz
+
+Term: amplitude
+Definition: the magnitude of a wave's maximal displacement
+
+Term: displacement (wave)
+Definition: refers to how far a point is from the equilibrium position, expressed as a vector quantity
+
+Term: first overtone
+Definition: second harmonic
+
+Term: optics equation (mirror)
+Definition: i &gt; 0 means real imagei &lt; 0 virtual image
+
+Term: magnification (mirror)
+Definition: m = -i/oa negative magnification means image is inverted, while positive value means upright|m| &lt; 0 (image is reduced)|m| = 0 (image is the same size)|m| &gt; 0 (image is enlarged)
+
+Term: ray diagram
+Definition: A ray that strikes the mirror parallel to the normal axis is reflected back through the focal point (green lines); A ray that passes through the focal point before reaching the mirror is reflected back parallel to the axis (red lines); A ray that strikes the mirror and crosses the normal axis at the same time is reflected back at the same angle measured from normal (blue lines)
+
+Term: concave mirrors
+Definition: converging mirrors
+
+Term: convex mirrors
+Definition: diverging mirrors
+
+Term: any time an object is at the focal point of a converging mirror,
+Definition: the reflected rays will be parallel, and thus, the image will be at infinity
+
+Term: ray parallel to axis
+Definition: reflects back through focal point
+
+Term: ray through focal point
+Definition: reflects back parallel to axis
+
+Term: ray to center of mirror (intersecting normal axis)
+Definition: reflects back at the same angle relative to normal
+
+Term: the focal length of converging mirrors and lenses
+Definition: will always be positive
+
+Term: the focal length of diverging mirrors (and diverging lenses)
+Definition: will always be negative
+
+Term: inverted images are
+Definition: always real
+
+Term: upright images are always
+Definition: virtual
+
+Term: index of refraction
+Definition: 
+
+Term: Snell's Law
+Definition: 
+
+Term: Ray diagrams for single lenses
+Definition: 
+
+Term: Lens power (P)
+Definition: P = 1/f where f (focal length)
+
+Term: converging lenses are needed by people who are
+Definition: farsighted
+
+Term: diverging lenses are needed by people who are
+Definition: nearsighted
+
+Term: multiple lense focal point and power
+Definition: 
+
+Term: magnification of a multiple lense system
+Definition: 
+
+Term: spherical abberation
+Definition: a blurring of the periphery of an image as a result of inadequate reflection of parallel beams at the edge of a mirror or inadequate refraction of parallel beams at the edge of a lens
+
+Term: dispersion (optics)
+Definition: when various wavelengths of light separate from each other because of different refractions; UV light refracts more because of its high energy
+
+Term: diffraction (slit)
+Definition: light emerges from a narrow slit in a wide art, not a narrow beam
+
+Term: visible light spectrum
+Definition: 400nm-700nm
+
+Term: plane mirror
+Definition: does not cause divergence or convergence; the image appears to be the same distance behind the mirror as the object is in front of it (and are always virtual)1
+
+Term: SI prefixes
+Definition: 
+
+Term: atmospheric pressure
+Definition: 14.7 psi, 1am, 760 mmHg
+
+Term: power (watts)
+Definition: work/time (J/s)
+
+Term: ideal gas assumptions
+Definition: All gas particles are in constant motion and collisions between the gas molecules and the walls of the container cause the pressure of the gas. The particles are so small that their volume is negligible compared with the volume occupied by the gas. The particles don't interact. There are no attractive or repulsive forces between them. The average kinetic energy of the gas particles is proportional to temperature.
+
+Term: SI units
+Definition: 
+
+Term: volt units
+Definition: J/C *memory trick J/V = "cool"omb
+
+Term: c (speed of light) =
+Definition: fλ
+
+Term: displacement (x) in a wave
+Definition: maximum displacement is amplitude; zero displacement would be at the equilibrium point
+
+Term: fundamental unit of charge
+Definition: e = 1.60 x 10-19 CC=coloumb's
+
+Term: 1 Nm
+Definition: 1 joule
+
+Term: visible light range
+Definition: 400-700 nm
+
+Term: ultraviolet range
+Definition: 100-400 nm and is divided into three bands: UVA (315-400 nm) UVB (280-315 nm)
+
+Term: characteristics of diverging lens
+Definition: located on the object' side of the lensa virtual imagean upright imagereduced in size (i.e., smaller than the object)
+
+Term: balanced forces
+Definition: Equal forces acting on an object in opposite directions
+
+Term: Acceleration
+Definition: The rate at which velocity changes
+
+Term: Speed
+Definition: distance/time
+
+Term: Unbalanced force
+Definition: Forces that cause a change in the motion of an object
+
+Term: Velocity
+Definition: Speed in a given direction
+
+Term: Force
+Definition: A push or pull exerted on an object
+
+Term: units for acceleration
+Definition: m/s squared
+
+Term: Distance Time Graph- constant speed
+Definition: 
+
+Term: constant speed graph
+Definition: straight diagonal line
+
+Term: Decreasing Speed Graph
+Definition: curve downward
+
+Term: net force
+Definition: The sum of all forces acting on an object
+
+Term: Newtons
+Definition: The unit of measurement for force
+
+Term: speed triangle
+Definition: 
+
+Term: deceleration
+Definition: decreasing acceleration
+
+Term: push or pull
+Definition: What is a force?
+
+Term: Newton Unit
+Definition: A unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram.
+
+Term: Force
+Definition: A push or a pull
+
+Term: Motion
+Definition: An object's change in position relative to a reference point.
+
+Term: Interacting
+Definition: occurs as two or more objects have an effect upon one another
+
+Term: Third Law of Motion
+Definition: for every action there is an equal and opposite reaction
+
+Term: Boundary
+Definition: dividing line, border, limit
+
+Term: Conversion
+Definition: the act or process of change
+
+Term: Normal Force
+Definition: Force that is always present &amp; keeps things upright
+
+Term: Equilibrium
+Definition: Net forces are balanced; no acceleration, constant velocity
+
+Term: Newton's First Law of Motion
+Definition: Law of Inertia; an object at rest tends to stay at rest, a moving object tends to stay in motion unless acted on by an unbalanced force.
+
+Term: Newton's Second Law of Motion
+Definition: Force = mass x acceleration
+
+Term: Newton's Third Law of Motion
+Definition: For every action there is an equal and opposite reaction
+
+Term: Normal force
+Definition: N=mgThe force perpendicular to a surface that prevents an object from falling through the surface
+
+Term: Acceleration
+Definition: a=vf-vi/tThe rate at which velocity changes
+
+Term: Centripetal Force
+Definition: F=ma=mv²/rAny force that causes an object to move in a circular path
+
+Term: Momentum
+Definition: p=mvA vector quantity defined as the product of the mass and velocity of an object
+
+Term: Gravitation
+Definition: A force that acts between all masses and causes them to attract one another. F=Gm1m2/d^2
+
+Term: Net Force
+Definition: The combination of all forces acting on an object Net force=Greater force - lesser force
+
+Term: Velocity
+Definition: distance/time (m/s)
+
+Term: Newton`s Law of Gravitation
+Definition: F = (Gm1m2) /r2
+
+Term: Galvanometer
+Definition: instrument for detecting electric current
+
+Term: Generator
+Definition: device that converts mechanical energy to electrical energy
+
+Term: Transformer
+Definition: static electrical device that transfers energy by inductive coupling between its winding circuits.
+
+Term: Rectifier
+Definition: electrical device that converts alternating current (reverses direction) to direct current which flows in only one direction.
+
+Term: Force
+Definition: mass x acceleration
+
+Term: Bernoulli`s principle
+Definition: A1V1=A2V2
+
+Term: Specific Heat
+Definition: = mcT (joules or calories)
+
+Term: Conduction
+Definition: direction transfer of energy via molecular collisions
+
+Term: Convection
+Definition: transfer of heat by physical motion of the heated material (only liquids and gases)
+
+Term: Radiation
+Definition: transfer of energy by electromagnetic waves
+
+Term: Power
+Definition: Joules/Second
+
+Term: Power
+Definition: Watts= Work/Time
+
+Term: ideal gas law
+Definition: PV=nRT
+
+Term: Density
+Definition: mass/volume
+
+Term: Power (watts)
+Definition: = IV = V2/R = I2/R
+
+Term: Ohm`s Law
+Definition: V=IR
+
+Term: Capacitance
+Definition: Q/V = coloumbs/volts
+
+Term: Faraday`s Law
+Definition: Emf = N(magnetic flux/time)
+
+Term: Magnetic flux
+Definition: = external magnetic field x area of coil = BA
+
+Term: Resistance in Series
+Definition: R = R + R
+
+Term: Voltage in series
+Definition: V = V + V
+
+Term: Current in series
+Definition: I = I = I
+
+Term: Capacitance in series
+Definition: 1/C = 1/C + 1/C
+
+Term: Resistance in Parallel
+Definition: 1/R = 1/R + 1/R
+
+Term: Voltage in parallel
+Definition: V = V = V
+
+Term: current in parallel
+Definition: I = I + I
+
+Term: capacitance in parallel
+Definition: C = C + C
+
+Term: Amplitude
+Definition: change over a single period, the highest point of the wave
+
+Term: Wavelength
+Definition: = velocity/frequency
+
+Term: Frequency
+Definition: = 1/T = 1/Period = velocity/wavelength
+
+Term: focal point
+Definition: 1/f = 1/o + 1/i
+
+Term: optics magnification
+Definition: hi/ho = -di/do
+
+Term: Kinetic Energy
+Definition: = 1/2mv2
+
+Term: Electron mass
+Definition: 9.1 x 10-31 kg
+
+Term: Neutron mass
+Definition: 1.6 x10-27 kg
+
+Term: Proton mass
+Definition: 1.6 x10-27 kg
+
+Term: Speed of light
+Definition: 3 x108 m/s
+
+Term: potential energy
+Definition: PE = mgh
+
+Term: torque
+Definition: T = r x F
+
+Term: archimedes' principle
+Definition: any body immersed in liquid experiences an upthrust which is equal to the weight of the liquid displaced
+
+Term: longtitudinal wave
+Definition: particle movement parallel the direction of energy transport
+
+Term: transverse wave
+Definition: particle movement perpendicular to direction of energy transport
+
+Term: doppler effect
+Definition: moving towards you: small wavelength, high frequency; moving away from you: long wavelength, low frequency
+
+Term: conductors
+Definition: charges are free to move
+
+Term: insulators
+Definition: charges are bound
+
+Term: index of refraction
+Definition: n = c/v
+
+Term: snell's law
+Definition: n1sinğ�›³ = n2sinğ�›³
+
+Term: alpha decay
+Definition: 
+
+Term: beta decay
+Definition: 
+
+Term: gamma decay
+Definition: 
+
+Term: electron capture
+Definition: 
+
+Term: coulomb's law
+Definition: 
+
+Term: magnetic field
+Definition: 
+
+Term: electric field
+Definition: 
+
+Term: Faraday's law
+Definition: electric potential is directly proportional to the number of loops in a solenoid and the rate of change of magnetic flux
+

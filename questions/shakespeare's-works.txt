@@ -1,0 +1,2094 @@
+Term: Hamlet
+Definition: The prince of denmark whose father died, but his mother gertrude remarries his uncle, Claudius. Hamlet is upset because he is the true heir to the throne. His father comes to him as a ghost and says his death is murder, he struggles to kill Claudius until he poisons Gertrude and he slays him in anger
+
+Term: Macbeth
+Definition: A Scottish warrior is told that he will be the king after king Duncan dies, after Duncan pronounces his son as heir to the throne the mans wife persuaded him that murder is the best solution, at night he kills Duncan, after rising to the throne he murders fellow soldier Banquo, the mans wife falls ill and walks and recalls details of the murder, in his final moments he is slain by Mcduff, Duncan's ally
+
+Term: Othello
+Definition: Roderigo tells senator brabantio that his daughter has ran away with this man and gotten married, brabantio is enraged and him, his daughter, and the man appear before the duke of Venice and brabantio claims he won over his daughter by witchcraft, this man is sent to Cyprus with the wife Desdemona, he smothers her after thoughts she was cheating on him
+
+Term: King lear
+Definition: This man is tired of ruling and divides his kingdom between his three daughters chosen by how they speak their love for him, Goneril, Regan, and Cordelia, Cordelia doesn't speak very profoundly about her love and this man cuts her out of the kingdom,
+
+Term: A Midsummer Night's Dream
+Definition: Theseus and Hippolyta are going to be married in four days, Hermia wants to marry Lysander but her dad, Egeus, wants her to marry Demetrius, Hermia and Lysander run away to an enchanted forest where puck pours love juice over everyone and causes havoc
+
+Term: Comedy
+Definition: All's Well That Ends Well
+
+Term: Comedy
+Definition: As You Like It
+
+Term: Comedy
+Definition: The Comedy of Errors
+
+Term: Comedy
+Definition: Cymbeline
+
+Term: Comedy
+Definition: Love's Labour's Lost
+
+Term: Comedy
+Definition: Measure for Measure
+
+Term: Comedy
+Definition: The Merry Wives of Windsor
+
+Term: Comedy
+Definition: The Merchant of Venice
+
+Term: Comedy
+Definition: A Midsummer Night's Dream
+
+Term: Comedy
+Definition: Much Ado About Nothing
+
+Term: Comedy
+Definition: Pericles, Prince of Tyre
+
+Term: Comedy
+Definition: Taming of the Shrew
+
+Term: Comedy
+Definition: The Tempest
+
+Term: Comedy
+Definition: Troilus and Cressida
+
+Term: Comedy
+Definition: Two Gentlemen of Verona
+
+Term: Comedy
+Definition: Winter's Tale
+
+Term: History
+Definition: Henry IV, Part 1
+
+Term: History
+Definition: Henry IV, part 2
+
+Term: History
+Definition: Henry V
+
+Term: History
+Definition: Henry VI, part 1
+
+Term: History
+Definition: Henry VI, part 2
+
+Term: History
+Definition: Henry VI, part 3
+
+Term: History
+Definition: Henry VIII
+
+Term: History
+Definition: King John
+
+Term: History
+Definition: Richard II
+
+Term: History
+Definition: Richard III
+
+Term: Tragedy
+Definition: Antony and Cleopatra
+
+Term: Tragedy
+Definition: Coriolanus
+
+Term: Tragedy
+Definition: Hamlet
+
+Term: Tragedy
+Definition: Julius Caesar
+
+Term: Tragedy
+Definition: King Lear
+
+Term: Tragedy
+Definition: Macbeth
+
+Term: Tragedy
+Definition: Othello
+
+Term: Tragedy
+Definition: Romeo and Juliet
+
+Term: Tragedy
+Definition: Timon of Athens
+
+Term: Tragedy
+Definition: Titus Andronicus
+
+Term: Poetry
+Definition: The Sonnets
+
+Term: Poetry
+Definition: A Lover's Complaint
+
+Term: Poetry
+Definition: The Rape of Lucrece
+
+Term: Poetry
+Definition: Funeral Elegy by W.S.
+
+Term: Poetry
+Definition: Venus and Adonis
+
+Term: Macbeth
+Definition: written by WS in 1605; tragedy that explores a man's ascension to the Scottish throne and his demise; themes: political ambition, darkness and accepted gender roles.
+
+Term: The Merry Wives of Windsor
+Definition: written by WS in 1597; comedy featuring Sir John Falstaff, a fat night who attempts to seduce several of of the wives.
+
+Term: A Midsummer Night's Dream
+Definition: written by WS in 1595; comedy that explores events surrounding marriage of Theseus to Hippolyta, queen of the Amazons.
+
+Term: Julius Caesar
+Definition: written by WS in 1599; tragedy that explores the events surrounding the Ides of March and the assassination of Julius Caesar by his senators; themes: political ambition and betrayal.
+
+Term: Othello
+Definition: written by WS in 1604; a black Venetian general is tragically killed for his race by the manipulations of Iago, his supposedly truthful sidekick; themes: racism and manipulation.
+
+Term: Henriad (tetrology)
+Definition: series of 4 plays written by WS; explore the reigns of Richard II, Henry IV (I&amp;II), and Henry V.
+
+Term: Richard III
+Definition: written by WS in 1592; tragedy that explores an ugly hunchback's rise to the English throne; themes: anti-heroism and internal beauty.
+
+Term: Merchant of Venice
+Definition: written by WS in 1596; comedy in which a merchant must default on a large loan provided by an abused Jewish moneylender; themes: anti-semitism.
+
+Term: Romeo and Juliet
+Definition: written by WS in 1594; children of Capulets and Montagues, mortal enemy families fall in love and die a tragic death; themes: romance and death.
+
+Term: The Tempest
+Definition: written by WS in 1611; Prospero, Duke of Milan, has been stranded on an island for 12 years; he uses magic to shipwreck and take revenge on his foes; the last play Shakespeare wrote; themes: revenge and redemption.
+
+Term: Twelfth Night/What You Will
+Definition: written by WS in 1599; a comedy in which shipwrecked woman crossdresses to become dreamy male Cesario; becomes involved in several love triangles; themes: love and gender.
+
+Term: Hamlet
+Definition: written by WS in 1600; tragedy featuring the revenge of a prince on his uncle Claudius for killing his father, ending in his poisoning; themes: revenge and suicide.
+
+Term: King Lear
+Definition: written by WS in 1605; tragedy featuring the gradual descent of a deposed king into madness; themes: psychoanalysis and Christianity.
+
+Term: Hamlet
+Definition: The prince of denmark whose father died, but his mother gertrude remarries his uncle, Claudius. Hamlet is upset because he is the true heir to the throne. His father comes to him as a ghost and says his death is murder, he struggles to kill Claudius until he poisons Gertrude and he slays him in anger
+
+Term: Macbeth
+Definition: A Scottish warrior is told that he will be the king after king Duncan dies, after Duncan pronounces his son as heir to the throne the mans wife persuaded him that murder is the best solution, at night he kills Duncan, after rising to the throne he murders fellow soldier Banquo, the mans wife falls ill and walks and recalls details of the murder, in his final moments he is slain by Mcduff, Duncan's ally
+
+Term: Othello
+Definition: Roderigo tells senator brabantio that his daughter has ran away with this man and gotten married, brabantio is enraged and him, his daughter, and the man appear before the duke of Venice and brabantio claims he won over his daughter by witchcraft, this man is sent to Cyprus with the wife Desdemona, he smothers her after thoughts she was cheating on him
+
+Term: King lear
+Definition: This man is tired of ruling and divides his kingdom between his three daughters chosen by how they speak their love for him, Goneril, Regan, and Cordelia, Cordelia doesn't speak very profoundly about her love and this man cuts her out of the kingdom,
+
+Term: A Midsummer Night's Dream
+Definition: Theseus and Hippolyta are going to be married in four days, Hermia wants to marry Lysander but her dad, Egeus, wants her to marry Demetrius, Hermia and Lysander run away to an enchanted forest where puck pours love juice over everyone and causes havoc
+
+Term: Taming of the Shrew
+Definition: ...
+
+Term: entertainment
+Definition: Shakespeare's plays continue to influence our _______________________.
+
+Term: playwright; poet
+Definition: William Shakespeare was a great ____________ and ___________ of England.
+
+Term: translated; musicals; ballets; films
+Definition: Shakespeare's plays were ________________ into many languages; made into ____________, _____________, and ______________.
+
+Term: quoted; Bible
+Definition: Shakespeare is the most __________, other than the ____________ (what book?).
+
+Term: timeless
+Definition: Shakespeare's works are considered ____________ (not referring to Old English language; talking about themes, etc.)
+
+Term: town; church documents
+Definition: What we know about Shakespeare comes from ______________ and ___________ __________.
+
+Term: April 23; 1564; Stratford-Upon-Avon; Baptism
+Definition: Shakespeare was born on or around _______________ (date) in __________ (year) in _________-_________-_________, (place) England. We know this because of the record of his ______________.
+
+Term: John; Mary; prosperous; government; leather; glove-maker
+Definition: William Shakespeare's parents were ___________ (dad) &amp; __________ (mom) Shakespeare.He had a _________________ family - His dad held ______________ positions and also was a ____________ &amp; ____________-____________.
+
+Term: plays; educated
+Definition: Shakespeare probably saw __________ when he was a child.He was _________________ (educated or uneducated?).
+
+Term: do not; four; may not
+Definition: What Did Shakespeare Look Like?We ____________ (do or do not?) really know for sure.There are ___________ pieces of art that may or ______________ (2 words) be of Shakespeare.
+
+Term: 1. Chandos Portrait2. Droeshout Engraving3. Janssen's Holy Trinity Church Bust 4. Cobb Portrait
+Definition: What are the four pieces of art that may or may not be of Shakespeare?
+
+Term: Chandos Portrait
+Definition: Not much is known about this painting other than that it is from the right time period to possibly be Shakespeare.
+
+Term: Droeshout Engraving
+Definition: This was not done during Shakespeare's lifetime; the artist probably never even saw Shakespeare. It appeared in the first folio.
+
+Term: Janssen's Holy Trinity Church Bust
+Definition: Made in 1623, this statue is in the Holy Trinity Church in Strateford-Upon-Avon where Shakespeare is buried. It was done after his death by a London artist who may have see Shakespeare if he attended any of his plays locally but was not commissioned to do this bust until well after his death.
+
+Term: Cobb Portrait
+Definition: This painting was authenticated in March 2009; most recent authentication
+
+Term: right time period
+Definition: Chandos Portrait:Not much is known about his painting other than that it is from the __________________________ to possibly be Shakespeare.
+
+Term: lifetime; first folio
+Definition: Droeshout Engraving:This was not done during Shakespeare's _____________; the artist probably never even saw Shakespeare. It appeared in the _____________ _____________.
+
+Term: Stratford-Upon-Avon; buried; plays
+Definition: Janssen's Holy Trinity Church Bust:Made in 1623, this statue is in the Holy Trinity Church in _____________________________ where Shakespeare is _________________.It was done after his death by a London artist who may have seen Shakespeare if he attended any of his ______________ locally but was not commissioned to do this bust until well after his death.
+
+Term: March 2009
+Definition: Cobb Portrait:This painting was authenticated in ______________________ (month &amp; year).
+
+Term: Researchers; 100; baptismal records; court
+Definition: Shakespeare in Documents____________________ have found about ___________ documents relating to William Shakespeare and his family.These records include ___________________, tax certificates, marriage bonds, ______________ records, etc.
+
+Term: six
+Definition: How many surviving signatures of William Shakespeare are there?
+
+Term: six; same spelling twice; spelling; last; pronounced
+Definition: How Do You Spell That?In the ___________ surviving signatures, William Shakespeare never signed his name with the _________ __________ __________.He never signed his name with the _____________ we now use for his _________ name.We're not sure how he __________ his name, either
+
+Term: 2
+Definition: Shakespeare's Signatures: the only _______ (number) words in his own hand found to date.
+
+Term: 2,035; 1/10; quotable
+Definition: Shakespeare's Contribution to English:He made up _____________ (number) words.Ex: critical, dwindle, horrid, assassination, lonelyRoughly ________ (fraction) of the most _____________ phrases in English are Shakespeare's.Ex: "be cruel to be kind," "blinking idiot," "be in a pickle," "foregone conclusion"
+
+Term: teen; Anne Hathaway; 26; 18; pregnant; Susanna; Hamnet; plague; Judith
+Definition: His wife and kids:Shakespeare was a ___________ (what age type) father.He married _____________ when she was __________ (age) and he was __________ (age). She was _______________.First child: __________________Father of twins: ________________ (who died at age 11, maybe from _______________) and _________________.
+
+Term: Susanna; Hamnet and Judith; Hamnet
+Definition: What was the name of Shakespeare's first child?What were the names of Shakespeare's twins?Which of Shakespeare's twins died at age 11, maybe from the plague?
+
+Term: 37
+Definition: How many plays did Shakespeare write?
+
+Term: 70%; 5%; 25%; love; sonnet
+Definition: Shakespeare's plays are on average __________ blank verse (iambic pentameter), ________ rhymed verse, and ___________ prose.He also wrote __________ poems in ___________ form.
+
+Term: iambic pentameter
+Definition: What is another name for blank verse?
+
+Term: 154
+Definition: How many sonnets did Shakespeare write?
+
+Term: sonnets; 1-126; 127-154; unfaithful
+Definition: Sonnets and Sexuality:Shakespeare's 154 _____________ can be divided into two categories.Sonnets ______________ address a handsome young man (or men?).Sonnets _____________ address a "dark lady" who was ______________ to him with the man in sonnets 1-126.
+
+Term: 1. Comedies2. Tragedies3. Histories
+Definition: What are the 3 main genres that Shakespeare's plays are categorized into?
+
+Term: Happy; resolved; ceremony; wedding
+Definition: Shakespeare's Comedies:_________________ (happy or sad?) endings.Conflicts are ______________ (resolved or unresolved?).Usually end with a __________________, like a ______________.
+
+Term: Catastrophic; Protagonists; tragic; humorous; comic relief
+Definition: Shakespeare's Tragedies:_______________________ (what kind?) endings.____________________ (protagonists or antagonists?) with ______________ flaws who cause their own downfalls.Have ________________ scenes/characters to provide ___________ ___________.Ex: Romeo &amp; Juliet
+
+Term: historic; important; kings; tragic
+Definition: Shakespeare's Histories:Based on __________________ facts.Usually on events about ____________ figures, such as ___________.Often have _____________ endings.Ex: Julius Caesar
+
+Term: original; retelling; familiar
+Definition: Shakespeare's Writing Ideas:His ideas were not wholly ___________________.A lot of ___________________ of stories.His audience often was ____________ already with the stories.
+
+Term: The Lord Chamberlain's Men; The King's Men; England; king
+Definition: Shakespeare's Acting Career:He acted with a company first called ____________________________.They later changed their company name to _________________ to honor ________________'s new ___________.
+
+Term: director; writer; actor; part owner of the theatre
+Definition: Shakespeare: a Busy GuyShakespeare did all of the following at the same time:1.________________________2._______________________3._______________________4._______________________
+
+Term: writing; acting; Stratford-Upon-Avon; wealthy landowner
+Definition: Shakespeare's Retirement:He retired from _________ &amp; __________ in 1610.Returned to __________________.Became a _____________ _______________.
+
+Term: fever; 23, 1616; 52; grave; verse
+Definition: Shakespeare's Death:He died of a "____________" on or around April _________________ (day &amp; year) at the age of ______.The following appears on his ______________ (some believe he did not write the ___________)."Good friend, for Jesus' sake forbeareTo dig the dust enclosed hereBlest be the man that spares these stonesAnd curst be he that moves my bones."
+
+Term: courtyards; The Theater; 1576; day time; limited; sound; descriptions
+Definition: Theaters in London in Shakespeare Time:Performances were held in ______________ of inns.The first public theater was called ___________________ and opened in __________ (year).Plays were performed in the open air in _______________ (day time or night time?).There was ________________ (unlimited or limited?) set design.They relied on music, ___________, costumes, props, and great ____________________.
+
+Term: The Theater
+Definition: What was the first public theater called in Shakespeare's time that opened in 1576?
+
+Term: 1. music2. sound3. costumes4. props5. great descriptions
+Definition: In plays in Shakespeare's time, the people relied on what 5 things because of the limited set design?
+
+Term: publish; Ben Jonson; for all time; posthumously; reading; acting
+Definition: Shakespeare's Timeless Fame:Shakespeare did not ___________ his own plays.His friend, _____________________, published them because he believed they were "_______ _______ _______."They were published ______________________. (meaning after death).He didn't know we'd still be ______________ &amp; _____________ in them today.
+
+Term: 1599; Thames; wrote; staged; acted; directed
+Definition: Shakespeare's Theater: The GlobeBuilt in _______________ (year).Across the ____________ - on the "wrong side of town."He ______ &amp; ______ his plays specifically for its set-up.He _______ in &amp; ________ many of his own plays.
+
+Term: Round; three; roof; stage; inner stage; trap door; stage/balcony; 2,000
+Definition: The Globe's Set-up:_________ (shape), _________-story building (# of stories).No __________ except around the edges.Platform __________ with curtained-off _________ __________ in back.___________ ___________ in middle of stage.Small upper _____________/______________.Could fit about ___________ people.
+
+Term: The "Groundlings"
+Definition: were peasants that stood around stage in "the pit"; paid a penny admission; threw rotten vegetables at bad performances
+
+Term: peasants; the pit; penny; rotten vegetables
+Definition: The "Groundlings":Were ____________________.Stood around stage in "_______________."Paid a _______________ admission.Threw ___________(fresh or rotten?) ___________ at bad performances.
+
+Term: three observation; more; wooden benches; Queen Elizabeth; King James
+Definition: Wealthier Audience Members:Sat in the _______________ _________________ balconies.Paid ____________ (more or less?).Got to sit down on ________________ _________________.______________________ and ____________________ often attended performances.
+
+Term: afternoon; 2 1/2; intermission; loud &amp; rowdy
+Definition: In Outdoor Theaters:Performances were in the ________________ (no electricity).Plays took an average of ___________ hours to perform.No _____________________.Audiences were often__________ &amp; __________ (quiet &amp; respectful or loud &amp; rowdy?).
+
+Term: social mores; young boys; men; older; excessive; stage
+Definition: Actors in Shakespeare's Time:It was against ___________ ___________ for women to act; young female roles were played by __________ ___________ and ___________ played roles of __________ women.There was no "__________________" kissing or hugging on ____________ and no explicit sex.
+
+Term: No
+Definition: Were women allowed to act in Shakespeare's time?
+
+Term: 5 different; 6; 3; first month; rehearsing; memorizing; 15,000; move; dance; costume changed
+Definition: Performances in Shakespeare's Time:Theatre companies performed at least __________ _________ plays per week, sometimes _______ (number).A new play might be performed __________ times during its ____________ ____________ then either set aside for a few months or abandoned.Actors had to be ______________________ &amp; _____________________ their lines in all their spare time between performances.A leading actor could be required to memorize about ____________ (number) lines per season as well as every ___________, ______________, &amp; ______________ _____________ required.
+
+Term: Stock; setting; scenery; effects; language; listening
+Definition: Because everyone was listening to performances in Shakespeare's time...______________ costumes (Renaissance clothing no matter what the _________ of the play) were all that were used.Not a lot of __________, or special __________ were used. The _______________ set the stage and story; the audience cared more about __________ than watching.
+
+Term: Sword-fighting; trained; interested
+Definition: Action Scenes in Plays in Shakespeare's Time:________________________ scenes were in every Shakespeare play.Most actors were ____________ experts in stage fighting.Scenes like this kept the audience _________________.
+
+Term: Stock costumes
+Definition: Renaissance clothing no matter what the setting of the play were all that were used
+
+Term: John Shakespeare
+Definition: Who was his father?
+
+Term: Mary Arden
+Definition: Who was his mother?
+
+Term: Anne Hathaway
+Definition: Who was his wife?
+
+Term: Susanna, Judith, and Hamnet
+Definition: Who were his children?
+
+Term: Stratford-upon-Avon
+Definition: Where is his birthplace?
+
+Term: King Edward VI Grammar School
+Definition: Where did he go to school?
+
+Term: Latin, classic literature, grammar, logic, rhetoric, arithmetic, and astronomy.
+Definition: He studied...
+
+Term: His father was having financial difficulties at the time.
+Definition: He did not attend University because...
+
+Term: What happened in 1852?
+Definition: Not much is known about what he was doing at the time.
+
+Term: What happened in 1582?What happened in 1582?
+Definition: What happened in 1582?
+
+Term: All theaters were closed due to the plague.
+Definition: What happened in 1593?
+
+Term: He became shareholder in an acting company.
+Definition: What happened in 1594?
+
+Term: His acting company changed the name to The King's Men.
+Definition: What happened in 1603?
+
+Term: He died on his birthday in 1616.
+Definition: When did he die?
+
+Term: His "Second Best Bed."
+Definition: What did he leave his wife?
+
+Term: 2 narrative poems, 38 plays, and 154 sonnets.
+Definition: What did he leave the world?
+
+Term: He is widely acknowledged as the greatest poet from the country.
+Definition: Why is he called the "Bard?"
+
+Term: He was not of an age, but for all time.
+Definition: Ben Johnson said...
+
+Term: 1558 to 1603
+Definition: Queen Elizabeth ruled from...
+
+Term: She had survived a great deal of scandal and danger. England went bankrupt. There was a constant state of religious upheaval.
+Definition: The struggles she had were...
+
+Term: Wealthy citizens watched theater, participated in dances and in feasts. Even cock fights and public executions. They did fencing tournaments and hunting. Their most favorite was bear baiting. This was wear a bear tied to a pole and a dog would fight to death.
+Definition: The entertainment was...
+
+Term: England became a Protestant again. She granted concessions to the Catholics in hopes of preventing rebellion. People could be Catholic but could not practice being Catholic. It became a commercial center. Wealth was brought to the country. The middle class was on the rise and so was capitalism. Experienced a revolution in education and literacy.
+Definition: How did England flourish under her?
+
+Term: He took over the throne of England after Elizabeth's death. Shakespeare's company was changed to The King's Men because James was a patron of the company because he too liked theater. James became interested in witchcraft. To impress the new king, Shakespeare made a play involving witches. It was called Macbeth.
+Definition: What happened after Queen Elizabeth went bye-bye?
+
+Term: 154 sonnets
+Definition: He created..(Sonnets)
+
+Term: He was said to create new words in the 1700s. Words like amazement, eventful, majestic, hurry, generous, and lonely. He also created many phrases that are still used today.
+Definition: His contribution to our language was...
+
+Term: A fourteen line poem.
+Definition: A sonnet is...
+
+Term: many new words and weird insults.
+Definition: Plays had...
+
+Term: 38
+Definition: He created... (Plays)
+
+Term: TragediesComediesHistories
+Definition: The three types of plays are...
+
+Term: daDum daDumdaDumdaDumdaDum
+Definition: The iambic pentameter sounds like...
+
+Term: Romeo and JulietMuch Ado About NothingRichard II &amp; Richard
+Definition: Some examples of comedies, tragedies and histories are...
+
+Term: The First Folio
+Definition: His first collection of books were called...
+
+Term: The were all closed.
+Definition: What happened to the theaters during the plague?
+
+Term: worked as a writer, theater manager, and actor for most of his career. When king James took over the throne, the company name was changed to The King's Men.
+Definition: In his acting company, he...
+
+Term: three thousand people. It would be made up of all social classes. The groundlings would talk through the performances and even through food at the actors.
+Definition: Shakespeare's audience would be...
+
+Term: It was three stories high. The main stage was 5 feet high. Two side doors were at stage level. The groundlings could stand in the pit for a penny. For 2 pennies, the well to do could sit in the balconies. The Globe went up in flames after a performance using a canon. It was rebuilt a year later. The straw roof was replaced with tile.
+Definition: The Globe Theater was like...
+
+Term: Anti-Stratfordian Movement
+Definition: Movement which doubts Shakespeare's authorship of plays and poems ascribed to him
+
+Term: Sonnet
+Definition: a poem of fourteen lines using any of a number of formal rhyme schemes, in English typically having ten syllables per line.
+
+Term: Petrarchan sonnet
+Definition: a sonnet consisting of an octave with the rhyme pattern abbaabba, followed by a sestet with the rhyme pattern cdecde or cdcdcd
+
+Term: octave (sonnet)
+Definition: The first eight lines of an Italian or Petrarchan sonnet, unified by rhythm, rhyme, and topic (abbaabba)
+
+Term: Volta
+Definition: the shift or point of dramatic change in a poem
+
+Term: Shakespearean sonnet
+Definition: a sonnet consisting three quatrains and a concluding couplet in iambic pentameter with the rhyme pattern abab cdcd efef gg
+
+Term: Storge
+Definition: A Greek word that describes love among family members.
+
+Term: Eros
+Definition: romantic love
+
+Term: Philia Love
+Definition: Love between friends. Fellowship or companionship between people who care about eachother.
+
+Term: agape love
+Definition: an unconditional love for others because they are created in the image of God
+
+Term: Amorosi
+Definition: Young Lovers
+
+Term: Alazon
+Definition: A greedy blocking character
+
+Term: Hamartia (tragic flaw)
+Definition: A "tragic" or "fatal" character flaw that causes the downfall of a person of high status.
+
+Term: nemesis
+Definition: someone or something a person cannot conquer or achieve; a hated enemy
+
+Term: anagke
+Definition: tragic necessity
+
+Term: Peripeteia
+Definition: reversal of fortune
+
+Term: Anagnorisis
+Definition: Recognition of truth about one's self and his actions; moment of clarity
+
+Term: Catharsis
+Definition: the process of releasing, and thereby providing relief from, strong or repressed emotions.
+
+Term: Eleos Kai Phobos
+Definition: pity and fear
+
+Term: THOU
+Definition: YOU
+
+Term: THEE
+Definition: YOU
+
+Term: THY
+Definition: YOUR
+
+Term: THINE
+Definition: YOURS
+
+Term: ANON
+Definition: SOON
+
+Term: HAST
+Definition: HAVE
+
+Term: ART
+Definition: ARE
+
+Term: WHEREFORE
+Definition: WHY
+
+Term: TIS
+Definition: IT IS
+
+Term: TWAS
+Definition: IT WAS
+
+Term: DOTH/DOST
+Definition: DOES
+
+Term: ERE
+Definition: BEFORE
+
+Term: HATH
+Definition: HAS
+
+Term: WILT
+Definition: WILL / WOULD
+
+Term: WOULD
+Definition: WISH
+
+Term: MARRY
+Definition: WELL, THEN!
+
+Term: ALACK
+Definition: LIGHT CURSE WORD
+
+Term: ALACKADAY
+Definition: LIGHT CURSE WORD
+
+Term: ALAS
+Definition: LIGHT CURSE WORD
+
+Term: FIE
+Definition: LIGHT CURSE WORD
+
+Term: PERCHANCE
+Definition: PERHAPS / MAYBE
+
+Term: FORSWEAR
+Definition: GIVE UP
+
+Term: playwright
+Definition: ...
+
+Term: playing company
+Definition: ...
+
+Term: performance
+Definition: ...
+
+Term: audience
+Definition: ...
+
+Term: rhetorical
+Definition: ...
+
+Term: poetry
+Definition: ...
+
+Term: partnership
+Definition: ...
+
+Term: memorial
+Definition: ...
+
+Term: publication
+Definition: ...
+
+Term: blank verse
+Definition: ...
+
+Term: passages
+Definition: ...
+
+Term: How many sonnets did Shakespeare write?
+Definition: 154 sonnets
+
+Term: what were the written in?
+Definition: blank verse (iambic pentameter)
+
+Term: what were common themes he used?
+Definition: -the difference between good and evil-ambition -appearance and reality-deception-love vs. hate-revenge-tragedy-romance
+
+Term: how did Shakespeare influence the English language?
+Definition: he made up new word and phrases and put them in his poems and plays
+
+Term: what was unique about Shakespeare's use of language in his plays?
+Definition: - he created 1,700 new words- he used English- he took English words and combined them to make new words
+
+Term: How many plays did Shakespeare write?
+Definition: 37 plays
+
+Term: How many poems did Shakespeare write?
+Definition: 159 poems
+
+Term: How many sonnets did Shakespeare write?
+Definition: 154 sonnets
+
+Term: How many narrative poems did Shakespeare write?
+Definition: 5 narrative poems
+
+Term: what are some common words and phrases in Elizabeth English?
+Definition: - thou- ye - thee- thine - aught- yonder
+
+Term: Birthplace
+Definition: england
+
+Term: father
+Definition: Jhon Shakespeare
+
+Term: Mother
+Definition: Mary Arden
+
+Term: Wife
+Definition: Anne Hathaway
+
+Term: Children
+Definition: Judith and Hamnet and Susan
+
+Term: School
+Definition: KIng Edward VI Grammer school
+
+Term: Education
+Definition: Latin,classic literature,grammar logic,rhetoric,arithmetic and astronomy.
+
+Term: university
+Definition: His father had financial difficulties so he did not attend.
+
+Term: left his wife after he died
+Definition: Second-best bed
+
+Term: left the world
+Definition: Two narrative poems,thirty-eight plays and one hundred and fifty-four sonnets.
+
+Term: The Bard
+Definition: Because he is widely acknowledged as the greatest poet from that country.
+
+Term: His death
+Definition: He died on his birthday in 1616
+
+Term: She reigned form
+Definition: 1558-1603
+
+Term: Problems for England
+Definition: England was bankrupt,protests,constant,state of religious upheaval
+
+Term: fame
+Definition: With invention of the printing press the previous century,books became less expensive and more plentiful.Schools were better funded,and more more children from the less wealthy families went schools.
+
+Term: Black death
+Definition: .People lived close to each other and with the fleas and rodents that spread this cruel and fatal disease.It shut down the theaters.
+
+Term: Entertainment
+Definition: they used the theater to entertain them self ,dances and feasts,cook flights and public executions.The upper class participated in fencing tournament and hunting and also enjoyed bear baiting
+
+Term: King james
+Definition: He took over the throne in 1603.He loved theater as well he became a patron of Shakespeare's company which change its name to The King's.He was very superstitious and took a particular interest in study of witchcraft.
+
+Term: he wrote
+Definition: 38 plays some of his comedies are A midsummer night's dream, all's well that ends well, much ado about nothing
+
+Term: Sonnetis
+Definition: He made 154 Sonnets.Is a fourteen line poem written in iambic pentameter.Sonnets have the following rhyme scheme:abab cdcd efef gg
+
+Term: language
+Definition: Shakespeare is said to be responsible for the introduction of 1700 new words into english language.Words like amazements,eventful,majestic,hurry,generous and lonely originated with THe Bard
+
+Term: plays
+Definition: A Midsummer night's dream,All's well that ends well,much ado about nothing
+
+Term: Iambic pentameter
+Definition: Penta is Greek for five.There are five iambs in a line of iambic pentameter.
+
+Term: three plays
+Definition: Romeo and JulietJulius CaesarHamlet.
+
+Term: what types he wrote
+Definition: Sonnet,poems,iambic pentameter,plays tragedies,histories comedies.
+
+Term: The first folio
+Definition: The first folio published in 1632,seven years after his death,was the first collected edition of Shakespeare's works.
+
+Term: the plague
+Definition: The plague or the black death shut down the theatre.It went on for three years straight a lot of people were dying.Bubonic plague
+
+Term: Audience
+Definition: Three thousand people go to the play.His audience was made up out of all social classes.They would have rambunctious than today's theater-goers.They would throw food at the actors.
+
+Term: The globe
+Definition: The globe was the main stage was five feet high,Two side doors were at stage level.At base of the stage''the pit'',Where the Groundlings would stand to watch the play for the cost a penny.
+
+Term: Action company
+Definition: Lord Chamberlain's men The playing company that shakespeare worked with as both writer and actor,and theatre manager of hid career.In,1603.When king james ascended the throne,they were known as the king's men
+
+Term: Birthplace
+Definition: england
+
+Term: father
+Definition: Jhon Shakespeare
+
+Term: Mother
+Definition: Mary Arden
+
+Term: Wife
+Definition: Anne Hathaway
+
+Term: Children
+Definition: Judith and Hamnet and Susan
+
+Term: School
+Definition: KIng Edward VI Grammer school
+
+Term: Education
+Definition: Latin,classic literature,grammar logic,rhetoric,arithmetic and astronomy.
+
+Term: university
+Definition: His father had financial difficulties so he did not attend.
+
+Term: left his wife after he died
+Definition: Second-best bed
+
+Term: left the world
+Definition: Two narrative poems,thirty-eight plays and one hundred and fifty-four sonnets.
+
+Term: The Bard
+Definition: Because he is widely acknowledged as the greatest poet from that country.
+
+Term: His death
+Definition: He died on his birthday in 1616
+
+Term: She reigned form
+Definition: 1558-1603
+
+Term: Problems for England
+Definition: England was bankrupt,protests,constant,state of religious upheaval
+
+Term: fame
+Definition: With invention of the printing press the previous century,books became less expensive and more plentiful.Schools were better funded,and more more children from the less wealthy families went schools.
+
+Term: Black death
+Definition: .People lived close to each other and with the fleas and rodents that spread this cruel and fatal disease.It shut down the theaters.
+
+Term: Entertainment
+Definition: they used the theater to entertain them self ,dances and feasts,cook flights and public executions.The upper class participated in fencing tournament and hunting and also enjoyed bear baiting
+
+Term: King james
+Definition: He took over the throne in 1603.He loved theater as well he became a patron of Shakespeare's company which change its name to The King's.He was very superstitious and took a particular interest in study of witchcraft.
+
+Term: he wrote
+Definition: 38 plays some of his comedies are A midsummer night's dream, all's well that ends well, much ado about nothing
+
+Term: Sonnetis
+Definition: He made 154 Sonnets.Is a fourteen line poem written in iambic pentameter.Sonnets have the following rhyme scheme:abab cdcd efef gg
+
+Term: language
+Definition: Shakespeare is said to be responsible for the introduction of 1700 new words into english language.Words like amazements,eventful,majestic,hurry,generous and lonely originated with THe Bard
+
+Term: plays
+Definition: A Midsummer night's dream,All's well that ends well,much ado about nothing
+
+Term: Iambic pentameter
+Definition: Penta is Greek for five.There are five iambs in a line of iambic pentameter.
+
+Term: three plays
+Definition: Romeo and JulietJulius CaesarHamlet.
+
+Term: what types he wrote
+Definition: Sonnet,poems,iambic pentameter,plays tragedies,histories comedies.
+
+Term: The first folio
+Definition: The first folio published in 1632,seven years after his death,was the first collected edition of Shakespeare's works.
+
+Term: the plague
+Definition: The plague or the black death shut down the theatre.It went on for three years straight a lot of people were dying.Bubonic plague
+
+Term: Audience
+Definition: Three thousand people go to the play.His audience was made up out of all social classes.They would have rambunctious than today's theater-goers.They would throw food at the actors.
+
+Term: The globe
+Definition: The globe was the main stage was five feet high,Two side doors were at stage level.At base of the stage''the pit'',Where the Groundlings would stand to watch the play for the cost a penny.
+
+Term: Action company
+Definition: Lord Chamberlain's men The playing company that shakespeare worked with as both writer and actor,and theatre manager of hid career.In,1603.When king james ascended the throne,they were known as the king's men
+
+Term: thou
+Definition: you; nominative (subject pronoun)
+
+Term: thee
+Definition: you; objective (object pronoun)
+
+Term: ye
+Definition: you; plural
+
+Term: thy
+Definition: your (thy beauty)
+
+Term: thine
+Definition: your
+
+Term: hence
+Definition: from here, from this time
+
+Term: hither
+Definition: to here
+
+Term: thence
+Definition: from there
+
+Term: thither
+Definition: to there
+
+Term: whence
+Definition: from where, from which
+
+Term: whither
+Definition: to where
+
+Term: wilt
+Definition: will
+
+Term: e'er
+Definition: ever
+
+Term: e'en
+Definition: even
+
+Term: art
+Definition: are
+
+Term: dost
+Definition: doth, do
+
+Term: haply
+Definition: perhaps
+
+Term: marry
+Definition: an exclamation of surprise
+
+Term: aye
+Definition: yes
+
+Term: anon
+Definition: soon
+
+Term: hath
+Definition: has
+
+Term: wherefore
+Definition: why
+
+Term: 1564
+Definition: In what year was William Shakespeare born?
+
+Term: April 23
+Definition: What date do we recognize as William Shakespeare's birthday?
+
+Term: It was an important agricultural center and market town
+Definition: What was important about Stratford-Upon-Avon in the 16th century?
+
+Term: Lord Strange's Men
+Definition: An acting company which Shakespeare was associated with
+
+Term: 1595
+Definition: What was the probable year the play "Romeo and Juliet" was written in?
+
+Term: The original theatre
+Definition: Where did the timbers to build the globe come from?
+
+Term: Peter Smith
+Definition: The carpenter who built the Globe
+
+Term: 10% of total profits
+Definition: What was Shakespeare's share as householder?
+
+Term: April 23, 1616
+Definition: What day did Shakespeare die?
+
+Term: 52
+Definition: How old was Shakespeare when he died?
+
+Term: Stratford-Upon-Avon
+Definition: Where was Shakespeare born?
+
+Term: London
+Definition: Where was the Globe built?
+
+Term: 37
+Definition: How many plays did Shakespeare write?
+
+Term: 154
+Definition: How many sonnets did Shakespeare write?
+
+Term: tragedy
+Definition: Romeo and Juliet was considered a.......
+
+Term: Romeo and Juliet
+Definition: West side Story (movie) based on....
+
+Term: groundlings
+Definition: the poor people who paid a penny to stand and watch a play
+
+Term: Spectators
+Definition: wealthy people who watch an event or performance
+
+Term: actors
+Definition: Were only men, young boys whose voices had not changed played women
+
+Term: comedies, histories, tragedies
+Definition: Shakespeare wrote........
+
+Term: Act
+Definition: a section of a play made up of multiple scenes; bigger part of the play
+
+Term: Scene
+Definition: A part of an act; usually of action or segment of a story. Typically is one location.
+
+Term: Stage directions
+Definition: an instruction in the text of a play, especially one indicating the movement, position, or tone of an actor, or the sound effects and lighting.
+
+Term: Sonnet
+Definition: a line poem typically about love (and/or nature) written in iambic pattern
+
+Term: Rhyme Scene
+Definition: the pattern of rhyme in a poem (three quatrains in a couplet); abab cdcd efef gg
+
+Term: Prose
+Definition: ordinary english; not poetry or drama
+
+Term: Verse
+Definition: has a meter, sometimes rhyme
+
+Term: blank verse
+Definition: Romeo and Juliet is written in_______; unrhymed iambic pentameter
+
+Term: rhymed iambic pentameter
+Definition: Sonnets are written in___________ ___________ ___________
+
+Term: iambic meter
+Definition: meter in poetry (verse) that contains an unstressed syllable followed by a stressed syllable (iambic); sounds like a heart beat
+
+Term: unstressed syllable
+Definition: "U" represents the symbol for an.......
+
+Term: stressed syllable
+Definition: "/" represents the symbol for a.......
+
+Term: Iambic pentameter
+Definition: 5 verse feet with each foot an iamb (total of ten syllables)
+
+Term: exposition
+Definition: characters and setting are introduced
+
+Term: inciting incident
+Definition: event that introduces the central conflict
+
+Term: rising action
+Definition: A series of events that builds from the conflict. It begins with the inciting force and ends with the climax.
+
+Term: climax
+Definition: Most exciting moment of the story; turning point
+
+Term: Falling Action/Denouement
+Definition: Events after the climax, leading to the resolution
+
+Term: resolution
+Definition: End of the story where loose ends are tied up
+
+Term: betrothal
+Definition: Engagement to marry "to join hands"; the man gives the women a ring for the girls right hand, to be changed to the left at the wedding.
+
+Term: betrothal customs
+Definition: -the exchange of rings between the women and man-sealing the marriage with a kiss and signatures-agreeing on a contract that determines what the wife is to inherit if the husband is to die first
+
+Term: A current color and cut; not white
+Definition: What color should the bride's dress be?
+
+Term: announced three times; three Sundays (holy days)
+Definition: How is the intention to marry announced?
+
+Term: dowry
+Definition: property or money brought by a bride to her husband on their marriage
+
+Term: Elizabethans
+Definition: people who believed people should be balanced (moderation + balance = key to happiness)
+
+Term: 2 meals (breakfast and dinner)
+Definition: How many meals do people generally eat each day?
+
+Term: wherefore
+Definition: where
+
+Term: stay
+Definition: to wait
+
+Term: Gesundheit!
+Definition: god save you
+
+Term: I thank thee
+Definition: thank you
+
+Term: Doth thou knowest where the nearest privy may be?
+Definition: Do you know where the closest bathroom is?
+
+Term: Certes! It is down yonder street in the Kinges Tavern.
+Definition: Certainly. It's down the street in the Kings Tavern.
+
+Term: I thank thee. God day.
+Definition: Thanks. Goodbye.
+
+Term: yes
+Definition: Was Shakespeare an actor?
+
+Term: player
+Definition: The term used to refer to an actor
+
+Term: Throw oranges
+Definition: What would the audience do if they did not like a performance?
+
+Term: 1599
+Definition: What year did the original Globe Theatre open?
+
+Term: A stage cannon started a fire on the thatched roof of the Globe
+Definition: What happened to the original Globe Theatre?
+
+Term: June 26, 1613
+Definition: When did the globe theatre burn down?
+
+Term: Julius Caesar
+Definition: What was most likely the first Shakespeare play to have been performed at the Globe Theatre?
+
+Term: a penny
+Definition: During Shakespeare's time, how much money did it cost to stand in the yard during a play?
+
+Term: 2-5pm
+Definition: What time would plays normally start and end?
+
+Term: Thou
+Definition: You (used as the subject of a sentence)
+
+Term: Thee
+Definition: You (Used as an object in a sentence)
+
+Term: Thine
+Definition: Your (Possessive)
+
+Term: Thy
+Definition: Your (Possessive)
+
+Term: Art
+Definition: Are
+
+Term: Dost
+Definition: Do
+
+Term: Doth
+Definition: Does
+
+Term: Ere
+Definition: Before
+
+Term: Hast
+Definition: Have
+
+Term: 'Tis
+Definition: It is
+
+Term: 'Twas
+Definition: It was
+
+Term: Wast
+Definition: Were
+
+Term: Whence
+Definition: From Where
+
+Term: Wherefore
+Definition: Why
+
+Term: Oft
+Definition: Often
+
+Term: Hence
+Definition: From Here
+
+Term: Yea
+Definition: Even
+
+Term: Nay
+Definition: No
+
+Term: Wilt
+Definition: Will
+
+Term: Thou/Thee/Thine: "O Petros, _____ wast convicted of fault by thy colleague."
+Definition: Thou (This word is being used as a pronoun to describe the subject of the sentence, Petros.)
+
+Term: Thou/Thee/Thine: "I saw ___ when I was still a boy in Lower Asia in company with Polycarp."
+Definition: Thee (The subject of this sentence is "I" which makes "you/thee" the object of the sentence)
+
+Term: Names of Shakespeare's Narrative poems
+Definition: Venus and Adonis; Rape of Lucrece; The Passionate Pilgrim; The Phoenix and Turtle; A Lover's Complaint
+
+Term: Number of Sonnets
+Definition: 154
+
+Term: Themes the sonnets cover
+Definition: ravages of time (carpe diem), power of poetry and verse, and unrequited love
+
+Term: Source material for Macbeth
+Definition: Raphael Holinshed's Chronicles of England, Scotland, and Ireland
+
+Term: Wrote collaboration plays with Shakespeare
+Definition: John Fletcher
+
+Term: Name of Shakespeare's lost play
+Definition: Cardenio
+
+Term: Interpolation
+Definition: Interruption by another author in Shakespeare's works. Many found in Macbeth
+
+Term: hapax legomenon
+Definition: a word found only once in all of Shakespeare's written work
+
+Term: Who was Shakespeare's father?
+Definition: John Shakespeare
+
+Term: Who was Shakespeare's mother?
+Definition: Mary Arden
+
+Term: Who was Shakespeare's wife?
+Definition: Anne Hathaway
+
+Term: Why are we not sure of Shakespeare's birthdate?
+Definition: There is very little written about his life.
+
+Term: Where was Shakespeare born?
+Definition: Stratford-upon-Avon
+
+Term: Where did Shakespeare go to school?
+Definition: King Edward VI Grammar School
+
+Term: What did Shakespeare study in school?
+Definition: Latin, classic literature, grammar, logic, rhetoric, arithmetic, and astronomy.
+
+Term: Why did Shakespeare not attend university?
+Definition: His father was having financial difficulties
+
+Term: 1582
+Definition: The "lost years"
+
+Term: around 1585
+Definition: Moved to London
+
+Term: 1593
+Definition: Theatres were closed because of the plague
+
+Term: 1594
+Definition: Became a shareholder in an acting company
+
+Term: 1603
+Definition: Coronation of King James
+
+Term: What did Shakespeare leave his wife?
+Definition: His second best bed
+
+Term: How many poems did he write?
+Definition: 2
+
+Term: How many plays did he write?
+Definition: 38
+
+Term: How many sonnets did he write?
+Definition: 154
+
+Term: Why is he called "The Bard" of England?
+Definition: He is widely acknowledged as the greatest poet from that country
+
+Term: What did Ben Johnson say about him?
+Definition: "He was not of an age, but for all time."
+
+Term: When did Shakespeare die?
+Definition: his birthday in 1616
+
+Term: When was the rein of Queen Elizabeth?
+Definition: 1558 to 1603
+
+Term: What problems did she have?
+Definition: England was bankrupt and in a constant state of religious upheaval.
+
+Term: the Black Death
+Definition: There was no sewage system, and rats and fleas spread this fatal disease.
+
+Term: What was the entertainment like?
+Definition: Theatre, dances, feasts, cock fights, and public execution were very popular. Upper classes participated in fencing tournaments and hunting. All classes enjoyed bear baiting.
+
+Term: Why did England flourish under the rule of Queen Elizabeth?
+Definition: England experienced a revolution in education and literacy, and professional theatres were built for the first time.
+
+Term: King James
+Definition: Took over when Queen Elizabeth died, loved theatre, became a patron of Shakespeare's company, very superstitious and took interest in witchcraft.
+
+Term: What is a sonnet?
+Definition: A 14 line poem written in pentameter, rhyme scheme of ABAB CDCD EFEF GG.
+
+Term: What did Shakespeare contribute to language?
+Definition: Responsible for the introduction of 1700 words to the English language and for many phrases that we still use today.
+
+Term: iambic pentameter
+Definition: There are five iambs in an iambic pentameter
+
+Term: What types of plays did Shakespeare write?
+Definition: Comedy, tragedy, and history
+
+Term: What was his first edition of collected works called?
+Definition: The First Follo
+
+Term: Who was Shakespeare's audience?
+Definition: 3,000 people,all social classes, more rambunctious than today, throw food at the actors
+
+Term: What was The Globe like?
+Definition: Open air, circular, 3 stories high
+
+Term: What did the Plague do to theatres?
+Definition: 1593, 1603, 1608, the theatres closed
+
+Term: What was his acting company like?
+Definition: Lord Chamberlain's Men, worked with as both a writer, actor, and theatre manager for most of his career.
+
+Term: Ambiguity
+Definition: Two meanings
+
+Term: Hamlet
+Definition: Tragedy - Danish Avenge Fathers murder
+
+Term: Lear
+Definition: King Lear. 3 daughters - doesn't see genuine love of one.
+
+Term: Actor
+Definition: Shakespeare's other profession
+
+Term: Venus
+Definition: Venus and Adonis - narrative poem
+
+Term: Caesar
+Definition: Beware the ides of march.
+
+Term: Folio
+Definition: First folio - 1623 edition of Shakespeare's collected plays published by john hemming and Henry Condell
+
+Term: James
+Definition: Stuart king from 1603-1625. Wrote best works during the first 10 years of his reign
+
+Term: Spenser, Edmund
+Definition: Shakespeare's contemporary - sonnet sequence "Amoretti" and his allegory "The Faerie Queene"
+
+Term: Philip
+Definition: Hapsburg ruler of Spain while Elizabeth I ruled England. Sent the Armada
+
+Term: Blank verse
+Definition: Unrhymed iambic pentameter
+
+Term: Globe
+Definition: London playhouse built for performances by the kings men
+
+Term: Prose
+Definition: Other medium shakespeare used
+
+Term: W. H
+Definition: Initials of the disputed person to whom Shakespeare dedicated his sonnets
+
+Term: Stratford on Avon
+Definition: Shakespeare's birth place
+
+Term: Sonnet
+Definition: 14 line poem written in iambic pentameter. Shakespearean and Petrarchan
+
+Term: Marlowe
+Definition: Tamburlaine and doctor Faustus
+
+Term: Foil
+Definition: Minor characters who's actions parallel those of the major characters
+
+Term: Narrative
+Definition: Poem that tells a story
+
+Term: The tempest
+Definition: Last comedy he wrote
+
+Term: Farce
+Definition: Play intended solely to entertain
+
+Term: Tudor
+Definition: English dynasty
+
+Term: Madrigal
+Definition: Secular voice music. A song with parts for several voices of equal importance. William Byrd and Thomas Morley
+
+Term: The theater
+Definition: 1st professional Elizabethan playhouse. Erected by James burbage
+
+Term: Apron
+Definition: Forward edge of stage
+
+Term: Lyric
+Definition: Type of poem characterized by a spontaneous expression of feeling
+
+Term: Bacon
+Definition: English philosopher. The "essays"
+
+Term: Renaissance
+Definition: Elizabethan period
+
+Term: Unities
+Definition: Limits of time, place, and action in a tragedy
+
+Term: Pit
+Definition: Immediately in font of platform
+
+Term: Jonson
+Definition: Volpone and Song to Celia
+
+Term: Humanism
+Definition: Movement during Renaissance
+
+Term: Greek
+Definition: Classics
+
+Term: Protestant REFORMATION
+Definition: Religious revolution
+
+Term: Hathaway
+Definition: Shakespeare's wife anne
+
+Term: Othello
+Definition: Tragedy - Moorish general tricked into killing his wife
+
+Term: Aside
+Definition: Remark made to the audience that the other actors shouldn't hear
+
+Term: Chamberlain
+Definition: Lord's _____ Men - players company
+
+Term: Burbage
+Definition: Leading actor who appeared in many of Shakespeare's and jonsons plays
+
+Term: Philip Sydney
+Definition: Sonnet sequence Astrophel and Stella. Mortally wounded while fighting for the English army
+
+Term: Grammar
+Definition: Type of school shakespeare attended at which he received a good grounding in Latin
+
+Term: Relief
+Definition: Comic ____
+
+Term: Lyly
+Definition: Euphues - popular didactic novel. Stressing allusion, alliteration, and antithesis
+
+Term: Hamnet
+Definition: Shakespeare's son
+
+Term: Inns
+Definition: Where plays were performed before playhouses
+
+Term: Kyd
+Definition: English dramatist known for Spanish Tragedy
+
+Term: ambiguity
+Definition: Use of a word so that there is a possibility of two meanings.
+
+Term: King Lear
+Definition: Shakespearean tragedy centered on the theme of "man's inhumanity to man;" an aged monarch fails to recognize the genuine love of one daughter and accepts instead the empty flattery of his two other daughters; he see his error too late and dies of grief
+
+Term: Hamlet
+Definition: Shakespearean tragedy which deals with a Danish prince's attempt to avenge his father's murder.
+
+Term: Actor
+Definition: Shakespeare's other theatrical occupation besides that of playwright
+
+Term: Venus
+Definition: Shakespeare's famous narrative poem "..... and Adonis."
+
+Term: Caesar
+Definition: In this famous Shakespearean tragedy the Roman ruler fails to "beware of the Ides of March" and is assassinated by a group of conspirators that include his best friend
+
+Term: Folio
+Definition: The 1623 edition of Shakespeare's collected plays published by his fellow actors John Hemming and Henry Condell; know as the First....
+
+Term: James
+Definition: Stuart king from 1603 to 1625; many of the major dramatists of Shakespeare's time wrote their best works during the first ten years of his reign
+
+Term: Spenser
+Definition: Shakespeare's contemporary; poet best known for his sonnet sequence Amoretti and his allegory The Faerie Queene; appointed Sheriff of Cork; created a nine-line stanze form used as a model for modern poets
+
+Term: Philip
+Definition: Hapsburg ruler of Spain (1556-1598) while Elizabeth I ruled England; in 1558 he sent the Invincible Armada whose defeat made British seapower supreme
+
+Term: Blank
+Definition: Unrhymed iambic pentameter used by Shakespeare; called ...... verse
+
+Term: Soliloquy
+Definition: A speech made by an actor as if to himself when alone on the stage; this speech is a device through which the character reveals his thoughts and feelings to the audience but not to other characters in the play
+
+Term: Globe
+Definition: London playhouse built for performances by the King's Men; many of Shakespeare's plays were first presented there.
+
+Term: Prose
+Definition: Other medium of expression used by Shakespeare besides verse
+
+Term: WH
+Definition: Initials of the much disputed person to whom Shakespeare dedicated his sonnets
+
+Term: Stratford-on-avon
+Definition: Shakespeare's birthplace
+
+Term: Eight
+Definition: Number of sides of an Elizabethan playhouse
+
+Term: Sonnet
+Definition: A fourteen-line poem usually written in iambic pentameter with a definite rhyme scheme; the two major types are the Petrarchan and Shakespearean
+
+Term: Marlowe
+Definition: English dramatist and poet regarded as the greatest Elizabethan playwright next to Shakespeare; died at age twenty-nine in a tavern brawl; two of his most powerful dramas the Tamburlaine and Doctor Faustsu
+
+Term: Tragedy
+Definition: Defined by Aristotle as "imitation of a painful action (usually resulting in death) by a person of stature which by pity and fear purges these emotions; type of serious play with an unhappy ending in which Shakespeare's genius was at its height
+
+Term: Irony
+Definition: Events occurring contrary to expectation; use of words to say the opposite of the thought in the speaker's mind.
+
+Term: Foil
+Definition: A minor character whose actions parallel those of a major character to enhance the main plot
+
+Term: Narrative
+Definition: A long poem that tells a story; Shakespeare wrote five of this genre
+
+Term: Tempest
+Definition: Comedy considered to be the last play Shakespeare wrote by himself
+
+Term: boy
+Definition: In the Elizabethan theater a women's part was played by a....
+
+Term: Farce
+Definition: A play intended solely to entertain; containing many ridiculous happenings, absurd actions slap-stick humor.
+
+Term: Tudor
+Definition: English dynasty that ruled from 1485 to 1603
+
+Term: Madrigal
+Definition: Most brilliant form of English secular vocal music during the Elizabethan period; English nationalistic adaptation of an Italian musical form; a song with parts for several voices of equal importance; its chief Elizabethan figures were William Byrd and Thomas Morely
+
+Term: Macbeth
+Definition: Shakespearean tragedy about an ambitious general who, goaded by his wife, murders the King of Scotland so that he himself can become the king
+
+Term: All's Well That Ends Well
+Definition: a woman is given in marriage to the man she longs for, but, because she is of lower rank, he refuses to accept the marriage. It becomes her challenge to win his acceptance.Helen, the daughter of a dead physician, secretly loves Bertram, the Count of Rosillion's son. When the count dies, Bertram becomes a ward of the French king, who is dying of a fistula. Helen heals the ailing king, and he grants her wish to marry his ward. Bertram refuses to consummate the marriage and goes off to war, sending Helen a list of seemingly impossible conditions to be met before he will consider her his wife.To meet his conditions, Helen substitutes herself for a woman whom Bertram desires, and sleeps with him. When false news comes that Helen is dead, Bertram faces the charge that he has killed her. Helen, now pregnant, reappears, saving Bertram and demonstrating that she has met his conditions. Bertram then acknowledges her.
+
+Term: Antony and Cleopatra
+Definition: tells the story of a romance between two powerful lovers: Cleopatra, the queen of Egypt, and Mark Antony, who rules the Roman Empire with Octavius Caesar and Lepidus.Although he is needed in Rome, Antony lingers in Egypt with Cleopatra. He finally returns to Rome when Pompey, another military leader, tries to gain control of the empire. Once in Rome, Antony marries Caesar's sister Octavia.After Pompey is defeated, Caesar imprisons Lepidus and turns on Antony. Octavia attempts to reconcile them, but fails. Antony returns to Cleopatra. He challenges Caesar at sea, adding Cleopatra's ships to his own. When she and her navy flee in mid-battle, Antony follows, abandoning his men.Antony fails in a second battle at sea. At first, he blames Cleopatra and plans to kill her. He responds to false news of her death, however, by attempting suicide; fatally wounded, he reunites with her as he dies. Faced with Caesar's plans to humiliate her in Rome, Cleopatra kills herself with poisonous snakes.
+
+Term: As You Like It
+Definition: witty words and romance play out against the disputes of divided pairs of brothers. Orlando's older brother, Oliver, treats him badly and refuses him his small inheritance from their father's estate; Oliver schemes instead to have Orlando die in a wrestling match. Meanwhile, Duke Frederick has forced his older brother, Duke Senior, into exile in the Forest of Arden.Duke Senior's daughter, Rosalind, and Duke Frederick's daughter, Celia, meet the victorious Orlando at the wrestling match; Orlando and Rosalind fall in love. Banished by her uncle, Rosalind assumes a male identity and leaves with Celia and their fool, Touchstone. Orlando flees Oliver's murderous plots.In the Forest of Arden, Rosalind, in her male disguise, forms a teasing friendship with Orlando. Oliver, searching for Orlando, reforms after Orlando saves his life. Rosalind reveals her identity, triggering several weddings, including her own with Orlando and Celia's with Oliver. Duke Frederick restores the dukedom to Duke Senior, who leaves the forest with his followers.
+
+Term: Comedy of Errors
+Definition: Set in the city of Ephesus, this story concerns the farcical misadventures of two sets of identical twins. Many years earlier, the Syracusan merchant Egeon had twin sons, both named Antipholus. At their birth, he bought another pair of newborn twins, both named Dromio, as their servants. In a shipwreck, Egeon lost his wife, one of his sons, and one of the Dromios. Egeon's remaining son, Antipholus of Syracuse, and his servant, Dromio of Syracuse, come to Ephesus, where—unknown to them—their lost twins now live. The visitors are confused, angered, or intrigued when local residents seem to know them.Similarly, Antipholus and Dromio of Ephesus run into puzzling reactions from the people they know—who have been dealing, unwittingly, with the Syracusans. Antipholus of Ephesus's wife bars him from his house; he is jailed after a jeweler claims he owes money on a gold chain he never received.When the four twins come together, all is finally resolved. In one last twist, their parents reunite as well.
+
+Term: Coriolanus
+Definition: two Roman patricians, Menenius and Martius, calm a revolt by the city's famished plebians. Martius, who despises the plebians, announces that their petition to be represented by tribunes has been granted. When Volscian invaders attack Roman territories, Martius helps lead the Roman forces, and almost single-handedly conquers the Volscian city of Corioles, winning the name "Coriolanus." The Volscian leader, Aufidius, swears revenge.Victorious in battle, Coriolanus expects to be made a consul, but by custom he must ask for votes from the plebians. He does this so contemptuously that he is rejected as a consul. The tribunes later charge Coriolanus with treason and banish him from Rome. He seeks his former enemy, Aufidius.Coriolanus and Aufidius join forces to conquer Rome. On the brink of success, Coriolanus is persuaded by his mother, Volumnia, to spare the city, though he knows it may cost him his life. Aufidius and his fellow conspirators plot Coriolanus's death. Coriolanus returns to Corioles, where he is assassinated. Rome honors Volumnia for saving the city.
+
+Term: Cymbeline
+Definition: takes places in ancient Britain, is filled with hidden identities, extraordinary schemes, and violent acts. Long ago, the two sons of King Cymbeline were abducted, leaving Cymbeline with a daughter, Imogen. Cymbeline's stepson, Cloten, is now his heir, and Cymbeline expects Imogen to marry him. She secretly marries Posthumus Leonatus instead.Banished from court, Posthumus makes a foolish bet on Imogen's chastity, which leads to false evidence that she has betrayed him. He plots to have her killed, and starts by sending her on a journey. Meanwhile, still angry about Imogen's marriage, Cloten plans to find and rape her.Imogen—now disguised as a boy, "Fidele"—unwittingly encounters her brothers, who have grown up in a mountain cave unaware of their princely origins. The brothers kill Cloten, but Imogen, horrified, believes they have slain Posthumus.Cymbeline, meanwhile, refuses to pay a tribute to the Romans, who invade Britain. After the Romans are repelled in battle, Cymbeline agrees to the tribute, his sons are restored, and Imogen and Posthumus are reconciled.
+
+Term: Hamlet
+Definition: When the king of Denmark, Prince Hamlet's father, suddenly dies, Hamlet's mother, Gertrude, marries his uncle Claudius, who becomes the new king.A spirit who claims to be the ghost of Hamlet's father describes his murder at the hands of Claudius and demands that Hamlet avenge the killing. When the councilor Polonius learns from his daughter, Ophelia, that Hamlet has visited her in an apparently distracted state, Polonius attributes the prince's condition to lovesickness, and he sets a trap for Hamlet using Ophelia as bait.To confirm Claudius's guilt, Hamlet arranges for a play that mimics the murder; Claudius's reaction is that of a guilty man. Hamlet, now free to act, mistakenly kills Polonius, thinking he is Claudius. Claudius sends Hamlet away as part of a deadly plot.After Polonius's death, Ophelia goes mad and later drowns. Hamlet, who has returned safely to confront the king, agrees to a fencing match with Ophelia's brother, Laertes, who secretly poisons his own rapier. At the match, Claudius prepares poisoned wine for Hamlet, which Gertrude unknowingly drinks; as she dies, she accuses Claudius, whom Hamlet kills. Then first Laertes and then Hamlet die, both victims of Laertes's rapier.
+
+Term: Henry IV, Part 1
+Definition: culminates in the battle of Shrewsbury between the king's army and rebels seeking his crown. The dispute begins when Hotspur, the son of Northumberland, breaks with the king over the fate of his brother-in-law, Mortimer, a Welsh prisoner. Hotspur, Northumberland, and Hotspur's uncle Worcester plan to take the throne, later allying with Mortimer and a Welsh leader, Glendower. As that conflict develops, Prince Hal—Henry IV's son and heir—carouses in a tavern and plots to trick the roguish Sir John Falstaff and his henchmen, who are planning a highway robbery. Hal and a companion will rob them of their loot—then wait for Falstaff's lying boasts. The trick succeeds, but Prince Hal is summoned to war.In the war, Hal saves his father's life and then kills Hotspur, actions that help to redeem his bad reputation. Falstaff, meanwhile, cheats his soldiers, whom he leads to slaughter, and takes credit for Hotspur's death.
+
+Term: Henry IV, Part 2
+Definition: Northumberland learns that his son Hotspur is dead, and he rejoins the remaining rebels. When Hotspur's widow convinces Northumberland to withdraw, the rebels are then led by the archbishop of York and Lords Mowbray and Hastings, who muster at York to confront the king's forces.Sir John Falstaff, meanwhile, glories in the reputation he has gained by falsely claiming to have killed Hotspur, and he uses his wit and cunning to escape charges by the Lord Chief Justice. Prince Hal and his companion Poins disguise themselves to observe Falstaff, and they hear him insult them both. After they confront him, Prince Hal and Falstaff must return to the wars. The king's army is again victorious, but more through deceit and false promises than through valor. With the rebellion over, Prince Hal attends his dying father. Hal becomes Henry V, reassures the Lord Chief Justice, and turns away Falstaff, who had expected royal favor.
+
+Term: Henry V
+Definition: begins at the English court, where the young king is persuaded that he has a claim to the throne of France. When the French dauphin, or heir apparent, insults him by sending him tennis balls, Henry launches his military expedition to France.Before departing, Henry learns that three of his nobles have betrayed him, and he orders their execution. Meanwhile, his old tavern companions grieve over Sir John Falstaff's death, and then leave for France.Henry and his army lay siege to the French town of Harfleur, which surrenders. The Princess of France, Katherine, starts to learn English, but the French nobles are sure of success against Henry. Instead, Henry's forces win a great victory at Agincourt.After a brief return to England, Henry comes back to France to claim his rights and to set up his marriage to Princess Katherine. The play's epilogue points out that Henry will die young and that England will as a result lose most of his French territories.
+
+Term: Henry VI, Part 1
+Definition: With an underage boy now king of England, this story depicts the collapse of England's role in France, as English nobles fight each other instead of the French and as Joan la Pucelle (Joan of Arc) brings military strength to the French army. The English hero Lord Talbot attacks Orleans, but is defeated by Joan.In England, Gloucester, Henry VI's Protector, and Gloucester's rival Winchester encourage their followers to attack each other in the streets. Richard Plantagenet (later the Duke of York) and Somerset are equally antagonistic, with their followers signaling their allegiance by wearing white or red roses.Henry VI is crowned in Paris, and orders York and Somerset to fight the French instead of each other. As they squabble, French forces kill Talbot and his son. The English army captures and executes Joan. Suffolk arranges a marriage between Henry and Margaret, daughter of the king of Naples, in order to keep her near him and give him, though her, control of England.
+
+Term: Henry VI, Part 2
+Definition: With a weak, unworldly king on the throne, the English nobility heightens its struggle for power in this story, leading to the brink of civil war.At the start of the play, Henry meets his new bride, Margaret, to whom he has been married by proxy through Suffolk, her lover. Henry's popular and powerful uncle Gloucester, the Lord Protector, soon comes under attack by Margaret, Suffolk, Cardinal Beaufort, and others.Gloucester's wife is shamed and exiled and Gloucester himself removed from office, then murdered on Suffolk's orders. Suffolk is banished, captured by pirates, and killed. Meanwhile, the cardinal dies, raving in madness because of his part in Gloucester's death.A Kentish rebel, Jack Cade, leads a short-lived revolt, seizing London before his supporters desert him. He dies fighting in a garden. Soon another revolt emerges: Richard, Duke of York, leads an army against King Henry, who flees back to London. As the play ends, Richard's forces also move toward London.
+
+Term: Henry VI, Part 3
+Definition: The English crown changes hands often in this story. At first, Richard, Duke of York, is allied with Warwick. York invades the throne-room of Henry VI with Warwick's army, but allows Henry to remain king if he makes York his heir—thus disinheriting Henry's son, Prince Edward.Infuriated, Henry's queen, Margaret, raises an army. York breaks his oath to Henry and fights for the crown. After Margaret and her supporters kill York, Warwick proclaims that York's son Edward is king. Edward, now Edward IV, captures Henry. Warwick breaks with King Edward and joins with Margaret to raise a French army. King Edward's brother Clarence joins with Warwick to capture Edward and free King Henry.Richard, now Duke of Gloucester, rescues his brother, King Edward, who returns, captures King Henry, and leads an army against Warwick. When Clarence abandons Warwick, Warwick is defeated and killed. King Edward captures Margaret and helps to kill her son, Prince Edward. Richard murders King Henry and begins to plot his way to the crown.
+
+Term: Henry VIII
+Definition: Two stories dominate this story: the fall of Cardinal Wolsey, Henry's powerful advisor, and Henry's quest to divorce Queen Katherine, who has not borne him a male heir, and marry Anne Bullen (Boleyn).First, the duke of Buckingham questions Wolsey's costly staging of a failed meeting with the French king. Wolsey arrests Buckingham and accuses him of treason; testimony from a bribed witness leads to Buckingham's execution. Queen Katherine takes a stand against Wolsey. Wolsey gives a party at which Henry meets Anne.Henry falls in love with Anne and seeks to divorce Katherine, but Katherine refuses to be judged by Wolsey and other church officials. The king secretly marries Anne and then has her crowned queen. Meanwhile, Henry discovers Wolsey's treachery against him. Wolsey, arrested, falls sick and dies. Katherine also sickens and dies. Cranmer, the new archbishop of Canterbury, comes under attack, but receives the king's support. Anne gives birth to a daughter, the future Queen Elizabeth. Cranmer prophesies marvelous reigns for her and her unnamed successor, James.
+
+Term: Julius Caesar
+Definition: Caesar's assassination is just the halfway point of Julius Caesar. The first part of the play leads to his death; the second portrays the consequences. As the action begins, Rome prepares for Caesar's triumphal entrance. Brutus, Caesar's friend and ally, fears that Caesar will become king, destroying the republic. Cassius and others convince Brutus to join a conspiracy to kill Caesar.On the day of the assassination, Caesar plans to stay home at the urging of his wife, Calphurnia. A conspirator, Decius Brutus, persuades him to go to the Senate with the other conspirators and his friend, Mark Antony. At the Senate, the conspirators stab Caesar to death. Antony uses a funeral oration to turn the citizens of Rome against them. Brutus and Cassius escape as Antony joins forces with Octavius Caesar.Encamped with their armies, Brutus and Cassius quarrel, then agree to march on Antony and Octavius. In the battle that follows, Cassius, misled by erroneous reports of loss, persuades a slave to kill him; Brutus's army is defeated. Brutus commits suicide, praised by Antony as "the noblest Roman of them all."
+
+Term: King John
+Definition: The events in this story take place in the 13th century, well before Shakespeare's other English history plays. After the death of John's brother, Richard I, John rules England.John's young nephew, Arthur, has a claim to the throne and is supported by the French. At first, a proposed marriage between the French crown prince and John's niece, Blanche, calms Anglo-French tensions. Then the pope, in a dispute over recognizing an archbishop, excommunicates John and backs Arthur's claim.After war erupts, John captures Arthur and orders his death. Arthur's guardian, Hubert, prepares to burn out Arthur's eyes, but then spares him. Arthur dies leaping from the prison wall. Arthur's mother Constance grieves inconsolably.Meanwhile, French forces reach England. John submits to the pope to gain his aid. Rebellious English nobles join the French, but return to John when they learn the French prince plans to kill them. English forces under the bastard son of Richard I expel the French, but a monk poisons King John, whose son becomes Henry III.
+
+Term: King Lear
+Definition: This story dramatizes the story of an aged king of ancient Britain, whose plan to divide his kingdom among his three daughters ends tragically. When he tests each by asking how much she loves him, the older daughters, Goneril and Regan, flatter him. The youngest, Cordelia, does not, and Lear disowns and banishes her. She marries the king of France. Goneril and Regan turn on Lear, leaving him to wander madly in a furious storm.Meanwhile, the Earl of Gloucester's illegitimate son Edmund turns Gloucester against his legitimate son, Edgar. Gloucester, appalled at the daughters' treatment of Lear, gets news that a French army is coming to help Lear. Edmund betrays Gloucester to Regan and her husband, Cornwall, who puts out Gloucester's eyes and makes Edmund the Earl of Gloucester.Cordelia and the French army save Lear, but the army is defeated. Edmund imprisons Cordelia and Lear. Edgar then mortally wounds Edmund in a trial by combat. Dying, Edmund confesses that he has ordered the deaths of Cordelia and Lear. Before they can be rescued, Lear brings in Cordelia's body and then he himself dies.
+
+Term: Love's Labor's Lost
+Definition: In this story, the comedy centers on four young men who fall in love against their wills. The men, one of them the king of Navarre, pledge to study for three years, avoiding all contact with women. When the Princess of France arrives on a state visit, the king insists she and her ladies camp outside the court. Even so, each young man falls in love with one of the ladies.Meanwhile, Don Armado, a Spanish soldier, falls for a servant girl, Jacquenetta. Costard, an illiterate local, mixes up two letters he is to deliver, one from Armado to Jacquenetta and the other from Berowne, one of the king's companions, to Rosaline, one of the French ladies.The men confess they are in love, and devise a pageant for the ladies, who set a trap for them by exchanging identifying markers. When word comes that the princess's father is dead, the ladies reject the men's proposals as rash and impose a year's delay before any further wooing.
+
+Term: Lucrece
+Definition: This poem takes place as Rome becomes a republic. As a minor epic (a popular genre in Shakespeare's time), it centers on figures of seemingly secondary importance: Sextus Tarquinius, the king's son, and Lucrece, the wife of his friend.The poem focuses initially on Tarquin's desire for Lucrece, whom he rapes. Afterward, he feels bitter disappointment. Shakespeare then drives him from the poem, which shifts to Lucrece and her sense of sexual shame.Shakespeare found these incidents in Roman history and myth, as well as Chaucer and contemporary English writers, but he incorporated another genre, the complaint, to supply interior monologues for both characters. Tarquin's complaint presents him as divided against himself, lusting for Lucrece but aware that raping her would, as he sees it, betray his friend and shame Tarquin and his family.In her complaint, Lucrece struggles with the shame she feels, ultimately choosing suicide. Few acts have proved as controversial. In Roman culture, suicide could be a hero's death, but Christianity has not agreed. Lucrece's view is that, despite the chastity of her mind, she has been rendered unchaste—that mind and body, in her reading, cannot be separated.
+
+Term: Macbeth
+Definition: This story, set primarily in Scotland, mixes witchcraft, prophecy, and murder. Three "Weïrd Sisters" appear to Macbeth and his comrade Banquo after a battle and prophesy that Macbeth will be king and that the descendants of Banquo will also reign. When Macbeth arrives at his castle, he and Lady Macbeth plot to assassinate King Duncan, soon to be their guest, so that Macbeth can become king.After Macbeth murders Duncan, the king's two sons flee, and Macbeth is crowned. Fearing that Banquo's descendants will, according to the Weïrd Sisters'predictions, take over the kingdom, Macbeth has Banquo killed. At a royal banquet that evening, Macbeth sees Banquo's ghost appear covered in blood. Macbeth determines to consult the Weïrd Sisters again. They comfort him with ambiguous promises.Another nobleman, Macduff, rides to England to join Duncan's older son, Malcolm. Macbeth has Macduff's wife and children murdered. Malcolm and Macduff lead an army against Macbeth, as Lady Macbeth goes mad and commits suicide.Macbeth confronts Malcolm's army, trusting in the Weïrd Sisters' comforting promises. He learns that the promises are tricks, but continues to fight. Macduff kills Macbeth and Malcolm becomes Scotland's king.
+
+Term: Measure For Measure
+Definition: Human nature and the law often collide in this story. As the play begins, the duke of Vienna announces he is going away and puts his deputy Angelo in charge of the state. Angelo immediately enforces a law prohibiting sex outside of marriage, sentencing Claudio to death for sleeping with Juliet, Claudio's now-pregnant fiancée.Claudio's sister Isabella, a novice nun, appeals to Angelo to save her brother. But the supposedly pure Angelo demands that Isabella sleep with him to save Claudio. To Claudio's dismay, Isabella refuses.The duke, who has remained in Vienna disguised as a friar, suggests that Angelo's jilted fiancée, Mariana, could take Isabella's place. Although the trick succeeds, Angelo orders Claudio beheaded anyway. The duke saves Claudio, but he tells Isabella that Claudio is dead.The duke, resuming his identity, sentences Angelo to wed Mariana and then be put to death. But Mariana and Isabella plead for Angelo's life. Revealing that Claudio is alive, the duke pardons Angelo and proposes to Isabella.
+
+Term: Merchant of Venice
+Definition: Antonio, the merchant in this story, secures a loan from Shylock for his friend Bassanio, who seeks to court Portia. Shylock, a Jewish moneylender, recalls past insults from Antonio and, instead of asking interest on the loan, asks instead—in what he calls a "merry sport"—that if the loan is not repaid, Antonio will owe a pound of his own flesh.Bassanio sails to Belmont, where the wealthy heiress Portia is being courted by suitors from around the world. Her father's will requires that the successful suitor solve a riddle involving chests of gold, silver, and lead. Where others have failed, Bassanio succeeds by selecting the right chest. Portia marries Bassanio; her waiting woman, Nerissa, marries his friend Gratiano.Shylock's daughter, Jessica, has eloped with Bassanio's friend Lorenzo, taking her father's money with her. Shylock is devastated. When Antonio cannot repay the loan, Shylock demands the pound of flesh. When the news reaches Belmont, Bassanio returns to Venice. Portia and Nerissa also travel to Venice, disguised as a lawyer and his clerk. Portia uses the law to defeat Shylock and rescue Antonio.
+
+Term: Merry Wives of Windsor
+Definition: In The Merry Wives of Windsor, fat, disreputable Sir John Falstaff pursues two housewives, Mistress Ford and Mistress Page, who outwit and humiliate him instead. Meanwhile, three suitors seek the hand of Anne Page, Mistress Page's daughter.Falstaff hopes to seduce the wives so he can gain access to their husbands' wealth. Ford learns of Falstaff's approaches and is consumed by jealousy. In disguise, he befriends Falstaff to learn about Mistress Ford's behavior. The wives, however, trick Falstaff and Ford. As Falstaff visits Mistress Ford, Mistress Page announces that Ford is coming. Falstaff hides in a basket of dirty laundry and is thrown in the river.Another visit ends similarly: Falstaff disguises himself as "the fat woman of Brentford," whom Ford hates. Ford beats "her" in anger. Finally, Falstaff is lured to a comical nighttime rendezvous where all of Windsor comes together, Falstaff is publicly humiliated, and Ford admits his folly. Two of Anne Page's suitors elope with boys in disguise while Anne marries her chosen suitor, Fenton.
+
+Term: Midsummer Night's Dream
+Definition: In A Midsummer Night's Dream, residents of Athens mix with fairies from a local forest, with comic results. In the city, Theseus, Duke of Athens, is to marry Hippolyta, queen of the Amazons. Bottom the weaver and his friends rehearse in the woods a play they hope to stage for the wedding celebrations.Four young Athenians are in a romantic tangle. Lysander and Demetrius love Hermia; she loves Lysander and her friend Helena loves Demetrius. Hermia's father, Egeus, commands Hermia to marry Demetrius, and Theseus supports the father's right. All four young Athenians end up in the woods, where Robin Goodfellow, who serves the fairy king Oberon, puts flower juice on the eyes of Lysander, and then Demetrius, unintentionally causing both to love Helena. Oberon, who is quarreling with his wife, Titania, uses the flower juice on her eyes. She falls in love with Bottom, who now, thanks to Robin Goodfellow, wears an ass's head.As the lovers sleep, Robin Goodfellow restores Lysander's love for Hermia, so that now each young woman is matched with the man she loves. Oberon disenchants Titania and removes Bottom's ass's head. The two young couples join the royal couple in getting married, and Bottom rejoins his friends to perform the play.
+
+Term: Much Ado About Nothing
+Definition: The primary plot of Much Ado About Nothing turns on the courtship and scandal involving young Hero and her suitor, Claudio, but the witty war of words between Claudio's friend Benedick and Hero's cousin Beatrice often takes center stage.Set in Messina, the play begins as Don Pedro's army returns after a victory. Benedick, a gentleman soldier, resumes a verbal duel with Beatrice, the niece of Messina's governor, Leonato. Count Claudio is smitten with Leonato's daughter, Hero. After Don Pedro woos her in disguise for Claudio, the two young lovers plan to marry in a week. To fill in the time until the wedding, Don Pedro and the others set about tricking Benedick and Beatrice into falling in love with each other. Meanwhile, Don Pedro's disgruntled brother, Don John, plots to ruin Hero and halt her wedding. Claudio believes Don John's deception, is convinced Hero has a lover, and, at the wedding, brutally rejects her.With Hero in hiding and falsely reported dead, Beatrice persuades Benedick to fight Claudio. Tragedy is averted when the bumbling city watch, having discovered Don John's treachery, arrives and clears Hero's name. With Claudio forgiven, both couples are ready to get married.
+
+Term: Othello
+Definition: In Venice, at the start of Othello, the soldier Iago announces his hatred for his commander, Othello, a Moor. Othello has promoted Cassio, not Iago, to be his lieutenant.Iago crudely informs Brabantio, Desdemona's father, that Othello and Desdemona have eloped. Before the Venetian Senate, Brabantio accuses Othello of bewitching Desdemona. The Senators wish to send Othello to Cyprus, which is under threat from Turkey. They bring Desdemona before them. She tells of her love for Othello, and the marriage stands. The Senate agrees to let her join Othello in Cyprus.In Cyprus, Iago continues to plot against Othello and Cassio. He lures Cassio into a drunken fight, for which Cassio loses his new rank; Cassio, at Iago's urging, then begs Desdemona to intervene. Iago uses this and other ploys—misinterpreted conversations, insinuations, and a lost handkerchief—to convince Othello that Desdemona and Cassio are lovers. Othello goes mad with jealousy and later smothers Desdemona on their marriage bed, only to learn of Iago's treachery. He then kills himself.
+
+Term: Pericles
+Definition: The nautical tale of a wandering prince, Pericles is narrated by John Gower, a poet from the English past. Gower explains that Pericles, prince of Tyre, hopes to win the hand of a princess in Antioch. When Pericles learns that she and the king, her father, are lovers, he flees for his life.Pericles brings grain to Tarsus during a famine, but loses his ships and men in a storm. In Pentapolis, Pericles wins a tournament and marries the king's daughter, Thaisa. With Thaisa pregnant, she and Pericles sail for Tyre. Thaisa bears a daughter, Marina, at sea, but apparently dies. Her coffin drifts ashore at Ephesus, where she is revived and becomes a priestess of Diana.Pericles leaves the baby Marina with the king and queen of Tarsus. Fourteen years later, Marina, kidnapped by pirates, is sold to a brothel, but her eloquence protects her. Told that she has died, a grief-stricken Pericles rediscovers her. Guided by a vision from the goddess Diana, Pericles and Marina reunite with Thaisa.
+
+Term: Phoenix And Turtle
+Definition: The poem by Shakespeare now known as "The Phoenix and Turtle," or "The Phoenix and the Turtle," was first printed with no title; it was one of several additional poems in the 1601 publication of a long poem by Robert Chester.In the classical tradition, the mythical phoenix consumes itself in fire, from the ashes of which another phoenix is born. In Shakespeare's poem, the phoenix is female and the turtle (that is, a turtledove) is male.The poem has been interpreted in many ways. The phoenix and turtledove may die in a fire that produces a new phoenix—or may not produce offspring. Some see the poem as a celebration of their physical union. Others suggest that the two become one as they approach a Christian heaven, or offer a philosophical reading. Some even link them to historical figures, although such interpretations are no longer widely favored.In the poem's first part, sometimes called the "session," birds assemble to sing the second part, or "anthem." The anthem celebrates the phoenix and turtle's love and introduces the figure of Reason. Reason composes the final "Threnos" (a dirge), which many find the most beautiful section.
+
+Term: Richard II
+Definition: In Richard II, anger at a king's arbitrary rule leads to his downfall—and sets in motion a decades-long struggle for the crown that continues in several more history plays.Richard II begins as Richard's cousin, Henry Bolingbroke, charges Thomas Mowbray with serious crimes, including the murder of the Duke of Gloucester. Bolingbroke's father, John of Gaunt, privately blames the king for Gloucester's death. At Richard's command, Bolingbroke and Mowbray prepare for a trial by combat. The king halts the fight at the last minute, banishing both men from England.When John of Gaunt dies, Richard seizes his possessions to help finance a war in Ireland, thus dispossessing Bolingbroke. Bolingbroke returns to England, quickly gathering support. By the time Richard returns from Ireland, many of his former allies have joined Bolingbroke. Richard abdicates, yielding the crown to Bolingbroke.Richard is held at Pomfret Castle and Bolingbroke becomes King Henry IV. A murder plot against him is uncovered and stopped. Richard is murdered by a follower of Henry.
+
+Term: Richard III
+Definition: As Richard III opens, Richard is Duke of Gloucester and his brother, Edward IV, is king. Richard is eager to clear his way to the crown. He manipulates Edward into imprisoning their brother, Clarence, and then has Clarence murdered in the Tower. Meanwhile, Richard succeeds in marrying Lady Anne, even though he killed her father-in-law, Henry VI, and her husband.When the ailing King Edward dies, Prince Edward, the older of his two young sons, is next in line for the throne. Richard houses the Prince and his younger brother in the Tower. Richard then stages events that yield him the crown.After Richard's coronation, he has the boys secretly killed. He also disposes of Anne, his wife, in order to court his niece, Elizabeth of York. Rebellious nobles rally to Henry Tudor, Earl of Richmond. When their armies meet, Richard is defeated and killed. Richmond becomes Henry VII. His marriage to Elizabeth of York ends the Wars of the Roses and starts the Tudor dynasty.
+
+Term: Romeo and Juliet
+Definition: The prologue of Romeo and Juliet calls the title characters "star-crossed lovers"—and the stars do seem to conspire against these young lovers.Romeo is a Montague, and Juliet a Capulet. Their families are enmeshed in a feud, but the moment they meet—when Romeo and his friends attend a party at Juliet's house in disguise—the two fall in love and quickly decide that they want to be married.A friar secretly marries them, hoping to end the feud. Romeo and his companions almost immediately encounter Juliet's cousin Tybalt, who challenges Romeo. When Romeo refuses to fight, Romeo's friend Mercutio accepts the challenge and is killed. Romeo then kills Tybalt and is banished. He spends that night with Juliet and then leaves for Mantua.Juliet's father forces her into a marriage with Count Paris. To avoid this marriage, Juliet takes a potion, given her by the friar, which makes her appear dead. The friar will send Romeo word to be at her family tomb when she awakes. The plan goes awry, and Romeo learns instead that she is dead. In the tomb, Romeo kills himself. Juliet wakes, sees his body, and commits suicide. Their deaths appear finally to end the feud.
+
+Term: Sonnets
+Definition: Few collections of poems intrigue, challenge, tantalize, and reward us as do Shakespeare's Sonnets, all written in the English sonnet form. It is not just the beauty and power of individual sonnets that engage us, but the story that their sequence seems to tell about Shakespeare's love life, whenever one reads the Sonnets in the order in which they appear in the 1609 Quarto.It goes something like this: The first 17 sonnets advise a beautiful young man to marry and produce a child. The next 109 sonnets urge the poet's love for him and claim that the poems will preserve his beauty. The supposed narrative concludes with 28 sonnets to or about a "dark lady."Evidence that puts the narrative in doubt seems to matter very little. Most critics and editors agree that the sonnets are only linked within specific clusters; they were written perhaps over many years and perhaps to or about different people. Only about 25 specify the sex of the beloved.Yet such facts surrender to the narrative pull of the 1609 collection. The persona of the poet and the sequence of emotions are so strong that few editors can resist describing the Sonnets in terms of their irresistible story.
+
+Term: Taming of the Shrew
+Definition: The Taming of the Shrew begins with an "induction" in which a nobleman plays a trick on a beggar, Christopher Sly, treating Sly as if he is a nobleman who has lost his memory. A play is staged for Sly—the play that we know as The Taming of the Shrew.In the play, set in Padua, Lucentio and other suitors pursue Bianca, but are told by her father, Baptista, that her bad-tempered older sister, Katherine, must marry first. They encourage Petruchio, who has come to Padua to find a wealthy wife, to court Katherine and free Bianca to marry.Petruchio negotiates marriage terms with Baptista, then has a stormy meeting with Katherine, after which he assures Baptista that the two have agreed to marry. Petruchio arrives late to their wedding dressed in strange clothes; he behaves rudely and carries Katherine away before the wedding dinner. At his home, he embarks on a plan to "tame" Katherine as one would tame a wild hawk. Starved and kept without sleep, Katherine eventually agrees with everything Petruchio says, however absurd. He takes her back to Padua, where they attend Bianca's wedding. There Katherine proves more obedient to her husband than the other wives, whom she chastises before she and Petruchio go off to consummate their marriage.
+
+Term: Tempest
+Definition: A story of shipwreck and magic, The Tempest begins on a ship caught in a violent storm with Alonso, the king of Naples, on board. On a nearby island, the exiled Duke of Milan, Prospero, tells his daughter, Miranda, that he has caused the storm with his magical powers. Prospero had been banished twelve years earlier when Prospero's brother, Antonio—also on the doomed ship—conspired with Alonso to become the duke instead. Prospero and Miranda are served by a spirit named Ariel and by Caliban, son of the island's previous inhabitant, the witch Sycorax.On the island, castaways from the wreck begin to appear. First is Alonso's son Ferdinand, who immediately falls in love with Miranda. Prospero secretly approves of their love, but tests the pair by enslaving Ferdinand. After secretly watching Miranda and Ferdinand exchange vows, Prospero releases Ferdinand and consents to their marriage.Other castaways who appear are Trinculo and Stephano, Alonso's jester and butler, who join forces with Caliban to kill Prospero and take over the island. The nobles from the ship search for Ferdinand and are confronted with a spectacle including a Harpy, who convinces Alonso that Ferdinand's death is retribution for Prospero's exile.Having all his enemies under his control, Prospero decides to forgive them. Alonso, joyously reunited with his son, restores Prospero to the dukedom of Milan and welcomes Miranda as Ferdinand's wife. As all except Caliban and Ariel prepare to leave the island, Prospero, who has given up his magic, bids farewell to the island and the audience.
+
+Term: Timon of Athens
+Definition: In Timon of Athens, Lord Timon discovers the limits of wealth and friendship. He spends freely on others and hosts banquets for many guests. Despite his servants' warnings, he spends so excessively that his money runs out—and the philosopher Apemantus condemns his flatterers as insincere.Soon Timon's creditors begin to call in their loans. Timon expects help from his friends, but they all refuse him money. Furious, he invites them again to a banquet, but serves only water and stones before he dismisses them, cursing Athens. He exiles himself to a wilderness.There the embittered Timon finds gold. He gives some to enemies of Athens and to prostitutes and bandits. When Senators beg him to return to Athens as a military leader to save the city from his banished friend Alcibiades, he refuses and retreats to a cave to die. Alcibiades defeats Athens but promises to protect the city and its citizens. Learning of the despairing inscription on Timon's tombstone, he repeats his offer of bringing peace to the city.
+
+Term: Titus Andronicus
+Definition: Titus Andronicus overflows with death and violence. Twenty-one sons of the Roman general Titus Andronicus have died in battle, leaving four alive. After defeating the Goths, Titus permits the sacrifice of the oldest son of their queen, Tamora.Titus helps Saturninus become emperor. Saturninus plans to marry Titus's daughter, Lavinia. Instead, she marries Bassianus, aided by Titus's sons, one of whom Titus kills. Saturninus then marries Tamora. The stage is set for multiple revenge plots.Tamora's lover, Aaron the Moor, instructs her two sons to kill Bassianus, then falsely implicates two of Titus's sons. Tamora's sons also rape Lavinia, cutting off her tongue and hands. To save two of his sons from execution, Titus cuts off his own hand, but Aaron sends him their heads.Lucius, Titus's last son, leads an army of Goths against Rome. Titus kills Tamora's sons and serves them to her in a pie. In the ensuing events, Lavinia, Tamora, Titus, and Saturninus all die. Lucius becomes emperor and sentences Aaron to death.
+
+Term: Troilus and Cressida
+Definition: Set during the Trojan War, Troilus and Cressida recounts the love affair of its title characters. Inside the besieged city of Troy, the Trojan prince Troilus is lovesick for Cressida. Cressida is drawn to Troilus, too, and her uncle, Pandarus, brings them together.In the Greek camp outside, Cressida's father, Calchas, asks that Cressida be brought to him in return for the help he has given the Greeks. The morning after the lovers' night together, Cressida is exchanged for a Trojan prisoner and taken to the camp by the Greek warrior Diomedes.The great Trojan warrior Hector, Troilus's brother, engages in single combat with the Greek Ajax, a fight that ends inconclusively. Hector and Troilus join the Greeks for a feast. Cressida, meanwhile, is seduced by Diomedes.Distraught at Cressida's betrayal, Troilus fights Diomedes and others. Patroclus, favorite of the Greek warrior Achilles, dies in battle. Achilles fights with and loses to Hector, who is then, on Achilles's orders, dishonorably slain. Grieving, Troilus and the other Trojans return to Troy.
+
+Term: Twelfth Night
+Definition: Twelfth Night—an allusion to the night of festivity preceding the Christian celebration of the Epiphany—combines love, confusion, mistaken identities, and joyful discovery.After the twins Sebastian and Viola survive a shipwreck, neither knows that the other is alive. Viola goes into service with Count Orsino of Illyria, disguised as a young man, "Cesario." Orsino sends Cesario to woo the Lady Olivia on his behalf, but Olivia falls in love with Cesario. Viola, in the meantime, has fallen in love with Orsino.At the estate of Lady Olivia, Sir Toby Belch, Olivia's kinsman, has brought in Sir Andrew Aguecheek to be her suitor. A confrontation between Olivia's steward, Malvolio, and the partying Toby and his cohort leads to a revenge plot against Malvolio. Malvolio is tricked into making a fool of himself, and he is locked in a dungeon as a lunatic.In the meantime, Sebastian has been rescued by a sea captain, Antonio. When Viola, as Cesario, is challenged to a duel, Antonio mistakes her for Sebastian, comes to her aid, and is arrested. Olivia, meanwhile, mistakes Sebastian for Cesario and declares her love. When, finally, Sebastian and Viola appear together, the puzzles around the mistaken identities are solved: Cesario is revealed as Viola, Orsino asks for Viola's hand, Sebastian will wed Olivia, and Viola will marry Count Orsino. Malvolio, blaming Olivia and others for his humiliation, vows revenge.
+
+Term: Two Gentlemen of Verona
+Definition: The Two Gentlemen of Verona tells the story of two devoted friends, Valentine and Proteus. Valentine leaves their home city of Verona for Milan, but Proteus, in love with Julia, stays behind. Then Proteus's father sends him to Milan, too. Before leaving, Proteus pledges his love to Julia.In Milan, Valentine and the duke's daughter, Sylvia, are in love. Proteus, on arriving, falls in love with Sylvia at first sight. He reveals to the duke that Sylvia and Valentine plan to elope, and Valentine is banished. Meanwhile, Proteus's earlier love, Julia, assumes a male disguise and travels to Milan.The banished Valentine meets outlaws and becomes their leader. Sylvia, in search of Valentine, is seized by his outlaws. Proteus rescues her and then, when she spurns him, tries to rape her. Valentine stops the rape, but out of friendship offers to yield Sylvia to Proteus. Julia, however, reveals her identity, regaining Proteus's love. Two weddings are planned: Valentine with Sylvia, and Proteus with Julia.
+
+Term: Two Noble Kinsmen
+Definition: The Two Noble Kinsmen, derived from Chaucer's Canterbury Tales, begins as Athens defeats Thebes in war. Arcite and Palamon, Theban knights and devoted cousins, are imprisoned in Athens. From their cell, they see Emilia, the sister-in-law of Theseus, Duke of Athens. Both fall in love with her, becoming bitter rivals.Arcite is released but, for love of Emilia, stays in Athens at the risk of his life. The jailer's daughter, who loves Palamon, helps him escape, but goes mad with anxiety. Her original wooer cures her by courting her while pretending to be Palamon.Arcite encounters Palamon and challenges him to formal combat for Emilia. Theseus discovers them before they duel. He first sentences both to death, but then establishes a contest in which each will participate with Theban comrades. The loser and his knights will die. The winner will wed Emilia.Arcite prays to Mars for victory; Palamon, to Venus for Emilia's love. Both prayers are answered. Arcite wins, but dies after a riding accident. Palamon, spared from execution, marries Emilia.
+
+Term: Venus and Adonis
+Definition: With Venus and Adonis, Shakespeare launched his career as a poet. The poem is a minor epic, a genre that many poets in the 1590s chose for their first efforts. Characters in a minor epic usually come from the periphery of myth or legend; its interest is in eroticism, sophistication, and wit. Within this genre, Venus and Adonis was so successful that it was Shakespeare's most popular published work throughout his lifetime.In Ovid's Metamorphoses, the boy hunter Adonis is the willing lover of Venus, the goddess of love, and dies accidentally. Shakespeare has Adonis reject Venus—an ironic and comic development for early readers. Venus endlessly argues for making love, with Adonis uttering petulant protests.For modern readers who might forget that Venus is a goddess, it is easy to focus on Adonis as the uneasy object of desire by a matron. In its terms, however, the poem is a deliberately artificial retelling of a then-familiar myth, playing with the notion of what would happen if the goddess of love were refused.Although minor epics fell out of fashion long ago, Venus and Adonis commands appreciation for its dazzling verbal surface, as a piece of fine baroque art. It also lets us see the young Shakespeare exploring love in a way that later yielded his romantic comedies.
+
+Term: Winter's Tale
+Definition: The "tale" of The Winter's Tale unfolds in scenes set sixteen years apart. In the first part of the play, Leontes, king of Sicilia, plays host to his friend Polixenes, king of Bohemia. Suddenly, Leontes becomes unreasonably jealous of Polixenes and Leontes's pregnant wife, Hermione. Leontes calls for Polixenes to be killed, but he escapes.Hermione, under arrest, gives birth to a daughter; Leontes orders the baby to be taken overseas and abandoned. The death of the couple's young son, Mamillius, brings Leontes to his senses, too late. Word arrives that Hermione, too, has died. In Bohemia, a shepherd finds and adopts the baby girl, Perdita.Sixteen years later, the story resumes. Polixenes's son, Florizell, loves Perdita. When Polixenes forbids the unequal match, the couple flees to Sicilia, where the tale reaches its conclusion. Perdita's identity as a princess is revealed, allowing her and Florizell to marry; Leontes and Polixenes reconcile; and Hermione returns in the form of a statue, steps down from its pedestal, and reunites with her family.
+
+Term: Audience
+Definition: Most peasants, few nobles, and even some monarchs
+
+Term: Sonnets
+Definition: Names are numbers; Many were found after Shakespeare's death; 14 lines/ 1 stanza/ (abab,cdcd,efef,gg)/ 10 syllables in each line
+
+Term: Histories
+Definition: Ex. Julius Caesar
+
+Term: Tragedies
+Definition: Usually end in deathEx. Romeo and Juliet, Hamlet
+
+Term: Comedies
+Definition: End happily, often with marriageEx. Taming of the Shrew
+
+Term: Iambic Pentameter
+Definition: Rhythmic pattern; Ten syllable lines; 5 pairs of ba-BUM ba-BUM (feet)
+
+Term: Loose Iambic Pentameter
+Definition: Didn't always stick to ten syllables; Gave color and feeling to his character's speeches
+
+Term: Syntax
+Definition: The way words are put together to form words or phrasesOften rearranged the elements of a sentence (He re-ordered syntax)
+
+Term: Atypical syntax
+Definition: Uncommon way of ordering words"Behind the desk, I, eating a banana, sit."
+
+Term: Monologue
+Definition: A long speech by one person during a conversation.
+
+Term: Soliloquy
+Definition: A speech that is given to say one's thoughts aloud when by oneself or regardless of any hearers.
+
+Term: All's Well That Ends Well
+Definition: comedy
+
+Term: As You Like It
+Definition: comedy
+
+Term: the comedy of errors
+Definition: comedy
+
+Term: Cymbeline
+Definition: comedy
+
+Term: Love's Labour's Lost
+Definition: comedy
+
+Term: Measure for Measure
+Definition: comedy
+
+Term: Marry Wives of Windsor
+Definition: comedy
+
+Term: The Merchant of Venice
+Definition: comedy
+
+Term: A Midsummer Night's Dream
+Definition: comedy
+
+Term: Much Ado About Nothing
+Definition: comedy
+
+Term: Pericles, Prince of Tyre
+Definition: comedy
+
+Term: The Taming of the Shrew
+Definition: comedy
+
+Term: the tempest
+Definition: comedy
+
+Term: Troilus and Cressida
+Definition: comedy
+
+Term: Twelfth Night
+Definition: comedy
+
+Term: The Two Gentlemen of Verona
+Definition: comedy
+
+Term: Winter's Tales
+Definition: comedy
+
+Term: Henry IV, (Part 1, 2)
+Definition: history
+
+Term: Henry V
+Definition: history
+
+Term: Henry VI (part 1,2,3)
+Definition: history
+
+Term: Henry VIII
+Definition: history
+
+Term: King John
+Definition: history
+
+Term: Richard II
+Definition: history
+
+Term: Richard III
+Definition: history
+
+Term: antony and Cleopatra
+Definition: tragedy
+
+Term: Coriolanus
+Definition: tragedy
+
+Term: Hamlet
+Definition: tragedy
+
+Term: Julius Caesar
+Definition: tragedy
+
+Term: King Lear
+Definition: tragedy
+
+Term: Macbeth
+Definition: tragedy
+
+Term: Othello
+Definition: tragedy
+
+Term: Romeo and Juliet
+Definition: tragedy
+
+Term: Timon of Athens
+Definition: tragedy
+
+Term: Titus Andronicus
+Definition: tragedy
+
+Term: birth
+Definition: April 23, 1564 in Stratford upon Avon, England
+
+Term: father (John)
+Definition: glove maker, local politician
+
+Term: mother (Mary)
+Definition: daughter of wealthy landowner
+
+Term: 7
+Definition: Amount of siblings?
+
+Term: spelling not yet standardized
+Definition: why did variation exist between the spelling of Shakespeare's name?
+
+Term: King's New School
+Definition: Shakespeare's school?
+
+Term: November 1582
+Definition: marriage?
+
+Term: Anne Hathaway
+Definition: wife?
+
+Term: Susanna, Hamnet, Judith
+Definition: Kids?
+
+Term: London
+Definition: Moved where?
+
+Term: horror, supernatural, gore
+Definition: themes that Elizabethan writers introduced theater to:
+
+Term: Shakespeare
+Definition: most well-known playwright
+
+Term: Lord Chamberlain's Men
+Definition: Shakespeare's acting company
+
+Term: plague
+Definition: Why were the theaters closed in London from 1593-1594?
+
+Term: Globe Theater
+Definition: Main theater?
+
+Term: Elizabethan (Queen Elizabeth), Jacobean (King James I)
+Definition: What periods did he write in?
+
+Term: 1599
+Definition: When was the Globe built?
+
+Term: cannon misfired
+Definition: Why did the Globe burn down in 1613?
+
+Term: 14
+Definition: Comedies?
+
+Term: marriage
+Definition: What do comedies end in?
+
+Term: 10
+Definition: Histories?
+
+Term: 10
+Definition: Tragedies?
+
+Term: death
+Definition: What do tragedies end in?
+
+Term: 4
+Definition: Romances?
+
+Term: 2
+Definition: Major poems?
+
+Term: Venus and Adonis
+Definition: 1st major poem
+
+Term: Rape of Lucrece
+Definition: 2nd major poem
+
+Term: 154
+Definition: Sonnets?
+
+Term: Early Modern English
+Definition: Language?
+
+Term: critical, majestic, dwindle
+Definition: Words he coined?
+
+Term: one fell swoop, flesh and blood, vanish into thin air
+Definition: Phrases he coined?
+
+Term: costumes with status
+Definition: What was important in Elizabethan theater?
+
+Term: Jessica, Miranda, Olivia
+Definition: Names coined by Shakespeare?
+
+Term: died
+Definition: April 23, 1616
+
+Term: 52
+Definition: Age when died?
+
+Term: shakespeare was born in...
+Definition: 1564
+
+Term: shakespeare died in...
+Definition: 1616
+
+Term: shakespeare lived in...
+Definition: stratford upon avon
+
+Term: shakespeare's family members were...
+Definition: anne hathaway and kids suzanna, judith, and hamnet
+
+Term: shakespeare's parents were named...
+Definition: john and mary shakespeare
+
+Term: shakespeare's parents were...
+Definition: successful merchants and farmers and illiterate
+
+Term: shakespeare studied...
+Definition: ovid, latin, rhetoric, and logic
+
+Term: shakespeare wrote _____ plays.
+Definition: 37 plays
+
+Term: shakespeare wrote _____ sonnets
+Definition: 154 sonnets
+
+Term: shakespeare wrote...
+Definition: comedies, tragedies, and histories
+
+Term: shakespeare's company of actors was called...
+Definition: lord chamberlain's men
+
+Term: shakespeare wrote during...
+Definition: the elizabethan era
+
+Term: shakespeare used twins in his plays for...
+Definition: humor
+
+Term: We aren't sure of the exact date.
+Definition: When was Shakespeare born?
+
+Term: Stratford upon Avon
+Definition: Where was he born?
+
+Term: He left his family and moved to London.
+Definition: What did he do in 1585?
+
+Term: The theatres closed because of the plague , so he focused more on writing.
+Definition: What happened in 1593?
+
+Term: He became a shareholder in an acting company.
+Definition: What happened in 1594?
+
+Term: The company changed its name to The King's Men.
+Definition: What happened in 1603?
+
+Term: On his birthday in 1616.
+Definition: When did he die?
+
+Term: John Shakespeare
+Definition: What was his father's name?
+
+Term: Mary Arden
+Definition: Who was his mother?
+
+Term: Anne Hathaway
+Definition: Who was his wife?
+
+Term: Susanna, Judit, and Hammet.
+Definition: What were his children's names?
+
+Term: King Edward VI Grammar School
+Definition: What was the name of his school?
+
+Term: Latin, classical literature, grammar, logic, rhetoric, arithmetic and astronomy.
+Definition: What did Shakespeare study?
+
+Term: His father was having financial difficulties.
+Definition: Why didn't he attend the university?
+
+Term: His second-best bed.
+Definition: What did he leave his wife?
+
+Term: Two narrative poems, thirty-eight plays, and one hundred and fifty-four sonnets.
+Definition: What did he leave the world?
+
+Term: He is widely known as the greatest poet from that country.
+Definition: Why was he called "The Bard"?
+
+Term: "He was not of an age, but for all time."
+Definition: What did Ben Johnson say about him?
+
+Term: From 1558 to 1603.
+Definition: When did Queen Elizabeth reign?
+
+Term: England was bankrupt and in constant state of religious upheaval, as the Protestants and Catholics battled for religious control.
+Definition: What problems did she have?
+
+Term: England became Protestant again, and they enjoyed a period of prosperity. England also experienced a revolution in education and literacy.
+Definition: How did England flourish under her?
+
+Term: There were no sewage systems and waste was dumped out of windows It was a very unsanitary time. The disease was carried from fleas who migrated on rats. Outbreaks would kill thousands.
+Definition: What did the Black Death cause?
+
+Term: The theatre was very popular, and so were dances and feasts, cock flights and public executions. The higher classes did fencing and hunting. All classes enjoyed bear baiting. Thursdays were popular days for bear baiting.
+Definition: What did they do for entertainment purposes?
+
+Term: A fourteen line poem written in iambic pentameter.
+Definition: Sonnet
+
+Term: 154
+Definition: How many sonnets did Shakespeare write?
+
+Term: A line of a verse with five metrical feet.
+Definition: Iambic pentameter
+
+Term: The First Folio
+Definition: What was his first collection of works called?
+
+Term: He introduced 1700 new words into the English language.
+Definition: His contribution to language
+
+Term: He wrote many many different styles of plays.
+Definition: His plays
+
+Term: 38
+Definition: He wrote how many?
+
+Term: Tragedies, comedies, and histories.
+Definition: What types of plays did he write?
+
+Term: ...
+Definition: Hamlet was a tragedy, A Midsummer Night's Dream was a comedy, and Richard II was a history.
+
+Term: t was made up of all social classes. The groundlings would talk through performances and throw food at the actors. The rich, in seats, were protected from the rowdiness of the crowd.
+Definition: Shakespeare's audience
+
+Term: The main stage was five feet high. At the bottom was the pit where the groundlings would stand. The next three levels were for the wealthier people who would pay two pennies to sit there.It was later rebuilt to replace the straw roof with tiles.
+Definition: The Globe
+
+Term: From 1593 to 1608 the theatres were closed because of the Plague.
+Definition: The Plague
+
+Term: He worked as a writer, actor, and theatre manager for most of his career. When King James took the throne they were known as The King's Men.
+Definition: His acting company
+
+Term: work
+Definition: Werke (z.B in der Literatur)
+
+Term: achievements
+Definition: Errungenschaften / Leistungen
+
+Term: (to) be inspired by sth.
+Definition: von etw. inspiriert sein
+
+Term: (to) coin
+Definition: prägen, hervorbringen
+
+Term: (to) be gifted
+Definition: talentiert sein
+
+Term: (to) be rated as
+Definition: gelten als
+
+Term: (to) borrow
+Definition: leihen, übernehmen
+
+Term: (to) perform/produce a play
+Definition: ein Theaterstück aufführen
+
+Term: genius
+Definition: Genie
+
+Term: playwright
+Definition: Dramatiker
+
+Term: play
+Definition: Drama / Theaterstück
+
+Term: poet
+Definition: Dichter
+
+Term: poetry
+Definition: Dichtkunst
+
+Term: history
+Definition: Historiendrama
+
+Term: tragedy
+Definition: Tragödie
+
+Term: comedy
+Definition: Komödie
+
+Term: sonnet
+Definition: Sonnet (Gedichtform)
+
+Term: (to) publish
+Definition: veröffentlichen
+
+Term: (to) retire
+Definition: aufgeben / sich zurückziehen
+
+Term: bawdy language
+Definition: derbe Sprache
+
+Term: antiquated
+Definition: veraltet
+
+Term: timeless
+Definition: zeitlos
+
+Term: theme
+Definition: Thema
+
+Term: ambition
+Definition: Ehrgeiz
+
+Term: revenge
+Definition: Rache
+
