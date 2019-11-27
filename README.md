@@ -3,7 +3,7 @@
 # Academic Team Special Categories
 Web Scaper and PDF Creator used to help the FHS Academic Team.
 
-![Screenshot](imgs/screenshot.png)
+![Screenshot](images/screenshot.png)
 
 ## Motivation
 With our team growing in size, Ms. Strakonsky, our Academic Team Coach, asked us to write some questions for special category rounds, which are rounds during each match with questions set aside simply for a certain topic. This year, the topics ranged from anything to Star Wars to World War II.
