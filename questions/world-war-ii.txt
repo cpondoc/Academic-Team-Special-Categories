@@ -127,95 +127,311 @@ Definition: Victory in Japan (August 6, 1945)
 Term: The United Nation
 Definition: was establish to create world peace
 
+Term: Fascism
+Definition: A political movement that promotes an extreme form of nationalism, a denial of individual rights, and a dictatorial one-party rule.
+
+Term: Totalitarianism
+Definition: A political system in which the government has total control over the lives of individual citizens.
+
+Term: Dictator
+Definition: A ruler who has complete power over a country
+
+Term: Nazism
+Definition: Adolf Hitler used fascism to create this type of government based on totalitarian ideas and was used to unite Germany during the 1930s. Promoted nationalism, racism, "living space", and removing all opposition.
+
 Term: Appeasement
-Definition: A policy of making concessions to an aggressor in the hopes of avoiding war. Associated with Britain's Prime Minister Neville Chamberlain's policy of making concessions to Adolf Hitler when Hitler was building up his military and taking back lands lost after WW1.
+Definition: Accepting demands in order to avoid conflict
 
 Term: Axis Powers
-Definition: Alliance of Germany, Italy, Japan
+Definition: Germany, Italy, Japan
 
 Term: Allied Powers
-Definition: Alliance of Great Britain, Soviet Union, United States, and France during World War II.
+Definition: Alliance of Great Britain, Soviet Union, United States, France, and China during World War II.
 
 Term: Invasion of Poland
-Definition: Germany invaded them, breaking their agreement, so Britain and France declared war, starting World War II
+Definition: Germany invaded, breaking their agreement, so Britain and France declared war, starting World War II
 
 Term: Adolf Hitler
 Definition: German Nazi dictator during World War II (1889-1945), Nazi leader and founder; had over 6 million Jews assassinated during the Holocaust
 
 Term: Benito Mussolini
-Definition: Italian fascist dictator (1883-1945)
+Definition: (1883-1945) Italian politician who led the National Fascist Party and created Fascism
 
 Term: Joseph Stalin
 Definition: Bolshevik revolutionary, head of the Soviet Communists after 1924, and dictator of the Soviet Union from 1928 to 1953. He led the Soviet Union with an iron fist, using Five-Year Plans to increase industrial production and terror to crush opposition
 
 Term: The Battle of Britain
-Definition: Is the name given to the air campaign waged by the German Air Force (Luftwaffe) against the United Kingdom during the summer and autumn of 1940. The objective of the campaign was to gain air superiority over the Royal Air Force (RAF).
+Definition: For 63 straight nights, the German Luftwaffe bombed London and other places in the U.K.
+
+Term: Lend Lease Policy
+Definition: Lending, leading, and renting of war goods to the nations fighting the axis powers
 
 Term: Pearl Harbor
-Definition: 7:50-10:00 AM, December 7, 1941 - Surprise attack by the Japanese on the main U.S. Pacific Fleet stationed in Pearl Harbor, Hawaii destroyed 18 U.S. ships and 200 aircraft. American losses were over 2,000, Japanese losses less than 100. In response, the U.S. declared war on Japan. Germany then declared war on the U.S in which we then declared war on them officially bringing the U.S. into WW2.
+Definition: 7:50-10:00 AM, December 7, 1941 - Surprise attack by the Japanese on the main U.S. Pacific Fleet harbored in Pearl Harbor, Hawaii destroyed 18 U.S. ships and 200 aircraft. American losses were 3000, Japanese losses less than 100. In response, the U.S. declared war on Japan and Germany, entering World War II.
 
-Term: War Bonds
-Definition: Short-term loans that individual citizens made to the government that financed two-thirds of the war's cost. Also known as Series Bonds.
-
-Term: The Pacific Front
-Definition: The war in the Pacific, most islands were involved, Japan tried to take these islands and sent 65 bombing raids all the way to , ofAustralia.
+Term: The Pacific Theater
+Definition: The war in the Pacific, most islands were involved, Japan tried to take these islands and sent 65 bombing raids all the way to Australia.
 
 Term: The Holocaust
 Definition: The Holocaust took place in Europe between 1933 and 1945. Six million Jews were systematically and brutally murdered by the Nazis and their collaberators. Miliions of non-Jews, including Roma and Sinti(Gypsies), Serbs, political dissidents, people with disabilities, homosexuals and Jehova's Witnesses, were also persecuted by the Nazis.
 
+Term: Bataan Death March
+Definition: Japanese forced about 60,000 of americans and philippines to march 100 miles with little food and water, most died or were killed on the way
+
+Term: Island Hopping
+Definition: A military strategy used during World War II that involved selectively attacking specific enemy-held islands and bypassing others
+
+Term: The Manhattan Project
+Definition: A secret research and development project of the US to develop the atomic bomb. Its success granted the US the bombs that ended the war with Japan as well as ushering the country into the atomic era
+
 Term: Nagasaki
-Definition: Japanese city devastated during World War II when the United States dropped the second atomic bomb (Fat Man) on Aug 8th, 1945.
+Definition: Japanese city devastated during World War II when the United States dropped the second atomic bomb on Aug 8th, 1945.
 
 Term: Hiroshima
-Definition: City in Japan, the first to be destroyed by an atomic bomb (Little Boy), on August 6, 1945. The bombing hastened the end of World War II.
+Definition: City in Japan, the first to be destroyed by an atomic bomb, on August 6, 1945. The bombing hastened the end of World War II.
 
-Term: D-Day
-Definition: (FDR) , June 6, 1944, 160,000 Allied troops landed along a 50-mile stretch of heavily-fortified French coastline (Operation Neptune) to fight Nazi Germany on the beaches of Normandy, France. General Dwight D. Eisenhower called the operation a crusade in which "we will accept nothing less than full victory." More than 5,000 Ships and 13,000 aircraft supported the D-Day invasion, and by day's end on June 6, the Allies gained a foothold in Normandy (Operation Overlord). The 5 locations were Juno, Omaha, Utah, Gold, Sword
+Term: Winston Churchill
+Definition: A noted British statesman who led Britain throughout most of World War II and along with Roosevelt planned many allied campaigns. He predicted an iron curtain that would separate Communist Europe from the rest of the West.
 
 Term: Concentration Camps
 Definition: prison camps used under the rule of Hitler in Nazi Germany. Conditions were inhuman, and prisoners, mostly Jewish people, were generally starved or worked to death, or killed immediately.
 
-Term: Rosie the Riveter
-Definition: A propaganda character designed to increase employment of female workers in the factories. It became a rallying symbol for women to do their part.
-
-Term: Propaganda
-Definition: Ideas spread to influence public opinion for or against a cause.
-
 Term: General Dwight Eisenhower
-Definition: Supreme Allied Commander in Europe. Led the allied invasion of North Africa and planned and executed the D-Day invasion at Normandy (Operation Overlord) (Operation Neptune) and the Battle of the Bulge in Europe.
+Definition: Led the allied invasion of North Africa and planned and executed the D-Day invasion at Normandy and the battle of the budge; Supreme Allied Commander in Europe.
+
+Term: General Douglas MacArthur
+Definition: He was one of the most-known American military leaders of WW2 (He liberated the Philippines and made the Japanese surrender at Tokyo in 1945, also he drove back North Korean invaders during the Korean War); developed strategy of "island-hopping".
 
 Term: Harry Truman
-Definition: Became president when FDR died; gave the order to drop the atomic bomb as opposed to a land invasion of Japan that may cost the U.S over 200,000 soldier's lives.
+Definition: Became president when FDR died; gave the order to drop the atomic bomb
 
-Term: Internment Camps
-Definition: Detention centers, primarily on the W.Coast of the U.S., where more than 100,000 Japanese Americans were relocated during World War II by Executive Order 9066 of the President.
+Term: Death Camps
+Definition: camps used under the rule of Hitler in Nazi Germany for the purpose of killing prisoners immediately.
 
-Term: FDR
-Definition: 32nd President of the United States; elected 4 times; instituted New Deal 1&amp;2 to counter the Great Depression and led the country during World War II. He died shortly into his 4th term and his VP Harry Truman assumed the presidency.
+Term: Kristallnacht
+Definition: (Night of the Broken Glass) November 9, 1938, when mobs throughout Germany destroyed Jewish property and terrorized Jews.
 
-Term: Draft
-Definition: In September 16, 1940, the United States instituted the Selective Training and Service Act of 1940, which required all men between the ages of 21 and 45 to register for the draft.
+Term: Anti Semitism
+Definition: hatred towards Jews
 
-Term: Feb 1945 Yalta Conference
-Definition: FDR, Churchill and Stalin met at Yalta Russia as WW2 was coming to an end. Stalin agreed to declare war on Japan 90 days after the surrender of Germany and in return FDR and Churchill promised the USSR concessions in Manchuria and the territories that it had lost in the Russo-Japanese War. All parties secretly agreed to let Emperor Hirohito remain as Emperor even though all demanded "unconditional surrender" by Japan.
+Term: Franklin Deleno Roosevelt
+Definition: Leader of the United States during the Great Depression and World War 2.
 
-Term: Berlin airlift
-Definition: A military operation in the late 1940s that brought food and other needed goods into West Berlin by air after the government of East Germany, which at that time surrounded West Berlin ( see Berlin wall ), had cut off its supply routes.
+Term: Hideki Tojo
+Definition: • Military Leader of Japan during World War 2.
 
-Term: NATO, the North Atlantic Treaty Organization
-Definition: is a military alliance of European and North American democracies founded after World War II to strengthen international ties between member states—especially the United States and Europe—and to serve as a counter-balance to the Soviet Union and the Warsaw Pact that was formed by communist countries in response to NATO.
+Term: League of Nations
+Definition: A global association formed in 1919 to promote peace. It was later replaced by the United Nations in 1945
 
-Term: Iron curtain
-Definition: A term popularized by British Prime Minister Winston Churchill to describe the Soviet Union's policy of isolation during the Cold War. The Iron Curtain isolated Eastern Europe from the rest of the world. Its most poignant symbol was the Berlin Wall.
+Term: Blitzkreig
+Definition: "Lighting Wars" type of fast-moving warfare used by German forces against Poland in 1939
 
-Term: cold war
-Definition: a state of political hostility between countries characterized by threats, propaganda, and other measures short of open warfare, in particular. (1945-1991) The period after WW2 marked by rivalry and tension between the two nuclear superpowers, the democratic gov't USA and the communist government Soviet Union - USSR. The Cold War ended when the Soviet government collapsed in 1991.
+Term: Nonagression Pact
+Definition: a pact between Germany and the USSR saying,"You don't mess with me i won't mess with you."
 
-Term: Officially ended the Great Depression
-Definition: Full Employment due to mobilization of the economy for WW2
+Term: Battle of Stalingrad
+Definition: Decisive battle in German invasion of Russia, the Germans were surrounded and systemically destroyed
 
-Term: July 1945 Potsdam Conference
-Definition: PostWar Official meeting of Churchill, Truman &amp; Stalin to divide up &amp; begin reconstruction of Germany. It also laid out the terms for Japanese surrender.
+Term: Hitler's Final Solution
+Definition: The answer to "The Jewish Question". It was a mass murder of all Jews. He set up extermination camps and forced millions of Jews to enter gas chamber, ovens, and fire pits.
+
+Term: D Day
+Definition: June 6, 1944 - Led by Eisenhower, over a million troops (the largest invasion force in history) stormed the beaches at Normandy and began the process of re-taking France. The turning point of World War II.`
+
+Term: V J Day
+Definition: "Victory over Japan day" is the celebration of the Surrender of Japan, which was initially announced on August 15, 1945
+
+Term: V E Day
+Definition: May 8, 1945; victory in Europe Day when the Germans surrendered
+
+Term: Yalta Conference
+Definition: 1945 Meeting with US president FDR, British Prime Minister(PM) Winston Churchill, and and Soviet Leader Stalin during WWII to plan for post-war
+
+Term: Nuremberg Trials
+Definition: A series of court proceedings held in Nuremberg, Germany, after World War II, in which Nazi leaders were tried for aggression, violations of the rules of war, and crimes against humanity.
+
+Term: Battle of Midway
+Definition: Turning point of the War in the Pacific because it ended the Japanese advance in the Pacific
+
+Term: Iwo Jima
+Definition: Bloodiest Marine battle in history. Victory provided an island close to Japan where the B-29 could refuel.
+
+Term: Oppenheimer
+Definition: "father of the atomic bomb" lead the Manhattan Project and developed atomic bomb
+
+Term: Kamikaze
+Definition: Japanese suicide pilots
+
+Term: Battle of the Bulge
+Definition: Final large-scale attack by German troops that was forced back by the Allies
+
+Term: Fascist Italy
+Definition: Led by Benito Mussolini. On Oct. 13, 1943, one month after Italy surrendered to Allied forces, it declared war on Nazi Germany, its onetime Axis powers partner.
+
+Term: Munich Pact
+Definition: 1938, official appeasement between Britain and Berlin, Hitler says he won't conquer anyone else
+
+Term: Quarantine Speech
+Definition: FDR's call to isolate aggressors through economic embargoes (Japan)
+
+Term: Four Freedoms Speech
+Definition: the speech in which FDR shared his vision of what the troops would be fighting for (Freedom: of speech, of worship, from want, from fear)
+
+Term: Korematsu vs. US
+Definition: Supreme Court Case ruled that the internment of these Japanese Americans was constitutional
+
+Term: Women's Army Corps (WACs)
+Definition: U.S. army unit created during WW2 to enable women to serve in noncombat positions
+
+Term: GI Bill
+Definition: law passed in 1944 to help returning veterans buy homes and pay for higher educations
+
+Term: War bonds
+Definition: A low interest loan by civilians to the government used to fund the war effort
+
+Term: Rosie the Riveter
+Definition: symbol of American women who went to work in factories during the war
+
+Term: Baby boom
+Definition: the larger than expected generation in United States born shortly after World War II
+
+Term: Rationing
+Definition: A system of allocating scarce goods and services using criteria other than price
+
+Term: Cash and carry
+Definition: Britain and France could buy goods from the United States if they paid in full and transported them
+
+Term: Big Three
+Definition: allies during WWII; Soviet Union - Stalin, United Kingdom - Churchill, United States - Roosevelt
+
+Term: Two-Front War
+Definition: when Germany had to fight two different countries from the East and the West
+
+Term: Kamikaze
+Definition: Japanese suicide pilots who loaded their planes with explosives and crashed them into American ships.
+
+Term: Battle of the Bulge
+Definition: December, 1944-January, 1945 - After recapturing France, the Allied advance became stalled along the German border. In the winter of 1944, Germany staged a massive counterattack in Belgium and Luxembourg which pushed a 30 mile "bulge" into the Allied lines. The Allies stopped the German advance and threw them back across the Rhine with heavy losses.
+
+Term: D-Day (Battle of Normandy)
+Definition: June 6 1944. Allied troops execute a surprise attack on the beaches of Normandy, France.
+
+Term: Battle of Stalingrad
+Definition: Unsuccessful German attack on the city of Stalingrad during World War II from 1942 to 1943, that was the furthest extent of German advance into the Soviet Union.
+
+Term: Genocide
+Definition: Deliberate extermination of a racial or cultural group
+
+Term: Final Solution
+Definition: Hitler's program of systematically killing the entire Jewish people
+
+Term: Ghettos
+Definition: City neighborhoods in which European Jews were forced to live
+
+Term: Aryans
+Definition: Germanic people seen as the master race
+
+Term: Holocaust
+Definition: A methodical plan orchestrated by Hitler to ensure German supremacy. It called for the elimination of Jews, non-conformists, homosexuals, non-Aryans, and mentally and physically disabled.
+
+Term: Kristallnacht
+Definition: (Night of the Broken Glass) November 9, 1938, when mobs throughout Germany destroyed Jewish property and terrorized Jews.
+
+Term: Battle of Guadalcanal
+Definition: (1942-1943) World War II battle in the Pacific; it represented the first Allied counter-attack against Japanese forces; Allied victory forced Japanese forces to abandon the island
+
+Term: Douglas MacArthur
+Definition: (1880-1964), U.S. general. Commander of U.S. (later Allied) forces in the southwestern Pacific during World War II, he accepted Japan's surrender in 1945 and administered the ensuing Allied occupation. He was in charge of UN forces in Korea 1950-51, before being forced to relinquish command by President Truman.
+
+Term: Battle of Midway
+Definition: U.S. naval victory over the Japanese fleet in June 1942, in which the Japanese lost four of their best aircraft carriers. It marked a turning point in World War II.
+
+Term: Pearl Harbor
+Definition: 7:50-10:00 AM, December 7, 1941 - Surprise attack by the Japanese on the main U.S. Pacific Fleet harbored in Pearl Harbor, Hawaii destroyed 18 U.S. ships and 200 aircraft. American losses were 3000, Japanese losses less than 100. In response, the U.S. declared war on Japan and Germany, entering World War II.
+
+Term: Battle of Britain
+Definition: An aerial battle fought in World War II in 1940 between the German Luftwaffe (air force), which carried out extensive bombing in Britain, and the British Royal Air Force, which offered successful resistance.
+
+Term: Franklin D. Roosevelt
+Definition: 32nd US President - He began New Deal programs to help the nation out of the Great Depression, and he was the nation's leader during most of WWII
+
+Term: Winston Churchill
+Definition: A noted British statesman who led Britain throughout most of World War II and along with Roosevelt planned many allied campaigns. He predicted an iron curtain that would separate Communist Europe from the rest of the West.
+
+Term: Blitzkrieg
+Definition: "Lighting war", typed of fast-moving warfare used by German forces against Poland in 1939
+
+Term: Third Reich
+Definition: The Third Republic of Germany which began Hitler's rule in 1933 and ended with his defeat in 1945
+
+Term: Axis Powers
+Definition: Germany, Italy, and Japan
+
+Term: Appeasement
+Definition: Accepting demands in order to avoid conflict
+
+Term: Nazism
+Definition: National socialism. In practice a far-right wing ideology (with some left-wing influences) that was based largely on racism and ultra-nationalism.
+
+Term: Adolf Hitler
+Definition: Austrian-born founder of the German Nazi Party and chancellor of the Third Reich (1933-1945). His fascist philosophy, embodied in Mein Kampf (1925-1927), attracted widespread support, and after 1934 he ruled as an absolute dictator. Hitler's pursuit of aggressive nationalist policies resulted in the invasion of Poland (1939) and the subsequent outbreak of World War II. His regime was infamous for the extermination of millions of people, especially European Jews. He committed suicide when the collapse of the Third Reich was imminent (1945).
+
+Term: Benito Mussolini
+Definition: (1883-1945) Italian leader. He founded the Italian Fascist Party, and sided with Hitler and Germany in World War II. In 1945 he was overthrown and assassinated by the Italian Resistance.
+
+Term: Fascism
+Definition: Extreme nationalism focused on mainly military power to control the people. It is also based on militaristic ideals of "courage, unquestioning obedience to authority, discipline, and physical strength."
+
+Term: Allied Powers
+Definition: Alliance of Great Britain, Soviet Union, United States, and France during World War II.
+
+Term: Rosie the Riveter
+Definition: Cultural Icon of the U.S representing the American women who worked in factories during WWII
+
+Term: Rationing
+Definition: Taking items that are in short supply and distributing them according to a system. For instance, during World War II, gas, sugar, and butter were a few of the items rationed in the United States.
+
+Term: Battle of Iwo Jima
+Definition: lasted 6 weeks, several thousand marines, and more than 20,000 Japanese soldiers were killed, this battle is also notable for the famous photograph of US marines lifting the American flag to a standpoint
+
+Term: Island Hopping
+Definition: A military strategy used during World War II that involved selectively attacking specific enemy-held islands and bypassing others
+
+Term: Concentration Camp
+Definition: prison camps used under the rule of Hitler in Nazi Germany. Conditions were inhuman, and prisoners, mostly Jewish people, were generally starved or worked to death, or killed immediately.
+
+Term: Executive Order 9066
+Definition: 2/19/42; 112,000 Japanese-Americans forced into camps causing loss of homes &amp; businesses, 600K more renounced citizenship; demonstrated fear of Japanese invasion
+
+Term: Interment Camps
+Definition: Detention centers where Japanese Americans were relocated after Pearl Harbor
+
+Term: Democratization
+Definition: A process of transition as a country attempts to move from an authoritarian form of government to a democratic one
+
+Term: Erwin Rommel
+Definition: The Desert Fox. Commander of the Axis forces in North Africa. Led a shattering defeat of Allied forces.
+
+Term: Nonaggression pact
+Definition: 1939-Secret agreement between German leader Hitler and Soviet Leader Stalin not to attack one another and to divide Poland
+
+Term: Hiroshima and Nagasaki
+Definition: Two Japanese cities on which the U.S. dropped the atomic bombs to end World War II.
+
+Term: Demilitarization
+Definition: Under General MacArthur, he ordered to disband the Japanese armed forces in order to ensure peace. This left Japan with a small police force.
+
+Term: Nuremberg Trials
+Definition: In 1945 conducted by an International Military Court in which former Nazi leaders were charged with crimes against peace, crimes against humanity, and war crimes
+
+Term: Enola Gay
+Definition: American plane that dropped the first atomic bomb
+
+Term: Isoroku Yamamoto
+Definition: Chief Japanese admiral during World War II; masterminded the Pearl Harbor attack
+
+Term: emigration
+Definition: the act of leaving one's own country to settle permanently in another; moving abroad.
 
 Term: APPEASEMENT
 Definition: TO GIVE INTO AN AGGRESSOR
@@ -427,291 +643,6 @@ Definition: Nazis fail to defeat USSR b/c of winter
 Term: Totalitarianism
 Definition: A form of government in which the ruler is an absolute dictator
 
-Term: Fascism
-Definition: A political movement that promotes an extreme form of nationalism, a denial of individual rights, and a dictatorial one-party rule.
-
-Term: Totalitarianism
-Definition: A political system in which the government has total control over the lives of individual citizens.
-
-Term: Dictator
-Definition: A ruler who has complete power over a country
-
-Term: Nazism
-Definition: Adolf Hitler used fascism to create this type of government based on totalitarian ideas and was used to unite Germany during the 1930s. Promoted nationalism, racism, "living space", and removing all opposition.
-
-Term: Appeasement
-Definition: Accepting demands in order to avoid conflict
-
-Term: Axis Powers
-Definition: Germany, Italy, Japan
-
-Term: Allied Powers
-Definition: Alliance of Great Britain, Soviet Union, United States, France, and China during World War II.
-
-Term: Invasion of Poland
-Definition: Germany invaded, breaking their agreement, so Britain and France declared war, starting World War II
-
-Term: Adolf Hitler
-Definition: German Nazi dictator during World War II (1889-1945), Nazi leader and founder; had over 6 million Jews assassinated during the Holocaust
-
-Term: Benito Mussolini
-Definition: (1883-1945) Italian politician who led the National Fascist Party and created Fascism
-
-Term: Joseph Stalin
-Definition: Bolshevik revolutionary, head of the Soviet Communists after 1924, and dictator of the Soviet Union from 1928 to 1953. He led the Soviet Union with an iron fist, using Five-Year Plans to increase industrial production and terror to crush opposition
-
-Term: The Battle of Britain
-Definition: For 63 straight nights, the German Luftwaffe bombed London and other places in the U.K.
-
-Term: Lend Lease Policy
-Definition: Lending, leading, and renting of war goods to the nations fighting the axis powers
-
-Term: Pearl Harbor
-Definition: 7:50-10:00 AM, December 7, 1941 - Surprise attack by the Japanese on the main U.S. Pacific Fleet harbored in Pearl Harbor, Hawaii destroyed 18 U.S. ships and 200 aircraft. American losses were 3000, Japanese losses less than 100. In response, the U.S. declared war on Japan and Germany, entering World War II.
-
-Term: The Pacific Theater
-Definition: The war in the Pacific, most islands were involved, Japan tried to take these islands and sent 65 bombing raids all the way to Australia.
-
-Term: The Holocaust
-Definition: The Holocaust took place in Europe between 1933 and 1945. Six million Jews were systematically and brutally murdered by the Nazis and their collaberators. Miliions of non-Jews, including Roma and Sinti(Gypsies), Serbs, political dissidents, people with disabilities, homosexuals and Jehova's Witnesses, were also persecuted by the Nazis.
-
-Term: Bataan Death March
-Definition: Japanese forced about 60,000 of americans and philippines to march 100 miles with little food and water, most died or were killed on the way
-
-Term: Island Hopping
-Definition: A military strategy used during World War II that involved selectively attacking specific enemy-held islands and bypassing others
-
-Term: The Manhattan Project
-Definition: A secret research and development project of the US to develop the atomic bomb. Its success granted the US the bombs that ended the war with Japan as well as ushering the country into the atomic era
-
-Term: Nagasaki
-Definition: Japanese city devastated during World War II when the United States dropped the second atomic bomb on Aug 8th, 1945.
-
-Term: Hiroshima
-Definition: City in Japan, the first to be destroyed by an atomic bomb, on August 6, 1945. The bombing hastened the end of World War II.
-
-Term: Winston Churchill
-Definition: A noted British statesman who led Britain throughout most of World War II and along with Roosevelt planned many allied campaigns. He predicted an iron curtain that would separate Communist Europe from the rest of the West.
-
-Term: Concentration Camps
-Definition: prison camps used under the rule of Hitler in Nazi Germany. Conditions were inhuman, and prisoners, mostly Jewish people, were generally starved or worked to death, or killed immediately.
-
-Term: General Dwight Eisenhower
-Definition: Led the allied invasion of North Africa and planned and executed the D-Day invasion at Normandy and the battle of the budge; Supreme Allied Commander in Europe.
-
-Term: General Douglas MacArthur
-Definition: He was one of the most-known American military leaders of WW2 (He liberated the Philippines and made the Japanese surrender at Tokyo in 1945, also he drove back North Korean invaders during the Korean War); developed strategy of "island-hopping".
-
-Term: Harry Truman
-Definition: Became president when FDR died; gave the order to drop the atomic bomb
-
-Term: Death Camps
-Definition: camps used under the rule of Hitler in Nazi Germany for the purpose of killing prisoners immediately.
-
-Term: Kristallnacht
-Definition: (Night of the Broken Glass) November 9, 1938, when mobs throughout Germany destroyed Jewish property and terrorized Jews.
-
-Term: Anti Semitism
-Definition: hatred towards Jews
-
-Term: Franklin Deleno Roosevelt
-Definition: Leader of the United States during the Great Depression and World War 2.
-
-Term: Hideki Tojo
-Definition: • Military Leader of Japan during World War 2.
-
-Term: League of Nations
-Definition: A global association formed in 1919 to promote peace. It was later replaced by the United Nations in 1945
-
-Term: Blitzkreig
-Definition: "Lighting Wars" type of fast-moving warfare used by German forces against Poland in 1939
-
-Term: Nonagression Pact
-Definition: a pact between Germany and the USSR saying,"You don't mess with me i won't mess with you."
-
-Term: Battle of Stalingrad
-Definition: Decisive battle in German invasion of Russia, the Germans were surrounded and systemically destroyed
-
-Term: Hitler's Final Solution
-Definition: The answer to "The Jewish Question". It was a mass murder of all Jews. He set up extermination camps and forced millions of Jews to enter gas chamber, ovens, and fire pits.
-
-Term: D Day
-Definition: June 6, 1944 - Led by Eisenhower, over a million troops (the largest invasion force in history) stormed the beaches at Normandy and began the process of re-taking France. The turning point of World War II.`
-
-Term: V J Day
-Definition: "Victory over Japan day" is the celebration of the Surrender of Japan, which was initially announced on August 15, 1945
-
-Term: V E Day
-Definition: May 8, 1945; victory in Europe Day when the Germans surrendered
-
-Term: Yalta Conference
-Definition: 1945 Meeting with US president FDR, British Prime Minister(PM) Winston Churchill, and and Soviet Leader Stalin during WWII to plan for post-war
-
-Term: Nuremberg Trials
-Definition: A series of court proceedings held in Nuremberg, Germany, after World War II, in which Nazi leaders were tried for aggression, violations of the rules of war, and crimes against humanity.
-
-Term: Battle of Midway
-Definition: Turning point of the War in the Pacific because it ended the Japanese advance in the Pacific
-
-Term: Iwo Jima
-Definition: Bloodiest Marine battle in history. Victory provided an island close to Japan where the B-29 could refuel.
-
-Term: Oppenheimer
-Definition: "father of the atomic bomb" lead the Manhattan Project and developed atomic bomb
-
-Term: Kamikaze
-Definition: Japanese suicide pilots
-
-Term: Battle of the Bulge
-Definition: Final large-scale attack by German troops that was forced back by the Allies
-
-Term: Fascist Italy
-Definition: Led by Benito Mussolini. On Oct. 13, 1943, one month after Italy surrendered to Allied forces, it declared war on Nazi Germany, its onetime Axis powers partner.
-
-Term: Munich Pact
-Definition: 1938, official appeasement between Britain and Berlin, Hitler says he won't conquer anyone else
-
-Term: Quarantine Speech
-Definition: FDR's call to isolate aggressors through economic embargoes (Japan)
-
-Term: Four Freedoms Speech
-Definition: the speech in which FDR shared his vision of what the troops would be fighting for (Freedom: of speech, of worship, from want, from fear)
-
-Term: Korematsu vs. US
-Definition: Supreme Court Case ruled that the internment of these Japanese Americans was constitutional
-
-Term: Women's Army Corps (WACs)
-Definition: U.S. army unit created during WW2 to enable women to serve in noncombat positions
-
-Term: GI Bill
-Definition: law passed in 1944 to help returning veterans buy homes and pay for higher educations
-
-Term: War bonds
-Definition: A low interest loan by civilians to the government used to fund the war effort
-
-Term: Rosie the Riveter
-Definition: symbol of American women who went to work in factories during the war
-
-Term: Baby boom
-Definition: the larger than expected generation in United States born shortly after World War II
-
-Term: Rationing
-Definition: A system of allocating scarce goods and services using criteria other than price
-
-Term: Cash and carry
-Definition: Britain and France could buy goods from the United States if they paid in full and transported them
-
-Term: Big Three
-Definition: allies during WWII; Soviet Union - Stalin, United Kingdom - Churchill, United States - Roosevelt
-
-Term: Two-Front War
-Definition: when Germany had to fight two different countries from the East and the West
-
-Term: Absolutism
-Definition: A form of government characterized by strong central power and limited political freedoms. Individual freedoms are subordinate to the state and there is no constitutional accountability under an authoritarian regime.
-
-Term: totalitarianism
-Definition: A political concept where the state recognizes no limits to its authority and strives to regulate every aspect of public and private life wherever feasible.
-
-Term: dictator
-Definition: A political leader who possesses absolute power.
-
-Term: communism
-Definition: Political and economic doctrine that aims to replace private property and a profit-based economy with public ownership and communal control of at least the major means of production (e.g., mines, mills, and factories) and the natural resources of a society: practiced in the Soviet Union.
-
-Term: fascism
-Definition: A form of radical authoritarian nationalism, characterized by dictatorial power, forcible suppression of opposition and control of industry and commerce: practiced in Germany, Italy, and Spain.
-
-Term: political spectrum
-Definition: A system of classifying different political positions from Revolutionary on the left to Anarchy on the right.
-
-Term: New Economic Policy
-Definition: Lenin's economic policy in the Soviet Union from 1921 to 1928, representing a temporary retreat from its previous policy of extreme centralization and doctrinaire socialism
-
-Term: Joseph Stalin
-Definition: Under him, the Soviet Union was transformed from a peasant society into an industrial and military superpower. However, he ruled by terror, and millions of his own citizens died during his brutal reign.
-
-Term: Collectivization
-Definition: A policy of forced consolidation of individual peasant households into collective farms called "kolkhozes" as carried out by the Soviet government in the late 1920's - early 1930's.
-
-Term: Great Terror
-Definition: Also known as the Great Purge, this was marked by a period of extreme persecution and oppression in the Soviet Union during the late 1930s.
-
-Term: Gulags
-Definition: The government agency in charge of the Soviet forced labor camp system that was created under Vladimir Lenin and reached its peak during Joseph Stalin's rule from the 1930s to the 1950s.
-
-Term: Benito Mussolini
-Definition: Italian dictator (1883-1945) who rose to power in the wake of World War I as a leading proponent of Fascism. Originally a revolutionary Socialist, he forged the paramilitary Fascist movement in 1919 and became prime minister in 1922.
-
-Term: Corporate Economy(capitalism)
-Definition: Fascists opposed both international socialism and free market capitalism, arguing that their views represented a third position. They claimed to provide a realistic economic alternative that was neither laissez-faire capitalism nor communism.
-
-Term: Weimar Government
-Definition: Germany's government from 1919 to 1933, the period after World War I until the rise of Nazi Germany.
-
-Term: Adolf Hitler
-Definition: German politician who was the leader of the Nazi Party, Chancellor of Germany from 1933 to 1945 and Führer of Nazi Germany from 1934 to 1945.
-
-Term: Treaty of Versailles
-Definition: A treaty that was designed to end all wars actually ended up setting the stage for the worst one that the world has ever seen. Hitler was able to point to how "outsiders" sought to destroy Germany.
-
-Term: Anti-Semitism
-Definition: Hitler's hostility to, prejudice, and discrimination against Jews.
-
-Term: Nationalism
-Definition: The Nazi Party led by Hitler, believed in an extreme form of German nationalism. The first point of the Nazi 25-point program was that "We demand the unification of all Germans in the Greater Germany on the basis of the people's right to self-determination".
-
-Term: Fuhrer
-Definition: German word meaning "leader" or "guide". As a political title it is associated with the Nazi dictator Adolf Hitler.
-
-Term: Nazi
-Definition: The National Socialist German Workers' Party commonly referred to in English as the Nazi Party was a far-right political party in Germany that was active between 1920 and 1945
-
-Term: Kristallnacht
-Definition: On November 9 to November 10, 1938, Nazis in Germany torched synagogues, vandalized Jewish homes, schools and businesses and killed close to 100 Jews.
-
-Term: Appeasement
-Definition: A political policy of conceding to aggression by a warlike nation. Note: A classic example of appeasement is the Munich Pact of 1938, negotiated between Neville Chamberlain and Adolf Hitler.
-
-Term: Great Depression
-Definition: starting with collapse of the US stock market in 1929, period of worldwide economic stagnation and depression. Heavy borrowing by European nations from USA during WW1 contributed to instability in European economies. Sharp declines in income and production as buying and selling slowed down. Widespread unemployment, countries raised tariffs to protect their industries. America stopped investing in Europe. Lead to loss of confidence that economies were self adjusting, HH was blamed for it
-
-Term: Cash and Carry
-Definition: Britain and France could buy goods from the United States if they paid in full and transported them.
-
-Term: Lend-Lease Act
-Definition: The laws passed by the U.S. allowing us to give aid to our Allies in early WWII
-
-Term: Charles De Gaulle
-Definition: French general and statesman who became very popular during World War II as the leader of the Free French forces in exile (1890-1970)
-
-Term: Pearl Harbor
-Definition: 7:50-10:00 AM, December 7, 1941 - Surprise attack by the Japanese on the main U.S. Pacific Fleet harbored in Pearl Harbor, Hawaii destroyed 18 U.S. ships and 200 aircraft. American losses were 3000, Japanese losses less than 100. In response, the U.S. declared war on Japan and Germany, entering World War II.
-
-Term: Concentration Camps
-Definition: prison camps used under the rule of Hitler in Nazi Germany. Conditions were inhuman, and prisoners, mostly Jewish people, were generally starved or worked to death, or killed immediately.
-
-Term: Internment Camp
-Definition: relocation camps for Japanese-Americans during WWII Official government policy to "protect" the Japanese-Americans
-
-Term: Allied Powers
-Definition: Alliance of Great Britain, Soviet Union, United States, and France during World War II.
-
-Term: Axis Powers
-Definition: Alliance of Germany, Italy, and Japan during World War II.
-
-Term: Holocaust/Final Solution
-Definition: was Nazi Germany's plan during WWII to annihilate the Jewish people, the Holocaust- the destruction of Jewish communities in continental Europe. Massacres of about 1 million Jews.
-
-Term: Harry S. Truman (1945-1953)
-Definition: President after FDR passed; responsible for dropping the atomic bomb ending the war. Also, reelected in 1948 then desegregating the military.
-
-Term: Atomic bomb
-Definition: A weapon that produces tremendous power by splitting atoms (fission) of radioactive materials such as plutonium. Used by US on Japan seeking unconditional surrender.
-
-Term: American Home Front
-Definition: Women and Blacks take positions that men fighting left behind, propaganda used to get people to support war effort, gas and food rationed, USO volunteers and victory gardens all encouraged to support troops.
-
 Term: Appeasement
 Definition: A policy of making concessions to an aggressor in the hopes of avoiding war. Associated with Britain's Prime Minister Neville Chamberlain's policy of making concessions to Adolf Hitler when Hitler was building up his military and taking back lands lost after WW1.
 
@@ -876,6 +807,201 @@ Definition: Full Employment due to mobilization of the economy for WW2
 
 Term: July 1945 Potsdam Conference
 Definition: PostWar Official meeting of Churchill, Truman &amp; Stalin to divide up &amp; begin reconstruction of Germany. It also laid out the terms for Japanese surrender.
+
+Term: Appeasement
+Definition: A policy of making concessions to an aggressor in the hopes of avoiding war. Associated with Britain's Prime Minister Neville Chamberlain's policy of making concessions to Adolf Hitler when Hitler was building up his military and taking back lands lost after WW1.
+
+Term: Axis Powers
+Definition: Alliance of Germany, Italy, Japan
+
+Term: Allied Powers
+Definition: Alliance of Great Britain, Soviet Union, United States, and France during World War II.
+
+Term: Invasion of Poland
+Definition: Germany invaded them, breaking their agreement, so Britain and France declared war, starting World War II
+
+Term: Adolf Hitler
+Definition: German Nazi dictator during World War II (1889-1945), Nazi leader and founder; had over 6 million Jews assassinated during the Holocaust
+
+Term: Benito Mussolini
+Definition: Italian fascist dictator (1883-1945)
+
+Term: Joseph Stalin
+Definition: Bolshevik revolutionary, head of the Soviet Communists after 1924, and dictator of the Soviet Union from 1928 to 1953. He led the Soviet Union with an iron fist, using Five-Year Plans to increase industrial production and terror to crush opposition
+
+Term: The Battle of Britain
+Definition: Is the name given to the air campaign waged by the German Air Force (Luftwaffe) against the United Kingdom during the summer and autumn of 1940. The objective of the campaign was to gain air superiority over the Royal Air Force (RAF).
+
+Term: Pearl Harbor
+Definition: 7:50-10:00 AM, December 7, 1941 - Surprise attack by the Japanese on the main U.S. Pacific Fleet stationed in Pearl Harbor, Hawaii destroyed 18 U.S. ships and 200 aircraft. American losses were over 2,000, Japanese losses less than 100. In response, the U.S. declared war on Japan. Germany then declared war on the U.S in which we then declared war on them officially bringing the U.S. into WW2.
+
+Term: War Bonds
+Definition: Short-term loans that individual citizens made to the government that financed two-thirds of the war's cost. Also known as Series Bonds.
+
+Term: The Pacific Front
+Definition: The war in the Pacific, most islands were involved, Japan tried to take these islands and sent 65 bombing raids all the way to , ofAustralia.
+
+Term: The Holocaust
+Definition: The Holocaust took place in Europe between 1933 and 1945. Six million Jews were systematically and brutally murdered by the Nazis and their collaberators. Miliions of non-Jews, including Roma and Sinti(Gypsies), Serbs, political dissidents, people with disabilities, homosexuals and Jehova's Witnesses, were also persecuted by the Nazis.
+
+Term: Nagasaki
+Definition: Japanese city devastated during World War II when the United States dropped the second atomic bomb (Fat Man) on Aug 8th, 1945.
+
+Term: Hiroshima
+Definition: City in Japan, the first to be destroyed by an atomic bomb (Little Boy), on August 6, 1945. The bombing hastened the end of World War II.
+
+Term: D-Day
+Definition: (FDR) , June 6, 1944, 160,000 Allied troops landed along a 50-mile stretch of heavily-fortified French coastline (Operation Neptune) to fight Nazi Germany on the beaches of Normandy, France. General Dwight D. Eisenhower called the operation a crusade in which "we will accept nothing less than full victory." More than 5,000 Ships and 13,000 aircraft supported the D-Day invasion, and by day's end on June 6, the Allies gained a foothold in Normandy (Operation Overlord). The 5 locations were Juno, Omaha, Utah, Gold, Sword
+
+Term: Concentration Camps
+Definition: prison camps used under the rule of Hitler in Nazi Germany. Conditions were inhuman, and prisoners, mostly Jewish people, were generally starved or worked to death, or killed immediately.
+
+Term: Rosie the Riveter
+Definition: A propaganda character designed to increase employment of female workers in the factories. It became a rallying symbol for women to do their part.
+
+Term: Propaganda
+Definition: Ideas spread to influence public opinion for or against a cause.
+
+Term: General Dwight Eisenhower
+Definition: Supreme Allied Commander in Europe. Led the allied invasion of North Africa and planned and executed the D-Day invasion at Normandy (Operation Overlord) (Operation Neptune) and the Battle of the Bulge in Europe.
+
+Term: Harry Truman
+Definition: Became president when FDR died; gave the order to drop the atomic bomb as opposed to a land invasion of Japan that may cost the U.S over 200,000 soldier's lives.
+
+Term: Internment Camps
+Definition: Detention centers, primarily on the W.Coast of the U.S., where more than 100,000 Japanese Americans were relocated during World War II by Executive Order 9066 of the President.
+
+Term: FDR
+Definition: 32nd President of the United States; elected 4 times; instituted New Deal 1&amp;2 to counter the Great Depression and led the country during World War II. He died shortly into his 4th term and his VP Harry Truman assumed the presidency.
+
+Term: Draft
+Definition: In September 16, 1940, the United States instituted the Selective Training and Service Act of 1940, which required all men between the ages of 21 and 45 to register for the draft.
+
+Term: Feb 1945 Yalta Conference
+Definition: FDR, Churchill and Stalin met at Yalta Russia as WW2 was coming to an end. Stalin agreed to declare war on Japan 90 days after the surrender of Germany and in return FDR and Churchill promised the USSR concessions in Manchuria and the territories that it had lost in the Russo-Japanese War. All parties secretly agreed to let Emperor Hirohito remain as Emperor even though all demanded "unconditional surrender" by Japan.
+
+Term: Berlin airlift
+Definition: A military operation in the late 1940s that brought food and other needed goods into West Berlin by air after the government of East Germany, which at that time surrounded West Berlin ( see Berlin wall ), had cut off its supply routes.
+
+Term: NATO, the North Atlantic Treaty Organization
+Definition: is a military alliance of European and North American democracies founded after World War II to strengthen international ties between member states—especially the United States and Europe—and to serve as a counter-balance to the Soviet Union and the Warsaw Pact that was formed by communist countries in response to NATO.
+
+Term: Iron curtain
+Definition: A term popularized by British Prime Minister Winston Churchill to describe the Soviet Union's policy of isolation during the Cold War. The Iron Curtain isolated Eastern Europe from the rest of the world. Its most poignant symbol was the Berlin Wall.
+
+Term: cold war
+Definition: a state of political hostility between countries characterized by threats, propaganda, and other measures short of open warfare, in particular. (1945-1991) The period after WW2 marked by rivalry and tension between the two nuclear superpowers, the democratic gov't USA and the communist government Soviet Union - USSR. The Cold War ended when the Soviet government collapsed in 1991.
+
+Term: Officially ended the Great Depression
+Definition: Full Employment due to mobilization of the economy for WW2
+
+Term: July 1945 Potsdam Conference
+Definition: PostWar Official meeting of Churchill, Truman &amp; Stalin to divide up &amp; begin reconstruction of Germany. It also laid out the terms for Japanese surrender.
+
+Term: Absolutism
+Definition: A form of government characterized by strong central power and limited political freedoms. Individual freedoms are subordinate to the state and there is no constitutional accountability under an authoritarian regime.
+
+Term: totalitarianism
+Definition: A political concept where the state recognizes no limits to its authority and strives to regulate every aspect of public and private life wherever feasible.
+
+Term: dictator
+Definition: A political leader who possesses absolute power.
+
+Term: communism
+Definition: Political and economic doctrine that aims to replace private property and a profit-based economy with public ownership and communal control of at least the major means of production (e.g., mines, mills, and factories) and the natural resources of a society: practiced in the Soviet Union.
+
+Term: fascism
+Definition: A form of radical authoritarian nationalism, characterized by dictatorial power, forcible suppression of opposition and control of industry and commerce: practiced in Germany, Italy, and Spain.
+
+Term: political spectrum
+Definition: A system of classifying different political positions from Revolutionary on the left to Anarchy on the right.
+
+Term: New Economic Policy
+Definition: Lenin's economic policy in the Soviet Union from 1921 to 1928, representing a temporary retreat from its previous policy of extreme centralization and doctrinaire socialism
+
+Term: Joseph Stalin
+Definition: Under him, the Soviet Union was transformed from a peasant society into an industrial and military superpower. However, he ruled by terror, and millions of his own citizens died during his brutal reign.
+
+Term: Collectivization
+Definition: A policy of forced consolidation of individual peasant households into collective farms called "kolkhozes" as carried out by the Soviet government in the late 1920's - early 1930's.
+
+Term: Great Terror
+Definition: Also known as the Great Purge, this was marked by a period of extreme persecution and oppression in the Soviet Union during the late 1930s.
+
+Term: Gulags
+Definition: The government agency in charge of the Soviet forced labor camp system that was created under Vladimir Lenin and reached its peak during Joseph Stalin's rule from the 1930s to the 1950s.
+
+Term: Benito Mussolini
+Definition: Italian dictator (1883-1945) who rose to power in the wake of World War I as a leading proponent of Fascism. Originally a revolutionary Socialist, he forged the paramilitary Fascist movement in 1919 and became prime minister in 1922.
+
+Term: Corporate Economy(capitalism)
+Definition: Fascists opposed both international socialism and free market capitalism, arguing that their views represented a third position. They claimed to provide a realistic economic alternative that was neither laissez-faire capitalism nor communism.
+
+Term: Weimar Government
+Definition: Germany's government from 1919 to 1933, the period after World War I until the rise of Nazi Germany.
+
+Term: Adolf Hitler
+Definition: German politician who was the leader of the Nazi Party, Chancellor of Germany from 1933 to 1945 and Führer of Nazi Germany from 1934 to 1945.
+
+Term: Treaty of Versailles
+Definition: A treaty that was designed to end all wars actually ended up setting the stage for the worst one that the world has ever seen. Hitler was able to point to how "outsiders" sought to destroy Germany.
+
+Term: Anti-Semitism
+Definition: Hitler's hostility to, prejudice, and discrimination against Jews.
+
+Term: Nationalism
+Definition: The Nazi Party led by Hitler, believed in an extreme form of German nationalism. The first point of the Nazi 25-point program was that "We demand the unification of all Germans in the Greater Germany on the basis of the people's right to self-determination".
+
+Term: Fuhrer
+Definition: German word meaning "leader" or "guide". As a political title it is associated with the Nazi dictator Adolf Hitler.
+
+Term: Nazi
+Definition: The National Socialist German Workers' Party commonly referred to in English as the Nazi Party was a far-right political party in Germany that was active between 1920 and 1945
+
+Term: Kristallnacht
+Definition: On November 9 to November 10, 1938, Nazis in Germany torched synagogues, vandalized Jewish homes, schools and businesses and killed close to 100 Jews.
+
+Term: Appeasement
+Definition: A political policy of conceding to aggression by a warlike nation. Note: A classic example of appeasement is the Munich Pact of 1938, negotiated between Neville Chamberlain and Adolf Hitler.
+
+Term: Great Depression
+Definition: starting with collapse of the US stock market in 1929, period of worldwide economic stagnation and depression. Heavy borrowing by European nations from USA during WW1 contributed to instability in European economies. Sharp declines in income and production as buying and selling slowed down. Widespread unemployment, countries raised tariffs to protect their industries. America stopped investing in Europe. Lead to loss of confidence that economies were self adjusting, HH was blamed for it
+
+Term: Cash and Carry
+Definition: Britain and France could buy goods from the United States if they paid in full and transported them.
+
+Term: Lend-Lease Act
+Definition: The laws passed by the U.S. allowing us to give aid to our Allies in early WWII
+
+Term: Charles De Gaulle
+Definition: French general and statesman who became very popular during World War II as the leader of the Free French forces in exile (1890-1970)
+
+Term: Pearl Harbor
+Definition: 7:50-10:00 AM, December 7, 1941 - Surprise attack by the Japanese on the main U.S. Pacific Fleet harbored in Pearl Harbor, Hawaii destroyed 18 U.S. ships and 200 aircraft. American losses were 3000, Japanese losses less than 100. In response, the U.S. declared war on Japan and Germany, entering World War II.
+
+Term: Concentration Camps
+Definition: prison camps used under the rule of Hitler in Nazi Germany. Conditions were inhuman, and prisoners, mostly Jewish people, were generally starved or worked to death, or killed immediately.
+
+Term: Internment Camp
+Definition: relocation camps for Japanese-Americans during WWII Official government policy to "protect" the Japanese-Americans
+
+Term: Allied Powers
+Definition: Alliance of Great Britain, Soviet Union, United States, and France during World War II.
+
+Term: Axis Powers
+Definition: Alliance of Germany, Italy, and Japan during World War II.
+
+Term: Holocaust/Final Solution
+Definition: was Nazi Germany's plan during WWII to annihilate the Jewish people, the Holocaust- the destruction of Jewish communities in continental Europe. Massacres of about 1 million Jews.
+
+Term: Harry S. Truman (1945-1953)
+Definition: President after FDR passed; responsible for dropping the atomic bomb ending the war. Also, reelected in 1948 then desegregating the military.
+
+Term: Atomic bomb
+Definition: A weapon that produces tremendous power by splitting atoms (fission) of radioactive materials such as plutonium. Used by US on Japan seeking unconditional surrender.
+
+Term: American Home Front
+Definition: Women and Blacks take positions that men fighting left behind, propaganda used to get people to support war effort, gas and food rationed, USO volunteers and victory gardens all encouraged to support troops.
 
 Term: Fascism
 Definition: A political movement that promotes an extreme form of nationalism, a denial of individual rights, and a dictatorial one-party rule.
@@ -1111,131 +1237,182 @@ Definition: Nazi leaders were put on trial for crimes towards humanity.
 Term: The United Nation
 Definition: was establish to create world peace
 
-Term: Kamikaze
-Definition: Japanese suicide pilots who loaded their planes with explosives and crashed them into American ships.
-
-Term: Battle of the Bulge
-Definition: December, 1944-January, 1945 - After recapturing France, the Allied advance became stalled along the German border. In the winter of 1944, Germany staged a massive counterattack in Belgium and Luxembourg which pushed a 30 mile "bulge" into the Allied lines. The Allies stopped the German advance and threw them back across the Rhine with heavy losses.
-
-Term: D-Day (Battle of Normandy)
-Definition: June 6 1944. Allied troops execute a surprise attack on the beaches of Normandy, France.
-
-Term: Battle of Stalingrad
-Definition: Unsuccessful German attack on the city of Stalingrad during World War II from 1942 to 1943, that was the furthest extent of German advance into the Soviet Union.
-
-Term: Genocide
-Definition: Deliberate extermination of a racial or cultural group
-
-Term: Final Solution
-Definition: Hitler's program of systematically killing the entire Jewish people
-
-Term: Ghettos
-Definition: City neighborhoods in which European Jews were forced to live
-
-Term: Aryans
-Definition: Germanic people seen as the master race
-
-Term: Holocaust
-Definition: A methodical plan orchestrated by Hitler to ensure German supremacy. It called for the elimination of Jews, non-conformists, homosexuals, non-Aryans, and mentally and physically disabled.
-
-Term: Kristallnacht
-Definition: (Night of the Broken Glass) November 9, 1938, when mobs throughout Germany destroyed Jewish property and terrorized Jews.
-
-Term: Battle of Guadalcanal
-Definition: (1942-1943) World War II battle in the Pacific; it represented the first Allied counter-attack against Japanese forces; Allied victory forced Japanese forces to abandon the island
-
-Term: Douglas MacArthur
-Definition: (1880-1964), U.S. general. Commander of U.S. (later Allied) forces in the southwestern Pacific during World War II, he accepted Japan's surrender in 1945 and administered the ensuing Allied occupation. He was in charge of UN forces in Korea 1950-51, before being forced to relinquish command by President Truman.
-
-Term: Battle of Midway
-Definition: U.S. naval victory over the Japanese fleet in June 1942, in which the Japanese lost four of their best aircraft carriers. It marked a turning point in World War II.
-
-Term: Pearl Harbor
-Definition: 7:50-10:00 AM, December 7, 1941 - Surprise attack by the Japanese on the main U.S. Pacific Fleet harbored in Pearl Harbor, Hawaii destroyed 18 U.S. ships and 200 aircraft. American losses were 3000, Japanese losses less than 100. In response, the U.S. declared war on Japan and Germany, entering World War II.
-
-Term: Battle of Britain
-Definition: An aerial battle fought in World War II in 1940 between the German Luftwaffe (air force), which carried out extensive bombing in Britain, and the British Royal Air Force, which offered successful resistance.
-
-Term: Franklin D. Roosevelt
-Definition: 32nd US President - He began New Deal programs to help the nation out of the Great Depression, and he was the nation's leader during most of WWII
-
-Term: Winston Churchill
-Definition: A noted British statesman who led Britain throughout most of World War II and along with Roosevelt planned many allied campaigns. He predicted an iron curtain that would separate Communist Europe from the rest of the West.
-
-Term: Blitzkrieg
-Definition: "Lighting war", typed of fast-moving warfare used by German forces against Poland in 1939
-
-Term: Third Reich
-Definition: The Third Republic of Germany which began Hitler's rule in 1933 and ended with his defeat in 1945
+Term: Appeasement
+Definition: A policy of making concessions to an aggressor in the hopes of avoiding war. Associated with Britain's Prime Minister Neville Chamberlain's policy of making concessions to Adolf Hitler when Hitler was building up his military and taking back lands lost after WW1.
 
 Term: Axis Powers
-Definition: Germany, Italy, and Japan
-
-Term: Appeasement
-Definition: Accepting demands in order to avoid conflict
-
-Term: Nazism
-Definition: National socialism. In practice a far-right wing ideology (with some left-wing influences) that was based largely on racism and ultra-nationalism.
-
-Term: Adolf Hitler
-Definition: Austrian-born founder of the German Nazi Party and chancellor of the Third Reich (1933-1945). His fascist philosophy, embodied in Mein Kampf (1925-1927), attracted widespread support, and after 1934 he ruled as an absolute dictator. Hitler's pursuit of aggressive nationalist policies resulted in the invasion of Poland (1939) and the subsequent outbreak of World War II. His regime was infamous for the extermination of millions of people, especially European Jews. He committed suicide when the collapse of the Third Reich was imminent (1945).
-
-Term: Benito Mussolini
-Definition: (1883-1945) Italian leader. He founded the Italian Fascist Party, and sided with Hitler and Germany in World War II. In 1945 he was overthrown and assassinated by the Italian Resistance.
-
-Term: Fascism
-Definition: Extreme nationalism focused on mainly military power to control the people. It is also based on militaristic ideals of "courage, unquestioning obedience to authority, discipline, and physical strength."
+Definition: Alliance of Germany, Italy, Japan
 
 Term: Allied Powers
 Definition: Alliance of Great Britain, Soviet Union, United States, and France during World War II.
 
-Term: Rosie the Riveter
-Definition: Cultural Icon of the U.S representing the American women who worked in factories during WWII
+Term: Invasion of Poland
+Definition: Germany invaded them, breaking their agreement, so Britain and France declared war, starting World War II
 
-Term: Rationing
-Definition: Taking items that are in short supply and distributing them according to a system. For instance, during World War II, gas, sugar, and butter were a few of the items rationed in the United States.
+Term: Adolf Hitler
+Definition: German Nazi dictator during World War II (1889-1945), Nazi leader and founder; had over 6 million Jews assassinated during the Holocaust
 
-Term: Battle of Iwo Jima
-Definition: lasted 6 weeks, several thousand marines, and more than 20,000 Japanese soldiers were killed, this battle is also notable for the famous photograph of US marines lifting the American flag to a standpoint
+Term: Benito Mussolini
+Definition: Italian fascist dictator (1883-1945)
+
+Term: Joseph Stalin
+Definition: Bolshevik revolutionary, head of the Soviet Communists after 1924, and dictator of the Soviet Union from 1928 to 1953. He led the Soviet Union with an iron fist, using Five-Year Plans to increase industrial production and terror to crush opposition
+
+Term: The Battle of Britain
+Definition: Is the name given to the air campaign waged by the German Air Force (Luftwaffe) against the United Kingdom during the summer and autumn of 1940. The objective of the campaign was to gain air superiority over the Royal Air Force (RAF).
+
+Term: Cash &amp; Carry
+Definition: policy adopted by the United States in 1939 to preserve neutrality while aiding the Allies. Britain and France could buy goods from the United States if they paid in full and transported them.
+
+Term: Lend Lease Policy
+Definition: a law passed in 1941 that allowed the United States to ship arms and other supplies, without immediate payment, to nations fighting the Axis powers
+
+Term: Pearl Harbor
+Definition: 7:50-10:00 AM, December 7, 1941 - Surprise attack by the Japanese on the main U.S. Pacific Fleet stationed in Pearl Harbor, Hawaii destroyed 18 U.S. ships and 200 aircraft. American losses were over 2,000, Japanese losses less than 100. In response, the U.S. declared war on Japan. Germany then declared war on the U.S in which we then declared war on them officially bringing the U.S. into WW2.
+
+Term: War Bonds
+Definition: Short-term loans that individual citizens made to the government that financed two-thirds of the war's cost. Also known as Series Bonds.
+
+Term: The Pacific Theater
+Definition: The war in the Pacific, most islands were involved, Japan tried to take these islands and sent 65 bombing raids all the way to , ofAustralia.
+
+Term: The Holocaust
+Definition: The Holocaust took place in Europe between 1933 and 1945. Six million Jews were systematically and brutally murdered by the Nazis and their collaberators. Miliions of non-Jews, including Roma and Sinti(Gypsies), Serbs, political dissidents, people with disabilities, homosexuals and Jehova's Witnesses, were also persecuted by the Nazis.
 
 Term: Island Hopping
-Definition: A military strategy used during World War II that involved selectively attacking specific enemy-held islands and bypassing others
+Definition: A military strategy used during WW2 that involved attacking specific enemy-held islands and then quickly building air strips &amp; support structures to be used to "hop" to the next closest island to mainland Japan.
 
-Term: Concentration Camp
+Term: The Manhattan Project
+Definition: A secret research and development project of the US to develop the atomic bomb. Its success granted the US the bombs that ended the war with Japan as well as ushering the country into the atomic age
+
+Term: Nagasaki
+Definition: Japanese city devastated during World War II when the United States dropped the second atomic bomb (Fat Man) on Aug 8th, 1945.
+
+Term: Hiroshima
+Definition: City in Japan, the first to be destroyed by an atomic bomb (Little Boy), on August 6, 1945. The bombing hastened the end of World War II.
+
+Term: Neutrality Acts 1939
+Definition: Laws designed to keep the U.S. out of future wars
+
+Term: D-Day
+Definition: (FDR) , June 6, 1944, 160,000 Allied troops landed along a 50-mile stretch of heavily-fortified French coastline (Operation Neptune) to fight Nazi Germany on the beaches of Normandy, France. General Dwight D. Eisenhower called the operation a crusade in which "we will accept nothing less than full victory." More than 5,000 Ships and 13,000 aircraft supported the D-Day invasion, and by day's end on June 6, the Allies gained a foothold in Normandy (Operation Overlord). The 5 locations were Juno, Omaha, Utah, Gold, Sword
+
+Term: Concentration Camps
 Definition: prison camps used under the rule of Hitler in Nazi Germany. Conditions were inhuman, and prisoners, mostly Jewish people, were generally starved or worked to death, or killed immediately.
 
-Term: Executive Order 9066
-Definition: 2/19/42; 112,000 Japanese-Americans forced into camps causing loss of homes &amp; businesses, 600K more renounced citizenship; demonstrated fear of Japanese invasion
+Term: Rosie the Riveter
+Definition: A propaganda character designed to increase employment of female workers in the factories. It became a rallying symbol for women to do their part.
 
-Term: Interment Camps
-Definition: Detention centers where Japanese Americans were relocated after Pearl Harbor
+Term: Propaganda
+Definition: Ideas spread to influence public opinion for or against a cause.
 
-Term: Democratization
-Definition: A process of transition as a country attempts to move from an authoritarian form of government to a democratic one
+Term: General Dwight Eisenhower
+Definition: Supreme Allied Commander in Europe. Led the allied invasion of North Africa and planned and executed the D-Day invasion at Normandy (Operation Overlord) (Operation Neptune) and the Battle of the Bulge in Europe.
 
-Term: Erwin Rommel
-Definition: The Desert Fox. Commander of the Axis forces in North Africa. Led a shattering defeat of Allied forces.
-
-Term: Nonaggression pact
-Definition: 1939-Secret agreement between German leader Hitler and Soviet Leader Stalin not to attack one another and to divide Poland
-
-Term: Hiroshima and Nagasaki
-Definition: Two Japanese cities on which the U.S. dropped the atomic bombs to end World War II.
-
-Term: Demilitarization
-Definition: Under General MacArthur, he ordered to disband the Japanese armed forces in order to ensure peace. This left Japan with a small police force.
-
-Term: Nuremberg Trials
-Definition: In 1945 conducted by an International Military Court in which former Nazi leaders were charged with crimes against peace, crimes against humanity, and war crimes
+Term: Harry Truman
+Definition: Became president when FDR died; gave the order to drop the atomic bomb as opposed to a land invasion of Japan that may cost the U.S over 200,000 soldier's lives.
 
 Term: Enola Gay
-Definition: American plane that dropped the first atomic bomb
+Definition: the name of the American B-29 bomber, piloted by Col. Paul Tibbets, Jr., that dropped the atomic bomb (Little Boy) on Hiroshima, Japan, on Aug. 6, 1945.
 
-Term: Isoroku Yamamoto
-Definition: Chief Japanese admiral during World War II; masterminded the Pearl Harbor attack
+Term: Internment Camps
+Definition: Detention centers, primarily on the W.Coast of the U.S., where more than 100,000 Japanese Americans were relocated during World War II by Executive Order 9066 of the President.
 
-Term: emigration
-Definition: the act of leaving one's own country to settle permanently in another; moving abroad.
+Term: Death Camps
+Definition: camps used under the rule of Hitler in Nazi Germany for the purpose of killing prisoners immediately. Many times they were side by side to a concentration camp.
+
+Term: radar
+Definition: a device or system consisting usually of a synchronized radio transmitter and receiver that emits radio waves and processes their reflections for display and is used especially for detecting and locating objects (as aircraft) or surface features (as of a planet)
+
+Term: penicillin
+Definition: known as a "wonder drug" during WW2 saving a tremendous number of lives, an antibiotic or group of antibiotics produced naturally by certain blue molds, and now usually prepared synthetically.
+
+Term: FDR
+Definition: 32nd President of the United States; elected 4 times; instituted New Deal 1&amp;2 to counter the Great Depression and led the country during World War II. He died shortly into his 4th term and his VP Harry Truman assumed the presidency.
+
+Term: Draft
+Definition: In September 16, 1940, the United States instituted the Selective Training and Service Act of 1940, which required all men between the ages of 21 and 45 to register for the draft.
+
+Term: NC militarily bases
+Definition: Camp Mackall is an active US Army training facility located in northern Scotland County and Richmond County, North Carolina.
+
+Term: women worked in factories
+Definition: During WWII women worked in factories producing munitions, building ships, aeroplanes, in the auxiliary services as air-raid wardens, fire officers and evacuation officers, as drivers of fire engines, trains and trams, as conductors and as nurses.
+
+Term: Division of Germany
+Definition: In 1947, after WW2 is over, Germany was divided into 4 zones controlled by the U.S., Great Britain, France and Russia; eventually the first 3 zones would unite as West Germany whereas the Russian zone became East Germany. Additionally, all of Berlin was encircled (Wall) and divided into East &amp; West Berlin.
+
+Term: Creation of United Nations
+Definition: The United Nations (UN) is an intergovernmental organization to promote international co-operation. A replacement for the ineffective League of Nations, the organization was established on 24 October 1945 after World War II in order to prevent another such conflict.
+
+Term: Feb 1945 Yalta Conference
+Definition: FDR, Churchill and Stalin met at Yalta Russia as WW2 was coming to an end. Stalin agreed to declare war on Japan 90 days after the surrender of Germany and in return FDR and Churchill promised the USSR concessions in Manchuria and the territories that it had lost in the Russo-Japanese War. All parties secretly agreed to let Emperor Hirohito remain as Emperor even though all demanded "unconditional surrender" by Japan.
+
+Term: Red Scare
+Definition: The rounding up and deportation of several hundred immigrants of radical political views by the federal government in 1919 and 1920.
+
+Term: Hollywood Ten
+Definition: Group of 10 motion-picture producers, directors, and screenwriters who appeared before the (HUAC) House Un-American Activities Committee in October 1947, and were jailed for refusing to answer congressional questions regarding Communist influence in Hollywood
+
+Term: Joseph McCarthy
+Definition: Republican Senator from Wisconsin he led a campaign against Communists in US society and government in the 1950s, during the Cold War. He took advantage of fears of communism post WWII to become incredibly influential; "McCarthyism" was the fearful accusation of any dissenters of being communists. He charged 205 State Department employees, and accused them of being communist party members, but they were never proven. Eventually he came across as a bully, and his popularity plunged.
+
+Term: satellite nation
+Definition: Communist nations in Eastern Europe on friendly terms with the USSR and thought of as under the USSR's control during the Cold War era.
+
+Term: containment
+Definition: A U.S. foreign policy adopted by President Harry Truman in the late 1940s, in which the United States tried to stop the spread of communism by creating alliances and helping weak countries to resist Soviet advances. The term was coined by George Kennan.
+
+Term: Truman doctrine
+Definition: First established in 1947 after Britain no longer could afford to provide anti-communist aid to Greece and Turkey, it pledged to provide U.S. military and economic aid to any nation threatened by Soviet forces or communism.
+
+Term: Marshall Plan
+Definition: officially the European Recovery Program, ERP) was an American initiative to aid Western Europe, in which the United States gave over $12 billion (approximately $120 billion in current dollar value) in economic support to help rebuild Western European economies after the end of WW2 (1948) &amp; was intended to bolster capitalist and democratic governments and prevent domestic communist groups from riding poverty and misery to power; the plan was first announced by Secretary of State George Marshall at Harvard's commencement in June 1947.
+
+Term: Berlin airlift
+Definition: A military operation in the late 1940s that brought food and other needed goods into West Berlin by air after the government of East Germany, which at that time surrounded West Berlin ( see Berlin wall ), had cut off its supply routes.
+
+Term: NATO, the North Atlantic Treaty Organization
+Definition: is a military alliance of European and North American democracies founded after World War II to strengthen international ties between member states—especially the United States and Europe—and to serve as a counter-balance to the Soviet Union and the Warsaw Pact that was formed by communist countries in response to NATO.
+
+Term: Iron curtain
+Definition: A term popularized by British Prime Minister Winston Churchill to describe the Soviet Union's policy of isolation during the Cold War. The Iron Curtain isolated Eastern Europe from the rest of the world. Its most poignant symbol was the Berlin Wall.
+
+Term: cold war
+Definition: a state of political hostility between countries characterized by threats, propaganda, and other measures short of open warfare, in particular. (1945-1991) The period after WW2 marked by rivalry and tension between the two nuclear superpowers, the democratic gov't USA and the communist government Soviet Union - USSR. The Cold War ended when the Soviet government collapsed in 1991.
+
+Term: Doolittle's Raid
+Definition: Also known as the Tokyo Raid, on 18 April 1942, was an air raid by the United States on the Japanese capital Tokyo and other places on Honshu island during World War II, the first air raid to strike the Japanese Home Islands just a few months after the Pearl Harbor attack and proving to everyone that the Japanese homeland was vulnerable to an attack.
+
+Term: Tokyo Firebombing
+Definition: The "Operation Meetinghouse" air raid of March 9-10, 1945 was later estimated to be the single most destructive bombing raid in history killing over 80,000 Japanese &amp; destroying 1/4 of the city.
+
+Term: Operation Bodyguard
+Definition: Multifaceted operation of deception incorporating military chatter, double agents, fake planes, trucks &amp; tanks.
+
+Term: Operation Neptune
+Definition: Military landing on the 5 beaches of Normandy France ( JOUGS )
+
+Term: Operation Overlord
+Definition: Military battle of Normandy
+
+Term: Operation Fortitude North
+Definition: Allied deception pointing to an invasion of Norway
+
+Term: Operation Fortitude South
+Definition: Allied deception pointing to an invasion of Pas de Calais
+
+Term: Operation Skye
+Definition: Fake military "chatter" to support Operation Bodyguard
+
+Term: Teacher with the coolest technology to assist his students in learning
+Definition: Mr K :)
+
+Term: Officially ended the Great Depression
+Definition: Full Employment due to mobilization of the economy for WW2
+
+Term: July 1945 Potsdam Conference
+Definition: PostWar Official meeting of Churchill, Truman &amp; Stalin to divide up &amp; begin reconstruction of Germany. It also laid out the terms for Japanese surrender.
 
 Term: Soviet-German Non-Aggression Pact
 Definition: 1939 agreement between Germany and the Soviet Union. The two nations agreed not to attack one another and to split the country of Poland between them.
@@ -2314,168 +2491,6 @@ Definition: Alliance of Germany, Italy, and Japan
 Term: Allies
 Definition: Alliance between the U.S., Great Britain, France, and the Soviet Union
 
-Term: Adolf HItler
-Definition: The dictator of Germany during world war 2
-
-Term: Benito Mussolini
-Definition: The Dictator of Italy during world war 2
-
-Term: Winston Churchill
-Definition: The Prime minister of Great Britain during world war 2
-
-Term: Joseph Stalin
-Definition: The Dictator of the soviet union during world war 2
-
-Term: Non-Aggression Pact
-Definition: Agreement between Germany and the USSR not to fight each other. They also agreed to divide Poland
-
-Term: Battle of Britain
-Definition: The German air force launched an all-out air battle to destroy the British Royal Air Force
-
-Term: Great Depression
-Definition: The economic crisis beginning with the stock market crash in 1929 and continuing through the 1930s
-
-Term: Pearl Harbor
-Definition: Surprise attack by the Japanese on December 7, 1941 that resulted in the United States' entry into world war 2
-
-Term: Japanese Interment
-Definition: In 1942 the U.S. Government removed more than 100,000 people of Japanese birth and ancestry from their homes on the pacific coast to relocation centers
-
-Term: "Rosie the Riveter"
-Definition: The symbol of the campaign to hire women to work in the factories during world war 2
-
-Term: Nazi
-Definition: A German member of Adolf Hitler's political party
-
-Term: Reparations
-Definition: Payment for war damages
-
-Term: Holocaust
-Definition: The Nazi campaign to exterminate the Jews during world war 2
-
-Term: Midway
-Definition: The 1942 battle that was the turning point of the war in the pacific. With the loss of four air craft carriers, the Japanese advanced across the pacific was stopped.
-
-Term: League of Nations
-Definition: An international organization formed in 1920 to promote cooperation and peace among nations
-
-Term: Fuhrer
-Definition: Adolf Hitler's title as chancellor and head of state in Germany.
-
-Term: Appeasement
-Definition: Accepting demands in order to avoid conflict
-
-Term: Fascism
-Definition: A political system headed by a dictator that calls for extreme nationalism and racism and no tolerance of opposition
-
-Term: Isolationism
-Definition: A national policy of avoiding involvement in world affairs
-
-Term: Emperor Hirohito
-Definition: The Emperor of Japan during WWII. His people viewed him as a god
-
-Term: Harry Truman
-Definition: The 33rd President of the US. Led the U.S. to victory in WWII making the decision to use atomic weapons for the first time.
-
-Term: Allied Powers
-Definition: Countries that worked together during WW2: Great Britain, US, France and Russia
-
-Term: Axis Powers
-Definition: Alliance of Germany, Italy, and Japan during World War II.
-
-Term: Alliance
-Definition: An agreement to work together
-
-Term: Annex
-Definition: To take control of a country
-
-Term: Tojo Hideki
-Definition: Military leader of Japan leading up to, and during World War II
-
-Term: WWII began with
-Definition: Hitler's invasion of Poland in 1939
-
-Term: Japan
-Definition: The country that practiced Imperialism
-
-Term: Reichstag burned and the Nazis took control of the government
-Definition: How Hitler assumed power in Germany
-
-Term: Cause of WWII
-Definition: Treaty of Versailles leaving Germany angry and weak
-
-Term: Treaty of Versailles
-Definition: Treaty that ended WWI. It blamed Germany for WWI and handed down harsh punishment.
-
-Term: German - Soviet Nonaggression pact
-Definition: An agreement between the Soviet Union (Russia) and Germany to not attack each other.
-
-Term: Atomic Bomb
-Definition: Dropped by an American bomber on Hiroshima and Nagasaki destroying both cities
-
-Term: Rationing
-Definition: A limited portion or allowance of food or goods; limitation of use
-
-Term: Liberate
-Definition: to set free
-
-Term: Pearl Harbor
-Definition: Base in hawaii that was bombed by Japan on December 7, 1941, which eagered America to enter the war.
-
-Term: Concentration Camps
-Definition: Prison camps used under the rule of Hitler in Nazi Germany. Jewish people, were generally starved or worked to death, or killed immediately.
-
-Term: Stalingrad
-Definition: Soviet city where the German army was forced to surrender after a battle that lasted for months
-
-Term: Hiroshima
-Definition: City in Japan, the first to be destroyed by an atomic bomb, in 1945
-
-Term: Iwo Jima
-Definition: A bloody and prolonged operation on the island of Iwo Jima in which American marines landed and defeated Japanese defenders
-
-Term: D-Day
-Definition: Allied invasion of France on June 6, 1944
-
-Term: VE Day and VJ Day
-Definition: Victory in Europe and Victory in Japan during WWII
-
-Term: United Nations
-Definition: An international organization formed after WWII to promote international peace.
-
-Term: League of Nations
-Definition: an international organization formed in 1920 to promote cooperation and peace among nations
-
-Term: Ration
-Definition: to divide and distribute evenly
-
-Term: Casualty
-Definition: A person killed or injured in a war or accident
-
-Term: liberate
-Definition: to set free
-
-Term: Battle of Midway
-Definition: U.S. naval victory over the Japanese fleet in June 1942, It marked a turning point in World War II.
-
-Term: D-Day
-Definition: Allied invasion of Normandy
-
-Term: Island Hopping
-Definition: A military strategy used during World War II that involved selectively attacking specific enemy-held islands and bypassing others
-
-Term: Fat Man
-Definition: Bomb dropped on Nagasaki
-
-Term: Little Boy
-Definition: Name of the bomb that exploded over Hiroshima
-
-Term: Pearl Harbor
-Definition: Base in Hawaii that was bombed by japan on December 7, 1941, which eagered America to enter the war.
-
-Term: Infamy Speech
-Definition: FDR's Speech after Pearl Harbor
-
 Term: Battle of Midway
 Definition: Considered a turning point in the war where the US defeated the Japanese.
 
@@ -2746,155 +2761,167 @@ Definition: 1935 laws defining the status of Jews and withdrawing citizenship fr
 Term: Battle of Okinawa
 Definition: First Japanese Home island (only 340 miles from mainland Japan) to be invaded. Island of immense strategic value. Involving over 500,000 troops and over 1,200 ships. Battle showed Japanese determination to resist invasion.(1945) World War II victory for the Allied troops that resulted in the deaths of almost all of the 100,000 Japanese defenders; the battle claimed 12,000 American lives
 
-Term: Fascism
-Definition: A political movement that promotes an extreme form of nationalism, a denial of individual rights, and a dictatorial one-party rule.
+Term: Adolf HItler
+Definition: The dictator of Germany during world war 2
 
-Term: Totalitarianism
-Definition: A political system in which the government has total control over the lives of individual citizens.
+Term: Benito Mussolini
+Definition: The Dictator of Italy during world war 2
 
-Term: Dictator
-Definition: A ruler who has complete power over a country
+Term: Winston Churchill
+Definition: The Prime minister of Great Britain during world war 2
 
-Term: Nazism
-Definition: Adolf Hitler used fascism to create this type of government based on totalitarian ideas and was used to unite Germany during the 1930s.
+Term: Joseph Stalin
+Definition: The Dictator of the soviet union during world war 2
+
+Term: Non-Aggression Pact
+Definition: Agreement between Germany and the USSR not to fight each other. They also agreed to divide Poland
+
+Term: Battle of Britain
+Definition: The German air force launched an all-out air battle to destroy the British Royal Air Force
+
+Term: Great Depression
+Definition: The economic crisis beginning with the stock market crash in 1929 and continuing through the 1930s
+
+Term: Pearl Harbor
+Definition: Surprise attack by the Japanese on December 7, 1941 that resulted in the United States' entry into world war 2
+
+Term: Japanese Interment
+Definition: In 1942 the U.S. Government removed more than 100,000 people of Japanese birth and ancestry from their homes on the pacific coast to relocation centers
+
+Term: "Rosie the Riveter"
+Definition: The symbol of the campaign to hire women to work in the factories during world war 2
+
+Term: Nazi
+Definition: A German member of Adolf Hitler's political party
+
+Term: Reparations
+Definition: Payment for war damages
+
+Term: Holocaust
+Definition: The Nazi campaign to exterminate the Jews during world war 2
+
+Term: Midway
+Definition: The 1942 battle that was the turning point of the war in the pacific. With the loss of four air craft carriers, the Japanese advanced across the pacific was stopped.
+
+Term: League of Nations
+Definition: An international organization formed in 1920 to promote cooperation and peace among nations
+
+Term: Fuhrer
+Definition: Adolf Hitler's title as chancellor and head of state in Germany.
 
 Term: Appeasement
 Definition: Accepting demands in order to avoid conflict
 
-Term: Axis Powers
-Definition: Germany, Italy, Japan
+Term: Fascism
+Definition: A political system headed by a dictator that calls for extreme nationalism and racism and no tolerance of opposition
+
+Term: Isolationism
+Definition: A national policy of avoiding involvement in world affairs
+
+Term: Emperor Hirohito
+Definition: The Emperor of Japan during WWII. His people viewed him as a god
+
+Term: Harry Truman
+Definition: The 33rd President of the US. Led the U.S. to victory in WWII making the decision to use atomic weapons for the first time.
 
 Term: Allied Powers
-Definition: Alliance of Great Britain, Soviet Union, United States, and France during World War II.
+Definition: Countries that worked together during WW2: Great Britain, US, France and Russia
 
-Term: Blitzkrieg
-Definition: "Lighting war", typed of fast-moving warfare used by German forces against Poland n 1939
+Term: Axis Powers
+Definition: Alliance of Germany, Italy, and Japan during World War II.
 
-Term: Invasion of Poland
-Definition: Germany invaded, breaking their agreement, so Britain and France declared war, starting World War II
+Term: Alliance
+Definition: An agreement to work together
 
-Term: Hitler
-Definition: German Nazi dictator during World War II (1889-1945), Nazi leader and founder; had over 6 million Jews assassinated during the Holocaust
+Term: Annex
+Definition: To take control of a country
 
-Term: Mussolini
-Definition: Italian fascist dictator (1883-1945)
+Term: Tojo Hideki
+Definition: Military leader of Japan leading up to, and during World War II
 
-Term: Joseph Stalin
-Definition: Bolshevik revolutionary, head of the Soviet Communists after 1924, and dictator of the Soviet Union from 1928 to 1953. He led the Soviet Union with an iron fist, using Five-Year Plans to increase industrial production and terror to crush opposition
+Term: WWII began with
+Definition: Hitler's invasion of Poland in 1939
 
-Term: The Fall of France
-Definition: France and Britain created a Maginot Line, which is a system of fortifications along France's eastern border. The Germans rode through an area of wooded ravines in northest France, completely avoiding the blockade. Then Germans marched to Paris and trapped the soldiers; soon Hitler gave them terms of peace.
+Term: Japan
+Definition: The country that practiced Imperialism
 
-Term: The Battle of Britain
-Definition: Is the name given to the air campaign waged by the German Air Force (Luftwaffe) against the United Kingdom during the summer and autumn of 1940. The objective of the campaign was to gain air superiority over the Royal Air Force (RAF).
+Term: Reichstag burned and the Nazis took control of the government
+Definition: How Hitler assumed power in Germany
 
-Term: Lend Lease Policy
-Definition: a law passed in 1941 that allowed the United States to ship arms and other supplies, without immediate payment, to nations fighting the Axis powers
+Term: Cause of WWII
+Definition: Treaty of Versailles leaving Germany angry and weak
+
+Term: Treaty of Versailles
+Definition: Treaty that ended WWI. It blamed Germany for WWI and handed down harsh punishment.
+
+Term: German - Soviet Nonaggression pact
+Definition: An agreement between the Soviet Union (Russia) and Germany to not attack each other.
+
+Term: Atomic Bomb
+Definition: Dropped by an American bomber on Hiroshima and Nagasaki destroying both cities
+
+Term: Rationing
+Definition: A limited portion or allowance of food or goods; limitation of use
+
+Term: Liberate
+Definition: to set free
 
 Term: Pearl Harbor
-Definition: 7:50-10:00 AM, December 7, 1941 - Surprise attack by the Japanese on the main U.S. Pacific Fleet harbored in Pearl Harbor, Hawaii destroyed 18 U.S. ships and 200 aircraft. American losses were 3000, Japanese losses less than 100. In response, the U.S. declared war on Japan and Germany, entering World War II.
+Definition: Base in hawaii that was bombed by Japan on December 7, 1941, which eagered America to enter the war.
 
-Term: The Pacific Theater
-Definition: The war in the Pacific, most islands were involved, Japan tried to take these islands and sent 65 bombing raids all the way to Australia.
+Term: Concentration Camps
+Definition: Prison camps used under the rule of Hitler in Nazi Germany. Jewish people, were generally starved or worked to death, or killed immediately.
 
-Term: The Holocaust
-Definition: The Holocaust took place in Europe between 1933 and 1945. Six million Jews were systematically and brutally murdered by the Nazis and their collaberators. Miliions of non-Jews, including Roma and Sinti(Gypsies), Serbs, political dissidents, people with disabilities, homosexuals and Jehova's Witnesses, were also persecuted by the Nazis.
+Term: Stalingrad
+Definition: Soviet city where the German army was forced to surrender after a battle that lasted for months
 
-Term: Bataan Death March
-Definition: Japanese forced about 60,000 of americans and philippines to march 100 miles with little food and water, most died or were killed on the way
+Term: Hiroshima
+Definition: City in Japan, the first to be destroyed by an atomic bomb, in 1945
+
+Term: Iwo Jima
+Definition: A bloody and prolonged operation on the island of Iwo Jima in which American marines landed and defeated Japanese defenders
+
+Term: D-Day
+Definition: Allied invasion of France on June 6, 1944
+
+Term: VE Day and VJ Day
+Definition: Victory in Europe and Victory in Japan during WWII
+
+Term: United Nations
+Definition: An international organization formed after WWII to promote international peace.
+
+Term: League of Nations
+Definition: an international organization formed in 1920 to promote cooperation and peace among nations
+
+Term: Ration
+Definition: to divide and distribute evenly
+
+Term: Casualty
+Definition: A person killed or injured in a war or accident
+
+Term: liberate
+Definition: to set free
+
+Term: Battle of Midway
+Definition: U.S. naval victory over the Japanese fleet in June 1942, It marked a turning point in World War II.
+
+Term: D-Day
+Definition: Allied invasion of Normandy
 
 Term: Island Hopping
 Definition: A military strategy used during World War II that involved selectively attacking specific enemy-held islands and bypassing others
 
-Term: General Eisenhower
-Definition: A US Army general who held the position of supreme Allied commander in Europe, among many others. He was best known for his work in planning Operation Overlord, the Allied invasion of Europe.
+Term: Fat Man
+Definition: Bomb dropped on Nagasaki
 
-Term: The Manhattan Project
-Definition: A secret research and development project of the US to develop the atomic bomb. Its success granted the US the bombs that ended the war with Japan as well as ushering the country into the atomic era
+Term: Little Boy
+Definition: Name of the bomb that exploded over Hiroshima
 
-Term: Nagasaki
-Definition: Japanese city devastated during World War II when the United States dropped the second atomic bomb on Aug 8th, 1945.
+Term: Pearl Harbor
+Definition: Base in Hawaii that was bombed by japan on December 7, 1941, which eagered America to enter the war.
 
-Term: Hiroshima
-Definition: City in Japan, the first to be destroyed by an atomic bomb, on August 6, 1945. The bombing hastened the end of World War II.
-
-Term: D-Day
-Definition: (FDR) , June 6, 1944, 160,000 Allied troops landed along a 50-mile stretch of heavily-fortified French coastline to fight Nazi Germany on the beaches of Normandy, France. General Dwight D. Eisenhower called the operation a crusade in which "we will accept nothing less than full victory." More than 5,000 Ships and 13,000 aircraft supported the D-Day invasion, and by day's end on June 6, the Allies gained a foot- hold in Normandy.
-
-Term: Winston Churchill
-Definition: A noted British statesman who led Britain throughout most of World War II and along with Roosevelt planned many allied campaigns. He predicted an iron curtain that would separate Communist Europe from the rest of the West.
-
-Term: Concentration Camps
-Definition: prison camps used under the rule of Hitler in Nazi Germany. Conditions were inhuman, and prisoners, mostly Jewish people, were generally starved or worked to death, or killed immediately.
-
-Term: General Dwight Eisenhower
-Definition: Led the allied invasion of North Africa and planned and executed the D-Day invasion at Normandy and the battle of the budge; Supreme Allied Commander in Europe.
-
-Term: General Douglas MacArthur
-Definition: He was one of the most-known American military leaders of WW2 (He liberated the Philippines and made the Japanese surrender at Tokyo in 1945, also he drove back North Korean invaders during the Korean War); developed strategy of "island-hopping".
-
-Term: Harry Truman
-Definition: Became president when FDR died; gave the order to drop the atomic bomb
-
-Term: Death Camps
-Definition: camps used under the rule of Hitler in Nazi Germany for the purpose of killing prisoners immediately.
-
-Term: Kristallnacht
-Definition: (Night of the Broken Glass) November 9, 1938, when mobs throughout Germany destroyed Jewish property and terrorized Jews.
-
-Term: Anti Semitism
-Definition: hatred towards Jews
-
-Term: Adolph Hitler
-Definition: • Leader of Nazi Germany.
-
-Term: Benito Mussolini
-Definition: • Leader of Fascist Italy
-
-Term: Franklin Deleno Roosevelt
-Definition: Leader of the United States during the Great Depression and World War 2.
-
-Term: Hideki Tojo
-Definition: • Military Leader of Japan during World War 2.
-
-Term: Douglas MacArthur
-Definition: US General in the Pacific. He said, "I shall return."
-
-Term: Dwight D. Eisenhower
-Definition: US General in EuropeLeader of D-DayLater became president of the United States
-
-Term: League of Nations
-Definition: A global association formed in 1919 to promote peace. It was later replaced by the United Nations in 1945
-
-Term: Blitzkreig
-Definition: "Lighting Wars" type of fast-moving warfare used by German forces against Poland in 1939
-
-Term: Nonagression Pact
-Definition: a pact between Germany and the USSR saying,"You don't mess with me i won't mess with you."
-
-Term: Battle of Stalingrad
-Definition: Decisive battle in German invasion of Russia, the Germans were surrounded and systemically destroyed
-
-Term: Hitler's Final Solution
-Definition: The answer to "The Jewish Question". It was a mass murder of all Jews. He set up extermination camps and forced millions of Jews to enter gas chamber, ovens, and fire pits.
-
-Term: D Day
-Definition: June 6, 1944 - Led by Eisenhower, over a million troops (the largest invasion force in history) stormed the beaches at Normandy and began the process of re-taking France. The turning point of World War II.`
-
-Term: V J Day
-Definition: "Victory over Japan day" is the celebration of the Surrender of Japan, which was initially announced on August 15, 1945
-
-Term: V E Day
-Definition: May 8, 1945; victory in Europe Day when the Germans surrendered
-
-Term: Yalta Conference
-Definition: 1945 Meeting with US president FDR, British Prime Minister(PM) Winston Churchill, and and Soviet Leader Stalin during WWII to plan for post-war
-
-Term: Holocaust
-Definition: A mass slaughter of Jews and other civilians, carried out by the Nazi government of Germany before and during World War II.
-
-Term: Nuremberg Trials
-Definition: A series of court proceedings held in Nuremberg, Germany, after World War II, in which Nazi leaders were tried for aggression, violations of the rules of war, and crimes against humanity.
+Term: Infamy Speech
+Definition: FDR's Speech after Pearl Harbor
 
 Term: Joseph Stalin
 Definition: Man of Steel, created Communist state, led Soviet Union, Allied Powers, killed between 8-13 million

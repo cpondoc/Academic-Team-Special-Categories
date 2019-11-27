@@ -478,222 +478,6 @@ Definition: The strength or size of an object or force.
 Term: Mass
 Definition: The total amount of matter in something.
 
-Term: Energy
-Definition: The capacity for doing work.
-
-Term: Force
-Definition: A push or pull on an object that can cause a change in movement
-
-Term: Net Force
-Definition: The total of all the forces acting on an object
-
-Term: Gravity
-Definition: A force that pulls objects together
-
-Term: F = m x a
-Definition: Formula for Force
-
-Term: Displacement vs Time Graph
-Definition: Shows the distance an object travels in a certain amount of time.slope is velocity
-
-Term: Inertia
-Definition: the tendency of a body to maintain is state of rest or uniform motion unless acted upon by an external force
-
-Term: Kinetic Energy
-Definition: The energy an object possess due to its motion.
-
-Term: Motion
-Definition: A change in the position of an object over time.
-
-Term: Newton's First Law of Motion (Definition)
-Definition: an object at rest will stay at rest unless acted upon by an outside unbalanced force; an object in motion will stay in motion unless acted upon by an outside unbalanced force.
-
-Term: Newton's First Law of Motion (Example)
-Definition: when a car suddenly stops and your head continues to move foward even though your body is stopped by the seat belt
-
-Term: Newton's Second Law of Motion (Definition)
-Definition: the greater the force applied to an object, the greater the acceleration; the smaller the mass of an object, the greater its acceleration when force is applied; only an unbalanced force can cause objects to accelerate
-
-Term: Newton's Second Law of Motion (Example)
-Definition: the force applied to a roller coaster car in addition to the mass of the car determines the acceleration of the car; more force = more acceleration
-
-Term: Newton's Third Law of Motion (Definition)
-Definition: for every action there is an equal and opposite reaction; there is a reaction force that is equal in size but opposite in direction.
-
-Term: Newton's Third Law of Motion (Example)
-Definition: as the thrust of a rocket pushes down on Earth's surface, the rocket launches upward into the atmosphere
-
-Term: Potential Energy
-Definition: Energy stored in an object by the virtue of its position.
-
-Term: Example of work
-Definition: A monkey carries a 5 kg pineapple 10 meters in 5 minutes.
-
-Term: Example of no work being performed
-Definition: A monkey holds a 5 kg pineapple over his head for 5 minutes.
-
-Term: Example of velocity
-Definition: Nemo swims 37 m/s South to Wallaby Way in Australia.
-
-Term: Speed
-Definition: the distance traveled by an object in a given amount of time.
-
-Term: Example of speed
-Definition: Nemo swims 58 m/s
-
-Term: Unbalanced Force
-Definition: A force that is not equal in size and opposite in direction.
-
-Term: Velocity
-Definition: speed of an object and its direction of motion; changes when speed, direction or both changes
-
-Term: Work
-Definition: force exerted on an object that causes the object to move in same direction that the force was applied
-
-Term: Waves
-Definition: Transfer energy in the direction they are traveling
-
-Term: Amplitude
-Definition: The maximum displacement of a point on the wave from this undisturbed position
-
-Term: Wavelength
-Definition: The distance between the same point on two adjacent waves (between the trough of one wave and the trough of the wave next to it, applies the same way with the crest,)
-
-Term: Frequency
-Definition: Is the number of complete waves passing a certain point per second. Frequency is measured in Hertz (Hz), where 1 wave is 1 Hertz
-
-Term: Period
-Definition: From the frequency, you can find a period of a wave using the formula 1÷frequency
-
-Term: Transverse waves
-Definition: Waves were in which the oscillation (vibrations) are perpendicular (90 degrees) to the direction of energy transfer. Some of these waves include:All electromagnetic wave (light)Ripples and waves in waterA wave on a string
-
-Term: Longitudinal waves
-Definition: Waves were the oscillation (vibrations) are parallel to the direction of energy transfer. Some of these waves include:Sound wave in air, ultrasoundShock waves, some seismic waves
-
-Term: Wave speed formula
-Definition: Wave speed (v)=Frequency(Hz)x Wave length (ƛ)
-
-Term: Electromagnetic waves
-Definition: Are transverse waves that transfer energy from a source to an absorber. They travel through air or vacuum at the same speed. there are a variety that increase in frequency overtime.
-
-Term: Sound waves
-Definition: These are caused by vibrating objects. These are passed through the surrounding area as a series of compressions an rarefactions. These travel faster in more solid states of matter as it is more easier to vibrate the particles to make sound if there close together, rather than far apart. This is why in a vacuum, where there are no particle's there is no sound
-
-Term: Electromagnets
-Definition: Electromagnets are magnets that turn or off when an electric current is passed through it. They are used to lift things up or down and can be used with other circuit as a switch
-
-Term: Electric Current (Amps)
-Definition: The flow of an electric charge. The unit of this is ampere (A)
-
-Term: Potential difference (Voltage
-Definition: Is the driving force that pushes the charge around. Measured in volts (V)
-
-Term: Resistance
-Definition: Anything that slows down the flow of the current. Measured in ohms (Picture)
-
-Term: Potential difference (Voltage)
-Definition: =Current X Resistance
-
-Term: Different types of energy
-Definition: Some different types of energy are:Thermal energyKinetic energyGravitational potential energyElastic potential energyChemical energyMagnetic energyElectrostatic energyNuclear energy
-
-Term: Conservation of energy principle
-Definition: The conservation of energy principle is that 'energy can be transferred usefully, stored or dissipated, nut can never be destroyed or created'
-
-Term: Work
-Definition: =Fxdistance*cosine of the angle.
-
-Term: power
-Definition: Work/timedetermines the amount of effort
-
-Term: kinetic energy
-Definition: 1/2 mvvthe energy of motion
-
-Term: Potential energy
-Definition: mghpotential to exert energy
-
-Term: conservation of energy
-Definition: energy can not be lost or destroyedE=ke+pe
-
-Term: elastic collision
-Definition: type of collision where momentum is 100% conserved
-
-Term: inelastic collision
-Definition: type of collision where momentum is not conserved
-
-Term: Impulse
-Definition: Equals Forcextime also equals change in momentum
-
-Term: Change in momentum
-Definition: Equals massxchange in velocity.also equals impulse
-
-Term: vector
-Definition: An quantity that has a magnitude and direction
-
-Term: parallel circuit
-Definition: has multiple paths for electron to travelSplits currenthas same change in voltage on each spurResistance is the reciprocal of their additions
-
-Term: series circuit
-Definition: Has one path for electron same current throughoutvoltage sums up to total in batteryResistance adds.
-
-Term: acceleration
-Definition: Change in velocity over change in time
-
-Term: velocity
-Definition: change in displacement over change in timevector
-
-Term: displacement
-Definition: the total distance traveled by an object regardless of direction
-
-Term: distance
-Definition: the amount traveled from a certain spot.
-
-Term: newton's first law
-Definition: law of inertia
-
-Term: newton's second law
-Definition: F=ma
-
-Term: Newton's 3rd law
-Definition: Every action has an equal and opposite reaction
-
-Term: Fundamental units for Impulse and momentum
-Definition: Kg m/s
-
-Term: This force goes in the opposite direction of motion
-Definition: Friction
-
-Term: Frictional force
-Definition: =coeffiecent of friction xmxg
-
-Term: Constructive interference
-Definition: Interference that causes a louder noise.
-
-Term: Doppler effect
-Definition: Effect that explains how frequency of produced noises change depending on their speed and the orginal frequency.
-
-Term: conservation of energy
-Definition: Energy is neither created nor destroyed
-
-Term: Acceleration
-Definition: The rate of change in velocity. Can be a change in direction, positive (speeding up) or negative (slowing down).
-
-Term: Balanced Force
-Definition: Two forces in opposite directions. Net force is zero and the motion of the object does not change.
-
-Term: Friction
-Definition: The force between objects that resists motion - always slows down motion
-
-Term: Newton
-Definition: A measurement of force
-
-Term: Magnitude
-Definition: The strength or size of an object or force.
-
-Term: Mass
-Definition: The total amount of matter in something.
-
 Term: Force
 Definition: A push or pull on an object that can cause a change in movement
 
@@ -792,75 +576,6 @@ Definition: 5m/s NE
 
 Term: Gravitational pull between object
 Definition: the relationship where the force between to objects is inversely 1/r related to the distance between them.
-
-Term: Acceleration
-Definition: Change in velocity. Can be a change in direction, positive (speeding up) or negative (slowing down).
-
-Term: Magnitude
-Definition: A scalar quantity
-
-Term: Motion
-Definition: A change in the position of an object over time from a reference point.
-
-Term: Example of velocity
-Definition: Nemo swims 37 m/s South to Wallaby Way in Australia.
-
-Term: Speed
-Definition: the distance traveled by an object in a given amount of time.
-
-Term: Example of speed
-Definition: Nemo swims 58 m/s
-
-Term: Velocity
-Definition: speed of an object and its direction of motion; changes when speed, direction or both changes
-
-Term: vector
-Definition: An quantity that has a magnitude and direction
-
-Term: displacement
-Definition: the total distance traveled by an object regardless of direction from start to finish
-
-Term: distance
-Definition: the amount traveled from a certain spot.
-
-Term: If an object is moving northward and slowing down, then the direction of its acceleration vector is
-Definition: South
-
-Term: If an object is moving eastward and slowing down, then the direction of its velocity vector is
-Definition: East
-
-Term: If an object is moving eastward and slowing down, then the direction of its acceleration vector is
-Definition: West
-
-Term: Newton's First Law
-Definition: An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.
-
-Term: Newton's Second Law Equation
-Definition: Force = mass x acceleration
-
-Term: Newton's Second Law
-Definition: The acceleration of an object is dependent upon two variables - the net force acting upon the object and the mass of the object.
-
-Term: Newton's Third Law
-Definition: For every action there is an equal and opposite reaction
-
-Term: balanced forces
-Definition: Equal forces acting on an object in opposite directions
-
-Term: unbalanced forces
-Definition: Forces that cause a change in the motion of an object
-
-Term: Inertia
-Definition: The tendency of an object to resist a change in motion. Inertia depends on mass.
-
-Term: Mass
-Definition: the amount of matter in an object
-
-Term: Force
-Definition: a push or pull on an object
-
-Term: action-reaction forces
-Definition: pair of forces involved in an interaction that are equal in magnitude and opposite in direction
 
 Term: Acceleration
 Definition: The rate of change in velocity. Can be a change in direction, positive (speeding up) or negative (slowing down).
@@ -1075,6 +790,222 @@ Definition: Energy in the nucleus of an atom.
 Term: Sound Energy
 Definition: Sound is produced when a force causes an object or substance to vibrate — the energy is transferred through the substance in a wave.
 
+Term: Acceleration
+Definition: The rate of change in velocity. Can be a change in direction, positive (speeding up) or negative (slowing down).
+
+Term: Balanced Force
+Definition: Two forces in opposite directions. Net force is zero and the motion of the object does not change.
+
+Term: Friction
+Definition: The force between objects that resists motion - always slows down motion
+
+Term: Newton
+Definition: A measurement of force
+
+Term: Magnitude
+Definition: The strength or size of an object or force.
+
+Term: Mass
+Definition: The total amount of matter in something.
+
+Term: Energy
+Definition: The capacity for doing work.
+
+Term: Force
+Definition: A push or pull on an object that can cause a change in movement
+
+Term: Net Force
+Definition: The total of all the forces acting on an object
+
+Term: Gravity
+Definition: A force that pulls objects together
+
+Term: F = m x a
+Definition: Formula for Force
+
+Term: Displacement vs Time Graph
+Definition: Shows the distance an object travels in a certain amount of time.slope is velocity
+
+Term: Inertia
+Definition: the tendency of a body to maintain is state of rest or uniform motion unless acted upon by an external force
+
+Term: Kinetic Energy
+Definition: The energy an object possess due to its motion.
+
+Term: Motion
+Definition: A change in the position of an object over time.
+
+Term: Newton's First Law of Motion (Definition)
+Definition: an object at rest will stay at rest unless acted upon by an outside unbalanced force; an object in motion will stay in motion unless acted upon by an outside unbalanced force.
+
+Term: Newton's First Law of Motion (Example)
+Definition: when a car suddenly stops and your head continues to move foward even though your body is stopped by the seat belt
+
+Term: Newton's Second Law of Motion (Definition)
+Definition: the greater the force applied to an object, the greater the acceleration; the smaller the mass of an object, the greater its acceleration when force is applied; only an unbalanced force can cause objects to accelerate
+
+Term: Newton's Second Law of Motion (Example)
+Definition: the force applied to a roller coaster car in addition to the mass of the car determines the acceleration of the car; more force = more acceleration
+
+Term: Newton's Third Law of Motion (Definition)
+Definition: for every action there is an equal and opposite reaction; there is a reaction force that is equal in size but opposite in direction.
+
+Term: Newton's Third Law of Motion (Example)
+Definition: as the thrust of a rocket pushes down on Earth's surface, the rocket launches upward into the atmosphere
+
+Term: Potential Energy
+Definition: Energy stored in an object by the virtue of its position.
+
+Term: Example of work
+Definition: A monkey carries a 5 kg pineapple 10 meters in 5 minutes.
+
+Term: Example of no work being performed
+Definition: A monkey holds a 5 kg pineapple over his head for 5 minutes.
+
+Term: Example of velocity
+Definition: Nemo swims 37 m/s South to Wallaby Way in Australia.
+
+Term: Speed
+Definition: the distance traveled by an object in a given amount of time.
+
+Term: Example of speed
+Definition: Nemo swims 58 m/s
+
+Term: Unbalanced Force
+Definition: A force that is not equal in size and opposite in direction.
+
+Term: Velocity
+Definition: speed of an object and its direction of motion; changes when speed, direction or both changes
+
+Term: Work
+Definition: force exerted on an object that causes the object to move in same direction that the force was applied
+
+Term: Waves
+Definition: Transfer energy in the direction they are traveling
+
+Term: Amplitude
+Definition: The maximum displacement of a point on the wave from this undisturbed position
+
+Term: Wavelength
+Definition: The distance between the same point on two adjacent waves (between the trough of one wave and the trough of the wave next to it, applies the same way with the crest,)
+
+Term: Frequency
+Definition: Is the number of complete waves passing a certain point per second. Frequency is measured in Hertz (Hz), where 1 wave is 1 Hertz
+
+Term: Period
+Definition: From the frequency, you can find a period of a wave using the formula 1÷frequency
+
+Term: Transverse waves
+Definition: Waves were in which the oscillation (vibrations) are perpendicular (90 degrees) to the direction of energy transfer. Some of these waves include:All electromagnetic wave (light)Ripples and waves in waterA wave on a string
+
+Term: Longitudinal waves
+Definition: Waves were the oscillation (vibrations) are parallel to the direction of energy transfer. Some of these waves include:Sound wave in air, ultrasoundShock waves, some seismic waves
+
+Term: Wave speed formula
+Definition: Wave speed (v)=Frequency(Hz)x Wave length (ƛ)
+
+Term: Electromagnetic waves
+Definition: Are transverse waves that transfer energy from a source to an absorber. They travel through air or vacuum at the same speed. there are a variety that increase in frequency overtime.
+
+Term: Sound waves
+Definition: These are caused by vibrating objects. These are passed through the surrounding area as a series of compressions an rarefactions. These travel faster in more solid states of matter as it is more easier to vibrate the particles to make sound if there close together, rather than far apart. This is why in a vacuum, where there are no particle's there is no sound
+
+Term: Electromagnets
+Definition: Electromagnets are magnets that turn or off when an electric current is passed through it. They are used to lift things up or down and can be used with other circuit as a switch
+
+Term: Electric Current (Amps)
+Definition: The flow of an electric charge. The unit of this is ampere (A)
+
+Term: Potential difference (Voltage
+Definition: Is the driving force that pushes the charge around. Measured in volts (V)
+
+Term: Resistance
+Definition: Anything that slows down the flow of the current. Measured in ohms (Picture)
+
+Term: Potential difference (Voltage)
+Definition: =Current X Resistance
+
+Term: Different types of energy
+Definition: Some different types of energy are:Thermal energyKinetic energyGravitational potential energyElastic potential energyChemical energyMagnetic energyElectrostatic energyNuclear energy
+
+Term: Conservation of energy principle
+Definition: The conservation of energy principle is that 'energy can be transferred usefully, stored or dissipated, nut can never be destroyed or created'
+
+Term: Work
+Definition: =Fxdistance*cosine of the angle.
+
+Term: power
+Definition: Work/timedetermines the amount of effort
+
+Term: kinetic energy
+Definition: 1/2 mvvthe energy of motion
+
+Term: Potential energy
+Definition: mghpotential to exert energy
+
+Term: conservation of energy
+Definition: energy can not be lost or destroyedE=ke+pe
+
+Term: elastic collision
+Definition: type of collision where momentum is 100% conserved
+
+Term: inelastic collision
+Definition: type of collision where momentum is not conserved
+
+Term: Impulse
+Definition: Equals Forcextime also equals change in momentum
+
+Term: Change in momentum
+Definition: Equals massxchange in velocity.also equals impulse
+
+Term: vector
+Definition: An quantity that has a magnitude and direction
+
+Term: parallel circuit
+Definition: has multiple paths for electron to travelSplits currenthas same change in voltage on each spurResistance is the reciprocal of their additions
+
+Term: series circuit
+Definition: Has one path for electron same current throughoutvoltage sums up to total in batteryResistance adds.
+
+Term: acceleration
+Definition: Change in velocity over change in time
+
+Term: velocity
+Definition: change in displacement over change in timevector
+
+Term: displacement
+Definition: the total distance traveled by an object regardless of direction
+
+Term: distance
+Definition: the amount traveled from a certain spot.
+
+Term: newton's first law
+Definition: law of inertia
+
+Term: newton's second law
+Definition: F=ma
+
+Term: Newton's 3rd law
+Definition: Every action has an equal and opposite reaction
+
+Term: Fundamental units for Impulse and momentum
+Definition: Kg m/s
+
+Term: This force goes in the opposite direction of motion
+Definition: Friction
+
+Term: Frictional force
+Definition: =coeffiecent of friction xmxg
+
+Term: Constructive interference
+Definition: Interference that causes a louder noise.
+
+Term: Doppler effect
+Definition: Effect that explains how frequency of produced noises change depending on their speed and the orginal frequency.
+
+Term: conservation of energy
+Definition: Energy is neither created nor destroyed
+
 Term: Speed
 Definition: Distance/TimeThe distance you travel divided by the amount of time it take you to get there.
 
@@ -1155,6 +1086,75 @@ Definition: Force applied to an object that resists the force of gravity.
 
 Term: Gravity
 Definition: The force of attraction between two objects that have mass. Depends on the mass and distance between them
+
+Term: Acceleration
+Definition: Change in velocity. Can be a change in direction, positive (speeding up) or negative (slowing down).
+
+Term: Magnitude
+Definition: A scalar quantity
+
+Term: Motion
+Definition: A change in the position of an object over time from a reference point.
+
+Term: Example of velocity
+Definition: Nemo swims 37 m/s South to Wallaby Way in Australia.
+
+Term: Speed
+Definition: the distance traveled by an object in a given amount of time.
+
+Term: Example of speed
+Definition: Nemo swims 58 m/s
+
+Term: Velocity
+Definition: speed of an object and its direction of motion; changes when speed, direction or both changes
+
+Term: vector
+Definition: An quantity that has a magnitude and direction
+
+Term: displacement
+Definition: the total distance traveled by an object regardless of direction from start to finish
+
+Term: distance
+Definition: the amount traveled from a certain spot.
+
+Term: If an object is moving northward and slowing down, then the direction of its acceleration vector is
+Definition: South
+
+Term: If an object is moving eastward and slowing down, then the direction of its velocity vector is
+Definition: East
+
+Term: If an object is moving eastward and slowing down, then the direction of its acceleration vector is
+Definition: West
+
+Term: Newton's First Law
+Definition: An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.
+
+Term: Newton's Second Law Equation
+Definition: Force = mass x acceleration
+
+Term: Newton's Second Law
+Definition: The acceleration of an object is dependent upon two variables - the net force acting upon the object and the mass of the object.
+
+Term: Newton's Third Law
+Definition: For every action there is an equal and opposite reaction
+
+Term: balanced forces
+Definition: Equal forces acting on an object in opposite directions
+
+Term: unbalanced forces
+Definition: Forces that cause a change in the motion of an object
+
+Term: Inertia
+Definition: The tendency of an object to resist a change in motion. Inertia depends on mass.
+
+Term: Mass
+Definition: the amount of matter in an object
+
+Term: Force
+Definition: a push or pull on an object
+
+Term: action-reaction forces
+Definition: pair of forces involved in an interaction that are equal in magnitude and opposite in direction
 
 Term: net force
 Definition: The combination of all forces acting on an object; the overall force exerted on an object
@@ -2761,6 +2761,291 @@ Definition: Energy cannot be created or destroyed
 Term: energy transfer
 Definition: ...
 
+Term: first law of thermodynamics
+Definition: ">ΔU = Q - W
+
+Term: Equation for heat transfer
+Definition: ">q= mcΔT
+
+Term: specific heat of water
+Definition: ">1 cal/g*K
+
+Term: Equation for phase change
+Definition: ">q=mL
+
+Term: Isovolumetric process
+Definition: ">W= 0 so ΔU= Q
+
+Term: isobaric process
+Definition: ">No significance to first law
+
+Term: isothermal process
+Definition: ">ΔU=0 so Q=W(sys)
+
+Term: adiabatic process
+Definition: ">Q=0 so ΔU= -W(sys)
+
+Term: Change in Entropy Equation
+Definition: ">
+
+Term: Kinematic Equation VAT
+Definition: ">
+
+Term: Kinematic Equation VAX
+Definition: ">
+
+Term: Kinematic equation TAX
+Definition: ">
+
+Term: centripetal force
+Definition: ">
+
+Term: centripetal acceleration
+Definition: ">
+
+Term: Torque
+Definition: ">r*Fsin(θ)
+
+Term: Continuity Equation and it's significance
+Definition: ">Q(flow rate) = V1A1 =V2A2Flow rate remains constant
+
+Term: Bernoulli's Equation with conservation of energy
+Definition: ">P1 + (1/2)ρv1^2 + ρgh1 = P2 + (1/2)ρv2^2 + ρgh2
+
+Term: Density of water
+Definition: ">1000 kg/m^3
+
+Term: Pascal's Principle
+Definition: ">
+
+Term: buoyant force
+Definition: ">ρfluid*Vobject*g
+
+Term: elastic potential energy
+Definition: ">
+
+Term: Nonconservative work =
+Definition: ">ΔE = ΔU + ΔK
+
+Term: Name two non-conservative forces
+Definition: ">Air resistance Friction
+
+Term: How to find work in PV diagrams
+Definition: ">Area under the curve
+
+Term: work energy theorem
+Definition: ">Wnet= ΔK
+
+Term: Density equation
+Definition: ">ρ=m/V
+
+Term: Absolute/hydrostatic pressure
+Definition: ">P(o) + ρgdAtm pressure + density of fluid*gravity*depth
+
+Term: Archimedes principle
+Definition: ">Fb=ρVg= mg upward buoyant force equal in magnitude to weight of displaced fluid
+
+Term: What does Poseuille's law show?
+Definition: ">Pressure gradient is inversely proportional to radius of tube; affected to the 4th power
+
+Term: Coulomb's Law
+Definition: ">
+
+Term: How to get Electric field from Coulomb's Law
+Definition: ">divide Coulomb's Law by charge "q"
+
+Term: Electric Field
+Definition: ">Fe/q
+
+Term: What do positive and negative electric potential energy represent?
+Definition: ">+ = work input to move charges; system became more unstable- = negative work to move charges; system became more stable
+
+Term: How to get electric potential energy from Coulomb's Law?
+Definition: ">Multiply by distance
+
+Term: electric potential energy
+Definition: ">
+
+Term: what is electric potential?
+Definition: ">the electric potential energy per unit charge
+
+Term: electric potential
+Definition: ">V= U/q
+
+Term: potential difference
+Definition: ">ΔV = Vb-Va
+
+Term: Difference between electric potential and potential difference?
+Definition: ">Electric potential is the ratio of electric potential energy per charge potential difference is the difference in electric potential between two points and tells us the tendency for movement
+
+Term: Units for 1 Tesla
+Definition: ">(N)(s)/(m)(C)
+
+Term: what creates a magnetic field?
+Definition: ">A moving charge
+
+Term: Magnetic field for a straight current-carrying wire
+Definition: ">
+
+Term: Magnetic field for a circular current-carrying wire
+Definition: ">*just no pi
+
+Term: magnetic force
+Definition: ">
+
+Term: Magnetic force on a straight current carrying wire
+Definition: ">θ = angle between L and B
+
+Term: I (current) =
+Definition: ">charge over time, Q/t
+
+Term: Resistance equation
+Definition: ">
+
+Term: Ohm's Law
+Definition: ">V = IR
+
+Term: Power in term of voltage and current
+Definition: ">P=IV =I^2R = V^2/R
+
+Term: resistors in a series
+Definition: ">
+
+Term: resistors in parallel
+Definition: ">
+
+Term: capacitance
+Definition: ">
+
+Term: capacitance of a parallel plate capacitor
+Definition: ">
+
+Term: electric field of a parallel plate capacitor
+Definition: ">
+
+Term: potential energy stored in a capacitor
+Definition: ">
+
+Term: capacitors in series
+Definition: ">
+
+Term: capacitors in parallel
+Definition: ">
+
+Term: velocity of a wave
+Definition: ">
+
+Term: angular frequency (w)
+Definition: ">
+
+Term: speed of sound
+Definition: ">
+
+Term: Doppler equation
+Definition: ">
+
+Term: How to determine which sign to use for the Doppler equation
+Definition: ">top one when moving toward the object; bottom when moving away
+
+Term: what do the sound waves due to the Doppler effect look like?
+Definition: ">The sound waves in front of the moving car are compressed and the waves behind the moving car are stretched apart
+
+Term: Intensity
+Definition: ">Power/ Surface Area
+
+Term: relationship between intensity and amplitude
+Definition: ">I is proportional to Amp squared
+
+Term: relationship between intensity and distance
+Definition: ">I is proportional to inverse of distance squared
+
+Term: frequency of a wave =
+Definition: ">v/ƛ
+
+Term: Spontanious/Nonspontaneous?galvanic/voltaic cellelectrolytic cell concentration cell
+Definition: ">glavani/voltaic and concentration = spontaneouselectrolytic = non-spontaneous
+
+Term: Relationship between emf and Gibbs free energy
+Definition: ">opposites
+
+Term: Faraday constant/ one faraday (F_
+Definition: ">10⁵ C/ mol e⁻
+
+Term: emf equation
+Definition: ">E(red, cathode) - E (red, anode)
+
+Term: ∆G and emf equation
+Definition: ">∆G = -nFεn= number of moles of electrongs exchangedF = faradays constant
+
+Term: ∆G and equilibrium constant, K
+Definition: ">∆G = -RTlnKeq
+
+Term: speed of light equation
+Definition: ">c = fƛ
+
+Term: speed of light
+Definition: ">c = 3 x 10⁸ m/s
+
+Term: what does the law of reflection say?
+Definition: ">The angle (from the normal) at which light hits the medium is the angle at which it leaves
+
+Term: real vs. virtual image
+Definition: ">real - if light is actually converging at the imagevirtual - light only appears to be coming from the image
+
+Term: 1/f(focal length) =
+Definition: ">1/o(object distance) + 1/i(image distance = 2/r(radius of curvature
+
+Term: magnification =
+Definition: ">- i/o
+
+Term: plane mirrors have a focal length of what?
+Definition: ">infinity
+
+Term: (-) and (+) magnification
+Definition: ">(-) = inverted image(+) = upright image
+
+Term: diverging mirrors always produce what kind of image?
+Definition: ">virtual, upright, and reduced
+
+Term: inverted images are always ___ and upright images are always ___?
+Definition: ">real; virtual
+
+Term: (-) radius of curvature and (-) focal length refers to what kind of mirror/lens?
+Definition: ">convex/diverging
+
+Term: Snell's Law (2)
+Definition: ">n = c/vn1sinθ1 = n2sinθ2
+
+Term: when light enters a medium with a higher index of refraction, it bends ___ the normal
+Definition: ">toward
+
+Term: power of a lens
+Definition: ">P = 1/f
+
+Term: sin(60)sin(30)sin(45)
+Definition: ">root 3/21/2root 2/2
+
+Term: image produced by a convex mirror when object is further away than focal point and closer than focal point?
+Definition: ">further - real, inverted imagecloser - virtual, upright image
+
+Term: energy of a photon
+Definition: ">E = hf
+
+Term: Kmax of a dislodged equation is what?
+Definition: ">The energy of a photon (hf) - work function (hfthreshold)
+
+Term: alpha particle
+Definition: ">Helium nucleus with 2 protons and 2 neutrons
+
+Term: β particle
+Definition: ">electron
+
+Term: β(-) decay and β(+) decay
+Definition: ">β⁻ : neutron becomes a proton and a β⁻ leavesβ⁺ : proton becomes a neutron and a β⁺ leaves
+
+Term: gamma decay
+Definition: ">emission of ˠ-rays; energy is released but atom is kept the same
+
 Term: constructive interference
 Definition: The interference that occurs when two waves combine to make a wave with a larger amplitude
 
@@ -3805,6 +4090,30 @@ Definition: 100-400 nm and is divided into three bands: UVA (315-400 nm) UVB (28
 Term: characteristics of diverging lens
 Definition: located on the object' side of the lensa virtual imagean upright imagereduced in size (i.e., smaller than the object)
 
+Term: Newton Unit
+Definition: A unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram.
+
+Term: Force
+Definition: A push or a pull
+
+Term: Motion
+Definition: An object's change in position relative to a reference point.
+
+Term: Interacting
+Definition: occurs as two or more objects have an effect upon one another
+
+Term: Third Law of Motion
+Definition: for every action there is an equal and opposite reaction
+
+Term: Boundary
+Definition: dividing line, border, limit
+
+Term: Conversion
+Definition: the act or process of change
+
+Term: Normal Force
+Definition: Force that is always present &amp; keeps things upright
+
 Term: balanced forces
 Definition: Equal forces acting on an object in opposite directions
 
@@ -3849,60 +4158,6 @@ Definition: decreasing acceleration
 
 Term: push or pull
 Definition: What is a force?
-
-Term: Newton Unit
-Definition: A unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram.
-
-Term: Force
-Definition: A push or a pull
-
-Term: Motion
-Definition: An object's change in position relative to a reference point.
-
-Term: Interacting
-Definition: occurs as two or more objects have an effect upon one another
-
-Term: Third Law of Motion
-Definition: for every action there is an equal and opposite reaction
-
-Term: Boundary
-Definition: dividing line, border, limit
-
-Term: Conversion
-Definition: the act or process of change
-
-Term: Normal Force
-Definition: Force that is always present &amp; keeps things upright
-
-Term: Equilibrium
-Definition: Net forces are balanced; no acceleration, constant velocity
-
-Term: Newton's First Law of Motion
-Definition: Law of Inertia; an object at rest tends to stay at rest, a moving object tends to stay in motion unless acted on by an unbalanced force.
-
-Term: Newton's Second Law of Motion
-Definition: Force = mass x acceleration
-
-Term: Newton's Third Law of Motion
-Definition: For every action there is an equal and opposite reaction
-
-Term: Normal force
-Definition: N=mgThe force perpendicular to a surface that prevents an object from falling through the surface
-
-Term: Acceleration
-Definition: a=vf-vi/tThe rate at which velocity changes
-
-Term: Centripetal Force
-Definition: F=ma=mv²/rAny force that causes an object to move in a circular path
-
-Term: Momentum
-Definition: p=mvA vector quantity defined as the product of the mass and velocity of an object
-
-Term: Gravitation
-Definition: A force that acts between all masses and causes them to attract one another. F=Gm1m2/d^2
-
-Term: Net Force
-Definition: The combination of all forces acting on an object Net force=Greater force - lesser force
 
 Term: Velocity
 Definition: distance/time (m/s)

@@ -1009,6 +1009,9 @@ Definition: HE'S TECHNICALLY PART OF STAR WARS BECAUSE OF THE COMIC INTO THE GRE
 Term: Coca-Cola
 Definition: Apparently part of the Star Wars universe... thanks Disney.
 
+Term: The Mandalorian
+Definition: Jon Favreau saved Star Wars in one 40 minute episode without having a single lightsaber, Jedi, Sith, space battle, or recognizable character. It's a badass Space Western. Buy Disney+
+
 Term: Luke Skywalkers' sister
 Definition: Leia
 
@@ -1413,6 +1416,612 @@ Definition: Who is this?
 
 Term: ponda
 Definition: What is this?
+
+Term: Yoda
+Definition: o">
+
+Term: Kit Fisto
+Definition: o">
+
+Term: Aayla Secura
+Definition: o">
+
+Term: Quinlan Vos
+Definition: o">
+
+Term: Obiwan Kenobi
+Definition: o">
+
+Term: Kanan Jarrus
+Definition: o">
+
+Term: Ezra Bridger
+Definition: o">
+
+Term: Luminara Unduli
+Definition: o">
+
+Term: Anikan Skywalker
+Definition: o">
+
+Term: Shaak Ti
+Definition: o">
+
+Term: Mace Windu
+Definition: o">
+
+Term: Yaddle
+Definition: o">
+
+Term: Count Dooku
+Definition: o">
+
+Term: General Grievous
+Definition: o">
+
+Term: Asajj Ventress
+Definition: o">
+
+Term: Clone Trooper
+Definition: o">
+
+Term: Clone Trooper Commander
+Definition: o">
+
+Term: Ark trooper
+Definition: o">
+
+Term: Battle Droid
+Definition: o">
+
+Term: Super Battle Droid
+Definition: o">
+
+Term: Ahsoka Tano
+Definition: o">
+
+Term: Ki-Adi-Mundi
+Definition: o">
+
+Term: Adi Gallia
+Definition: o">
+
+Term: Saesee Tiin
+Definition: o">
+
+Term: Qui-Gon Jinn
+Definition: o">
+
+Term: Luke Skywalker
+Definition: o">
+
+Term: Depa Billaba
+Definition: o">
+
+Term: Plo Koon
+Definition: o">
+
+Term: Darth Vader
+Definition: o">
+
+Term: Stass Allie
+Definition: o">
+
+Term: Agen Kolar
+Definition: o">
+
+Term: Sifo-Dyas
+Definition: o">
+
+Term: Mara Jade
+Definition: o">
+
+Term: Jar Jar Binks
+Definition: o">
+
+Term: Captain Rex
+Definition: o">
+
+Term: Clone Commander Fox
+Definition: o">
+
+Term: Clone Commander Cody
+Definition: o">
+
+Term: Clone trooper fives
+Definition: o">
+
+Term: Jango Fett
+Definition: o">
+
+Term: Boba Fett
+Definition: o">
+
+Term: Bossk
+Definition: o">
+
+Term: Dengar
+Definition: o">
+
+Term: Darth Maul
+Definition: o">
+
+Term: Darth Plagueis
+Definition: o">
+
+Term: Wedge Antilles
+Definition: o">
+
+Term: Lobot
+Definition: o">
+
+Term: Clone Commander Wolffe
+Definition: o">
+
+Term: Grand Moff Tarkin
+Definition: o">
+
+Term: Snoke
+Definition: o">
+
+Term: Commander Gree
+Definition: o">
+
+Term: Royal guards
+Definition: o">
+
+Term: Rey
+Definition: o">
+
+Term: Finn
+Definition: o">
+
+Term: Captain Phasma
+Definition: o">
+
+Term: General Hux
+Definition: o">
+
+Term: Kylo Ren
+Definition: o">
+
+Term: Clone Commander Thorne
+Definition: o">
+
+Term: Han Solo
+Definition: o">
+
+Term: C-3PO
+Definition: o">
+
+Term: R2-D2
+Definition: o">
+
+Term: Jyn Erso
+Definition: o">
+
+Term: Lando Calrissian
+Definition: o">
+
+Term: Greedo
+Definition: o">
+
+Term: Jabba the Hutt
+Definition: o">
+
+Term: Wampa
+Definition: o">
+
+Term: Jawa
+Definition: o">
+
+Term: Chewbacca
+Definition: o">
+
+Term: Palpatine(Sidious)
+Definition: o">
+
+Term: Leia Organa
+Definition: o">
+
+Term: Senator Organa
+Definition: o">
+
+Term: Savage Opress
+Definition: o">
+
+Term: Darth Revan
+Definition: o">
+
+Term: Maz
+Definition: o">
+
+Term: Darth Nihilus
+Definition: o">
+
+Term: Hondo Ohnaka
+Definition: o">
+
+Term: Finis Valorum
+Definition: o">
+
+Term: Crix Madine
+Definition: o">
+
+Term: Aurra Sing
+Definition: o">
+
+Term: Zam Wesell
+Definition: o">
+
+Term: IG-88
+Definition: o">
+
+Term: BB8
+Definition: o">
+
+Term: Poe Dameron
+Definition: o">
+
+Term: rune haako
+Definition: o">
+
+Term: Admiral Firmus Piett
+Definition: o">
+
+Term: Breha Organa
+Definition: o">
+
+Term: Salicious B. Crumb
+Definition: o">
+
+Term: Captain Panaka
+Definition: o">
+
+Term: PondaBaba
+Definition: o">
+
+Term: Stormtrooper
+Definition: o">
+
+Term: Death Trooper
+Definition: o">
+
+Term: Lott Dod
+Definition: o">
+
+Term: Admiral Ackbar
+Definition: o">
+
+Term: Grand Admiral Thrawn
+Definition: o">
+
+Term: Commander Appo
+Definition: o">
+
+Term: Shmi Skywalker
+Definition: o">
+
+Term: Commander Bly
+Definition: o">
+
+Term: Commander Doom
+Definition: o">
+
+Term: Korr Sella
+Definition: o">
+
+Term: Commander Bacara
+Definition: o">
+
+Term: Commander Fil
+Definition: o">
+
+Term: Commander Havoc
+Definition: o">
+
+Term: Commander Keeli
+Definition: o">
+
+Term: Commander Jet
+Definition: o">
+
+Term: Commander Ponds
+Definition: o">
+
+Term: Commander Thire
+Definition: o">
+
+Term: Captain Fordo
+Definition: o">
+
+Term: Commander Trauma
+Definition: o">
+
+Term: Commander Deviss
+Definition: o">
+
+Term: Commander Blitz
+Definition: o">
+
+Term: Cassian Andor
+Definition: o">
+
+Term: Mon Mothma
+Definition: o">
+
+Term: Rose Tico
+Definition: o">
+
+Term: Admiral Raddus
+Definition: o">
+
+Term: Saw Gerrera
+Definition: o">
+
+Term: Baze Malbus
+Definition: o">
+
+Term: Chirrut Imwe
+Definition: o">
+
+Term: Orson Krennic
+Definition: o">
+
+Term: K-2SO
+Definition: o">
+
+Term: Vice Admiral Holdo
+Definition: o">
+
+Term: Nien Nunb
+Definition: o">
+
+Term: Paige Tico
+Definition: o">
+
+Term: Snowtrooper
+Definition: o">
+
+Term: Mas Amedda
+Definition: o">
+
+Term: Padme Amidala
+Definition: o">
+
+Term: Owen Lars
+Definition: o">
+
+Term: Dexter Jettster
+Definition: o">
+
+Term: Beru Lars
+Definition: o">
+
+Term: Zett Jukassa
+Definition: o">
+
+Term: Watto
+Definition: o">
+
+Term: Boss Nass
+Definition: o">
+
+Term: Sebulba
+Definition: o">
+
+Term: Daultay Dofine
+Definition: o">
+
+Term: Tion Medon
+Definition: o">
+
+Term: Biggs Darklighter
+Definition: o">
+
+Term: Admiral Motti
+Definition: o">
+
+Term: Admiral Piett
+Definition: o">
+
+Term: Bib Fortuna
+Definition: o">
+
+Term: Ewok
+Definition: o">
+
+Term: Oola
+Definition: o">
+
+Term: Lor San Tekka
+Definition: o">
+
+Term: Tasu Leech
+Definition: o">
+
+Term: inquisitor
+Definition: o">
+
+Term: Barriss Offee
+Definition: o">
+
+Term: Sora Bulq
+Definition: o">
+
+Term: Bultar Swan
+Definition: o">
+
+Term: Rancor
+Definition: o">
+
+Term: Tauntaun
+Definition: o">
+
+Term: Sarlacc
+Definition: o">
+
+Term: Darth Bane
+Definition: o">
+
+Term: Darth Malak
+Definition: o">
+
+Term: Poggle the Lesser
+Definition: o">
+
+Term: Geonosians
+Definition: o">
+
+Term: Bantha
+Definition: o">
+
+Term: Droideka
+Definition: o">
+
+Term: Astromech
+Definition: o">
+
+Term: Echo
+Definition: o">
+
+Term: Clone Trooper Tup
+Definition: o">
+
+Term: Porkins
+Definition: o">
+
+Term: Branon
+Definition: o">
+
+Term: Darth Zannah
+Definition: o">
+
+Term: Jacen Solo
+Definition: o">
+
+Term: The Seventh Sister
+Definition: o">
+
+Term: The Eighth Brother
+Definition: o">
+
+Term: The Fifth Brother
+Definition: o">
+
+Term: Zuckuss
+Definition: o">
+
+Term: Tusken Raider
+Definition: o">
+
+Term: Dewback
+Definition: o">
+
+Term: Chancellor Palpatine
+Definition: o">
+
+Term: Jocasta Nu
+Definition: o">
+
+Term: Starkiller
+Definition: o">
+
+Term: R4-P17
+Definition: o">
+
+Term: Probe Droid
+Definition: o">
+
+Term: 4-LOM
+Definition: o">
+
+Term: EV-9D9
+Definition: o">
+
+Term: Evazan
+Definition: o">
+
+Term: Dreis
+Definition: o">
+
+Term: Nett
+Definition: o">
+
+Term: Kaminoan
+Definition: o">
+
+Term: Cantina Band Member
+Definition: o">
+
+Term: Zeb Orrelios
+Definition: o">
+
+Term: Agent Kallus
+Definition: o">
+
+Term: Gall Trayvis
+Definition: o">
+
+Term: Bendu
+Definition: o">
+
+Term: SnapWexley
+Definition: o">
+
+Term: Wicket
+Definition: o">
+
+Term: Exogarth
+Definition: o">
+
+Term: 2-1B
+Definition: o">
+
+Term: MaxRebo
+Definition: o">
+
+Term: GamorreanGuard
+Definition: o">
+
+Term: Magnagaurds
+Definition: o">
+
+Term: CaptainPanaka
+Definition: o">
+
+Term: Shock Trooper
+Definition: o">
+
+Term: Galen Erso
+Definition: o">
+
+Term: Tasu leech
+Definition: o">
+
+Term: Razoo Qin-Fee
+Definition: o">
+
+Term: Snap Wexley
+Definition: o">
+
+Term: Captain Canady
+Definition: o">
+
+Term: General Dodonna
+Definition: o">
+
+Term: Cad Bane
+Definition: o">
+
+Term: Darth Malgus
+Definition: o">
+
+Term: Nightsisters
+Definition: o">
+
+Term: Thrawn
+Definition: o">
 
 Term: Princess Leia
 Definition: o">
@@ -2185,6 +2794,144 @@ Definition: What is this droid called?
 Term: Nien Numb
 Definition: Who is this rebel Sullustan?
 
+Term: Luke Skywalker
+Definition: o">
+
+Term: Darth Maul
+Definition: o">
+
+Term: Darth Vader
+Definition: o">
+
+Term: Chewbacca
+Definition: o">
+
+Term: Anakin Skywalker
+Definition: o">
+
+Term: Obi-Wan Kenobi
+Definition: o">
+
+Term: R2-D2
+Definition: o">
+
+Term: C3PO
+Definition: o">
+
+Term: Darth Sidious
+Definition: o">
+
+Term: Darth Plagueis
+Definition: o">
+
+Term: Boba Fett
+Definition: o">
+
+Term: Padme Amidala
+Definition: o">
+
+Term: Yoda
+Definition: o">
+
+Term: Kylo Ren
+Definition: o">
+
+Term: Leia Organa
+Definition: o">
+
+Term: Han Solo
+Definition: o">
+
+Term: Owen Lars
+Definition: o">
+
+Term: General Grievous
+Definition: o">
+
+Term: BB-8
+Definition: o">
+
+Term: Count Dooku
+Definition: o">
+
+Term: Lando Calrissian
+Definition: o">
+
+Term: Shmi Skywalker
+Definition: o">
+
+Term: wicket
+Definition: o">
+
+Term: Nute Gunray
+Definition: o">
+
+Term: Jar Jar Binks
+Definition: o">
+
+Term: Sith
+Definition: o">
+
+Term: Jabba the Hutt
+Definition: o">
+
+Term: Sturmtruppen
+Definition: o">
+
+Term: Gungans
+Definition: o">
+
+Term: Jyn Erso
+Definition: o">
+
+Term: Shaak Ti
+Definition: o">
+
+Term: Jawa
+Definition: o">
+
+Term: Mace Windu
+Definition: o">
+
+Term: Wookie
+Definition: o">
+
+Term: Ben Solo
+Definition: o">
+
+Term: K-2SO
+Definition: o">
+
+Term: Jan Dodonna
+Definition: o">
+
+Term: Watto
+Definition: o">
+
+Term: Darth Malak
+Definition: o">
+
+Term: Darth Revan
+Definition: o">
+
+Term: X-WingFighter
+Definition: o">
+
+Term: Qui-Gon Jinn
+Definition: o">
+
+Term: Darth Bane
+Definition: o">
+
+Term: Darth Tyranus
+Definition: o">
+
+Term: Darth Nihilus
+Definition: o">
+
+Term: darth
+Definition: o">...
+
 Term: Darth Vader
 Definition: who said noooo
 
@@ -2289,612 +3036,6 @@ Definition:
 
 Term: Darksaber
 Definition: Name the ancient lightsaber once used by the Jedi, that eventually fell into the hands of Mandalorians. It eventually is passed down to Pre Vizsla, then to Darth Maul, and Sabine Wren.
-
-Term: Yoda
-Definition: o">
-
-Term: Kit Fisto
-Definition: o">
-
-Term: Aayla Secura
-Definition: o">
-
-Term: Quinlan Vos
-Definition: o">
-
-Term: Obiwan Kenobi
-Definition: o">
-
-Term: Kanan Jarrus
-Definition: o">
-
-Term: Ezra Bridger
-Definition: o">
-
-Term: Luminara Unduli
-Definition: o">
-
-Term: Anikan Skywalker
-Definition: o">
-
-Term: Shaak Ti
-Definition: o">
-
-Term: Mace Windu
-Definition: o">
-
-Term: Yaddle
-Definition: o">
-
-Term: Count Dooku
-Definition: o">
-
-Term: General Grievous
-Definition: o">
-
-Term: Asajj Ventress
-Definition: o">
-
-Term: Clone Trooper
-Definition: o">
-
-Term: Clone Trooper Commander
-Definition: o">
-
-Term: Ark trooper
-Definition: o">
-
-Term: Battle Droid
-Definition: o">
-
-Term: Super Battle Droid
-Definition: o">
-
-Term: Ahsoka Tano
-Definition: o">
-
-Term: Ki-Adi-Mundi
-Definition: o">
-
-Term: Adi Gallia
-Definition: o">
-
-Term: Saesee Tiin
-Definition: o">
-
-Term: Qui-Gon Jinn
-Definition: o">
-
-Term: Luke Skywalker
-Definition: o">
-
-Term: Depa Billaba
-Definition: o">
-
-Term: Plo Koon
-Definition: o">
-
-Term: Darth Vader
-Definition: o">
-
-Term: Stass Allie
-Definition: o">
-
-Term: Agen Kolar
-Definition: o">
-
-Term: Sifo-Dyas
-Definition: o">
-
-Term: Mara Jade
-Definition: o">
-
-Term: Jar Jar Binks
-Definition: o">
-
-Term: Captain Rex
-Definition: o">
-
-Term: Clone Commander Fox
-Definition: o">
-
-Term: Clone Commander Cody
-Definition: o">
-
-Term: Clone trooper fives
-Definition: o">
-
-Term: Jango Fett
-Definition: o">
-
-Term: Boba Fett
-Definition: o">
-
-Term: Bossk
-Definition: o">
-
-Term: Dengar
-Definition: o">
-
-Term: Darth Maul
-Definition: o">
-
-Term: Darth Plagueis
-Definition: o">
-
-Term: Wedge Antilles
-Definition: o">
-
-Term: Lobot
-Definition: o">
-
-Term: Clone Commander Wolffe
-Definition: o">
-
-Term: Grand Moff Tarkin
-Definition: o">
-
-Term: Snoke
-Definition: o">
-
-Term: Commander Gree
-Definition: o">
-
-Term: Royal guards
-Definition: o">
-
-Term: Rey
-Definition: o">
-
-Term: Finn
-Definition: o">
-
-Term: Captain Phasma
-Definition: o">
-
-Term: General Hux
-Definition: o">
-
-Term: Kylo Ren
-Definition: o">
-
-Term: Clone Commander Thorne
-Definition: o">
-
-Term: Han Solo
-Definition: o">
-
-Term: C-3PO
-Definition: o">
-
-Term: R2-D2
-Definition: o">
-
-Term: Jyn Erso
-Definition: o">
-
-Term: Lando Calrissian
-Definition: o">
-
-Term: Greedo
-Definition: o">
-
-Term: Jabba the Hutt
-Definition: o">
-
-Term: Wampa
-Definition: o">
-
-Term: Jawa
-Definition: o">
-
-Term: Chewbacca
-Definition: o">
-
-Term: Palpatine(Sidious)
-Definition: o">
-
-Term: Leia Organa
-Definition: o">
-
-Term: Senator Organa
-Definition: o">
-
-Term: Savage Opress
-Definition: o">
-
-Term: Darth Revan
-Definition: o">
-
-Term: Maz
-Definition: o">
-
-Term: Darth Nihilus
-Definition: o">
-
-Term: Hondo Ohnaka
-Definition: o">
-
-Term: Finis Valorum
-Definition: o">
-
-Term: Crix Madine
-Definition: o">
-
-Term: Aurra Sing
-Definition: o">
-
-Term: Zam Wesell
-Definition: o">
-
-Term: IG-88
-Definition: o">
-
-Term: BB8
-Definition: o">
-
-Term: Poe Dameron
-Definition: o">
-
-Term: rune haako
-Definition: o">
-
-Term: Admiral Firmus Piett
-Definition: o">
-
-Term: Breha Organa
-Definition: o">
-
-Term: Salicious B. Crumb
-Definition: o">
-
-Term: Captain Panaka
-Definition: o">
-
-Term: PondaBaba
-Definition: o">
-
-Term: Stormtrooper
-Definition: o">
-
-Term: Death Trooper
-Definition: o">
-
-Term: Lott Dod
-Definition: o">
-
-Term: Admiral Ackbar
-Definition: o">
-
-Term: Grand Admiral Thrawn
-Definition: o">
-
-Term: Commander Appo
-Definition: o">
-
-Term: Shmi Skywalker
-Definition: o">
-
-Term: Commander Bly
-Definition: o">
-
-Term: Commander Doom
-Definition: o">
-
-Term: Korr Sella
-Definition: o">
-
-Term: Commander Bacara
-Definition: o">
-
-Term: Commander Fil
-Definition: o">
-
-Term: Commander Havoc
-Definition: o">
-
-Term: Commander Keeli
-Definition: o">
-
-Term: Commander Jet
-Definition: o">
-
-Term: Commander Ponds
-Definition: o">
-
-Term: Commander Thire
-Definition: o">
-
-Term: Captain Fordo
-Definition: o">
-
-Term: Commander Trauma
-Definition: o">
-
-Term: Commander Deviss
-Definition: o">
-
-Term: Commander Blitz
-Definition: o">
-
-Term: Cassian Andor
-Definition: o">
-
-Term: Mon Mothma
-Definition: o">
-
-Term: Rose Tico
-Definition: o">
-
-Term: Admiral Raddus
-Definition: o">
-
-Term: Saw Gerrera
-Definition: o">
-
-Term: Baze Malbus
-Definition: o">
-
-Term: Chirrut Imwe
-Definition: o">
-
-Term: Orson Krennic
-Definition: o">
-
-Term: K-2SO
-Definition: o">
-
-Term: Vice Admiral Holdo
-Definition: o">
-
-Term: Nien Nunb
-Definition: o">
-
-Term: Paige Tico
-Definition: o">
-
-Term: Snowtrooper
-Definition: o">
-
-Term: Mas Amedda
-Definition: o">
-
-Term: Padme Amidala
-Definition: o">
-
-Term: Owen Lars
-Definition: o">
-
-Term: Dexter Jettster
-Definition: o">
-
-Term: Beru Lars
-Definition: o">
-
-Term: Zett Jukassa
-Definition: o">
-
-Term: Watto
-Definition: o">
-
-Term: Boss Nass
-Definition: o">
-
-Term: Sebulba
-Definition: o">
-
-Term: Daultay Dofine
-Definition: o">
-
-Term: Tion Medon
-Definition: o">
-
-Term: Biggs Darklighter
-Definition: o">
-
-Term: Admiral Motti
-Definition: o">
-
-Term: Admiral Piett
-Definition: o">
-
-Term: Bib Fortuna
-Definition: o">
-
-Term: Ewok
-Definition: o">
-
-Term: Oola
-Definition: o">
-
-Term: Lor San Tekka
-Definition: o">
-
-Term: Tasu Leech
-Definition: o">
-
-Term: inquisitor
-Definition: o">
-
-Term: Barriss Offee
-Definition: o">
-
-Term: Sora Bulq
-Definition: o">
-
-Term: Bultar Swan
-Definition: o">
-
-Term: Rancor
-Definition: o">
-
-Term: Tauntaun
-Definition: o">
-
-Term: Sarlacc
-Definition: o">
-
-Term: Darth Bane
-Definition: o">
-
-Term: Darth Malak
-Definition: o">
-
-Term: Poggle the Lesser
-Definition: o">
-
-Term: Geonosians
-Definition: o">
-
-Term: Bantha
-Definition: o">
-
-Term: Droideka
-Definition: o">
-
-Term: Astromech
-Definition: o">
-
-Term: Echo
-Definition: o">
-
-Term: Clone Trooper Tup
-Definition: o">
-
-Term: Porkins
-Definition: o">
-
-Term: Branon
-Definition: o">
-
-Term: Darth Zannah
-Definition: o">
-
-Term: Jacen Solo
-Definition: o">
-
-Term: The Seventh Sister
-Definition: o">
-
-Term: The Eighth Brother
-Definition: o">
-
-Term: The Fifth Brother
-Definition: o">
-
-Term: Zuckuss
-Definition: o">
-
-Term: Tusken Raider
-Definition: o">
-
-Term: Dewback
-Definition: o">
-
-Term: Chancellor Palpatine
-Definition: o">
-
-Term: Jocasta Nu
-Definition: o">
-
-Term: Starkiller
-Definition: o">
-
-Term: R4-P17
-Definition: o">
-
-Term: Probe Droid
-Definition: o">
-
-Term: 4-LOM
-Definition: o">
-
-Term: EV-9D9
-Definition: o">
-
-Term: Evazan
-Definition: o">
-
-Term: Dreis
-Definition: o">
-
-Term: Nett
-Definition: o">
-
-Term: Kaminoan
-Definition: o">
-
-Term: Cantina Band Member
-Definition: o">
-
-Term: Zeb Orrelios
-Definition: o">
-
-Term: Agent Kallus
-Definition: o">
-
-Term: Gall Trayvis
-Definition: o">
-
-Term: Bendu
-Definition: o">
-
-Term: SnapWexley
-Definition: o">
-
-Term: Wicket
-Definition: o">
-
-Term: Exogarth
-Definition: o">
-
-Term: 2-1B
-Definition: o">
-
-Term: MaxRebo
-Definition: o">
-
-Term: GamorreanGuard
-Definition: o">
-
-Term: Magnagaurds
-Definition: o">
-
-Term: CaptainPanaka
-Definition: o">
-
-Term: Shock Trooper
-Definition: o">
-
-Term: Galen Erso
-Definition: o">
-
-Term: Tasu leech
-Definition: o">
-
-Term: Razoo Qin-Fee
-Definition: o">
-
-Term: Snap Wexley
-Definition: o">
-
-Term: Captain Canady
-Definition: o">
-
-Term: General Dodonna
-Definition: o">
-
-Term: Cad Bane
-Definition: o">
-
-Term: Darth Malgus
-Definition: o">
-
-Term: Nightsisters
-Definition: o">
-
-Term: Thrawn
-Definition: o">
 
 Term: leia
 Definition: Who is this?
@@ -5076,259 +5217,4 @@ Definition: Evil droid
 
 Term: Logray
 Definition: Ewok Shaman
-
-Term: Plo Koon
-Definition: Who is this Jedi?
-
-Term: Anakin Skywalker
-Definition: Who is this Jedi?
-
-Term: Grand Master Yoda
-Definition: Who is this Jedi?
-
-Term: Darth Nihilus
-Definition: Who is this person?
-
-Term: Obi-Wan Kenobi
-Definition: Who is this Jedi?
-
-Term: Darth Vader
-Definition: Who is this Sith Lord?
-
-Term: TIE Fighter
-Definition: What is this ship called?
-
-Term: Ashoka Tano
-Definition: Who is this person?
-
-Term: Star Destroyer
-Definition: How is this ship called?
-
-Term: Mark Hamill
-Definition: Who is this actor?
-
-Term: Kylo Ren
-Definition: Who is this Force user?
-
-Term: Supreme Leader Snoke
-Definition: Who is this?
-
-Term: Poe Dameron
-Definition: Who is this resistance pilot?
-
-Term: Death Star
-Definition: How is this battlestation called?
-
-Term: Rogue One: A Star Wars story
-Definition: Wich Star Wars film was released on december 2k16?
-
-Term: Dathomir
-Definition: What is the Darth Mauls home planet?
-
-Term: Magnagaurds
-Definition: What are those?
-
-Term: Sheev Palpatine
-Definition: Who is the senate?
-
-Term: Tatooine
-Definition: Were lives Luke Skywalker before Ben Kenobi took him with him?
-
-Term: Naboo
-Definition: What was Padmé Amidala's home planet?
-
-Term: Han Solo
-Definition: What is this man called?
-
-Term: Leia Organa
-Definition: Who is this rebel?
-
-Term: Adam Driver
-Definition: Who is this character's actor called?
-
-Term: Lightsaber
-Definition: How is this weapon called?
-
-Term: Mace Windu
-Definition: Who is this Jedi?
-
-Term: Jango Fett
-Definition: Who is this bounty hunter?
-
-Term: Boba Fett
-Definition: Who is this bounty hunter?
-
-Term: Kit Fisto
-Definition: Who is this Jedi?
-
-Term: Luminara Unduli
-Definition: Who is this Jedi?
-
-Term: General Hux
-Definition: Who is this First Order general?
-
-Term: Commander Cody
-Definition: Who is this clone?
-
-Term: Darth Sidious
-Definition: Who is this Sith Lord?
-
-Term: Captain Rex
-Definition: Who is this clone?
-
-Term: Ki Adi Mundi
-Definition: Who is this Jedi?
-
-Term: Anakin Skywalkers
-Definition: Who's lightsaber is this?
-
-Term: Jabba the Hutt
-Definition: Who is this gangleader?
-
-Term: R2-D2
-Definition: Who is this droid?
-
-Term: C-3PO
-Definition: Who is this droid?
-
-Term: Grand Moff Tarkin
-Definition: Who is this Imperial man called?
-
-Term: Stormtroopers
-Definition: Who are those Imperial soldiers called?
-
-Term: The Forest Moon of Endor
-Definition: Where does this Ewok live?
-
-Term: Chewbacca
-Definition: How is this Wookie called?
-
-Term: Mustafar
-Definition: How is this planet called?
-
-Term: Rey
-Definition: Who is this girl?
-
-Term: Episode IV - A New Hope
-Definition: What was the first Star Wars movie ever?
-
-Term: Qui-Gon Jinn
-Definition: What is this Jedi called?
-
-Term: Aayla Secura
-Definition: Who is this Jedi?
-
-Term: The Rebellion's
-Definition: Who's flag was this?
-
-Term: Savage Opress
-Definition: Who is this man?
-
-Term: Clonetroopers
-Definition: What kinda troopers are this?
-
-Term: Cad Bane
-Definition: Who is this bounty hunter?
-
-Term: Darth Malgus
-Definition: Who is this Sith Lord?
-
-Term: Hondo Ohnaka
-Definition: Who this pirate?
-
-Term: General Grievous
-Definition: Who is this cyborg and Jedi-killer?
-
-Term: Count Dooku
-Definition: Who is this Sith Lord and Separatist leader?
-
-Term: Clankers
-Definition: How did the clone's call this battle droids?
-
-Term: Twi'leks
-Definition: What is this kind?
-
-Term: Finn
-Definition: Who is this man?
-
-Term: A Rebel Pilot
-Definition: What is this man?
-
-Term: Darth Maul
-Definition: Who is this Sith and Darth Sidious's first apprentice?
-
-Term: First Order Stormtrooper
-Definition: Who are this troopers?
-
-Term: Captian Phasma
-Definition: Who is this captian of the First Order?
-
-Term: FN-2187
-Definition: What was Finn's Stormtrooper name?
-
-Term: BB-8
-Definition: Who is this droid?
-
-Term: Snowtrooper
-Definition: What kinda trooper is this?
-
-Term: Shocktrooper
-Definition: What is this kinda trooper?
-
-Term: Shadowtrooper
-Definition: What kinda trooper is this?
-
-Term: Sandtroopers
-Definition: What kinda troopers are these?
-
-Term: Admiral Ackbar
-Definition: Who is this resistance admiral?
-
-Term: B2 Super Battle Droids
-Definition: What kinda droids are these?
-
-Term: Geonosian Soldier
-Definition: Who are this creatures?
-
-Term: Asajj Ventress
-Definition: Who is this woman?
-
-Term: Ben Kenobi
-Definition: How was this man called in Episode IV - A NEW HOPE ?
-
-Term: Tusken Raider
-Definition: What kinda creature is this?
-
-Term: Jawa
-Definition: What are these creatures?
-
-Term: Greedo
-Definition: Who is this man?
-
-Term: Royal Guards
-Definition: Who are these men?
-
-Term: IG-88
-Definition: Who is this scoundrel?
-
-Term: Starkiller Base
-Definition: How is this base called?
-
-Term: Aurra Sing
-Definition: Who is this woman?
-
-Term: Darth Sidious
-Definition: Who kiled Savage Opress?
-
-Term: Mandalorian armor
-Definition: What kind of armor did Boba Fett have?
-
-Term: Bossk
-Definition: Who is this bounty hunter?
-
-Term: Dengar
-Definition: Who is this bounty hunter?
-
-Term: Imperial Probe-droid
-Definition: What is this droid called?
 
