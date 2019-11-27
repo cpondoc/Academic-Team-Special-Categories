@@ -1,7 +1,7 @@
 
 
 # Academic Team Special Categories
-Web Scaper and PDF Creator used to help the FHS Academic Team.
+🤓 Web Scaper and PDF Creator used to help the FHS Academic Team.
 
 ![Screenshot](images/screenshot.png)
 
